@@ -1,15 +1,15 @@
 ---
 title: Experience Manager door u
-description: Door de klant gegenereerde inhoud
+description: Experience Manager door U biedt door gebruikers gegenereerde inhoud die is gemaakt door alledaagse gebruikers en die een niveau van deskundigheid en invloed hebben bereikt met kennis van Adobe Experience Manager.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Experience Manager
 exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 7%
+source-wordcount: '204'
+ht-degree: 6%
 
 ---
 

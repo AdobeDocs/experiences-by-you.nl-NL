@@ -1,16 +1,16 @@
 ---
 title: Campaign door u
-description: Door de klant gegenereerde inhoud
+description: Campagne door U is voorzien van door gebruikers gegenereerde inhoud die is gemaakt door dagelijkse gebruikers en die een niveau van deskundigheid en invloed hebben bereikt met kennis van Adobe Campaign.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Campaign
 thumbnail: null
 exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 25%
+source-wordcount: '226'
+ht-degree: 22%
 
 ---
 
