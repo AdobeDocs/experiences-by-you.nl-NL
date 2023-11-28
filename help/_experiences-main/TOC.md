@@ -1,18 +1,18 @@
 ---
-user-guide-title: Ervaringen van u
-user-guide-description: Door de klant gegenereerde inhoud Adoben
-breadcrumb-title: Ervaringen van u
+user-guide-title: Experiences door u
+user-guide-description: Door de Adobe-klant gegenereerde inhoud
+breadcrumb-title: Experiences door u
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 15%
+ht-degree: 21%
 
 ---
 
 
-# Ervaringen van u {#experiences-by-you}
+# Experiences door u {#experiences-by-you}
 
-+ [Ervaringen van u](/help/overview.md)
++ [Experiences door u](/help/overview.md)
 
 + [!DNL Analytics] door U {#analytics}
    + [Overzicht](/help/analytics/overview.md)
