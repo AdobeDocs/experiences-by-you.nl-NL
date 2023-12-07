@@ -1,6 +1,6 @@
 ---
 title: Campaign door u
-description: Campagne door U is voorzien van door gebruikers gegenereerde inhoud die is gemaakt door dagelijkse gebruikers en die een niveau van deskundigheid en invloed hebben bereikt met kennis van Adobe Campaign.
+description: Campaign door u bevat door gebruikers gegenereerde inhoud. Die is gemaakt door dagelijkse gebruikers die in hun kennis van Adobe Campaign een niveau van deskundigheid en invloed hebben bereikt.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -9,8 +9,8 @@ thumbnail: null
 exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 22%
+source-wordcount: '195'
+ht-degree: 25%
 
 ---
 
@@ -63,7 +63,7 @@ Het krachtigste ding over [!DNL Adobe] Oplossingen voor Experience Cloud? Jij. D
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
-    <strong>Tien best practices voor succes met Adobe Campaign voor marketeers</strong>
+    <strong>Tien beste praktijken voor Adobe Campaign succes voor marketers</strong>
     </a>
     </div>
     <p>

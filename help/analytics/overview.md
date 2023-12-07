@@ -1,6 +1,6 @@
 ---
 title: Analytics door u
-description: Analyses door U zijn voorzien van door gebruikers gegenereerde inhoud die is gemaakt door dagelijkse gebruikers die een niveau van deskundigheid en invloed hebben bereikt met kennis van Adobe Analytics.
+description: Analytics door u bevat door gebruikers gegenereerde inhoud. Die is gemaakt door dagelijkse gebruikers die in hun kennis van Adobe Analytics een niveau van deskundigheid en invloed hebben bereikt.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 8%
+source-wordcount: '196'
+ht-degree: 18%
 
 ---
 

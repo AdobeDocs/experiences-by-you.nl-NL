@@ -1,6 +1,6 @@
 ---
 title: Marketo door u
-description: Marketo by You beschikt over door gebruikers gegenereerde inhoud die is gemaakt door dagelijkse gebruikers en die een niveau van deskundigheid en invloed hebben bereikt met hun kennis van Adobe Marketo.
+description: Marketo door u bevat door gebruikers gegenereerde inhoud. Die is gemaakt door dagelijkse gebruikers die in hun kennis van Adobe Marketo een niveau van deskundigheid en invloed hebben bereikt.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 5%
+source-wordcount: '205'
+ht-degree: 16%
 
 ---
 
@@ -77,6 +77,6 @@ Het krachtigste ding over [!DNL Adobe] Oplossingen voor Experience Cloud? Jij. D
 ## Aanvullende bronnen
 
 * [Marketo Nation (gemeenschappen)](https://nation.marketo.com/)
-* [Documentatie voor Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-engage.html)
+* [Adobe Marketo Engage-documentatie](https://experienceleague.adobe.com/docs/marketo-engage.html)
 * [Adobe Marketo Engage Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)
 * [Adobe Marketo Engage-productinformatie](https://business.adobe.com/products/marketo/adobe-marketo.html)
