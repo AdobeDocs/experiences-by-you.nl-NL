@@ -8,7 +8,7 @@ level: Beginner
 doc-type: article
 kt: KT-13118
 exl-id: baeaa90e-8cce-4ddd-b099-fecd266e410c
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: 849ec510944d3299c3515fcecd5fc57d74c3fa26
 workflow-type: tm+mt
 source-wordcount: '1267'
 ht-degree: 0%
@@ -60,12 +60,12 @@ Over het algemeen, zowel zijn de snelle segmenten als de segmentbouwer uitsteken
 
 Dit document is geschreven door:
 
-![Mandy George](assets/mandy-george.jpg)
+![Mandy George](assets/mandy-george-2.png)
 
 **Mandy George**, Digital Analyst III op Best Buy Canada
 
-[!DNL Adobe Analytics] Champion
+Adobe Analytics Champion
 
-## Download
+## Downloaden
 
 [![Snelle segmenten downloaden](assets/quick-segments-download-small.jpg)](assets/[!DNL Adobe]_[!DNL Analytics]_Segments_Vs_Segment_Builder_Reference_Guide.pdf)
