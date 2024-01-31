@@ -11,9 +11,9 @@ jira: KT-14103
 thumbnail: KT-14103.jpeg
 hide: false
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: 26805f8f9edf3a3a3a38c4cb954e07378f13920d
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: '905'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ Een governancegids fungeert als de bron van de waarheid over de installatie van 
 
 ### Stap 2: Identificeer de elementen die in uw [!DNL [!DNL Marketo Engage]] Documentatie en [!DNL Changelogs]
 
-De indeling varieert van een cloudplatform tot een gedeeld document. U kunt de indeling ontwerpen die aan de behoeften van uw organisatie voldoet. [Hier is een eenvoudige documentatie &amp; het kanaliseren excel malplaatje](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) die de belangrijke elementen behandelt waarmee u aan de slag kunt. Deze omvatten:
+De indeling varieert van een cloudplatform tot een gedeeld document. U kunt de indeling ontwerpen die aan de behoeften van uw organisatie voldoet. [Hier is een eenvoudige documentatie &amp; het kanaliseren excel malplaatje](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) het behandelen van de belangrijke elementen waarmee u kunt beginnen. Deze omvatten:
 
 * Documentatie
    * Naam programmasjabloon
@@ -94,7 +94,7 @@ Plan regelmatige revisies van uw documentatie om ervoor te zorgen dat deze accur
 
 ## Wat is de volgende?
 
-Aan de slag door deze te downloaden [eenvoudige sjabloon](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx).
+Aan de slag door deze te downloaden [eenvoudige sjabloon](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx).
 
 Volg de bovenstaande stappen om uw governancehandleiding en documentatie te ontwikkelen. Houd rekening met de volgende duimregels wanneer u het proces doorloopt:
 
