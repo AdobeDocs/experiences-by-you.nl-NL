@@ -1,18 +1,18 @@
 ---
-user-guide-title: Experiences door u
+user-guide-title: Ervaringen door u
 user-guide-description: Door de Adobe-klant gegenereerde inhoud
-breadcrumb-title: Experiences door u
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+breadcrumb-title: Ervaringen door u
+source-git-commit: ab1af7dd740f61ba1c7bf8c2ad44826a3a013fc3
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 21%
+source-wordcount: '293'
+ht-degree: 15%
 
 ---
 
 
-# Experiences door u {#experiences-by-you}
+# Ervaringen door u {#experiences-by-you}
 
-+ [Experiences door u](/help/overview.md)
++ [Ervaringen door u](/help/overview.md)
 
 + [!DNL Analytics] door U {#analytics}
    + [Overzicht](/help/analytics/overview.md)
@@ -31,7 +31,7 @@ ht-degree: 21%
          + [Reissegmenten voor klanten samenstellen - deel 2](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
          + [Verschillen tussen de gesegmenteerde bouwer en snelle segmenten](/help/analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
          + [Wacht nu gewoon een segment... met segmentatie om nieuwe inzichten te ontdekken](/help/analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
-      + Metrics {#metrics}
+      + Cijfers {#metrics}
          + [Afscheid Excel, hello berekende metriek](/help/analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
          + [Breng uw gegevensanalyse naar het volgende niveau met berekende metriek](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
       + Projecten krullen en delen {#curate-and-share-projects}
@@ -63,8 +63,8 @@ ht-degree: 21%
    + [!DNL Campaign Standard] {#campaign-standard}
       + [Problemen oplossen voor marketeers](/help/campaign/acs/troubleshooting-for-marketers.md)
    + Strategie &amp; leiderschap{#strategy}
-      + [Tien best practices voor succes met  [!DNL Adobe Campaign]  voor marketeers](/help/campaign/10-best-practices-for-marketers.md)
-+ Experience Manager door u {#experience-manager}
+      + [Tien aanbevolen procedures voor [!DNL Adobe Campaign] succes voor de markt](/help/campaign/10-best-practices-for-marketers.md)
++ Experience Manager door jou {#experience-manager}
    + [Overzicht](/help/experience-manager/overview.md)
    + AEM Sites {#sites}
       + [AEM Sites-rijpheidsbeoordeling](/help/experience-manager/sites/expert-resources/maturity-assessment.md)
@@ -74,13 +74,15 @@ ht-degree: 21%
    + AEM as a Cloud Service {#cloud-service}
       + [[!DNL Cloud Manager] Onboarding Playbook](/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md)
       + [[!DNL Cloud Manager] Omgevingstypen](/help/experience-manager/cloud-service/expert-resources/aem-champions/environment-types.md)
-      + [[!DNL Cloud Manager] Gebruikersinterface](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-ui.md)
+      + [[!DNL Cloud Manager] UI](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-ui.md)
+      + Best practices voor {#cloud-manager-best-practices}
+         + [Logbestanden gebruiken in Cloud Manager](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-using-logs.md)
 + [!DNL Marketo Engage] door U {#marketo-engage}
    + [Overzicht](/help/marketo/overview.md)
    + Grondbeginselen {#fundamentals}
       + [Navigeren door de gebruikersinterface](/help/marketo/fundamentals/ui-navigation.md)
       + [Een overgeërfde instantie controleren - Zelfstudie](https://experienceleague.adobe.com/docs/experiences-by-you/auditing-an-inherited-instance/overview.html)
-   + Programma’s en campagnes {#programs-and-campaigns}
+   + Programma&#39;s en campagnes {#programs-and-campaigns}
       + [E-mailprogramma&#39;s](/help/marketo/programs/email-programs.md)
       + [Betrokkenheidsprogramma&#39;s](/help/marketo/programs/engagement-programs.md)
    + Rapportage en analyse {#reporting-and-analytics}
