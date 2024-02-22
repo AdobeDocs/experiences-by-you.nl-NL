@@ -2,9 +2,9 @@
 user-guide-title: Ervaringen door u
 user-guide-description: Door de Adobe-klant gegenereerde inhoud
 breadcrumb-title: Ervaringen door u
-source-git-commit: ab1af7dd740f61ba1c7bf8c2ad44826a3a013fc3
+source-git-commit: 90e94736bc5f29829211cb954f6b9d54684c8eb7
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '297'
 ht-degree: 15%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 15%
          + [De kracht van alleen-weergeven delen ontgrendelen](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
       + Tips en trucs {#tips-and-tricks}
          + [Klikken met rechtermuisknop op tips en trucs voor efficiëntere workflows](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
+         + [#Tags - uw persoonlijke assistent](/help/analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
    + Beheer {#administration}
       + Sleutelbeheervaardigheden {#key-admin-skills}
          + [Een machtige gemeenschap creëren](/help/analytics/administration/key-admin-skills/empowered-community.md)
