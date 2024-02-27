@@ -9,7 +9,7 @@ duration: 36000
 last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14963
 thumbnail: KT-14963.jpeg
-source-git-commit: 718a4fcd0ae06f544d1a78926b0c4d13cda8808a
+source-git-commit: e63d6cf68e70622ddcdbe92064d84ad72ca483c3
 workflow-type: tm+mt
 source-wordcount: '1427'
 ht-degree: 0%
@@ -50,7 +50,7 @@ Nou, ik haat het om je bubbel te barsten, maar probeer gewoon weg te gaan ***Ado
 
 Dat is het spel sinds dag één, maar wat als we de regels konden veranderen?
 
-Wat als we onze eigen persoonlijke assistent zouden kunnen creëren om die rollen goed te veranderen?
+Wat als we onze eigen persoonlijke assistent zouden kunnen oprichten om die regels goed te veranderen?
 
 Echt, waar het hier om gaat, is TAGS!  Dat klopt!!  Het is onze vriend de hashtag, vroeger bekend als het &quot;getal&quot; en &quot;hekje&quot;, net zoals we het op onze telefoons hebben gezien.  Diegenen van ons muzikanten noemen het zelfs &#39;scherp&#39;.
 
