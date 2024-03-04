@@ -7,10 +7,9 @@ role: User
 level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
-exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: c6c9e5b19c601592811151450aecd8dfdd084ff6
 workflow-type: tm+mt
-source-wordcount: '3290'
+source-wordcount: '3323'
 ht-degree: 0%
 
 ---
@@ -90,8 +89,8 @@ U kunt zowel de deelvensters als de visualisaties in de deelvensters groter of k
 Gebruikers beschikken over een groot aantal visualisaties:
 
 * Vrije-vormentabel
-* Cohorttabel
-* Uitval
+* Cohortabel
+* Fallout
 * Stroom
 * Grafieken
    * Gebied (gestapeld en niet gestapeld)
@@ -99,7 +98,7 @@ Gebruikers beschikken over een groot aantal visualisaties:
    * Spreiding
    * Staaf (gestapeld en niet gestapeld)
    * Opsommingsteken
-   * Cirkeldiagram
+   * Donut
    * Histogram
    * Horizontale balk (gestapeld en niet gestapeld)
 * Kaart
