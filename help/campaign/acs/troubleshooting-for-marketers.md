@@ -10,7 +10,7 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: a27a5538a7009d00d01227865ced4c5039147496
+source-git-commit: 0fc67f48deb78d5a66d485093d1837cbeee7c4d4
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 0%
@@ -22,7 +22,6 @@ ht-degree: 0%
 Door: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, senior consultant, Meijer
 
 Als Senior Engineer en klant expert op [!DNL Adobe] Experience Cloud producten de afgelopen vijf jaar, ik laat zakelijke gebruikers toe bij [Meijer](https://www.meijer.com/){target="_blank"}, een in 1934 opgerichte Amerikaanse supercentrum-keten, om complexe marketing- en transactiecampagnes met ACS te voeren. Enkele projecten waaraan ik heb gewerkt, zijn onder andere aangepaste campagnes voor het opslaan van aanbiedingen en het bestellen van gegevens voor personalisatie, geïntegreerd met [!DNL Adobe] Audience Manager, en klanteninzicht voor segmentopname.
-
 
 In mijn tijd die ACS gebruikt, heb ik fouten ervaren die tijdrovend en frustrerend kunnen zijn om op te lossen. Kennis van de meest voorkomende fouten kan u helpen sneller problemen op te lossen en uw productiviteit te verhogen. Hieronder vindt u de tips voor het oplossen van problemen waarmee u vergelijkbare fouten op effectieve wijze kunt oplossen.
 
