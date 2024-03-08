@@ -11,9 +11,9 @@ doc-type: article
 thumbnail: 10531.jpg
 kt: 10531
 exl-id: 79cec21e-2b52-4e7b-88ad-db137a8cef4e
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: c568ed0a06551d910b6f533698ec47c15adecf6c
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 **HOE:** De interface en het etiketteren doc zouden voor zowel &quot;Naam&quot;als &quot;Beschrijving&quot;moeten aanpassen - dit zal uw gebruikers van het moeten sparen een document van Excel trekken en hen toestaan om uw gegevens direct in de interface te begrijpen. Het wordt ook aanbevolen om alles wat nodig is voor de consistentie te beperken.
 
-U kunt paginanamen het beste ook op het platform consistent houden (of schermnamen voor apps). U kunt bijvoorbeeld eigenschap &quot;instellen:section:subsectie:subsectie:unieke paginanaam&quot; in een variabele/dimensie. Als al deze gebieden in uw gegevenslaag afzonderlijk zijn, kon u zelfs de paginanaam direct in uw JS dossier/Lancering bouwen. Als al deze elementen ook in hun eigen dimensies zijn ingesteld, kunt u specifieke eigenschappen of gebieden van uw site/app eenvoudiger indelen en meer inzicht krijgen in verkeer en stromen.
+Het is altijd het beste om paginanamen ook op het platform consistent te houden (of schermnamen voor apps). U kunt bijvoorbeeld &quot;`property:section:sub section:sub sub section:unique page name`&quot; in een variabele/dimensie. Als al deze gebieden in uw gegevenslaag afzonderlijk zijn, kon u zelfs de paginanaam direct in uw JS dossier/Lancering bouwen. Als al deze elementen ook in hun eigen dimensies zijn ingesteld, kunt u specifieke eigenschappen of gebieden van uw site/app eenvoudiger indelen en meer inzicht krijgen in verkeer en stromen.
 
 Om het even wat dat het voor gebruikers gemakkelijker maakt om de gegevens, met inbegrip van iets te vinden en te begrijpen zoals noemende overeenkomsten, zal het gebruik van [!DNL Adobe Analytics] en levert betere inzichten voor het bedrijf.
 
