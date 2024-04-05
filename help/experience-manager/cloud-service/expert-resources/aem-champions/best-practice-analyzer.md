@@ -1,6 +1,6 @@
 ---
 title: De BPA (Best Practice Analyzer) gebruiken
-description: Ontdek strategieën om uw gebruik van Beste praktijken te maximaliseren Analyseren (BPA) in bereidheid voor uw overgang aan AEM as a Cloud Service.
+description: Ontdek strategieën voor het gebruiken van Beste praktijken Analyseren (BPA) in bereidheid voor uw overgang aan AEM as a Cloud Service.
 version: Cloud Service
 feature: Migration
 topic: Migration
@@ -10,9 +10,9 @@ doc-type: Feature Video
 duration: 432
 last-substantial-update: 2024-04-05T00:00:00Z
 jira: KT-15212
-source-git-commit: cdedf565731b423bdac6b48d207fac979d0b7459
+source-git-commit: 4c58231e3663ae6e1c1ab62116cc56ced294dcd7
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
