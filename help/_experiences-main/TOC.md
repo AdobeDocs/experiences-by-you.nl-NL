@@ -2,10 +2,10 @@
 user-guide-title: Ervaringen door u
 user-guide-description: Door de Adobe-klant gegenereerde inhoud
 breadcrumb-title: Ervaringen door u
-source-git-commit: cdedf565731b423bdac6b48d207fac979d0b7459
+source-git-commit: 56f6d47f6176aaa01343e4f807afbd54b2d49e08
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 14%
+source-wordcount: '333'
+ht-degree: 13%
 
 ---
 
@@ -80,6 +80,7 @@ ht-degree: 14%
       + Best practices voor {#cloud-manager-best-practices}
          + [Logbestanden gebruiken in Cloud Manager](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-using-logs.md)
          + [Een migratie plannen naar AEM as a Cloud Service](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration.md)
+         + [Post-migratiestrategieën en tips](/help/experience-manager/cloud-service/expert-resources/aem-champions/post-migration.md)
          + [De analyse van best practices gebruiken](/help/experience-manager/cloud-service/expert-resources/aem-champions/best-practice-analyzer.md)
          + [Uitdagingen aanpakken bij migreren naar AEM as a Cloud Service](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration-challenges.md)
 + [!DNL Marketo Engage] door U {#marketo-engage}
