@@ -10,7 +10,7 @@ last-substantial-update: 2024-03-25T00:00:00Z
 jira: KT-15200
 thumbnail: KT-15200.jpeg
 exl-id: 1da85e88-64b3-49e5-9bf6-76126ac9f6ad
-source-git-commit: 59dbe503fb179ed24ec8380f0d3e853deec82a7b
+source-git-commit: 1e9e57c00adb37a01e42cbbb82e62918e7543b19
 workflow-type: tm+mt
 source-wordcount: '4102'
 ht-degree: 1%
@@ -202,7 +202,7 @@ Laten we wat tijd besteden om dit uit te pakken, want er is veel gaande.
 
 In de eerste plaats laat ik in plaats van een dagelijkse ineenstorting een paginascheiding zien, omdat ik denk dat dit de twee segmenten beter zal illustreren.
 
-<table border="0">
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">De eerste drie kolommen (Paginaweergaven, bezoeken en unieke bezoekers) zijn ongesegmenteerd en geven dus alle pagina's in de site weer. Ik heb hier geen bestellingen opgenomen, omdat bestellingen worden bijgehouden in een handeling en dus geen deel uitmaken van het bereik van de pagina-dimensie.</td>
         <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail1.png" width="352"
@@ -210,7 +210,7 @@ In de eerste plaats laat ik in plaats van een dagelijkse ineenstorting een pagin
     </tr>
 </table>
 
-<table border="0">
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">Vervolgens laat ik het resultaat van het eenvoudige segment zien, waarbij ik alleen naar <strong>treffers</strong> op de twee opgegeven pagina's. U zult merken dat de andere pagina's in de uitsplitsing allemaal 0 opleveren, zoals u verwacht.</td>
         <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail2.png" width="352"
@@ -218,7 +218,7 @@ In de eerste plaats laat ik in plaats van een dagelijkse ineenstorting een pagin
     </tr>
 </table>
 
-<table border="0">
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">Hier is een klein bonusuiteinde, voordat ik het resultaat van het geavanceerde segment laat zien, gebruikte ik nog een eenvoudig segment van "Orders bestaan" (op HIT-niveau), en ik koppelde het aan unieke bezoekers. Dit zal me de totale UVs terugkeren die orden in mijn verslagperiode maakten, evenals UVs die elk van die pagina's raken.. dit zal helpen om de volgende reeks kolommen beter te illustreren.</td>
         <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail3.png" width="352"
@@ -226,7 +226,7 @@ In de eerste plaats laat ik in plaats van een dagelijkse ineenstorting een pagin
     </tr>
 </table>
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">De laatste reeks kolommen wordt gestapeld met mijn complexe segment. De algemene UV's met bestellingen komen overeen met het eenvoudige segment "Bestellingen bestaan" op elke pagina, maar u zult zien dat het totaal aanzienlijk verschilt. Aangezien deze gegevensset expliciet alleen beperkt is tot bezoekers die bestellingen hebben geplaatst EN de pagina's raken, ben ik expliciet geïnteresseerd in deze set.</td> <td style="border: 0;"><img src="assets/segment-example-3/segment3c-comparison-table-detail4.png" width="352">
         </td>
@@ -333,14 +333,14 @@ Laten we dingen veranderen en beginnen door naar de vergelijkingen te kijken, da
 
 ![Segment5A-TableComparison](assets/segment-example-5/segment5a-table-comparison.png)
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">De eerste vier kolommen zijn ongesegmenteerd en moeten gemakkelijk te begrijpen zijn. *"Berichten"* is in feite een berekende waarde die is gebaseerd op waar bezoekers de sessie starten. Ik heb het hier toegevoegd om aan te tonen dat dit niet de informatie terugkeert die wij zoeken, aangezien de gebruikers de plaats door veelvoudige marketing kanalen (door sociale media te bekijken, onderzoeken te doen, op marketing e-mails, enz. kunnen ingaan. alle tijdens hetzelfde bezoek / dezelfde sessie).</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail1.png" width="352">
         </td>
     </tr>
 </table>
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">De volgende reeks kolommen gebruikt een "StandaardSegment van het Actief", fundamenteel kijkend klusjes waar het marketing kanaal "betaalde onderzoek"is. Nochtans, zal dit ALLE klusjes terugkeren die op de attributie van het Kanaal van de Marketing worden gebaseerd, zal het niet de daadwerkelijke "Betaalde Onderzoek"klikthrough isoleren. Daarom zal dit niet de gegevens terugkeren die we nodig hebben.</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail2.png" width="352">
         </td>
@@ -350,7 +350,7 @@ Laten we dingen veranderen en beginnen door naar de vergelijkingen te kijken, da
 
 ![Segment5A-PaidSearchHit](assets/segment-example-5/segment5a-paid-search-hit.png)
 
-<table>
+<table style="border: 0;">
     <tr>
         <td width="352" style="border: 0;">De volgende twee gegevenssets zien er nu precies hetzelfde uit. In feite retourneert dit dezelfde gegevens op twee verschillende manieren. Maar nu kijk ik specifiek naar de <i>instances</i> waar het marketingkanaal <strong>set</strong> naar Betaalde zoekopdracht.</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail3.png" width="352">
         </td>
