@@ -2,9 +2,9 @@
 user-guide-title: Ervaringen door u
 user-guide-description: Door de Adobe-klant gegenereerde inhoud
 breadcrumb-title: Ervaringen door u
-source-git-commit: 56f6d47f6176aaa01343e4f807afbd54b2d49e08
+source-git-commit: 75b14fc5c051bffd8110a1e31f72bfdc965f9cff
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '341'
 ht-degree: 13%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 13%
          + [Breng uw gegevensanalyse naar het volgende niveau met berekende metriek](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
       + Projecten krullen en delen {#curate-and-share-projects}
          + [De kracht van alleen-weergeven delen ontgrendelen](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+         + [Het analytisch inzicht ontgrendelen; de kracht van annotaties benutten](../analytics/analysis-workspace/curate-and-share-projects/harnessing-the-power-of-annotations.md)
       + Tips en trucs {#tips-and-tricks}
          + [Klikken met rechtermuisknop op tips en trucs voor efficiëntere workflows](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
          + [#Tags - uw persoonlijke assistent](/help/analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
