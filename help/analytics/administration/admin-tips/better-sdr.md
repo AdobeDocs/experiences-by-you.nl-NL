@@ -10,9 +10,9 @@ duration: 72000
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15338
 thumbnail: KT-15338.jpeg
-source-git-commit: 484f93bc2828d2565486eff8ae4801a8d203d280
+source-git-commit: 35d2ea7d88d2c43b79730c700e73e539c5f0d8ac
 workflow-type: tm+mt
-source-wordcount: '1635'
+source-wordcount: '1640'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Van één kamp hoor je klachten.
 
 &quot;Waarom is er geen metrische waarde voor dit?&quot;
 
-&quot;Ik heb hier veel meer details over nodig! Een metrische alleen is niet genoeg. Er zijn minstens drie verschillende dimensies die ik nodig heb om prestaties te begrijpen. Waarom heb je ze niet opgenomen?&quot;
+&quot;Ik heb hier veel meer details over nodig! Een metrische alleen is niet genoeg. Er zijn ten minste drie verschillende dimensies die ik nodig heb om de prestaties te begrijpen. Waarom heb je ze niet opgenomen?&quot;
 
 Maar het is het andere kamp dat een nog grotere bron van zorg is. Van hen hoor je helemaal niets. Maar nog veel erger: je ziet grafieken die heel duidelijk zijn ontleend aan je oude analytische oplossing, die niet meer wordt onderhouden, en elke dag valt verder in een moeras van decrepitude en vuile data. Een gevoel van dromen vult je als je nadenkt over de beslissingen die met die rommel gemaakt kunnen worden.
 
@@ -107,7 +107,7 @@ Dit is niet de snelste manier om een SDR bij elkaar te krijgen. Het is een hoop 
 
 Dit document is geschreven door:
 
-![gitai-headshot](assets/gitai-headshot.png)
+![gitai-headshot](assets/gitai-headshot-150.jpg)
 
 Gitai Ben-Ammi, Business Architecture Associate Manager bij Accenture
 
