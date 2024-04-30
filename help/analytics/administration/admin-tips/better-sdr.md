@@ -10,13 +10,13 @@ duration: 72000
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15338
 thumbnail: KT-15338.jpeg
-source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
+exl-id: 99fcf68f-5698-4270-9055-ab224e6323a1
+source-git-commit: b3b98aee5ee23e323a9bc762c673700b02366f4c
 workflow-type: tm+mt
 source-wordcount: '1640'
 ht-degree: 0%
 
 ---
-
 
 # Gegevenscultuur opbouwen en een betere referentie voor het ontwerp van oplossingen
 
@@ -61,7 +61,7 @@ Ik zal beginnen met jullie een beetje van de haak te laten. Er is *altijd* een h
 ***De voorbeelddashboards***
 
 1. Met de Kanaalkaart als richtlijn maakt u mockup-dashboards.
-1. Er moet een algemene weergave zijn, zoals een Executive Summary Dashboard, en dashboards voor elk van de trechters.
+1. Er moet een algemene visie zijn, zoals [Executive Summary-dashboard](driving-success-with-executive-summary-dashboards.md)en dashboards voor elk van de trechters.
 1. Er zijn ook enkele specifiekere opties voor uw site of toepassing, zoals de prestaties van producten of inhoud.
 1. Geef deze informatie door aan de relevante belanghebbenden en krijg feedback over het ontwerp.
 1. Breng de gewenste updates aan en voeg deze toe aan uw SDR als er nieuwe maatstaven of dimensies nodig zijn.
@@ -112,4 +112,3 @@ Dit document is geschreven door:
 Gitai Ben-Ammi, Business Architecture Associate Manager bij Accenture
 
 Adobe Analytics Champion
-
