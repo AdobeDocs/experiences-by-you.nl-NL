@@ -2,10 +2,10 @@
 user-guide-title: Ervaringen door u
 user-guide-description: Door de Adobe-klant gegenereerde inhoud
 breadcrumb-title: Ervaringen door u
-source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
+source-git-commit: 3e7b293813327b3aad362b0e05220a32aa65ea78
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 13%
+source-wordcount: '358'
+ht-degree: 12%
 
 ---
 
@@ -60,6 +60,8 @@ ht-degree: 13%
          + [Snel succes met uitgebreide overzichtsdashboards](../analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
          + [Operationele dashboards maken](../analytics/administration/admin-tips/create-operational-dashboards.md)
          + [Gegevenscultuur opbouwen en een betere referentie voor het ontwerp van oplossingen](../analytics/administration/admin-tips/better-sdr.md)
+   + Implementatie {#implementation}
+      + [Een strategische gids voor het uitvoeren van Web SDK](../analytics/implementation/strategic-guide-to-implementing-web-sdk.md)
 + [!DNL Campaign] door U {#campaign}
    + [Overzicht](/help/campaign/overview.md)
    + [!DNL Campaign Classic v7] {#campaign-classic-v7}
