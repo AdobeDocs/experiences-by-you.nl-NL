@@ -1,11 +1,11 @@
 ---
 user-guide-title: Ervaringen door u
-user-guide-description: Door de Adobe-klant gegenereerde inhoud
+user-guide-description: Door de klant gegenereerde inhoud Adoben
 breadcrumb-title: Ervaringen door u
-source-git-commit: 3e7b293813327b3aad362b0e05220a32aa65ea78
+source-git-commit: bf02792a81f0b3a4e6580cd4156b9dbb92bda79a
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 12%
+ht-degree: 4%
 
 ---
 
@@ -26,13 +26,13 @@ ht-degree: 12%
          + [Inzichten met histogrammen ontgrendelen](../analytics/analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
          + [Meer dan woorden - tekstvisualisaties en beschrijvingen gebruiken](../analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
          + [Cohortanalyse gebruiken om het gedrag van de klant te begrijpen](../analytics/analysis-workspace/visualizations/use-cohort-analysis-to-understand-customer-behavior.md)
-      + Segmentatie {#segmentation}
+      + Segmentering {#segmentation}
          + [Reissegmenten voor klanten samenstellen](../analytics/analysis-workspace/segmentation/building-customer-journey-segments.md)
          + [Reissegmenten voor klanten samenstellen - deel 2](../analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
          + [Verschillen tussen de gesegmenteerde bouwer en snelle segmenten](../analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
          + [Wacht nu gewoon een segment... met segmentatie om nieuwe inzichten te ontdekken](../analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
          + [De magie achter het gordijn - Complexe segmenten](../analytics/analysis-workspace/segmentation/the-magic-behind-the-curtain-complex-segments.md)
-      + Cijfers {#metrics}
+      + Metrisch {#metrics}
          + [Afscheid Excel, hello berekende metriek](../analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
          + [Breng uw gegevensanalyse naar het volgende niveau met berekende metriek](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
       + Projecten krullen en delen {#curate-and-share-projects}
@@ -40,8 +40,8 @@ ht-degree: 12%
          + [Het analytisch inzicht ontgrendelen; de kracht van annotaties benutten](../analytics/analysis-workspace/curate-and-share-projects/harnessing-the-power-of-annotations.md)
       + Tips en trucs {#tips-and-tricks}
          + [Klikken met rechtermuisknop op tips en trucs voor efficiëntere workflows](../analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
-         + [#Tags - uw persoonlijke assistent](../analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
-   + Beheer {#administration}
+         + [Tags - uw persoonlijke assistent](../analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
+   + Administratie {#administration}
       + Sleutelbeheervaardigheden {#key-admin-skills}
          + [Een machtige gemeenschap creëren](../analytics/administration/key-admin-skills/empowered-community.md)
          + [Vereenvoudig en besteed minder tijd aan trainingsgebruikers](../analytics/administration/key-admin-skills/simplify-training-users.md)
@@ -67,21 +67,21 @@ ht-degree: 12%
    + [!DNL Campaign Classic v7] {#campaign-classic-v7}
       + [Best practices voor workflows](/help/campaign/ac-v7/workflow-best-practices-for-marketers.md)
    + [!DNL Campaign Standard] {#campaign-standard}
-      + [Problemen oplossen voor marketeers](/help/campaign/acs/troubleshooting-for-marketers.md)
-   + Strategie &amp; leiderschap{#strategy}
+      + [Problemen met markeertekens oplossen](/help/campaign/acs/troubleshooting-for-marketers.md)
+   + Strategie en leiderschap{#strategy}
       + [Tien aanbevolen procedures voor [!DNL Adobe Campaign] succes voor de markt](/help/campaign/10-best-practices-for-marketers.md)
 + Experience Manager door jou {#experience-manager}
    + [Overzicht](/help/experience-manager/overview.md)
    + AEM Sites {#sites}
       + [AEM Sites-rijpheidsbeoordeling](/help/experience-manager/sites/expert-resources/maturity-assessment.md)
-      + Best practices voor {#sites-best-practices}
+      + Aanbevolen procedures {#sites-best-practices}
          + [AEM Champion Tips and Tricks: sessie 1](/help/experience-manager/sites/expert-resources/champion-tips-1.md)
          + [AEM Champion Tips and Tricks: sessie 2](/help/experience-manager/sites/expert-resources/champion-tips-2.md)
    + AEM as a Cloud Service {#cloud-service}
       + [[!DNL Cloud Manager] Onboarding Playbook](/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md)
       + [[!DNL Cloud Manager] Omgevingstypen](/help/experience-manager/cloud-service/expert-resources/aem-champions/environment-types.md)
       + [[!DNL Cloud Manager] UI](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-ui.md)
-      + Best practices voor {#cloud-manager-best-practices}
+      + Aanbevolen procedures {#cloud-manager-best-practices}
          + [Logbestanden gebruiken in Cloud Manager](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-using-logs.md)
          + [Een migratie plannen naar AEM as a Cloud Service](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration.md)
          + [Post-migratiestrategieën en tips](/help/experience-manager/cloud-service/expert-resources/aem-champions/post-migration.md)
