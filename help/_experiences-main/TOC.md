@@ -2,7 +2,7 @@
 user-guide-title: Ervaringen door u
 user-guide-description: Door de klant gegenereerde inhoud Adoben
 breadcrumb-title: Ervaringen door u
-source-git-commit: b73614be9351943bf89aba7e457edb4b3b456d40
+source-git-commit: 70487e9c3baa4bacaeaf924b513ba4f365d7d8b2
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 4%
@@ -91,7 +91,7 @@ ht-degree: 4%
    + [Overzicht](/help/marketo/overview.md)
    + Grondbeginselen {#fundamentals}
       + [Navigeren door de gebruikersinterface](/help/marketo/fundamentals/ui-navigation.md)
-      + [Tips en trucs voor het implementeren van een nieuw exemplaar](https://experienceleague.adobe.com/docs/experiences-by-you/implenting-new-instance/overview.html)
+      + [Tips en trucs voor het implementeren van een nieuw exemplaar](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
       + [Een overgeërfde instantie controleren - Zelfstudie](https://experienceleague.adobe.com/docs/experiences-by-you/auditing-an-inherited-instance/overview.html)
    + Programma&#39;s en campagnes {#programs-and-campaigns}
       + [E-mailprogramma&#39;s](/help/marketo/programs/email-programs.md)
