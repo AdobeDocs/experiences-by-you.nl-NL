@@ -1,15 +1,15 @@
 ---
-title: Ervaringen van u
+title: Ervaringen door u
 description: Leer van medeklanten van de Adobe over hoe zij de toepassingen en de eigenschappen van het Experience Cloud gebruiken.
 role: User, Developer, Admin, Data Architect
 level: Beginner
 doc-type: overview
 solution: Experience Cloud
 exl-id: a3e976a1-8bf1-4c18-b5b5-831367a7e8a0
-source-git-commit: 10bf432c85cabe2f131aad05da42b5b1c0af467f
+source-git-commit: 24c2ee272ab1dcda53e5dfe918125e8542ecfe15
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 5%
+source-wordcount: '173'
+ht-degree: 4%
 
 ---
 
@@ -77,5 +77,6 @@ Het krachtigste ding over [!DNL Adobe] DX-oplossingen (Digital Experience)? Jij.
 
 * [Experience League Gemeenschappen](https://experienceleaguecommunities.adobe.com/)
 * [Documentatie Experience Cloud](https://experienceleague.adobe.com/docs/)
-* [Tutorials voor Experience Cloud](https://experienceleague.adobe.com/docs/home-tutorials.html)
+* [Tutorials Experience Cloud](https://experienceleague.adobe.com/docs/home-tutorials.html)
 * [business.adobe.com](https://business.adobe.com)
+

@@ -8,7 +8,7 @@ role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 70487e9c3baa4bacaeaf924b513ba4f365d7d8b2
+source-git-commit: bed599454a75159492f13aab1f802c09d92bf7ed
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -28,4 +28,4 @@ ht-degree: 0%
 + [Omnichannel conversationele marketing met Dynamic Chat ontwerpen](./designing-omnichannel-conversational-marketing.md)
 + [Aan de slag met Instance Governance en documentatie](./documenting-your-instance.md)
 + [[!DNL Marketo Engage] Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)
-+ [[!DNL Marketo Engage] door u](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)
++ [[!DNL Marketo Engage] door U](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)
