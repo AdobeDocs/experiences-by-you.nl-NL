@@ -1,6 +1,6 @@
 ---
 title: Vertalen [!DNL Adobe Analytics] niet-technische technische taal
-description: Met meer ogen voor de digitale wereld dan ooit tevoren, is er een groeiende behoefte om de rijke gegevens die in uw [!DNL Adobe Analytics] instellen. Deze toegenomen aandacht kan een reeks belanghebbenden treffen die volledig nieuw zijn voor de wereld van props en eVars. Als uw organisatie [!DNL Adobe Analytics] expert, bent u van essentieel belang om uw belanghebbenden te helpen de technische details te begrijpen en optimaal te benutten [!DNL Adobe Analytics] investeringen.
+description: Met meer ogen voor de digitale wereld dan ooit, is er een groeiende behoefte om, de rijke gegevens te begrijpen te analyseren en te handelen beschikbaar in uw [!DNL Adobe Analytics] instellen. Deze toegenomen aandacht kan een reeks belanghebbenden treffen die volledig nieuw zijn voor de wereld van props en eVars. Als uw organisatie [!DNL Adobe Analytics] expert, u bent van essentieel belang om uw belanghebbenden te helpen de technische details te begrijpen en optimaal te profiteren van uw [!DNL Adobe Analytics] investeringen.
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -10,9 +10,9 @@ level: Experienced
 thumbnail: 342066.jpg
 kt: 10128
 exl-id: b26f8b1e-e57d-4684-86c2-7a13f67521e6
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
 workflow-type: tm+mt
-source-wordcount: '976'
+source-wordcount: '981'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## Verschillende talen spreken
 
-Met meer ogen voor de digitale wereld dan ooit tevoren, is er een groeiende behoefte om de rijke gegevens die in uw [!DNL Adobe Analytics] instellen. Deze toegenomen aandacht kan een reeks belanghebbenden treffen die volledig nieuw zijn voor de wereld van props en eVars. Als uw organisatie [!DNL Adobe Analytics] expert, bent u van essentieel belang om uw belanghebbenden te helpen de technische details te begrijpen en optimaal te benutten [!DNL Adobe Analytics] investeringen.
+Met meer ogen voor de digitale wereld dan ooit, is er een groeiende behoefte om, de rijke gegevens te begrijpen te analyseren en te handelen beschikbaar in uw [!DNL Adobe Analytics] instellen. Deze toegenomen aandacht kan een reeks belanghebbenden treffen die volledig nieuw zijn voor de wereld van props en eVars. Als uw organisatie [!DNL Adobe Analytics] expert, u bent van essentieel belang om uw belanghebbenden te helpen de technische details te begrijpen en optimaal te profiteren van uw [!DNL Adobe Analytics] investeringen.
 
 Hier zijn vier tips die ik nuttig heb gevonden om mijn belanghebbenden de technische taal van [!DNL Adobe Analytics].
 
@@ -31,12 +31,12 @@ Hier zijn vier tips die ik nuttig heb gevonden om mijn belanghebbenden de techni
 
 Een solide instapprogramma voor uw nieuwe [!DNL Adobe Analytics] gebruikers zijn van essentieel belang om van meet af aan de adoptie te stimuleren . Vaak zal je instapprogramma hun eerste blootstelling zijn aan de prachtige wereld van props en eVars. Uw instapprogramma moet toegankelijk, relevant en gedenkwaardig zijn, zodat uw gebruikers altijd weer naar het programma terugkeren.
 
-Hier is bijvoorbeeld mijn favoriete manier om eVars en toewijzingsmethoden uit te leggen aan nieuwe analisten: Stel je voor dat je op een avondwandeling rond je buurt gaat en oh nee, je stapt op een kauwgum. Voor de rest van je wandeling zit dat stukje gum nu vast aan de onderkant van je schoen (net als een eVar!). Je neemt een paar stappen vooruit en een ander stukje tandvlees zit vast aan je schoen. Aan het einde van je wandeling besluit je schoenen uit te gooien. Wat heeft u tot dat besluit geleid? Was het het eerste stukje gom waar je op stapte, het laatste, of waren beide in dezelfde mate verantwoordelijk?
+Hier is bijvoorbeeld mijn favoriete manier om eVars en toewijzingsmethoden uit te leggen aan nieuwe analisten: Stel je voor dat je op een avondwandeling rond je buurt bent en oh nee, je stapt op een stuk kauwgom. Voor de rest van je wandeling zit dat stukje gum nu vast aan de onderkant van je schoen (net als een eVar!). Je neemt een paar stappen vooruit en een ander stukje tandvlees zit vast aan je schoen. Aan het einde van je wandeling besluit je schoenen uit te gooien. Wat heeft u tot dat besluit geleid? Was het het eerste stukje gom waar je op stapte, het laatste, of waren beide in dezelfde mate verantwoordelijk?
 
 >[!TIP]
 >
 >**Geef componenten (d.w.z. afmetingen, segmenten en metriek) duidelijk een naam met beschrijvingen**
->Het delen van het gegevenswoordenboek van eVars en props is altijd een goede stap in het democratiseren van de gegevens van uw organisatie, maar verwacht niet dat een gebruiker per ongeluk alle aangepaste variabelen en het beoogde gebruik per index/nummer in het geheugen zal opnemen. In plaats daarvan, in [!DNL Adobe] In de werkruimte moet u ervoor zorgen dat de componentnamen beschrijvend zijn met betekenisvolle tags en beschrijvingen. Hierdoor kunnen uw gebruikers snel de juiste maatstaf vinden tussen uw honderden eVars en oneindige metriek/segmenten.
+>Het delen van het gegevenswoordenboek van eVars en proPS is altijd een goede stap in het democratiseren van de gegevens van uw organisatie, maar verwacht niet dat een willekeurige gebruiker alle douanevariabelen en hun voorgenomen gebruik door index/aantal onthoudt. In plaats daarvan, in [!DNL Adobe] In de werkruimte moet u ervoor zorgen dat de componentnamen beschrijvend zijn met betekenisvolle tags en beschrijvingen. Hierdoor kunnen uw gebruikers snel de juiste maatstaf vinden tussen uw honderden eVars en oneindige metriek/segmenten.
 
 ## Tip 2: Een gemeenschappelijke taal zoeken
 
@@ -60,7 +60,7 @@ At [!DNL The Home Depot], hebben we een [!DNL Adobe Analytics] de uitdaging waar
 >[!TIP]
 >
 >**Maak geannoteerde oplossing specifieke werkruimtemalplaatjes en begeleiding**
->Gebruik bedrijfsrapporten (sjablonen) en tekstvisualisaties in de analysewerkruimte om contextuele hulplijnen te maken die u helpen uw rocksterren op de juiste weg te houden.
+>Gebruik bedrijfsrapporten (sjablonen) en tekstvisualisaties in de analysewerkruimte om contextuele hulplijnen te maken die u helpen uw rocksterren op het juiste spoor te houden.
 >
 >De flexibiliteit van de werkruimte van de Analyse staat u toe om malplaatjes voor snellere analyse te creëren evenals het toelaten van zelf-dienst en zelf-enablement. Door de mogelijkheden van eigenschappen zoals gebogen malplaatjes, annotaties en inter/intra werkruimte te combineren, hebt u een grote manier om efficiënte, toegankelijke, en gemakkelijk te creëren om begeleiding aan niet-technische gebruikers in de context van te verspreiden [!DNL Adobe Analytics].
 
@@ -68,6 +68,6 @@ At [!DNL The Home Depot], hebben we een [!DNL Adobe Analytics] de uitdaging waar
 
 Belanghebbenden meer mogelijkheden bieden om hulp te krijgen bij het ontwikkelen [!DNL Adobe Analytics] dashboards. U kunt openstaande kantooruren hosten, waar belanghebbenden zich kunnen aanmelden met vragen en u kunt afstemmen op een expert. Of stel een hulplijnkanaal in waar belanghebbenden vragen kunnen stellen in een veilige leeromgeving.
 
-At [!DNL The Home Depot]Onze belanghebbenden houden van onze open kantooruren en Slack-hulplijn. Sinds het ontstaan van deze open kanalen is de nauwkeurigheid van het samenstellen van rapporten verbeterd en is de nauwkeurigheid van [!DNL Adobe Analytics] de adoptie is sterk toegenomen . In het verleden hebben we het omgezet in de top 5% van [!DNL Adobe Analytics] adoptiescore , overal ter wereld in de detailhandel !
+At [!DNL The Home Depot]Onze belanghebbenden houden van onze open kantooruren en Slack-hulplijn. Sinds het ontstaan van deze open kanalen hebben we een verbeterde nauwkeurigheid gezien in het samenstellen van rapporten en onze [!DNL Adobe Analytics] de adoptie is sterk toegenomen . In het verleden hebben we het in de top 5% van [!DNL Adobe Analytics] adoptiescore , overal ter wereld in de detailhandel !
 
 Uw gebruikers helpen de technische wereld van [!DNL Adobe Analytics] is geen gemakkelijke eigenschap. Ik hoop dat deze tips en voorbeelden uw belanghebbenden in staat zullen stellen diep te duiken, die vrije tabellen te bouwen en verliefd te worden op de wereld van props en eVars.
