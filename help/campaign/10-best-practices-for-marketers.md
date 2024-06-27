@@ -1,19 +1,19 @@
 ---
-title: Tien best practices voor succes met  [!DNL Adobe] [!DNL Campaign] voor marketeers
+title: Tien aanbevolen procedures voor [!DNL Adobe] [!DNL Campaign] succes voor de markt
 description: Meer informatie over de tien beste praktijken [!DNL Adobe] [!DNL Campaign] artsen ontsluiten en versnellen de digitale transformatie van de consument en een betere ervaring voor hun klanten.
 doc-type: article
 solution: Campaign
 feature-set: Campaign
-feature: Personalization, [!DNL Campaign]s, Subscriptions, Deliverability
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: add6ed84-892d-4901-9dd2-b0cba0c57290
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: ec621f6e118292a3f8448c0e21abe8a1284cb10e
 workflow-type: tm+mt
-source-wordcount: '1276'
-ht-degree: 79%
+source-wordcount: '1262'
+ht-degree: 77%
 
 ---
 
@@ -28,7 +28,7 @@ In dit artikel deelt Christian zijn beste praktijken om te helpen [!DNL Adobe] [
 
 De eerste stap om uw succes met [!DNL [!DNL Adobe] [!DNL Campaign]] moet uw hulpmiddelen en klant verwachtingen-en dat is waar in om het even welk type van marketing begrijpen. Definieer en begrijp duidelijk de kanalen die u gebruikt om contact op te nemen met uw consumenten, weet wanneer u die kanalen moet gebruiken en waarom.
 
-[!DNL Adobe][!DNL Campaign] is een flexibele tool waarmee u communicatie op vele manieren kunt uitvoeren en orkestreren. [De helft van de klanten gebruikt tijdens elk kooptraject drie tot vijf kanalen](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Om het volledige potentieel van uw platform te benutten en uw klanten aan te spreken is het dus essentieel om deze kanalen van tevoren te begrijpen en een plan te hebben voor het gebruik.
+[!DNL Adobe] [!DNL Campaign] is een flexibel hulpmiddel dat u toestaat om mededelingen op vele manieren uit te voeren en te ordenen. [De helft van de klanten gebruikt tijdens elk kooptraject drie tot vijf kanalen](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Om het volledige potentieel van uw platform te benutten en uw klanten aan te spreken is het dus essentieel om deze kanalen van tevoren te begrijpen en een plan te hebben voor het gebruik.
 
 ## 2. Documenteer en begrijp uw klantgegevens.
 
