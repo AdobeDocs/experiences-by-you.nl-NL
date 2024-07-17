@@ -9,21 +9,21 @@ duration: 36000
 last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14963
 thumbnail: KT-14963.jpeg
-source-git-commit: 9be76d73344188d93b826d9195c10e4ee8cc3957
+exl-id: 563941cc-30a2-45d2-8634-0bde3b539ffd
+source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
 workflow-type: tm+mt
-source-wordcount: '1427'
+source-wordcount: '1394'
 ht-degree: 0%
 
 ---
 
-
 # Tags - uw persoonlijke assistent
 
-_Ontdek hoe #TAGS uw digitale analysemogelijkheden kan stroomlijnen en als uw persoonlijke assistent kan dienen om efficiënt te zoeken naar wat u nodig hebt. Jeff Bloomer, Adobe Analytics Champion, deelt deskundige inzichten over het maximaliseren van het potentieel van het gereedschap voor uw voordeel._
+_ontdekt hoe #TAGS uw digitale analyses kan stroomlijnen, die als uw persoonlijke medewerker dienen om te vinden wat u efficiënt nodig hebt. Jeff Bloomer, Adobe Analytics Champion, deelt deskundige inzichten over het maximaliseren van het potentieel van het hulpmiddel voor uw voordeel._
 
 Iedereen herinnert zich dat hij een goed spel speelde, of zelfs verbergen en zoeken, toen wij kinderen waren.
 
-![Kinderen spelen](assets/kids-playing2.jpeg)
+![ Kinderen die ](assets/kids-playing2.jpeg) spelen
 
 Het beste deel was toen wij degenen waren die het terug maakten tot basis (tag) of de langste verborgen bleven (verbergen en zoeken) totdat we iemand hoorden roepen: &quot;Alleen Olly oxen free!&quot; (&quot;All ye outs in free&quot;, afgeleid uit het Duits: &quot;alle auch sind frei!&quot;).  Dat betekende uiteindelijk dat alle anderen het hadden gemaakt om te baseren, gevonden of iemand gelabeld &quot;het&quot;, en we waren nog vrij om nog een ronde te spelen!
 
@@ -34,17 +34,17 @@ Als we het over onze dagelijkse banen hebben, lijkt het zoeken naar dingen veel 
 Nu ik uw aandacht heb, wil ik beginnen met een vraag te stellen:
 
 
-![Hoeveel van u](assets/how-many-of-you.jpg)
+![ hoeveel van u ](assets/how-many-of-you.jpg)
 
-Hoeveel van jullie hebben dit gedaan?  U bent begonnen te zoeken naar een **dimensie**, **datumbereik**, **segment**, of **berekend metrisch** en je wordt overspoeld met deze gigantische lijst (zie **Figuur 1**) van alles wat u NIET wilt.  ***Analysis Workspace*** denkt dat het nuttig is, maar in feite is het er alleen maar in geslaagd om helemaal geen hulp te bieden.
+Hoeveel van jullie hebben dit gedaan?  U bent begonnen te zoeken naar a **afmeting**, **datumwaaier**, **segment**, of **berekende metrisch**, en u wordt overstroomd met deze reusachtige lijst (zie **Figuur 1**) van alles u niet wilt.  ***Analysis Workspace*** denkt het om nuttig te zijn, maar in alle werkelijkheid, is het slechts in het niet behulpzaam zijn helemaal gelukt.
 
-![figuur 1 zoekopdracht naar jaar](assets/tags-example-year.jpg)
+![ figuur 1 onderzoek naar jaar ](assets/tags-example-year.jpg)
 
-*Afbeelding 1 - Zoeken naar &quot;jaar&quot;*
+*Figuur 1 - Onderzoek naar &quot;jaar&quot;*
 
-Nog beter, je bent weg en hebt er wat gemaakt *new* **datumbereiken** en **segmenten** en omdat ze &quot;zo nieuw&quot; zijn, zou je denken dat deze items in ieder geval snel en gemakkelijk te vinden zijn wanneer je de volgende keer binnenkomt ***Werkruimte Adobe***. Heb ik gelijk?
+Beter nog, bent u gegaan en sommige *nieuwe **datareeksen**en **segmenten**gecreeerd, en omdat zij &quot;zo nieuw zijn,&quot;zou u minstens deze punten snel en gemakkelijk moeten zijn om de volgende tijd te vinden u in*** Adobe Workspace ***kwam.* Heb ik gelijk?
 
-Nou, ik haat het om je bubbel te barsten, maar probeer gewoon weg te gaan ***Adobe Analytics*** nadat je net al je nieuwste &quot; kleine vrienden &quot; hebt gemaakt , en wanneer je terugkeert , zijn de meeste van hen gewoon weggelopen .  Als je geluk hebt, *misschien* een van hen bleef achter om op je te wachten , maar de rest is al lang weg en speelt verstoppertje en zoekt .
+Nou, haat ik om uw bel te barsten, maar probeer enkel ***Adobe Analytics*** te verlaten nadat u enkel al uw nieuwste &quot;kleine vrienden,&quot;creeerde en wanneer u terugkeert, heeft de meerderheid van hen eenvoudig weggelopen.  Als u geluk hebt, *misschien* bleef één van hen achter om op u te wachten, maar de rest is reeds lang weg en speel verborgen en zoek.
 
 ## Het regelboek herschrijven
 
@@ -54,72 +54,72 @@ Wat als we onze eigen persoonlijke assistent zouden kunnen oprichten om die rege
 
 Echt, waar het hier om gaat, is TAGS!  Dat klopt!!  Het is onze vriend de hashtag, vroeger bekend als het &quot;getal&quot; en &quot;hekje&quot;, net zoals we het op onze telefoons hebben gezien.  Diegenen van ons muzikanten noemen het zelfs &#39;scherp&#39;.
 
-Voor degenen onder u die *echt* een herinnering nodig heeft, ziet het er als volgt uit: **Aantal**
+Voor degenen van u die *werkelijk* een herinnering nodig hebben, kijkt het als dit: **#**
 
-Hoe dan ook, de reden waarom we het hebben **#tags** omdat ze in die &quot;optionele emmer&quot; van &quot;saaie en saaie, knijpige dingen&quot; zitten die iedereen neigt te negeren (zoals beschrijvingen), omdat we allemaal zo&#39;n haast hebben om de belangrijkere dingen te creëren zoals, oh ik weet het niet -
+Hoe dan ook, de reden dat wij over **#tags** spreken is omdat zij in die &quot;facultatieve emmer&quot;van &quot;saaie en vervelende, knijpige dingen&quot;worden samengeklonterd iedereen negeert (zoals Beschrijvingen), omdat wij allen in zo&#39;n haast zijn om de belangrijkere dingen tot stand te brengen zoals, oh ik weet niet -
 
-- Werkruimterapporten
+- Workspace-rapporten
 - Segmenten
-- Berekende standaarden
+- Berekende cijfers
 - Datumbereik
 
 Gezicht, mensen!  U noemt het, we hebben alle excuses gezien en gehoord voor het feit dat ze worden overgeslagen:
 
-&quot;Oh, hé, maar dat is makkelijk.  Ik kan altijd later terugkomen en die dingen bijwerken op een paar lunchpauzes, of misschien zelfs terwijl ik op een conferentie zit en *alles wat u nodig hebt*,&quot; zei iedereen die NOOIT DID HAD.
+&quot;Oh, hé, maar dat is makkelijk.  Ik kan altijd later terugkomen en enkel die dingen op een paar lunchpauzes bijwerken, of misschien zelfs terwijl ik bij een conferentie zit en *alles krijgen ingehaald*,&quot;zei iedereen die NOOIT DID.
 
 ## Wat staat er in de gereedschapset?
 
-**Adobe** WIJ HEBBEN DE MENSEN zelfs de dienst gedaan om een selecte set #TAGS direct uit-the-box te creëren, omdat ze ons ergens moesten beginnen.  Ik zal in slechts een klein beetje extra voorbehouden maken, maar wat ik eerst toon, geeft u de grootste bonusklus voor uw rekening!
+**Adobe** heeft zelfs ONS DE MENSEN de dienst van het creëren van een uitgezochte reeks #TAGS recht uit-van-de-doos gedaan, omdat, goed.. zij ons uit moesten beginnen ergens.  Ik zal in slechts een klein beetje extra voorbehouden maken, maar wat ik eerst toon, geeft u de grootste bonusklus voor uw rekening!
 
-Voordat u een van uw eigen bestanden maakt, moet u eerst weten hoe u naar bestaande **tags**:
+Alvorens u om het even welk van uw creeert, wat u eerst moet weten is hoe te naar bestaande **markeringen** zoeken:
 
-![Tags GIF](assets/tags-gif.gif)
+![ GIF van Markeringen ](assets/tags-gif.gif)
 
 Of u nu in een nieuw of bestaand project werkt, u hoeft alleen maar naar de zoekbalk van de component te gaan, een #hashtag in te voeren, samen met een van deze hoofdtermen (bekijk alleen de video) en op ENTER te klikken. Of u kunt gewoon beginnen met schuiven totdat u een herkenbare term hebt gevonden.
 
-EERSTE CAVEAT: iets om in mening te houden is, als u aan juiste noemingsovereenkomsten blijft wanneer u begint creërend uw *eigen* -tags, ongeveer elke *gekapitaliseerd* label dat u ziet *moet* en ik zal voorzichtig zijn met het woord &quot;moet&quot; **Adobe**, kant-en-klare getagde items.  Dat betekent dat u ervoor moet zorgen dat alle tags die u maakt zich bevinden in **kleine letters**.
+EERSTE CAVEAT: Iets om in mening te houden is, als u waar aan juiste noemende overeenkomsten blijft wanneer u begint creërend uw *eigen* markeringen, enkel over elk *gekapitaliseerde* markering u *ziet zou moeten*, en ik zal met dat woord &quot;moeten,&quot;zijn een **Adobe**, uit-van-de-doos geëtiketteerd punt.  Dat betekent, zorg ervoor alle markeringen u creeert in **lager geval** zijn.
 
 ## Uw eigen persoonlijke assistent maken
 
 Laten we nu terugkeren naar wat ik eerder zei over een &quot;persoonlijke assistent&quot;.  Wat als ik je vertelde dat je een paar van je favoriete, bestaande onderdelen kon selecteren en ze dan de ENIGE kon maken die je ziet?
 
-![Tags voor 3 schermen](assets/3-screens-tags.jpg)
+![ 3 de schermmarkeringen ](assets/3-screens-tags.jpg)
 
 
 1. Als u meerdere componenten selecteert (CTRL+LEFT KLIK), worden enkele pictogrammen boven weergegeven.  Een van deze zal het TAG-pictogram zijn.
 1. Klik erop, en dan opent het dialoog van Tags, dat is waar u om het even welke bestaande markeringen kunt dan bekijken verbonden aan die componenten.
-1. Het is van dit scherm waar u dan elke **extra/nieuw** -tags die u op dit punt wilt gebruiken.  (Voorbeeld: **test\_v1**)
-1. Als u een NIEUWE tag wilt toevoegen aan een component, klikt u gewoon op **ENTER** op het toetsenbord klikt voordat u op de knop OPSLAAN klikt.
+1. Het is van dit scherm waar u om het even welke **extra/nieuwe** markeringen kunt dan toewijzen u op dit punt kunt wensen.  (Voorbeeld: **test \_v1**)
+1. Om een NIEUWE markering aan om het even welke component toe te voegen, druk eenvoudig **BINNENGAAN** op uw toetsenbord alvorens op de SAVE knoop te klikken.
 1. Wanneer u vervolgens de nieuwe TAG hebt toegewezen, kunt u naar deze tag zoeken door hashtag (#) en de nieuwe TAG in te voeren.
 
 Pardon the pun, maar &quot;#tag, you are it!&quot;  Je hebt jezelf net veel minder gespaard in de toekomst!  Nu zie je waar je zorgvuldigheid en hard werk uiteindelijk zullen komen.
 
 ## Uw persoonlijke assistent aan het werk zetten
 
-Laten we zeggen dat we in de **Reisindustrie** en we stellen een rapport samen voor hun **kernkantooruren**.  Als we zouden beginnen met een zoekopdracht op alleen de term &quot;REIS&quot;, krijgen we misschien veel meer resultaten dan we nodig zouden hebben.  In feite, als we net een **Werkruimte** met de helft van de resultaten die wij daarin hadden moeten boeken , zouden de onderdelen nog steeds niet gemakkelijk beschikbaar zijn .
+Laten wij zeggen wij in de **industrie van het Reizen** werken en wij stellen een rapport voor hun **kernbedrijfsuren** samen.  Als we zouden beginnen met een zoekopdracht op alleen de term &quot;REIS&quot;, krijgen we misschien veel meer resultaten dan we nodig zouden hebben.  In feite, als wij enkel a **Workspace** optrokken die zelfs de helft van de resultaten bevatten wij in het nodig hadden, zouden de componenten nog niet gemakkelijk beschikbaar blijven.
 
-![Crooked-tags](assets/tags-example-travel.jpg)
+![ Gebogen markeringen ](assets/tags-example-travel.jpg)
 
-Maar als we gedurende ons dagelijks werk werken, hebben we regelmatig onze **segmenten**, **cijfers** en andere relevante **componenten** terwijl wij gaan, en misschien slechts een paar nieuwe te creëren op het tijdstip dat wij onze nieuwe creëren **werkruimte** We hebben serieus laten zien hoe we het Reglement in ons voordeel kunnen herschrijven.
+Nochtans, als door ons dagelijks werk wij regelmatig onze **segmenten**, **metriek**, en andere relevante **componenten** hebben geëtiketteerd aangezien wij gaan, en misschien slechts enkele nieuwe degenen op het tijdstip creëren wij onze nieuwe **werkruimte** creëren, hebben wij serieus aangetoond hoe wij het regelboek in ons voordeel kunnen herschrijven!
 
 In dit geval heb ik een eenvoudige #tag gemaakt voor al deze items met de naam #core.
 
-![chikken](assets/cha-ching.png)
+![ cha-ching ](assets/cha-ching.png)
 
 Terwijl je dit onderdeel van je werkgewoonten blijft maken en je vaardigheden om dit steeds weer te doen verbetert, realiseert je je dat het gebruik van #tags meer lijkt op het hebben van je eigen persoonlijke assistent.
 
 Wilt u nog meer echte voorbeelden? Houd rekening met het volgende:
 
-1. Bijvoorbeeld, hoe ongeveer een gemakkelijke manier om uw te vinden **segmenten** en uw **datumbereiken** for **alle kwartalen** in **2023**?
+1. Bijvoorbeeld, hoe over een gemakkelijke manier om uw **segmenten** en uw **datumwaaiers** voor **alle kwartalen** in **2023** te vinden?
 
-   ![Reële wereld 1](assets/real-world-1.png)
+   ![ Echte wereld 1 ](assets/real-world-1.png)
 
-   *Een extra tip*: Met dit vierkantje rechts kunt u zelfs de gesorteerde volgorde wijzigen in *alfabetisch*!
+   *een extra uiteinde*: Dat kleine vierkant van aan het recht zal u zelfs uw gesorteerde orde in *alfabetische* laten veranderen!
 
 
-1. Natuurlijk gebruikt iedereen **campagne bijhouden, codes** tot op zekere hoogte.  Als u een duidelijk beeld wilt houden van *uw* speelgoed, overwegen toevoegen **#tag** Hiermee gaat u alleen naar de kernelementen die u echt nodig hebt om alle andere ruis te zien en eruit te filteren:
+1. Natuurlijk, gebruikt iedereen **campagne het volgen codes** in zekere mate.  Als u een duidelijke mening van enkel *uw* speelgoed zou willen houden, denk na toevoegend **#tag** aan enkel de kernpunten u echt alle andere lawaai moet zien en filtreren:
 
-![Reële wereld 2](assets/real-world-2.png)
+![ Echte wereld 2 ](assets/real-world-2.png)
 
 ## Ga nu naar buiten en speel!
 
@@ -132,15 +132,8 @@ Verbergen en zoeken was leuk als kind, maar nu zijn we volwassenen.  We hebben g
 
 Dit document is geschreven door:
 
-![Jeff Bloomer](assets/jeff-bloomer.png)
+![ Jeff Bloomer ](assets/jeff-bloomer.png)
 
-**Jeff Bloomer**, manager, Digital Analytics bij Kroger Personal Finance
+**Jeff Bloomer**, Manager, Digitale Analytics bij Kroger Persoonlijke Financiën
 
 Adobe Analytics Champion
-
-
-
-
-
-
-

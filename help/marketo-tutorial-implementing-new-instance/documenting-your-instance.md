@@ -9,13 +9,13 @@ duration: 0
 last-substantial-update: 2024-05-08T00:00:00Z
 jira: KT-14815
 thumbnail: KT-14815.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: b3dd05e1-c522-4631-a6b4-c0c6309f25d3
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
 
 ---
-
 
 # Aan de slag met Instance Governance en documentatie
 
@@ -23,7 +23,7 @@ Goede documentatie kan bijna net zo belangrijk zijn als de daadwerkelijke instan
 
 Maar het stopt daar niet. Uw team heeft mogelijk aanvullende machtigingsdocumenten of trainingsmateriaal nodig om hun ervaring met Marketo Engage te verbeteren. Deze bronnen kunnen interactieve oefeningen, quizzen voor toegang of richtlijnen voor toegestane acties binnen Marketo Engage bevatten, ten behoeve van alle gebruikers van het Marketo Engage binnen uw organisatie. Of het nu gaat om het maken van een uitgebreide governancehandleiding of het documenteren van belangrijke instellingsaspecten, het opnemen van beslissingen die tijdens instapweigering zijn genomen, is essentieel voor het waarborgen van succes met Marketo Engage voor uw huidige team en toekomstige generaties nieuwe huren.
 
-Door het belang van documentatie en bestuur te begrijpen, leidt deze zelfstudie tot de beste werkwijzen die afkomstig zijn van collega&#39;s van experts [Aan de slag met uw documentatie over beheer en training van Marketo&#39;s Engage](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target="_blank} en [Hoe documenteert u uw exemplaar?](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target="_blank} om u te helpen een proces op zijn plaats zetten en de documentatie relevant voor uw interne gebruikers houden.
+Door het belang van documentatie en bestuur te begrijpen, komt dit leerprogramma in de beste praktijken voort die uit deskundige edelen [ worden gebracht Begonnen op Uw Documentatie van de Marketo Engage van de Governance en van de Opleiding ](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421) {target="_blank} en [ hoe u uw instantie documenteert?](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877) {target="_blank} om u te helpen een proces op zijn plaats zetten en de documentatie relevant voor uw interne gebruikers houden.
 
 ## Waarom het documenteren van veranderingen en besluiten tijdens instantieimplementatie essentieel is
 
@@ -66,9 +66,9 @@ Geef een leidraad voor uw beheer- en documentatieplan door te beginnen met de vo
 1. Operationele programma&#39;s
    * Persoonsscore
    * Levenscyclus persoon
-   * Gegevensbeheer
+   * Data management
 1. Samenstellen in Marketo Engage-instantie
-   * [Centre of Excellence (COE)](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target="_blank}
+   * [ Centrum van Uitmuntendheid (COE) ](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself) {target="_blank}
    * Mapstructuur
    * Naamgevingsconventies
    * Programmaorganisatie
@@ -103,7 +103,7 @@ Een andere kritieke manier van instantie bestuur is een Changelog te creëren en
 
 ## Wat is de volgende?
 
-* Download de [voorbeelddocumentatie en Changelog](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx) en past deze aan op basis van de behoeften van uw organisatie.
+* Download de [ steekproefdocumentatie en Changelog ](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx) en pas hen aan die op de behoeften van uw organisatie worden gebaseerd.
 * Sla de documentatie op in een toegankelijk platform waar uw organisatie de voorkeur geeft aan referentie en werk deze regelmatig bij. Sommige Marketo Engage Champions gebruiken bijvoorbeeld het effect van het Afdichtingseffect (door het Atlassiaans) of het Werkblad van Excel.
 * Zorg ervoor dat elke regel die u maakt voor governance, een eigenaar heeft om deze toe te passen en de documentatie aan te passen, zodat deze in de loop der tijd up-to-date blijft.
 

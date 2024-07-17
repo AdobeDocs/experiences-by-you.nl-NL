@@ -13,8 +13,8 @@ solution: Marketo Engage
 exl-id: 6bd2433a-ec79-4ce6-873c-4c897c4b9f82
 source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 5%
+source-wordcount: '56'
+ht-degree: 7%
 
 ---
 
@@ -27,7 +27,7 @@ Volg deze stapsgewijze zelfstudie om uw eerste betrokkenheidsprogramma samen te 
 ## Aanvullende bronnen:
 
 Raadpleeg de desbetreffende producthandleidingen voor meer informatie:
-* [Documentatie over betrokkenheidsprogramma&#39;s](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=en)
+* [ Begrijpend de documentatie van de Programma&#39;s van de Betrokkenheid ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=en)
 
 Leer van uw collega&#39;s hoe u de Betrokkenheidsprogramma&#39;s kunt gebruiken:
-* [Deskundige klantenblog: Betrokkenheidsprogramma&#39;s](https://nation.marketo.com/t5/product-blogs/marketo-success-series-engagement-programs/ba-p/301712)
+* [ Professionele Blogpost van de Klant: De Programma&#39;s van de Betrokkenheid ](https://nation.marketo.com/t5/product-blogs/marketo-success-series-engagement-programs/ba-p/301712)

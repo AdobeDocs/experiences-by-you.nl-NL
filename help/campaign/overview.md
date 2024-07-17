@@ -14,9 +14,9 @@ ht-degree: 25%
 
 ---
 
-# [!DNL Campaign] door U: Middelen door gebruikers, voor gebruikers.
+# [!DNL Campaign] door U: bronnen door gebruikers, voor gebruikers.
 
-Het krachtigste ding over [!DNL Adobe] Oplossingen voor Experience Cloud? Jij. De gebruikers die de producten meenemen, erin graven en ze toepassen op verbazingwekkende, innovatieve manieren om zinvolle ervaringen en resultaten te creëren. De ervaring van U kenmerkt inhoud die door dagelijkse gebruikers wordt gecreeerd die een niveau van deskundigheid en invloed met hun hebben bereikt [!DNL Adobe] Experience Cloud oplossingen. Deze peer-to-peer kennis bevordert samenwerking en ontdekking - en stelt u in staat - en elke andere gebruiker de inspiratie te vinden die nodig is om uw productexpertise op een hoger niveau te brengen.
+Het krachtigste aan [!DNL Adobe] Experience Cloud oplossingen? Jij. De gebruikers die de producten meenemen, erin graven en ze toepassen op verbazingwekkende, innovatieve manieren om zinvolle ervaringen en resultaten te creëren. De ervaringen van U hebben betrekking op inhoud die is gemaakt door dagelijkse gebruikers die een expertiseniveau hebben bereikt en invloed hebben uitgeoefend met hun [!DNL Adobe] Experience Cloud-oplossingen. Deze peer-to-peer kennis bevordert samenwerking en ontdekking - en stelt u in staat - en elke andere gebruiker de inspiratie te vinden die nodig is om uw productexpertise op een hoger niveau te brengen.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -37,7 +37,7 @@ Het krachtigste ding over [!DNL Adobe] Oplossingen voor Experience Cloud? Jij. D
     </a>
     <div>
       <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
-    <strong>Best practices voor de beste werkstroom van de eerste vijf</strong>
+    <strong> Hoogste 5 Beste praktijken van het Werkschema voor Marketers </strong>
     </a>
     </div>
     <p>
@@ -50,7 +50,7 @@ Het krachtigste ding over [!DNL Adobe] Oplossingen voor Experience Cloud? Jij. D
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-    <strong>Oplossen van problemen voor marktspelers: 5 algemene workflowfouten en leveringsfouten</strong>
+    <strong> het Oplossen van problemen voor Marketers: 5 Gemeenschappelijke Fouten van het Werkschema en van de Levering </strong>
     </a>
     </div>
     <p>
@@ -63,7 +63,7 @@ Het krachtigste ding over [!DNL Adobe] Oplossingen voor Experience Cloud? Jij. D
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
-    <strong>Tien beste praktijken voor Adobe Campaign succes voor marketers</strong>
+    <strong> Tien beste praktijken voor het succes van Adobe Campaign voor marketers </strong>
     </a>
     </div>
     <p>
@@ -77,8 +77,8 @@ Het krachtigste ding over [!DNL Adobe] Oplossingen voor Experience Cloud? Jij. D
 
 ## Aanvullende bronnen
 
-* [Experience League Adobe Campaign Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
-* Adobe Campaign v8 -  [Documentatie](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=nl) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html)
-* Adobe Campaign Classic v7 - [Documentatie](https://experienceleague.adobe.com/docs/campaign-classic.html) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=nl)
-* ADOBE CAMPAIGN STANDARD - [Documentatie](https://experienceleague.adobe.com/docs/campaign-standard.html) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=nl)
-* [Adobe Campaign-productinformatie](https://business.adobe.com/products/campaign/adobe-campaign.html)
+* [ Gemeenschap van Adobe Campaign van de Experience League ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
+* Adobe Campaign v8 - [ Documentatie ](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=nl) / [ Tutorials ](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html)
+* Adobe Campaign Classic v7 - [ Documentatie ](https://experienceleague.adobe.com/docs/campaign-classic.html) / [ Tutorials ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=nl)
+* Adobe Campaign Standard - [ Documentatie ](https://experienceleague.adobe.com/docs/campaign-standard.html) / [ Tutorials ](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=nl)
+* [ het productinformatie van Adobe Campaign ](https://business.adobe.com/products/campaign/adobe-campaign.html)

@@ -12,7 +12,7 @@ thumbnail: KT-13213.jpeg
 exl-id: 79392eea-a8b6-4ae2-98ef-6ebbd11d88a0
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1106'
+source-wordcount: '1142'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Huidige digitale prestaties
 1. Voor beide, 11,6% versus 11,4%, zetten de eerste bezoeken een iets hogere conversie uit dan terugkeerbezoeken.
 1. Vergeleken met 2021 daalden de omrekeningskoersen voor beide segmenten.
 
-![Bezoektabel](assets/cohort1.png)
+![ lijst van Bezoeken ](assets/cohort1.png)
 
 ## Deel 2: Cohortanalyse - Bezoek Eetbare Regelingen Wereldwijd Product
 
@@ -53,11 +53,12 @@ Cohortanalyse is een handig hulpmiddel om te begrijpen hoe cohorten in de loop d
 Procedure voor het instellen van de cohortabel
 
 1. Datumbereik instellen op Jan tot december 2022
-1. **Opnamecriteria:** Bezoeken
-1. **Retourcriteria:** Bezoeken
+1. **criteria van de Opname:** bezoeken
+1. **criteria van de Terugkeer:** bezoeken
 1. **Korreligheid:** Maand
-1. **Instellingen:** Bij rolberekening \*\*Hiermee kunt u de retentie berekenen op basis van de vorige kolom, niet op basis van de opgenomen kolom. Dit betekent dus dat een gebruiker in elk van de maanden is opgenomen\*\*
-1. **Segmenten:** u kunt specifieke segmenten selecteren om deze analyse verder te sturen
+1. **Montages:** Rolling Berekening
+\*\*Hiermee kunt u de retentie berekenen op basis van de vorige kolom, niet op basis van de opgenomen kolom. Dit betekent dus dat een gebruiker in elk van de maanden is opgenomen\*\*
+1. **Segmenten:** u kunt specifieke segmenten selecteren om deze analyse verder te drijven
    1. Specifieke landingspagina&#39;s
    1. Apparaattype
    1. Marketingkanalen
@@ -65,22 +66,22 @@ Procedure voor het instellen van de cohortabel
 
 ### De resultaten interpreteren
 
-**In 2022:**
+**in 2022:**
 
 1) Maanden met de hoogste aanhoudingspercentages +1 maand omvatten januari, april en november
 1) Maanden met de meeste volumes zijn februari en mei
 1) Er zijn ongeveer 1.000 bezoekers die elke maand naar de site terugkeren
 
-![2022-retentietabel](assets/cohort2.png)
+![ 2022 bewaarlijst ](assets/cohort2.png)
 
-**In 2021:**
+**in 2021:**
 
 1) Maanden met de hoogste aanhoudingspercentages +1 maand omvatten april, januari en maart
 1) Maanden met de meeste volumes zijn februari en mei
 
-![2021 Bewaartabel](assets/cohort3.png)
+![ 2021 lijst van het Behoud ](assets/cohort3.png)
 
-**Actiepunten:**
+**punten van de Actie:**
 
 Maak een segment op basis van ~1.000 Bezoekers en leer er meer over:
 
@@ -111,29 +112,30 @@ Wat zou het effect zijn als wij meer gebruikers aan login konden krijgen? Is dat
 
 ### De tabel Cohort instellen
 
-1. **Datumbereik instellen:** tot januari tot en met december 2022
-1. **Opnamecriteria:** Bezoek + gebeurtenis met succes aanmelden
-1. **Retourcriteria:** Bezoeken
+1. **vastgestelde Waaier van de Datum:** aan Jan aan Dec 2022
+1. **criteria van de Opname:** bezoeken + Login succesgebeurtenis
+1. **criteria van de Terugkeer:** bezoeken
 1. **Korreligheid:** Maand
-1. **Instellingen:** Bij rolberekening \*\*Hiermee kunt u de retentie berekenen op basis van de vorige kolom, niet op basis van de opgenomen kolom. Dit betekent dus dat een gebruiker in elk van de maanden is opgenomen\*\*
+1. **Montages:** Rolling Berekening
+\*\*Hiermee kunt u de retentie berekenen op basis van de vorige kolom, niet op basis van de opgenomen kolom. Dit betekent dus dat een gebruiker in elk van de maanden is opgenomen\*\*
 
 ### De resultaten interpreteren
 
-**In 2022:**
+**in 2022:**
 
 1) Maanden met de hoogste aanhoudingspercentages +1 maand omvatten januari, april en november (dezelfde maanden als de eerste cohortingtabel)
 1) Maanden met het grootste volume zijn februari en mei en december
 1) Er zijn ~2500 bezoekers die elke maand \*\*meer dan twee keer\*\* retourneren
 
-**Actiepunten:**
+**punten van de Actie:**
 
 Bekijk de gebruikerservaring van de site om gebruikers te vragen een account te maken tijdens de afhandeling
 
-![Tabel 4](assets/cohort4.png)
+![ Lijst 4 van de Cohort ](assets/cohort4.png)
 
 ## Deel 4: Aangepast Dimension
 
-Aangepaste cohort Dimension: maak cohorten op basis van de geselecteerde dimensie in plaats van op tijd gebaseerde cohorts (standaard). Vele klanten willen hun cohorten met iets anders dan tijd analyseren en de nieuwe eigenschap van de Cohort van het Dimension van de Douane biedt u de flexibiliteit om cohorten te bouwen die op afmetingen van hun kiezen worden gebaseerd. De afmetingen van het gebruik zoals marketing kanaal, campagne, product, pagina, gebied of om het even welke andere dimensie in [!DNL Adobe Analytics] om aan te geven hoe de retentie verandert op basis van de verschillende waarden van deze afmetingen. De
+Aangepaste cohort Dimension: maak cohorten op basis van de geselecteerde dimensie in plaats van op tijd gebaseerde cohorts (standaard). Vele klanten willen hun cohorten met iets anders dan tijd analyseren en de nieuwe eigenschap van de Cohort van het Dimension van de Douane biedt u de flexibiliteit om cohorten te bouwen die op afmetingen van hun kiezen worden gebaseerd. Met afmetingen zoals marketingkanaal, campagne, product, pagina, gebied of een andere dimensie in [!DNL Adobe Analytics] kunt u zien hoe de retentie verandert op basis van de verschillende waarden van deze afmetingen. De
 
 Bij de definitie van het segment Cohort van aangepast Dimension wordt de dimensie-item alleen toegepast als onderdeel van de opnemingsperiode, niet als onderdeel van de terugkeerdefinitie.
 
@@ -145,19 +147,19 @@ zijde, producten, campagnes, enz. Het zal uw hoogste 14 afmetingspunten terugker
 
 In de tabel Aangepast Dimension cohort worden producten gemarkeerd die een hogere retentiesnelheid hebben dan gemiddeld.  Met deze tabel kunt u uw beste producten identificeren om interne en externe marketingcampagnes met producten die de aandacht verdienen, te stimuleren.
 
-**In feb:** 3 producten met hoge retentiepercentages
+**in Feb:** 3 producten stand-out met hogere behoudtarieven
 
 1) Product 1
 1) Product 2
 1) Product 3
 
-**In maart:**
+**in Mar:**
 
 1) Product 1
 1) Product 2
 1) Product 3 — levert vaak hogere retentie op dan gemiddeld retentie.
 
-![Tabel 5](assets/cohort5.png)
+![ Lijst van de Cohort 5 ](assets/cohort5.png)
 
 ## Conclusie
 
@@ -167,7 +169,7 @@ Cohortanalyse en Custom Dimension Cohort zijn krachtige tools voor een beter beg
 
 Dit document is geschreven door:
 
-![Jennifer Yacenda](assets/jennifer-yacenda.png)
+![ Jennifer Yacenda ](assets/jennifer-yacenda.png)
 
 **Jennifer Yacenda**, Senior Director bij Marriott
 

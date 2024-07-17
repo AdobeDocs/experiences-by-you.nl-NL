@@ -11,7 +11,7 @@ thumbnail: KT-13476.jpeg
 exl-id: 369c526d-8664-4771-81b6-24c9f50bc37e
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1975'
+source-wordcount: '1991'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ In deel twee leert u hoe u de intentsegmenten voor aankoop en retentie kunt opbo
 
 In ons laatste artikel beschreven we het proces van het creëren van bezoekintentsegmenten, en bouwden ons eerste bezoek intent segment, One Hit Wonders. Vandaag maken we onze aankoop- en retentiesegmenten. We hadden ongeveer 23% van onze bezoeken gesegmenteerd en we bouwden onze plaatsaanduidingen voor de resterende segmenten van Visit Intent.
 
-![Afbeelding 1](assets/Image-1.png)
+![ Beeld 1 ](assets/Image-1.png)
 
 De segmenten van de bezoekintentie die wij nu bouwen zijn de stichting van op bezoekers-gebaseerde segmenten van de klantenreis. We bouwen die reissegmenten op bezoekers nadat we de doelsegmenten van ons bezoek hebben gemaakt.
 
@@ -60,15 +60,15 @@ We kunnen dit zien als een supermarkt. Als iemand een product van de plank oppik
 
 Ik stel voor om bezochte pagina&#39;s of andere expliciete inkoopintentiesignalen te gebruiken en andere, minder directe signalen te vermijden om aankoopintentie te identificeren. Ik zou bijvoorbeeld niet het aantal sessies of pagina&#39;s in een sessie of een vergelijkbare sessie gebruiken. Deze indirecte signalen wijzen op Overwegingen, niet op Inkoopintentie. Onthoud dat dit segment tot doel heeft de bezoekersintentie af te leiden voor het bezoek, niet hun neiging.
 
-### Gebruiken [!DNL Analytics] Werkruimte voor het identificeren van inkoopintentiesignalen
+### Workspace gebruiken om inkoopintentiesignalen te identificeren[!DNL Analytics]
 
 Het rapport van de Uitval is zeer nuttig om een goed signaal te identificeren dat op aankoopintentie wijst. Zoek een plaats die logisch op intent wijst. U kunt bevestigen dat de stap op intentie wijst wanneer u een opmerkelijke uitval ziet die naar die stap gaat, vaak gevolgd door een kleinere uitval voor de stap onmiddellijk daarna.
 
-![Afbeelding 2](assets/Image-2.png)
+![ Beeld 2 ](assets/Image-2.png)
 
 Het is ook handig om de conversiesnelheden te bekijken die zijn gekoppeld aan de verschillende pagina&#39;s op uw site. Dit is met name handig voor het identificeren van pagina&#39;s die de aankoopintentie aangeven, maar die mogelijk niet hoeven te worden aangeschaft (zoals financieringspagina&#39;s, pagina&#39;s met inkoopconfiguratie, enz.).
 
-![Afbeelding 3](assets/Image-3.png)
+![ Beeld 3 ](assets/Image-3.png)
 
 Tot slot is het belangrijk om alle pagina&#39;s tussen aanschafbevestiging en aankoopbevestiging in uw segment te omvatten. Bezoekers kunnen rondstuiteren en de aanschafstroom opnieuw invoeren op verschillende punten.
 
@@ -88,13 +88,13 @@ Gebruikend de bezoekcontainer, omvat die pagina&#39;s of andere acties die uitdr
 
 Voeg een container van de Uitsluiting aan het segment toe dat door de &quot;en&quot;voorwaarde wordt verbonden. Voeg de segmentdefinitie van One Hit Wonders (paginaweergaven zijn gelijk aan 1) toe aan de container Exclude.
 
-![Afbeelding 4](assets/Image-4.png)
+![ Beeld 4 ](assets/Image-4.png)
 
 Let erop dat u uw containers een label geeft. U zult blij zijn u, vooral aangezien onze segmentdefinities complexer worden.
 
-Nu wij het segment Inkoopintentie hebben gebouwd, kunnen wij de Werkruimte van de Kwaliteit van de Gegevens van de Bezoek gebruiken om te zien dat ons segment van de Intentie van de Aankoop met ons segment Één en Gereed wederzijds uitsluiten.
+Nu wij het segment Intent van de Aankoop hebben gebouwd, kunnen wij de Bezoek de Kwaliteit van Gegevens van de Intentie van Workspace gebruiken om te zien dat ons segment van de Intentie van de Aankoop met ons segment Één en Gereed wederzijds uitsluiten.
 
-![Afbeelding 5](assets/Image-5.png)
+![ Beeld 5 ](assets/Image-5.png)
 
 ## Het segment Bezoekintentie opbouwen
 
@@ -106,13 +106,13 @@ Net als bij het segment Intent kopen we op zoek naar zeer expliciete aanwijzinge
 
 Ik zou moeten opmerken dat &quot;Behoud&quot;een beetje van een ongemakkelijke naam voor dit bezoekvoornemen is, aangezien de bezoeker niet op onze plaats is, &quot;zodat kan ik als klant worden behouden.&quot; Behoud is onze bedoeling voor dat bezoek. Herinner me enkel om empathisch aan onze klanten te zijn en een klant-eerste nadruk te handhaven!
 
-### Gebruiken [!DNL Analytics] Werkruimte voor het identificeren van Retentie-intentiesignalen
+### Signalen van retentie-intentie identificeren met [!DNL Analytics] Workspace
 
-Opnieuw, [!DNL Analytics] Werkruimte helpt ons om retentie-intentie te identificeren. U kunt de pagina&#39;s, sitesectie of aangepaste segmentafmetingen gebruiken om uw pagina&#39;s te categoriseren. Zoek naar pagina&#39;s met lage aankoopconversietarieven. In ons geval zijn de conversietarieven van inchecken en winkelen (Shorex) voor pagina&#39;s relatief lager dan voor andere pagina&#39;s die logischerwijs met inkopen en aankopen te maken hebben.
+Opnieuw helpt [!DNL Analytics] Workspace ons de Behoud-intentie te identificeren. U kunt de pagina&#39;s, sitesectie of aangepaste segmentafmetingen gebruiken om uw pagina&#39;s te categoriseren. Zoek naar pagina&#39;s met lage aankoopconversietarieven. In ons geval zijn de conversietarieven van inchecken en winkelen (Shorex) voor pagina&#39;s relatief lager dan voor andere pagina&#39;s die logischerwijs met inkopen en aankopen te maken hebben.
 
-![Afbeelding 6](assets/Image-6.png)
+![ Beeld 6 ](assets/Image-6.png)
 
-Het is ook een goed idee om in Workspace naar pagina&#39;s met veel verkeer te kijken. Scan de lijst met pagina&#39;s met veel verkeer en bepaal of deze een retentieintentie aangeven.
+Het is ook een goed idee om in Workspace te zoeken naar pagina&#39;s met veel verkeer. Scan de lijst met pagina&#39;s met veel verkeer en bepaal of deze een retentieintentie aangeven.
 
 ## Met uitzondering van andere segmenten
 
@@ -130,11 +130,11 @@ Onze segmentdefinities worden een beetje langzamer. Neem bezoeken op in uw segme
 
 Voeg vervolgens containers toe voor uw One Hit Wonders- en Purchase Intent-bezoeken. Zorg ervoor dat de containers zijn verbonden met de voorwaarde &quot;En&quot;.
 
-![Afbeelding 7](assets/Image-7.png)
+![ Beeld 7 ](assets/Image-7.png)
 
-Opnieuw, bekijk uw Werkruimte van de Kwaliteit van de Gegevens van de Inhoud van het Bezoek om ervoor te zorgen uw segmenten wederzijds uitsluiten. Onze segmenten van de Bezoek-intentie worden mooi weergegeven!
+Kijk eens naar de Workspace voor de gegevenskwaliteit van Bezoek om ervoor te zorgen dat uw segmenten elkaar uitsluiten. Onze segmenten van de Bezoek-intentie worden mooi weergegeven!
 
-![Afbeelding 8](assets/Image-8.png)
+![ Beeld 8 ](assets/Image-8.png)
 
 Op dit punt, hebben wij drie van onze vijf segmenten van de Intentie van het Bezoek gevormd. We zien dat deze segmenten elkaar uitsluiten. In ons volgende artikel maken we de uiteindelijke segmenten Visit Intent, Consideration and Awareness. Onze segmenten zullen allemaal volledig zijn. Zodra onze segmenten van de Intentie van het Bezoek opstelling zijn, zullen wij hen samenbrengen in bezoekersgebaseerde segmenten die u zeer nuttig voor analyse en verpersoonlijking zult vinden.
 
@@ -142,8 +142,8 @@ Op dit punt, hebben wij drie van onze vijf segmenten van de Intentie van het Bez
 
 Dit document is geschreven door:
 
-![Aaron Fossum](assets/aaron-headshot.png)
+![ Aaron Fossum ](assets/aaron-headshot.png)
 
-**Aaron Fossum**, Director, Digital [!DNL Analytics]
+**Aaron Fossum**, Director, Digitaal [!DNL Analytics]
 
 [!DNL Adobe Analytics] Champion

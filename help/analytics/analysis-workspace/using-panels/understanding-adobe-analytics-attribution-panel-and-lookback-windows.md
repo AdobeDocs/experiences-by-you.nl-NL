@@ -12,22 +12,22 @@ thumbnail: KT-13181.jpeg
 exl-id: 2a62e563-bad9-424f-94ca-2af68d4a83b5
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1668'
+source-wordcount: '1658'
 ht-degree: 0%
 
 ---
 
-# Begrijpen [!DNL Adobe Analytics] deelvenster Toewijzing en terugzoekvensters
+# [!DNL Adobe Analytics] Deelvenster Kenmerken en terugzoekvensters
 
-Wanneer ik voor het eerst nadacht over de [deelvenster voor kenmerken](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) en **lookback-venster** Ik werd onmiddellijk herinnerd aan het begrip &quot;*tijdreis&quot;* En toen, natuurlijk, werd ik ook herinnerd aan onze typische reactie op vele nieuwe hulpmiddelen zoals deze is om eenvoudig het proberen uit te stellen om het te gebruiken, omdat zij zo ingewikkeld lijken.
+Toen ik eerst aan het [ attributiepaneel ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) en **raadplegingsvenster** dacht, werd ik onmiddellijk herinnerd aan het concept &quot;*tijdreis&quot;*; dan, natuurlijk, werd ik ook herinnerd aan onze typische reactie op vele nieuwe hulpmiddelen zoals dit eenvoudig het proberen uit te stellen om het te gebruiken, omdat zij zo gecompliceerd kijken.
 
 Ik bedoel eerlijk gezegd, kijk gewoon naar al die opties, switches, deelvensters, lezingen en knoppen.  En serieus, laten we het hebben over die gecompliceerde knipperende lichten, slangen, kooien... WACHT!  Dit is niet het moment om afleiding te krijgen in het praten over tijdmachines, we hebben gewoon geen tijd... of doen we dat?
 
-Ik geef toe **deelvenster voor kenmerken** Het is een vrij complex instrument, maar onze typische taak als analisten, dag in dag uit, is om een ander van onze favoriete en zeer complexe instrumenten te gebruiken om ook te kijken naar wat er in het verleden is gebeurd. Dat gereedschap heet ***[!DNL Adobe Analytics]***!  Dus ja, om onze zeer relevante vraag te beantwoorden, denk ik dat deze twee dingen zeggen dat we genoeg tijd hebben.
+Ik zal het **attributiepaneel** toegeven is een vrij complex hulpmiddel; nochtans, onze typische baan als analisten, dag in en dag uit, moet een andere van onze favoriete en hoogst complexe hulpmiddelen gebruiken om ook een blik te nemen op wat in het verleden gebeurde. Dat gereedschap heet ***[!DNL Adobe Analytics]**!  Dus ja, om onze zeer relevante vraag te beantwoorden, denk ik dat deze twee dingen zeggen dat we genoeg tijd hebben.
 
-Daarom waarom zouden we iets als een beetje angst moeten toestaan om zo&#39;n verbazingwekkende, gesofisticeerde en krachtige hulpmiddelen als deze die ons letterlijk in staat stellen om te kijken, in de weg te staan *achterwaarts* in de tijd , elke dag ?
+Daarom waarom zouden wij iets als een beetje angst moeten toestaan om de manier van zulke verbazingwekkende, gesofisticeerde, en krachtige hulpmiddelen als deze te verhinderen die ons letterlijk toestaan om *achteruit* in tijd, elke dag te kijken?
 
-Want dit is TIJDREIS, mensen!  We hebben het allemaal over dat soort dingen.  Right???!!
+Want dit is TIJDREIS, mensen!  We hebben het allemaal over dat soort dingen.  Juist??!
 
 Dus, wat wachten we op - een glanzende metalen auto, een politiedoos, of een oude telefoontoestel met de bedrading van een oude paraplu als antenne om op onze deur te komen?
 
@@ -36,100 +36,100 @@ Nee!  We hebben nog iets beters, dus laten we er maar aan vasthouden!
 Nou... je krijgt het idee.
 
 
-Nu we allemaal enthousiast zijn over tijdreizen, laten we een diepe adem nemen, een stap terug, bepalen wat de **deelvenster voor kenmerken** *echt* is, en onderbreek de dingen een beetje:
+Nu wij allen over tijdreis enthousiast zijn, nemen een diepe adem, stap terug een beetje, bepaal wat het **werkelijk 2} attributiepaneel 0} *is, en breken dingen neer een klein beetje:***
 
-![Attributie](assets/attribution.png)
+![ Attributie ](assets/attribution.png)
 
-*Afbeelding 1 - Getallen die inline met de onderstaande tekst worden weergegeven*
+*Figuur 1 - Getallen die inline met tekst verder onder* worden getoond
 
-In **toewijzing** Overweeg eenvoudig hoe gebeurtenissen/acties kunnen worden veroorzaakt door een individu, meerdere personen of een van de verschillende gebeurtenissen in de loop van de tijd.
+In **attributie**, overweeg eenvoudig hoe de gebeurtenissen/de acties door een individu, verscheidene individuen, of één van om het even welk aantal verschillende gebeurtenissen in tijd zouden kunnen worden veroorzaakt.
 
-Volgens [[!DNL Adobe]](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), *toewijzing* biedt analisten de mogelijkheid om aan te passen *Dimension* objecten ontvangen creditering voor *succesgebeurtenissen*.
+Volgens [[!DNL Adobe] ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), *attributie* geeft analisten de capaciteit aan om aan te passen hoe *Dimension* punten krediet voor *succesgebeurtenissen* ontvangen.
 
 
 >[!WARNING]
 >
->Een korte opmerking om aan te geven dat **toewijzingsmodellen** worden zo vaak geassocieerd met **afzetkanalen** dat ik doelbewust *doorgehaald* ❷ KANAAL in de bovenstaande afbeelding om aan te tonen dat het mogelijk is om **toewijzing** analyse tegen de meeste andere ***dimensie***.
+>Enkel een snelle nota om uit te roepen dat **attributiemodellen** zo vaak met **marketing kanalen** worden geassocieerd dat ik opzettelijk *doorstreept* ❷ KANAAL in het beeld hierboven om het te illustreren **attributie** analyse tegen meeste andere ***afmeting*** kan uitvoeren.
 
 
-In feite, is zelden om het even welke bepaalde klantenreis echt lineair en zelfs minder vaak voorspelbaar.  Meer zo, zal elke klant bij hun eigen tempo te werk gaan; vaak, zouden zij terug kunnen verdubbelen, kunnen stagneren, wegvallen, of andere niet-lineair gedrag aangaan. Deze biologische acties maken het moeilijk of praktisch onmogelijk om de impact van marketinginspanningen op de hele reis van de klant te kennen. Ook wordt het hierdoor lastig om meerdere datakanalen aan elkaar te koppelen.
+In feite, is zelden om het even welke bepaalde klantenreis echt lineair en zelfs minder vaak voorspelbaar.  Meer zo, zal elke klant bij hun eigen tempo te werk gaan; vaak, zouden zij terug kunnen verdubbelen, kunnen stagneren, wegvallen, of andere niet-lineair gedrag aangaan. Deze biologische acties maken het moeilijk of praktisch onmogelijk om de impact van marketinginspanningen op de hele reis van de klant te kennen. Het belemmert ook de inspanningen om meerdere gegevenskanalen aan elkaar te koppelen.
 
 Dat klopt.  Laat je &#39;domino&#39;-analogieën bij de deur staan en open voor concepten die meer op de lijn liggen van het vlindereffect en de snaartheorie - maar net als alle andere dingen moeten we beginnen met een aantal basisprincipes.
 
-## **Attributiemodellen**
+## **modellen van de Attributie**
 
-Als wij **deelvenster voor kenmerken** We kunnen echter verschillende dingen gaan zien.  Bijvoorbeeld de **toewijzingsmodellen** laten zien hoe onze *conversies* (dat wil zeggen, ❶ **succeswaarden**) kan over *treffers* in een bepaalde groep.
+Wanneer wij het **attributiepaneel** gebruiken, kunnen wij beginnen verscheidene verschillende dingen waar te nemen.  Bijvoorbeeld, tonen de **attributiemodellen** aan ons hoe onze *omzettingen* (d.w.z., ❶ **succesmetriek**) over *hits* in om het even welke bepaalde groep kunnen worden verdeeld.
 
-Eenvoudig gezet, als **10 personen** druk op **GROTE RODE KNOP** om door een deur te stappen, onze **toewijzingsmodellen** zullen ons vertellen welke van hen **10 personen** wij willen &quot; krediet &quot; toekennen - of beter gezegd : hoe *veel* &quot; verdienste &quot; willen wij hen toewijzen - voor het drukken op de knop .
+Eenvoudig gezet, als **10 mensen** a **BIG RODE KNOP** aan stap door een deur, onze **attributiemodellen** ons zullen vertellen welke van die **10 mensen** wij &quot;krediet&quot;willen toewijzen - of beter gezegd, hoe *veel* &quot;krediet&quot;wij hen willen toewijzen - voor het drukken van genoemde knoop.
 
-![Knop](assets/button.png)
+![ Knoop ](assets/button.png)
 
-Met dit in gedachten zijn er een paar voorbeelden van hoe de ❸ **toewijzingsmodellen** kunnen gevolgen hebben voor **10 personen**:
+Het houden van dit in mening, zijn hier een paar voorbeelden van hoe de ❸ **attributiemodellen** die **10 mensen** zouden kunnen beïnvloeden:
 
-- **Eerste aanraking**: Dit model werkt precies zoals het klinkt door **100% krediet** aan de *first* persoon die door de deur liep.  Marktdeelnemers gebruiken deze aanpak eerder voor tactieken zoals ***sociale media*** of ***display*** Het is echter ook een grote tactiek om vaak te gebruiken voor de doeltreffendheid van aanbevelingen ter plaatse voor producten.
-- **Laatste aanraking**: Deze tactiek werkt ook precies zoals het klinkt, maar geeft in plaats daarvan **100% krediet** naar de LAST-persoon die door de deur liep.  Dit model wordt doorgaans gebruikt voor het analyseren van zaken zoals ***natuurlijke ( organische ) zoekopdracht*** en andere *op korte termijn* marketingcycluscampagnes.
-- **Lineair**: Dit model verdeelt evenwaardig krediet over IEDERE ENKELE PERSOON die door de deur liep.
+- **Eerste aanraking**: Dit model werkt precies als het door **100% krediet** aan de *eerste* persoon te geven die door de deur liep.  De verkopers zijn waarschijnlijker deze benadering voor tactieken zoals ***sociale media*** of ***vertoning*** te gebruiken; nochtans, is het ook een grote tactiek om vaak voor de doeltreffendheid van de productaanbeveling ter plaatse te gebruiken.
+- **Laatste aanraking**: Deze tactiek werkt ook precies als het klinkt, maar in plaats daarvan geeft **100% krediet** aan de LAATSTE persoon die door de deur liep.  Dit model wordt typisch gebruikt om dingen als ***natuurlijk (biologisch) onderzoek*** en andere *kortetermijn* marketing cycluscampagnes te analyseren.
+- **Lineair**: Dit model verdeelt gelijk krediet over ELKE ENKELE PERSOON die door de deur liep.
 
   >[!CAUTION]
   >
   >Hier wordt echter de nodige voorzichtigheid geboden, omdat u de resultaten zeer snel kunt verspreiden wanneer u deze tactiek toepast, rekening houdend met hoe langer de tactiek loopt en hoe groter het publiek dat deze bereikt.
 
-- **U-vorm**: Deze aanpak wijst toe **40%** van het krediet aan de *eerste persoon* in de deur, spreads **20%** van het krediet *iedereen tussen* en geeft vervolgens **40%** aan de **laatste** door. Dit model wordt meestal gebruikt in situaties waarin u een **lange conversie-/verkoopcyclus** bevattende *verschillende aanraakpunten* onderweg.  In dit geval is het uw bedoeling om vooral de nadruk te leggen op de ***first*** en ***last*** marketing tactiek die tot de klant het omzetten bijdroeg.
-- **J**-**Vorm** en **Omgekeerd J**:
-   - Denk na over **U-vorm**, maar in plaats daarvan wijst dit model **60%** krediet aan de *laatste persoon* door de deur lopen; **20%** aan de *first* en vervolgens *delen* de resterende **20%** dwars *iedereen anders* in het midden.  **Omgekeerd J** doet precies het tegenovergestelde.
+- **u-Vormd**: Deze benadering wijst **40%** van het krediet aan de *eerste persoon* in de deur toe, spreads **20%** van het krediet over *iedereen binnen tussen*, en geeft dan **40%** aan **laatste** door. Dit model zal het vaakst in situaties worden gebruikt wanneer u a **lange omzetting/verkoopcyclus** die *verscheidene aanraakpunten* langs de weg bevat.  In dit geval, is uw doel ***eerste*** en ***laatste*** marketing tactiek primair te benadrukken die aan de klant het omzetten bijdroeg.
+- **J** - **Vormde** en **Omgekeerde J**:
+   - Denk over **u-Gegraveerd**, maar in plaats daarvan wijst dit model **60%** krediet aan de *laatste persoon* lopend door de deur, **20%** aan *eerst* toe, en dan *verdeelt* resterende **20%** over {11 4} iedereen anders *in het midden.*  **Omgekeerde J** doet het nauwkeurige tegenovergestelde.
 
-     Het is de bedoeling om de meeste nadruk te leggen, ofwel op de *begin* of de *end* van uw campagne, maar u wilt nog steeds een bepaald bedrag aan krediet aan het bijdragende punt op het tegenovergestelde eind toewijzen terwijl u de &quot;kleine jongens&quot; onderweg erkent.
+     Het doel is hier het grootste deel van uw nadruk, of bij het *begin* of het *eind* van uw campagne te zetten; nochtans, wilt u nog een bepaalde hoeveelheid krediet aan het bijdragende punt op het tegenovergestelde eind toewijzen terwijl het erkennen van de &quot;kleine jongens&quot;langs de manier.
 
-- **Tijdverlies**: Nu, ik zou het missen als ik deze niet deelde. Dit model heeft letterlijk een halfwaardetijd die exponentieel vervalt - in de loop der tijd!  In dit geval worden de *default* parameter voor de halfwaardetijd van dit model **7 dagen**.  De manier waarop het werkt, is vervolgens van toepassing *gewicht* aan elk **marketingkanaal**, *op basis van de hoeveelheid tijd* die na de *eerste aanraakpunt* en wanneer de klant omzet.
+- **Verval van de Tijd**: Nu, zou ik remiss zijn als ik dit niet deelde. Dit model heeft letterlijk een halfwaardetijd die exponentieel vervalt - in de loop der tijd!  In dit geval, is de *standaard* parameter voor het halfleven van dit model **7 dagen**.  De manier het werkt is *gewicht* op elk **marketing kanaal** dan toe te passen, *gebaseerd op de hoeveelheid tijd* die na *aanvankelijke touchpoint* overgaat en wanneer de klant omzet.
 
-  **Tijdverlies** en **U-vormige attributiemodellen** worden beide typisch gebruikt om langer-genoemd campagnes te meten, maar zoals u kunt zien, hebben zij lichtjes verschillende doelstellingen, die op hoe uiteindelijk zij worden gebaseerd *wegen* de waarde van het resultaat.
+  **Verval van de Tijd** en **U-Gegrafeerde attributiemodellen** zowel worden typisch gebruikt om langer-bedachte campagnes te meten, maar aangezien u kunt zien, hebben zij lichtjes verschillende doelstellingen, die op hoe zij uiteindelijk ** de waarde van het resultaat wegen.
 
-- **Aangepast**: Je kiest en kiest wie er geld krijgt.  Het is jouw campagne!
+- **Douane**: U kiest en kiest wie krediet gaat krijgen.  Het is jouw campagne!
 
-Voor aanvullende informatie over deze en andere attributiemodellen: [klik hier](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
+Voor extra informatie over deze en andere attribuutmodellen, [ klik hier ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
 
 Om dit nog interessanter te maken, praten we over het terugdraaien van de klok!
 
-## **Venster opzoeken**
+## **Lookback vensters**
 
 Nu is het tijd om je geest op een hoger niveau te zetten.  Hier voegen we letterlijk het tijdreiselement toe aan onze analyse - en opnieuw beginnen we met de basis.
 
-***[!DNL Adobe]*** ❹ **terugzoekvensters** als &quot; de hoeveelheid tijd die een conversie moet terugkijken om aanraakpunten op te nemen . Attributiemodellen die meer krediet geven aan eerste interacties zien grotere verschillen bij het weergeven van verschillende terugkijkvensters.&quot;
+***[!DNL Adobe]*** bepaalt ❹ **raadplegingsvensters** als &quot;de hoeveelheid tijd een omzetting zou moeten terugkijken om aanraakpunten te omvatten. Attributiemodellen die meer krediet geven aan eerste interacties zien grotere verschillen bij het weergeven van verschillende terugkijkvensters.&quot;
 
 
-Met andere woorden: **terugzoekvensters** bepalen gedurende welke periode *conversies* worden overwogen en *context* naar de analyse van de toerekeningswaarde. ***[!DNL Adobe Analytics]*** biedt drie typen **terugzoekvensters**:
+Met andere woorden, **raadplegingsvensters** bepalen de tijdspanne waarin *omzettingen* worden overwogen en *context* aan de attributieanalyse verstrekken. ***[!DNL Adobe Analytics]*** biedt drie soorten **raadplegingsvensters** aan:
 
-- **Het terugkijkvenster van de bezoek:** Kijkt terug naar het begin van een ***bezoek*** wanneer er een conversie heeft plaatsgevonden , geeft deze inzicht in de onmiddellijke interacties die tot conversies hebben geleid .
+- **het raadplegingsvenster van het Bezoek:** kijkt terug naar het begin van a ***bezoek*** wanneer een omzetting gebeurde, die inzichten in de directe interactie verstrekken die tot omzettingen leiden.
 
-  Dit is doorgaans de kortste **lookback-venster** te gebruiken.
-- **Het terugkijkvenster van de bezoeker:** Kijkt naar alles ***bezoeken*** back-up maken tot de eerste maand van de geselecteerde **datumbereik**, die een veel breder beeld van de interactie van de klant aanbieden en helpt patronen in tijd identificeren.
-- **Aangepast terugzoekvenster:** Hiermee kunt u de **toewijzingsvenster** buiten de verslaglegging **datumbereik** tot en met *maximum* van **90 dagen**.  Het biedt *flexibiliteit* bij het vastleggen van aanraakpunten die zijn opgetreden *buiten* de geselecteerde **datumbereik**, en zorgen voor een alomvattende analyse.
+  Herinner dit typisch het kortste **raadplegingsvenster** aan gebruik is.
+- **het terugkijkvenster van de bezoeker:** bekijkt alle ***bezoeken*** file tot de eerste van de maand binnen de geselecteerde **datumwaaier**, die een veel bredere mening van de interactie van de klant aanbieden en de hulp identificeert patronen in tijd.
+- **het raadplegingsvenster van de Douane:** staat u toe om het **attributievenster** voorbij de het melden **datumwaaier** tot a *maximum* van **90 dagen** uit te breiden.  Het verstrekt *flexibiliteit* in het vangen van touchpoints die *buiten* de geselecteerde **datumwaaier** voorkwamen, die een uitvoerige analyse verzekeren.
 
-Door een bepaalde instelling aan te passen **lookback-venster** kunnen analisten vervolgens de impact van een of meer aanraakpunten binnen specifieke tijdframes onderzoeken en meer inzicht krijgen in de invloed van de verschillende tijdsduur op de toewijzingsresultaten.
+Door een bepaald **raadplegingsvenster** aan te passen, kunnen de analisten het effect van één of meerdere touchpoints binnen specifieke tijdkaders dan onderzoeken en grotere inzichten in krijgen hoe de verschillende tijdsduur attributieresultaten beïnvloeden.
 
-## **Alles bijeenbrengen**
+## **die het allen samen brengen**
 
 Wat betekent dit voor ons als analisten?
 
-De **deelvenster voor kenmerken** en **lookback-venster** geven ons de macht om voorbij de alledaagse, oppervlakte-vlakke gegevens te kijken, en dieper in de klantenreis te duiken. Door te begrijpen welke aanraakpunten de grootste invloed hadden op *conversies* We kunnen echter weloverwogen beslissingen nemen over onze marketingstrategieën en de middelen effectiever toewijzen.
+Het **attributiepaneel** en **raadplegingsvenster** geven ons de macht om voorbij de alledaagse, oppervlakte-vlakke gegevens te kijken, en dieper in de klantenreis te duiken. Door te begrijpen welke aanraakpunten het grootste effect op *omzettingen* hadden, kunnen wij geïnformeerde besluiten over onze marketing strategieën nemen en middelen effectiever toewijzen.
 
-Herinner me, nadat u hebt **toewijzingsmodellen** en **terugzoekvensters** geselecteerd, kunt u uw gegevens nog verder manipuleren door het met een ❺ te filtreren **segment,** of een andere component die u op dit punt wilt gebruiken.  Bovendien beschikt u over alle functionaliteit van een traditionele werkruimte nadat het deelvenster is gerenderd.
+Herinner me, nadat u uw **attributiemodellen** en **geselecteerde raadplegingsvensters** hebt, kunt u uw gegevens nog verder manipuleren door het met een ❺ **segment te filtreren,** of een andere component te filtreren u op dit punt wenst.  Bovendien beschikt u over alle functies van een traditionele Workspace nadat het paneel is weergegeven.
 
-## **Tot slot de tenuitvoerlegging ervan**
+## **definitief het zetten van het in praktijk**
 
-Nu je de concepten hebt, stel je voor dat je een marketingcampagne voert en probeert te bepalen welk kanaal het is *meest effectief* voor het besturen van omzettingen. Met de hulp van de **deelvenster voor kenmerken** niet alleen de **laatste aanraking**, maar ook de **eerste aanraking**, **zelfde aanraking** en andere **model** u bepaalt welke **kanalen** zijn *meest effectief* bij het besturen van uw *conversies*. Deze informatie kan vervolgens worden gebruikt om *optimaliseren* uw campagnes en verbetert de algehele prestaties eenvoudig door de klok terug te draaien met **lookback-venster** van uw keuze!
+Nu u de concepten neer hebt, veronderstel u een marketing campagne in werking stelt en probeert om te bepalen welk kanaal *het meest effectief* voor het drijven van omzettingen is. Met hulp van het **attributiepaneel**, niet alleen kunt u het **laatste aanraken** zien, maar ook **eerste aanraking**, **zelfde aanraking**, en een ander **model** u verkiest om te bepalen welke **kanalen** *het meest efficiënte* zijn in het drijven van uw *conversie sions*. Dan, kan deze informatie worden gebruikt om *uw campagnes te optimaliseren en algemene prestaties eenvoudig te verbeteren door de klok met het **raadplegingsvenster**van uw keus terug te draaien!*
 
-Nu je hebt gezien wat het kan doen, mag je niet misleid of geïntimideerd worden door de schijnbaar complexe kenmerken van het attributiepaneel.  **Gezicht**.  *Embrace* het.  **Begrijpen** het.
-MAAR DE MEESTE - *Gebruik het in uw voordeel.* De **deelvenster voor kenmerken** en **lookback-venster** zijn de sleutels om een dieper inzicht in uw klanten en hun reis met uw merk te ontsluiten.
+Nu je hebt gezien wat het kan doen, mag je niet misleid of geïntimideerd worden door de schijnbaar complexe kenmerken van het attributiepaneel.  **Gezicht het**.  *Embrace* het.  **Begrijp** het.
+MAAR DE MEESTE VAN ALLES - *gebruik het aan uw voordeel.* het **attributiepaneel** en **raadplegingsvenster** zijn de sleutels om een diepgaander inzicht in uw klanten en hun reis met uw merk te ontsluiten.
 
-Nu kunnen we reizen &quot;[terug in de tijd](https://youtu.be/gVryJmZNFdU)&quot; met vertrouwen en gebruik de kracht van onze vertrouwde tijdmachine (ook bekend als ***[!DNL Adobe Analytics]***) om gegevensgestuurde beslissingen te nemen.
+Nu, kunnen wij &quot;[ terug in tijd ](https://youtu.be/gVryJmZNFdU)&quot;met vertrouwen reizen en de macht van onze trusty tijdmachine (a.k.a. *** [!DNL Adobe Analytics]***) gebruiken om gegeven-gedreven besluiten te nemen.
 
 ## Auteur
 
 Dit document is geschreven door:
 
-![Jeff Bloomer](assets/jeff-headshot.png)
+![ Jeff Bloomer ](assets/jeff-headshot.png)
 
-**Jeff Bloomer**, Manager, digitaal [!DNL Analytics] bij Kroger Personal Finance
+**Jeff Bloomer**, Manager, Digitaal [!DNL Analytics] bij Kroger Persoonlijke Financiën
 
 [!DNL Adobe Analytics] Champion

@@ -9,10 +9,11 @@ duration: 0
 last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14810
 thumbnail: KT-14810.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 73976144-f02b-4423-9b4b-410330117ba9
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '2111'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -32,16 +33,16 @@ Door mensen in uw gegevensbestand van het Marketo Engage te scoren, kunt u meten
 
 Gedragscoring geeft een numerieke waarde aan traceerbare acties die in het vooruitzicht worden gesteld en die wijzen op interesse in uw producten en services en de intentie om te kopen. Als u bijvoorbeeld de website bezoekt, wordt interesse getoond en kunt u de prijspagina bezoeken met de bedoeling. Als u daarentegen de pagina met carrières bezoekt, geeft dit mogelijk aan dat de persoon niet gaat kopen.
 
-**Stap 1** - Een lijst maken met mogelijke activiteiten die van belang zijn voor uw verkoopproces of die van belang zijn voor uw organisatie. Het kan handig zijn om samen met uw verkoopteam te bepalen welke activiteiten aangeven dat een lead de intentie heeft om te kopen, zodat u de criteria kunt afstemmen op de verkoop en prioriteiten kunt stellen op basis van hun opmerkingen over gesloten deals. Hier volgen enkele suggesties voor vragen die u aan uw verkoopteam kunt stellen:
+**Stap 1** - maak een lijst van perspectiefactiviteiten die aan uw verkoopproces van belang zijn of waardevol aan uw organisatie zijn. Het kan handig zijn om samen met uw verkoopteam te bepalen welke activiteiten aangeven dat een lead de intentie heeft om te kopen, zodat u de criteria kunt afstemmen op de verkoop en prioriteiten kunt stellen op basis van hun opmerkingen over gesloten deals. Hier volgen enkele suggesties voor vragen die u aan uw verkoopteam kunt stellen:
 
 * Welke activiteiten wijzen op een goed of slecht gevolg voor u?
 * Welk type inhoud dat door een lead wordt verbruikt, heeft een sterkere intentie om te kopen?
 
-**Stap 2** - Objecten weergeven die aangeven dat er een vooruitzicht is, zijn niet geïnteresseerd in uw product. Ben zeker om activiteiten te vermelden die door Marketo Engage traceerbaar zijn.
+**Stap 2** - de acties van de lijst die op een vooruitzicht wijzen is niet geinteresseerd in uw product. Ben zeker om activiteiten te vermelden die door Marketo Engage traceerbaar zijn.
 
-**Voorbeeld 1a - Activiteiten die de intentie aangeven te kopen**
+**Voorbeeld 1a - Activiteiten die op intent wijzen om te kopen**
 
-| **Activiteiten die de intentie om te kopen aangeven** | **Activiteiten die geen koopvoornemen aangeven** |
+| **Activiteiten die op intent wijzen om te kopen** | **Activiteiten die op GEEN intentie wijzen om te kopen** |
 | --- | --- |
 | Bezoek de prijspagina | Geen interactie in de afgelopen 90 dagen |
 | Jaarlijkse klantgebeurtenis bijwonen | Pagina met carrières bezoeken |
@@ -49,24 +50,24 @@ Gedragscoring geeft een numerieke waarde aan traceerbare acties die in het vooru
 | Artikel downloaden |     |
 | Demoformulier voor aanvraag invullen |     |
 
-**Stap 3** - Analyseer en kies een drempelscore voor de afkoopactie.
+**Stap 3** - analyseer en kies een score van de verkoophandoff drempel.
 
 * Zodra een lood genoeg interesse door sommige activiteiten uit te voeren u in Stap 1 bepaalde en de totale score deze drempel overschrijdt, zult u hen aan verkoop afgeven. Deze drempel is eenvoudig een getal dat u helpt een benchmark in te stellen voor de scores die u toewijst aan individuele gedragingen.
 * Uw drempelnummer moet groot genoeg zijn, zodat iemand meerdere interacties met uw merk moet uitvoeren om aan deze voorwaarde te voldoen. Het is bijvoorbeeld onwaarschijnlijk dat één e-mailbericht voldoende is geopend. Als u net begon, probeer werkend met een drempel van 100 en bouwend uw persoon die van daar scoring.
 * Het plaatsen van een hoge of lage drempel hangt af van welke leiden uw verkoopteam het meest in het ontvangen en ontwikkelen in bedrijfskansen geinteresseerd is. Als u over bestaande gegevens over uw recente verkoopovereenkomsten beschikt, analyseert u deze en bekijkt u welke acties mensen hebben ondernomen in geslaagde overeenkomsten. Dit kan u helpen om te bepalen hoeveel aanraakpunten in een gekwalificeerde verkooplood gaan en u helpen van hieruit extrapoleren wat uw drempelnummer zou moeten zijn.
 
-**Voorbeeld 1b - Drempel voor verkoopuitstel:**
+**Voorbeeld 1b - Drempel voor verkoopafhandeling:**
 
 | Gemiddeld aantal aanraakpunten voor gekwalificeerd lood | 4 |
 | --- | --- |
 | Drempel voor verkoopuitstel | 50 |
 
-**Stap 4** - Een score toewijzen aan elke activiteit die wordt vermeld in &#39;Voorbeeld 1a - Activiteiten die de intentie om te kopen aangeven&#39;.
+**Stap 4** - wijs een score aan elke activiteit toe die in &quot;Voorbeeld 1a wordt vermeld - Activiteiten die op bedoeling wijzen om te kopen&quot;.
 
 * Gebruik een positieve gedragsscore voor de activiteiten die op interesse wijzen om de algemene loodscore van een vooruitzicht te verhogen, en een negatieve score om op oninteresse te wijzen.
 * Gebruikend uw drempel van &quot;Voorbeeld 1b - Drempel voor verkoopoverdracht&quot;als benchmark, bepaal uw gedragsscores met betrekking tot het belang van hun acties. Voorbeelden die een demo aanvragen, moeten bijvoorbeeld rechtstreeks naar de verkoop gaan. Het toewijzen van die actie aan een puntwaarde die gelijk is aan uw perspectiefdrempel voor het afhandelen, heeft de meeste zin. Ondertussen is het downloaden van een witboek niet zo&#39;n sterke indicator van koopbelangstelling en zou het daarom minder waard moeten zijn.
 
-**Voorbeeld 1c - Scoreactiviteiten die de koopintentie aangeven:**
+**Voorbeeld 1c - het scoreeren activiteiten die op intent wijzen te kopen:**
 
 | Drempel voor verkoopuitstel = 50 punten |     |
 | --- | --- |
@@ -76,13 +77,13 @@ Gedragscoring geeft een numerieke waarde aan traceerbare acties die in het vooru
 | Een witboek downloaden | +5 |
 | Bezoek ons op een tradeshow | +15 |
 
-**Stap 5** - Onthoud, scoring is een herhalend proces. U kunt scores en drempels voortdurend controleren en aanpassen terwijl u meer gegevens voor analyse verzamelt.
+**Stap 5** - Herinner me, is het scoren een iteratief proces! U kunt scores en drempels voortdurend controleren en aanpassen terwijl u meer gegevens voor analyse verzamelt.
 
 ## Oefening 2 - Het identificeren van het juiste pasvorm met Demografische Scores
 
 Nu u de activiteiten hebt gedefinieerd die de koopintentie aangeven, moet u het scoremodel voltooien met uw ideale perspectiefprofielen. Om te bepalen of een vooruitzicht voor verder verkoopgesprek geschikt is, is het belangrijk om demografische scores naast gedragsscores toe te wijzen zodat de modelhulp de beste lood in termen van passend en intent bepaalt.
 
-**Stap 1** - Maak een lijst van eigenschappen voor uw ideale vooruitzichten.
+**Stap 1** - maak een lijst van kenmerken voor uw ideale vooruitzichten.
 
 * Denk na aanbiedingsattributen zoals hun industrie, bedrijf, afdeling, en rol. Zorg ervoor dat deze eigenschappen overeenkomen met de beschikbare demografische velden in uw Marketo Engage-exemplaar.
 * Het werk met uw verkoopteam om te bepalen welke lood aan verkooponderzoeken het meest beantwoordt en belangrijkste contacten tijdens verkoopkansen zijn.
@@ -95,16 +96,16 @@ Nu u de activiteiten hebt gedefinieerd die de koopintentie aangeven, moet u het 
 
 **Voorbeeld 2a - Ideale perspectiefkenmerken**
 
-| **Categorie** | **Ideale perspectiefkenmerken** |
+| **Categorie** | **Ideale Eigenschap van het Vooruitzicht** |
 | --- | --- |
 | Industrie | Ruimtevaart, industrie |
 | Bedrijfsomvang | 100 - 999, 1.000 - 9.999 |
 | Functie | Director, vicepresident, C-niveau |
 | Afdeling | HR |
 
-**Stap 2** - Wijs een score toe aan elk kenmerk afhankelijk van de relevantie ervan in uw ideale perspectiefprofiel. Gebruik positieve scores voor wenselijke kenmerken en negatieve scores voor kenmerken die de lood minder geschikt maken voor uw product.
+**Stap 2** - wijs een score aan elk kenmerk volgens zijn relevantie in uw ideaal perspectiefprofiel toe. Gebruik positieve scores voor wenselijke kenmerken en negatieve scores voor kenmerken die de lood minder geschikt maken voor uw product.
 
-**Voorbeeld 2b - Muziek toewijzen aan ideale en ongewenste perspectiefkenmerken**
+**Voorbeeld 2b - toewijzend scores aan ideale en ongewenste perspectiefkenmerken**
 
 | **Kenmerk** | **Score** |
 | --- | --- |
@@ -122,16 +123,16 @@ Heb je de voorkeur aan een videodemo voor deze oefening? Aanpassen als Marketo E
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
 
-**Stap 1** - Neem de activiteiten en kenmerken van oefeningen 1 en 2 en bepaal voor elk punt of zij per locatie of productlijn verschillen.
+**Stap 1** - neem de activiteiten en de kenmerken van oefeningen 1 en 2 en bepaal voor elk punt of zij door plaats of productlijn variëren.
 
-**Voorbeeld 3a - Signalen op mondiale en lokale markten:**
+**Voorbeeld 3a - signalen in globale en lokale markten:**
 
-| **Signaal** | **Algemeen** | **Lokaal** |
+| **Signaal** | **Globaal** | **Lokale** |
 | --- | --- | --- |
 | Activiteiten | <ul><li>Formulier &quot;Verzoek om demo&quot; ingevuld</li><li>Geen interactie in de afgelopen 90 dagen (ongeveer 3 maanden)</li></ul> | <ul><li>Bezoek ons op de beurs</li><li>Een witboek downloaden</li></ul> |
 | Kenmerken | <ul><li>Afdeling</li><li>Functie</li></ul> | <ul><li>Industrie</li><li>Bedrijfsomvang</li></ul> |
 
-**Stap 2** - Definieer uw scorematrix voor lokale markten:
+**Stap 2** - bepaal uw het scoren matrijs voor lokale markten:
 
 * Stel een andere matrix in voor demografische en gedragselementen.
 * Bepaal de onderwerpen van prioriteiten voor u om de input van het lokale team te vragen op.
@@ -140,15 +141,15 @@ Heb je de voorkeur aan een videodemo voor deze oefening? Aanpassen als Marketo E
 * Overweeg gemeenschappelijke scenario&#39;s te bepalen wanneer de vooruitzichten met uw merk in wisselwerking staan en uw algemeen het scoren voor hen te testen.
    * Zo is het bijvoorbeeld gebruikelijk dat iemand uw website op een inhoudspagina invoert, vervolgens naar een productpagina klikt en een brochure downloadt. U zou hen richten met een webinar uitnodiging, en zij antwoorden aan het door te registreren, maar niet het bijwonen. Bedenk of uw verkoop al met deze persoon wil spreken of niet en evalueer of uw het scoren model deze vooruitzichten aan de juiste algemene score krijgt om dat niveau van interesse te weerspiegelen.
 
-**Voorbeeld 3b - Demografische scorematrix:**
+**Voorbeeld 3b - Demografische het scoren matrijs:**
 
-| **Demografische matrix** | **Prioriteit 1** | **Prioriteit 2** | **Prioriteit 3** |
+| **Demografische matrijs** | **Prioriteit 1** | **Prioriteit 2** | **Prioriteit 3** |
 | --- | --- | --- | --- |
 | Hoge waarden | 20 punten | 10 punten | 7 punten |
-| Normale waarden | 10 punten | 7 punten | 3 punten |
+| Medium-waarden | 10 punten | 7 punten | 3 punten |
 | Lage waarden | 5 punten | 3 punten | 1 punt |
 
-**Stap 3** - Verzamel input van uw lokale of regionale verkoopteams om een holistische mening te ontwikkelen. In voorbeeld 3c worden geen individuele scores vermeld. Dit staat het verkoopteam toe om zich op de relatieve waarde van de verschillende onderwerpen tijdens het overzichtsproces te concentreren. Nochtans, zou u uw volledig model moeten hebben dat als achtergrondmaterialen voor andere beheerders van de Marketo Engage wordt gedocumenteerd.
+**Stap 3** - verzamel input van uw lokale of regionale verkoopteams om een holistische mening te ontwikkelen. In voorbeeld 3c worden geen individuele scores vermeld. Dit staat het verkoopteam toe om zich op de relatieve waarde van de verschillende onderwerpen tijdens het overzichtsproces te concentreren. Nochtans, zou u uw volledig model moeten hebben dat als achtergrondmaterialen voor andere beheerders van de Marketo Engage wordt gedocumenteerd.
 
 * Vergrendel wat niet kan worden aangepast voor algemene consistentie (hier in de kolom &quot;Onderwerp implementeren&quot;).
 * Markeer (hier in de kolommen &quot;Prioriteit&quot; en &quot;Score&quot;) wat kan worden aangepast aan lokale invloeden.
@@ -180,11 +181,11 @@ Heb je de voorkeur aan een videodemo voor deze oefening? Aanpassen als Marketo E
   </tr>
   <tr>
     <td>Detailhandel</td>
-    <td><b>Normaal</b></td>
+    <td><b>Medium</b></td>
   </tr>  
   <tr>
     <td>Productie</td>
-    <td><b>Normaal</b></td>
+    <td><b>Medium</b></td>
   </tr>
   <tr>
     <td>Gezondheidszorg</td>
@@ -205,7 +206,7 @@ Heb je de voorkeur aan een videodemo voor deze oefening? Aanpassen als Marketo E
   </tr>
   <tr>
     <td>250-999 werknemers</td>
-    <td><b>Normaal</td>
+    <td><b>Medium</td>
   </tr>
   <tr>
     <td>1-249 werknemers</td>
@@ -222,7 +223,7 @@ Heb je de voorkeur aan een videodemo voor deze oefening? Aanpassen als Marketo E
   </tr>
   <tr>
     <td>Prijspagina's</td>
-    <td><b>Normaal</b></td>
+    <td><b>Medium</b></td>
   </tr>
   <tr>
     <td>Pagina Demo-verzoek</td>
@@ -232,8 +233,8 @@ Heb je de voorkeur aan een videodemo voor deze oefening? Aanpassen als Marketo E
 
 ## Wat is de volgende?
 
-* Download de [oefenblad voor persoonlijke scores](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank} om uw scoremodel offline te ontwikkelen.
-* Maak uw persoonlijke scores in het Marketo Engage. Dit controleren [zelfstudie](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank} en [demo](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank} aan de slag. U kunt een programma voor het scoren van leads/personen importeren [template](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank} van de Bibliotheek van de Verwijzing van het Marketo Engage om de programmabouw te versnellen.
+* Download de [ persoon die uitoefeningsblad ](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank} scoren om uw het scoren model offline te ontwikkelen.
+* Maak uw persoonlijke scores in het Marketo Engage. Controle dit [ leerprogramma ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch) {target="_blank} en [ demo ](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring) {target="_blank} om begonnen te worden. U kunt een lood/persoon invoeren die programma [ malplaatje ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) {target="_blank} van de Bibliotheek van de Verwijzing van het Marketo Engage schrapt om het programma te versnellen bouwt.
 * Maak twee versies van het scoreprogramma:
    * Een centraal programma dat alle scoring uitvoert die niet lokaal kan worden bijgewerkt.
    * Een lokale kopie met de scorende elementen die configureerbaar zijn.
@@ -243,8 +244,8 @@ Heb je de voorkeur aan een videodemo voor deze oefening? Aanpassen als Marketo E
    * Bepaal welke demografie en gedragsactiviteiten slechts één keer moeten scoren (d.w.z. industrie) en welke scores elke keer dat een vooruitzicht kwalificeert (d.w.z. een webinar bijwonen). Dit verzekert potentiële contacten die door de verandering van de gegevenswaarde worden teweeggebracht voor verkoop relevant zijn.
    * Zorg ervoor dat je keuzes elkaar uitsluiten.
    * Breng uw updates in beide stroomstappen zodat de Score van de Persoon op een identieke manier aan de Demografische Score wordt bijgewerkt. Op die manier blijft de persoonlijke score in overeenstemming met de combinatie van gedragsscore en demografische score.
-* Test de slimme campagne zodra u klaar bent met het ontwikkelen van uw programma. Ga bijvoorbeeld naar uw demo-formulier, vul het in met een teste-mail en controleer de score van de testpersoon in [Marketo Engage-database](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}.
-* Nadat u uw model hebt opgebouwd, kunt u overwegen een waarschuwing in te stellen om naar de verkoop te gaan zodra de score van de persoon de drempel voor het afleveren van de verkoop heeft bereikt. Meer informatie over het instellen van een waarschuwing met deze [zelfstudie](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}.
+* Test de slimme campagne zodra u klaar bent met het ontwikkelen van uw programma. Bijvoorbeeld, ga naar uw demo vorm, vul het met een teste-mail, en controleer de score van uw testpersoon in [ gegevensbestand van het Marketo Engage ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info) {target="_blank}.
+* Nadat u uw model hebt opgebouwd, kunt u overwegen een waarschuwing in te stellen om naar de verkoop te gaan zodra de score van de persoon de drempel voor het afleveren van de verkoop heeft bereikt. Leer meer over vestiging een alarm met dit [ leerprogramma ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert) {target="_blank}.
 
 ### Auteurs
 

@@ -10,7 +10,8 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: 0fc67f48deb78d5a66d485093d1837cbeee7c4d4
+exl-id: 1f27e284-73e3-4f28-988e-51163775eec8
+source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 0%
@@ -19,57 +20,57 @@ ht-degree: 0%
 
 # Oplossen van problemen voor marktspelers: 5 algemene workflowfouten en leveringsfouten
 
-Door: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, senior consultant, Meijer
+Door: [ Suraj Patra ](https://www.linkedin.com/in/suraj-p-51612053/) {target="_blank"}, Hoogste Consultant, Meijer
 
-Als Senior Engineer en klant expert op [!DNL Adobe] Experience Cloud producten de afgelopen vijf jaar, ik laat zakelijke gebruikers toe bij [Meijer](https://www.meijer.com/){target="_blank"}, een in 1934 opgerichte Amerikaanse supercentrum-keten, om complexe marketing- en transactiecampagnes met ACS te voeren. Enkele projecten waaraan ik heb gewerkt, zijn onder andere aangepaste campagnes voor het opslaan van aanbiedingen en het bestellen van gegevens voor personalisatie, geïntegreerd met [!DNL Adobe] Audience Manager, en klanteninzicht voor segmentopname.
+Als Senior Ingenieur en klantendeskundige op [!DNL Adobe] producten van het Experience Cloud voor de afgelopen vijf jaar, laat ik bedrijfsgebruikers bij [ Meijer ](https://www.meijer.com/) {target="_blank"} toe, een Amerikaanse supercentenketen die in 1934 wordt gevestigd, om complexe marketing en transactiecampagnes met ACS in werking te stellen. Enkele projecten waaraan ik heb gewerkt, zijn onder andere aangepaste campagnes voor het opslaan van aanbiedingen en orderdetails voor personalisatie, geïntegreerd met [!DNL Adobe] Audience Manager en inzicht van klanten voor segmentopname.
 
 In mijn tijd die ACS gebruikt, heb ik fouten ervaren die tijdrovend en frustrerend kunnen zijn om op te lossen. Kennis van de meest voorkomende fouten kan u helpen sneller problemen op te lossen en uw productiviteit te verhogen. Hieronder vindt u de tips voor het oplossen van problemen waarmee u vergelijkbare fouten op effectieve wijze kunt oplossen.
 
 ## Fout bij gegevenstype komt niet overeen
 
-**Foutcode:**
+**Code van de Fout:**
 `PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint`
 
 **Oorzaak:**
 Deze fouttypen worden in een workflow weergegeven wanneer u probeert het gebruik van velden met verschillende gegevenstypen te combineren. Wanneer u bijvoorbeeld een bestand uploadt met een bestand dat een tekenreeksveld heeft, en u probeert het tekenreeksveld te koppelen aan een profielveld met een gegevenstype int.
 
-![data-type-mismatch-error](/help/_assets/kt-13256/data-type-mismatch.png)
+![ gegeven-type-mismatch-error ](/help/_assets/kt-13256/data-type-mismatch.png)
 
 **Oplossing:**
 Wijzig het gegevenstype van het veld bij activiteit Bestand laden in het gegevenstype dat u wilt gebruiken. Open de activiteit Bestand laden. Ga naar het tabblad &#39;COLUMN DEFINITION&#39; en wijzig het gegevenstype van het gewenste veld.
 
 
-![data-type-mismatch-solution](/help/_assets/kt-13256/data-type-mismatch-solution.png)
+![ gegeven-type-mismatch-oplossing ](/help/_assets/kt-13256/data-type-mismatch-solution.png)
 
-## Fout bij aanpassen van levering
+## Personalization-leveringsfout
 
-**Foutcode:**
+**Code van de Fout:**
 `The schema for profiles specified in the transition ('') is not compatible with the schema defined in the delivery template ('nms:recipient'). They should be identical.`
 
 **Oorzaak:**
 Deze fout treedt op wanneer u een e-mail naar een adres verzendt, maar de e-mail of een andere id niet in overeenstemming is met een profiel. Als u een e-mailbericht wilt verzenden, moet de e-mail of de id altijd zijn gekoppeld aan een profiel.
 
-![workflow met afstemmingsactiviteit](/help/_assets/kt-13256/del-persn-error-wf.png)
+![ werkschema met verzoeningsactiviteit ](/help/_assets/kt-13256/del-persn-error-wf.png)
 
 **Oplossing:**
-Een gemeenschappelijke identiteitskaart moet bestaan van het geladen dossier met de ontvankelijke lijst. Deze algemene sleutel voegt het ladingsdossier aan de ontvankelijke lijst binnen de verzoeningsactiviteit toe. E-mails worden mogelijk niet verzonden naar records die niet bestaan in de tabel met ontvangers waarvoor deze afstemmingsstap binnen de workflow is vereist. Hierbij stemt u de activiteit van het inkomende laadbestand af met een id zoals een e-mailadres uit het profiel. De `nms:recipient` Het schema verwijst naar de profiellijst en het in overeenstemming brengen van de inkomende verslagen met profiel maakt het tijdens e-mailvoorbereiding beschikbaar.
+Een gemeenschappelijke identiteitskaart moet bestaan van het geladen dossier met de ontvankelijke lijst. Deze algemene sleutel voegt het ladingsdossier aan de ontvankelijke lijst binnen de verzoeningsactiviteit toe. E-mails worden mogelijk niet verzonden naar records die niet bestaan in de tabel met ontvangers waarvoor deze afstemmingsstap binnen de workflow is vereist. Hierbij stemt u de activiteit van het inkomende laadbestand af met een id zoals een e-mailadres uit het profiel. Het schema `nms:recipient` verwijst naar de profielentabel en het in overeenstemming brengen van de inkomende verslagen met profiel maakt het beschikbaar tijdens e-mailvoorbereiding.
 
 Raadpleeg de schermafbeelding voor afstemmingsactiviteiten, zoals hieronder wordt weergegeven.
 
-![workflow met reconciliatiedetails](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
+![ werkschema met verzoeningsdetail ](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
 
-Meer informatie over [verzoening](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en).
+Leer meer over [ verzoening ](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en).
 
 ## Gegevensfout algemeen veld
 
-**Foutcode:**
+**Code van de Fout:**
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **Oorzaak:**
-Dit probleem treedt op tijdens het gebruik van het **uitsluitingsactiviteit** in ACS werkschema&#39;s, wanneer het uitvoeren van een uitsluiting die op identiteitskaart wordt gebaseerd, wanneer de Primaire reeks en de uitgesloten reeks niet de zelfde gebiedsnamen hebben.
+Deze kwestie komt terwijl het gebruiken van de **uitsluitingsactiviteit** in werkschema ACS voor, wanneer het uitvoeren van een uitsluiting die op identiteitskaart wordt gebaseerd, wanneer de Primaire reeks en de uitgesloten reeks niet de zelfde gebiedsnamen hebben.
 
 
-![Gegevensfout algemeen veld](/help/_assets/kt-13256/dataset-error.png)
+![ Gemeenschappelijke Fout van de Dataset van het Gebied ](/help/_assets/kt-13256/dataset-error.png)
 
 **Oplossing:**
 
@@ -81,20 +82,20 @@ Deze fout kan op twee manieren worden opgelost:
 
 2. Gebruik de methode voor JOINS-uitsluiting om het veld te selecteren waarop u de records wilt uitsluiten.
 
-![Gegevenssetfout algemeen veld - Oplossing ](/help/_assets/kt-13256/dataset-error-solution.png)
+![ Gemeenschappelijke fout van de Dataset van het Gebied - Oplossing ](/help/_assets/kt-13256/dataset-error-solution.png)
 
 ## Fout veldnaam gedropt
 
-**Foutcode:**
+**Code van de Fout:**
 `XTK-170036 Unable to parse expression 'i__name'`
 
 **Oorzaak:**
 
-Mislukkingspunten kunnen optreden in een **verrijkingsactiviteit**. Een van de meest voorkomende wordt hieronder weergegeven.
+De punten van de mislukking kunnen in een **verrijkingsactiviteit** voorkomen. Een van de meest voorkomende wordt hieronder weergegeven.
 
-![Fout veldnaam gedropt](/help/_assets/kt-13256/field-name-dropped-error.png)
+![ Vervallen Fout van de Naam van het Gebied ](/help/_assets/kt-13256/field-name-dropped-error.png)
 
-Dit gebeurt wanneer u handmatig een expressienaam bewerkt in de activiteit. De afbeelding toont aan dat de expressie is gewijzigd van `name `tot `i__name`.
+Dit gebeurt wanneer u handmatig een expressienaam bewerkt in de activiteit. In de afbeelding ziet u dat de expressie is gewijzigd van `name ` in `i__name` .
 
 **Oplossing:**
 
@@ -102,19 +103,19 @@ U kunt deze fout op drie manieren oplossen:
 
 1. Wijzig de naam weer in de oorspronkelijke expressie.
 
-2. Als u een nieuwe naam wilt gebruiken, wijzigt u de waarden in het dialoogvenster **verrijkingsactiviteit**.
+2. Als u een nieuwe naam wilt gebruiken, verander de waarden in de **verrijkingsactiviteit**.
 
 3. Als je je niet herinnert wat er veranderd is, zou je best de activiteit opnieuw kunnen creëren.
 
 ## Fout bij tijdelijk neerzetten van tabel 
 
-**Foutcode:**
+**Code van de Fout:**
 `XTK-170024 The temporary schema "temp:deliveryEmail1" is not defined in the current context.`
 
 **Oorzaak:**
 Dit is een algemene fout in gecompliceerde workflows met verrijking of andere activiteiten. Dit betekent waarschijnlijk dat sommige werkstromen voor activiteit niet correct worden opgeslagen tijdens meerdere wijzigingen in de werkstroom.
 
-![Fout bij tijdelijk neerzetten van tabel ](/help/_assets/kt-13256/temp-table-dropped-error.png)
+![ Tijdelijke fout bij neergezette tabel ](/help/_assets/kt-13256/temp-table-dropped-error.png)
 
 **Oplossing:**
 Deze fout kan op vele manieren optreden, dus er is geen eenvoudige oplossing. Als het een eenvoudige werkstroom is, dan zou het beter zijn om de activiteit opnieuw te vormen. In een gecompliceerde workflow is het beter om de workflowactiviteiten naar een nieuwe workflow te kopiëren, deze op te slaan en opnieuw uit te voeren.

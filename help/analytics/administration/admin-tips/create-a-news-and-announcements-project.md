@@ -13,23 +13,23 @@ kt: 10535
 exl-id: 59944fab-11f8-4af5-92ed-00dcd4205eda
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '498'
 ht-degree: 0%
 
 ---
 
 # Een nieuws- en aankondigingsproject maken
 
-**WAT:** Creëer een &#39;Nieuws &amp; Mededelingen&#39;-project in Workspace, dat voornamelijk tekst zal zijn, en deel het met het hele bedrijf. U hoeft dit niet te forceren als een openingspagina voor uw gebruikers (hoewel u dit kunt), omdat dit elke keer dat het wordt bijgewerkt, boven aan de lijst zweeft.
+**WAT:** creeer een project van het &quot;Nieuws &amp; van Mededelingen&quot;binnen Workspace, dat hoofdzakelijk tekst zal zijn, en het met het volledige bedrijf zal delen. U hoeft dit niet te forceren als een openingspagina voor uw gebruikers (hoewel u dit kunt), omdat dit elke keer dat het wordt bijgewerkt, boven aan de lijst zweeft.
 
-**WAAROM:** Uw gebruikers willen waarschijnlijk niet telkens opnieuw een e-mail als er iets is gewijzigd binnen [!DNL Adobe Analytics]. En verwacht dat uw gebruikers regelmatig uw interne [!DNL Adobe Analytics] plaats (samenvloeiing of andere - zie [Een intern [!DNL Adobe Analytics] site](create-an-internal-adobe-analytics-site.md) tip) is een uitrekking. In plaats daarvan kunt u Workspace zodanig benutten dat ze niet uit de interface hoeven te stappen. Telkens wanneer ze zich aanmelden, zien ze het dashboard Nieuws en aankondigingen.
+**WAAROM:** Uw gebruikers willen waarschijnlijk niet opnieuw e-mail telkens als iets binnen [!DNL Adobe Analytics] wordt veranderd. En verwacht uw gebruikers om uw interne [!DNL Adobe Analytics] plaats regelmatig te controleren (Samenhang of andere - zie [ een interne  [!DNL Adobe Analytics]  plaats ](create-an-internal-adobe-analytics-site.md) uiteinde creëren) is een uitrekking. In plaats daarvan kunt u Workspace gebruiken zodat ze niet uit de interface hoeven te stappen. Telkens wanneer ze zich aanmelden, zien ze het dashboard Nieuws en aankondigingen.
 
-**HOE:** Meld u aan bij Workspace en maak een nieuw project. Zorg ervoor dat dit project wordt gedeeld met iedereen op de org in de projectinstellingen. De bovenkant (beschrijving) van dit project kan naar uw interne [!DNL Adobe Analytics] en bel de beste contactpersoon of DL. Ik stel dan vier paragrafen voor die allemaal gebaseerd zijn op tekst:
+**HOE:** Login aan Workspace en creeer een nieuw project. Zorg ervoor dat dit project wordt gedeeld met iedereen op de org in de projectinstellingen. De bovenkant (beschrijving) van dit project kan naar uw interne [!DNL Adobe Analytics] -site verwijzen en de beste contactpersoon of DL oproepen. Ik stel dan vier paragrafen voor die allemaal gebaseerd zijn op tekst:
 
 1. Nieuwe releases en functies:
 
    * Hiermee rangschikt u de opsommingstekens chronologisch volgens jaar (of maand als u een groot getal hebt), met de laatste boven
-   * Deze kunnen nieuwe functies bevatten van [!DNL Adobe], nieuwe variabelen/gebeurtenissen, nieuwe sites/apps, nieuwe functies die worden bijgehouden, enz.
+   * Dit kunnen nieuwe functies van [!DNL Adobe] zijn, nieuwe variabelen/gebeurtenissen, nieuwe sites/apps, nieuwe functies die worden bijgehouden, enzovoort.
    * Opsommingspunten moeten de datum, de desbetreffende eigenschap, indien van toepassing, en minimale details hebben
 
 1. Lijst met overzichtdashboards:
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 1. Koel rapporten voor u om uit te checken:
 
-   * Laat gebruikers opgewonden zien van je beste dashboards en wat [!DNL Adobe Analytics] kan. Houd deze dashboards algemeen en toegankelijk voor een groter publiek.
+   * Bekijk de beste dashboards en wat [!DNL Adobe Analytics] kan doen. Houd deze dashboards algemeen en toegankelijk voor een groter publiek.
    * Geef deze weer met opsommingstekens, waarbij gebruikers rechtstreeks aan het dashboard worden gekoppeld. Een korte beschrijving van wat zij zijn zal ook helpen.
 
 1. Bekende fouten, fouten en wijzigingen:
@@ -51,11 +51,11 @@ ht-degree: 0%
 
 Dit document is medegeschreven door:
 
-![Christel Guidon](assets/Christel-Headshot-150.png)
+![ Christel Guidon ](assets/Christel-Headshot-150.png)
 
-Christel Guidon, digitaal [!DNL Analytics] Platform Manager bij NortonLifeLock
+Christel Guidon, Digital [!DNL Analytics] Platform Manager bij NortonLifeLock
 [!DNL Adobe Analytics] Champion
 
-![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
+![ Rachel Fenwick ](assets/Rachel-Fenwick-150.png)
 
 Rachel Fenwick, senior consultant bij [!DNL Adobe]

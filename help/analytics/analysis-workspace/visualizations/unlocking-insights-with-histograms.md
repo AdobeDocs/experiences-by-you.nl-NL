@@ -1,5 +1,5 @@
 ---
-title: Inzichten ontgrendelen met histogrammen; boven de gemiddelden in [!DNL Analytics]
+title: Inzichten met histogrammen ontgrendelen; gemiddelden overschrijden in  [!DNL Analytics]
 description: Ontdek het effect van histogrammen in analyses op inzichten boven gemiddelden.
 feature-set: Analytics
 feature: Visualizations
@@ -12,24 +12,24 @@ thumbnail: KT-13833.jpeg
 exl-id: 46a9dab2-17f8-435e-949c-45d4a60343f0
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1082'
+source-wordcount: '1091'
 ht-degree: 0%
 
 ---
 
 # Inzichten met histogrammen ontgrendelen: boven de gemiddelden in [!DNL Analytics]
 
-_Ontdek het effect van histogrammen in analyses op inzichten boven gemiddelden. Histogrammen laten gegevenspatronen zien in het gedrag van klanten, de betrokkenheid van bezoekers, technische prestaties en formulierfouten, waardoor diepere inzichten en geïnformeerde beslissingen mogelijk worden in [!DNL Adobe] Werkruimte._
+_ontdekt het effect van histogrammen in analyses voor inzichten voorbij gemiddelden. Histogrammen tonen gegevenspatronen in het gedrag van de klant, de betrokkenheid van de bezoeker, technische prestaties en vormfouten, die diepere inzichten en geïnformeerde beslissingen in [!DNL Adobe] Workspace toelaten._
 
-Laten we naar binnen springen. U moet [histogrammen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html). Ik ga uitleggen waarom, maar ik wil jullie eerste vraag beantwoorden: Wat is een histogram in de wereld? Ik begrijp het. Meestal, als je een hoop staven ziet opstijgen, denk je dat het een staafgrafiek is. Ja, histogrammen zien er ongeveer hetzelfde uit, maar ik verzeker u dat ze anders zijn. In een staafdiagram worden de items vergeleken en in een histogram ziet u hoe vaak een variabele is opgetreden. Kijk eens. Hier is een staafdiagram:
+Laten we naar binnen springen. U zou [ histogrammen ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html) moeten gebruiken. Ik ga uitleggen waarom, maar ik wil jullie eerste vraag beantwoorden: Wat is een histogram in de wereld? Ik begrijp het. Meestal, als je een hoop staven ziet opstijgen, denk je dat het een staafgrafiek is. Ja, histogrammen zien er ongeveer hetzelfde uit, maar ik verzeker u dat ze anders zijn. In een staafdiagram worden de items vergeleken en in een histogram ziet u hoe vaak een variabele is opgetreden. Kijk eens. Hier is een staafdiagram:
 
-![Staafdiagram 1](assets/bar-chart-1.png)
+![ Grafiek 1 van de Bar ](assets/bar-chart-1.png)
 
 We hebben zes modellen, en we kunnen de inkomsten voor elk model vergelijken. We zien dat het model van Johannesburg de meeste inkomsten heeft, terwijl Berlijn het minste heeft.
 
 Laten we nu eens kijken naar een histogram:
 
-![Histogram 1](assets/histogram-1.png)
+![ Histogram 1 ](assets/histogram-1.png)
 
 Onder aan de x-as hebben we het aantal eenheden dat door elke klant is aangeschaft. De eerste balk geeft aan hoe vaak een klant één eenheid heeft gekocht, de tweede balk toont hoeveel klanten twee eenheden hebben gekocht, enzovoort, tot klanten tien of meer eenheden hebben gekocht.
 
@@ -59,24 +59,24 @@ Je kan je afvragen hoe dit anders is dan alleen een berekende metrische waarde. 
 
 - Betrokkenheid bezoeker - Als u gemiddeld 1,2 artikelen hebt gelezen, is het duidelijk om het eerste artikel aan te passen. Je zult missen dat er nog een grote groep is die afsluit na het lezen van het derde artikel, wat het histogram duidelijk maakt.
 
-  ![Histogram 2](assets/histogram-2.png)
+  ![ Histogram 2 ](assets/histogram-2.png)
 
 - Technische fouten - Als je gemiddeld 8,7 fouten per bezoeker zou zien, zou je weten dat je een probleem had. Het histogram kan u laten zien dat 97% van de bezoekers een of minder fouten ervaart, maar dat een handvol uitschieters het gemiddelde omhoog drijft. Je zou dan kunnen besluiten dat het niet de moeite waard is om veel tijd te wijden aan het verbeteren van de ervaring voor die kleine groep uitschieters.
 
-  ![Histogram 3](assets/histogram-3.png)
+  ![ Histogram 3 ](assets/histogram-3.png)
 
 - Formulierfouten - Als u gemiddeld 3,6 berichten per bezoeker hebt voor een formulierfout, is dat een indicator voor een probleem. Je zou hetzelfde uitschietende probleem kunnen hebben als de technische fouten, maar er is ook inzicht in wat je kunt bereiken door een piek in het histogram te zien bij een bepaald aantal fouten. Een enorme piek bij één fout? Dit zou een algemeen probleem kunnen zijn dat al deze bezoekers ervaren of misschien kregen ze allemaal een andere fout. Een gigantische piek met drie fouten? Ah, nu is dat interessant. Als dat een onderzoek ertoe aanzet dat het de zelfde drie fouten toont, hebt u binnen op gegevens gecentreerd die u een inzicht in uw bezoekers geven en helpt u bevestigen wat waarschijnlijk een groep onderling verwant problemen is.
 
-  ![Histogram 4](assets/histogram-4.png)
+  ![ Histogram 4 ](assets/histogram-4.png)
 
-Zoals je kunt zien, hebben histogrammen niet alleen hun eigen toepassingen, maar ze verergeren ook het inzicht dat je verkrijgt van een gemiddelde. Het is een out-of-the-box visualisatie in [!DNL Adobe Analytics] en eenvoudig te maken. Hopelijk zijn deze gebruiksgevallen nuttig voor u of inspireren ze. Gelukkig visualiseren!
+Zoals je kunt zien, hebben histogrammen niet alleen hun eigen toepassingen, maar ze verergeren ook het inzicht dat je verkrijgt van een gemiddelde. Het is een uitwendige visualisatie in [!DNL Adobe Analytics] en eenvoudig te maken. Hopelijk zijn deze gebruiksgevallen nuttig voor u of inspireren ze. Gelukkig visualiseren!
 
 ## Auteur
 
 Dit document is geschreven door:
 
-![Gitai Ben-Ammi](assets/gitai-headshot.png)
+![ Gitai Ben-Ammi ](assets/gitai-headshot.png)
 
-**Gitai Ben-Ammi**, Belangrijkste consultant bij Concentrix Catalyst
+**Gitai Ben-Ammi**, Belangrijkste Consultant bij de Katalysator van Concentrix
 
 [!DNL Adobe Analytics] Champion

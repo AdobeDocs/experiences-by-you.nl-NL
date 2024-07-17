@@ -15,7 +15,7 @@ ht-degree: 16%
 
 # Marketo door U: Bronnen voor gebruikers, voor gebruikers.
 
-Het krachtigste ding over [!DNL Adobe] Oplossingen voor Experience Cloud? Jij. De gebruikers die de producten meenemen, erin graven en ze toepassen op verbazingwekkende, innovatieve manieren om zinvolle ervaringen en resultaten te creëren. De ervaring van U kenmerkt inhoud die door dagelijkse gebruikers wordt gecreeerd die een niveau van deskundigheid en invloed met hun hebben bereikt [!DNL Adobe] Experience Cloud oplossingen. Deze peer-to-peer kennis bevordert samenwerking en ontdekking - en stelt u in staat - en elke andere gebruiker de inspiratie te vinden die nodig is om uw productexpertise op een hoger niveau te brengen.
+Het krachtigste aan [!DNL Adobe] Experience Cloud oplossingen? Jij. De gebruikers die de producten meenemen, erin graven en ze toepassen op verbazingwekkende, innovatieve manieren om zinvolle ervaringen en resultaten te creëren. De ervaringen van U hebben betrekking op inhoud die is gemaakt door dagelijkse gebruikers die een expertiseniveau hebben bereikt en invloed hebben uitgeoefend met hun [!DNL Adobe] Experience Cloud-oplossingen. Deze peer-to-peer kennis bevordert samenwerking en ontdekking - en stelt u in staat - en elke andere gebruiker de inspiratie te vinden die nodig is om uw productexpertise op een hoger niveau te brengen.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -32,15 +32,15 @@ Het krachtigste ding over [!DNL Adobe] Oplossingen voor Experience Cloud? Jij. D
 <tr>
   <td>
     <a href="/help/marketo/fundamentals/ui-navigation.md">
-      <img alt="Navigeren door de [!DNL Marketo Engage] gebruikersinterface" src="https://video.tv.adobe.com/v/3419131?format=jpeg" />
+      <img alt="Navigeren in de gebruikersinterface van [!DNL Marketo Engage]" src="https://video.tv.adobe.com/v/3419131?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/fundamentals/ui-navigation.md">
-    <strong>Navigeren door de [!DNL Marketo Engage] gebruikersinterface</strong>
+    <strong> ga het [!DNL Marketo Engage] gebruikersinterface </strong> binnen
     </a>
     </div>
     <p>
-    <em>Leer hoe u door de gebruikersinterface kunt navigeren en vertrouwd raakt met uw weg rond de [!DNL Marketo Engage] platform.</em>
+    <em> leer hoe te om het gebruikersinterface te navigeren en vertrouwd met uw manier rond het [!DNL Marketo Engage] platform te worden.</em>
     <p>
   </td>
   <td>
@@ -49,11 +49,11 @@ Het krachtigste ding over [!DNL Adobe] Oplossingen voor Experience Cloud? Jij. D
     </a>
     <div>
       <a href="/help/marketo/reporting/reporting-and-analytics.md">
-    <strong>Rapportage en analyse</strong>
+    <strong> het Melden en de analyses </strong>
     </a>
     </div>
     <p>
-    <em>Leer hoe te om de sectie van Analytics en van het Gegevensbestand te navigeren om verschillende out-of-the-box rapporten in te trekken [!DNL Marketo Engage].</em>
+    <em> leer hoe te om de sectie van Analytics en van het Gegevensbestand te navigeren om verschillende uit-van-de-doosrapporten in [!DNL Marketo Engage] te trekken.</em>
     <p>
   </td>
   <td>
@@ -62,11 +62,11 @@ Het krachtigste ding over [!DNL Adobe] Oplossingen voor Experience Cloud? Jij. D
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">
-    <strong>E-mailprogramma's</strong>
+    <strong> E-mailprogramma's </strong>
     </a>
     </div>
     <p>
-    <em>Bekijk deze stapsgewijze zelfstudie om te leren hoe u een e-mailprogramma maakt met een A/B-test.</em>
+    <em> bekijk dit geleidelijke leerprogramma leren hoe te om een e-mailprogramma met een test te creëren A/B.</em>
     <p>
   </td>
 </tr>
@@ -76,7 +76,7 @@ Het krachtigste ding over [!DNL Adobe] Oplossingen voor Experience Cloud? Jij. D
 
 ## Aanvullende bronnen
 
-* [Marketo Nation (gemeenschappen)](https://nation.marketo.com/)
-* [Adobe Marketo Engage-documentatie](https://experienceleague.adobe.com/docs/marketo-engage.html)
-* [Adobe Marketo Engage Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)
-* [Adobe Marketo Engage-productinformatie](https://business.adobe.com/products/marketo/adobe-marketo.html)
+* [ Natie van Marketo (gemeenschappen) ](https://nation.marketo.com/)
+* [ Documentatie van Adobe Marketo Engage ](https://experienceleague.adobe.com/docs/marketo-engage.html)
+* [ Tutorials van Adobe Marketo Engage ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)
+* [ het productinformatie van Adobe Marketo Engage ](https://business.adobe.com/products/marketo/adobe-marketo.html)

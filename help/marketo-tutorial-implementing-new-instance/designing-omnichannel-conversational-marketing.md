@@ -26,7 +26,7 @@ Deze zelfstudie beschrijft het denkproces en de gevallen van primair gebruik die
 
 Bezoekers kunnen om een bepaalde reden door uw website bladeren. Ze zoeken mogelijk naar inhoud op uw product(en) of service(s) of zoeken contactgegevens om contact op te nemen met uw vertegenwoordigers. Ze kunnen ook uw klanten zijn die op zoek zijn naar aanvullende productinformatie. Met Chat kunnen bezoekers van uw website zichzelf bedienen en zichzelf kwalificeren als ze klaar zijn om met uw verkoopteam te spreken.
 
-Toen Sara Barriuso de Dynamic Chat uitvoerde, werd ze getekend door haar naadloze integratie met Marketo Engage en de [prebuilt activity triggers](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"} die programma&#39;s van de Marketo Engage en vice versa activeren. Ze ontwikkelde haar strategieën voor conversatie-betrokkenheid met drie doelgroepen in gedachten:
+Toen Sara Barriuso Dynamic Chat uitvoerde, werd zij getrokken door zijn naadloze integratie met Marketo Engage en de [ prebuilt activiteitentrekkers ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities) {target="_blank"} die de programma&#39;s van het Marketo Engage en vice versa activeren. Ze ontwikkelde haar strategieën voor conversatie-betrokkenheid met drie doelgroepen in gedachten:
 
 1. Onbekende vooruitzichten: proactief demonstratieoproepen aanbieden om nieuwe leads te genereren.
 2. Bekende leads/klanten: vergroot de tijd die bezoekers besteden aan het bladeren door inhoud en bied demo-oproepen aan om upsell- en cross-sell-mogelijkheden te genereren.
@@ -53,7 +53,7 @@ Dit dialoogvenster biedt vijf initiële opties waaruit sitebezoekers kunnen kiez
 
 >[!BEGINTABS]
 
->[!TAB Dynamic Chat]
+>[!TAB  Dynamic Chat ]
 
 #### Fase 1
 
@@ -65,9 +65,9 @@ Dit dialoogvenster biedt vijf initiële opties waaruit sitebezoekers kunnen kiez
 
 1. Voeg in &quot;Publiek&quot; een URL van een webpagina toe in &quot;Doel&quot; om aan te geven waar het dialoogvenster verschijnt.
 2. Voeg bij &quot;Instellingen&quot; de naam, beschrijving, prioriteit en taal van de campagne toe.
-3. Klik op Publiceren
+3. Klik op Publish
 
->[!TAB Marketo Engage]
+>[!TAB  Marketo Engage ]
 
 #### Fase 1
 
@@ -90,7 +90,7 @@ U kunt de standaard catch-all Dialoog verder verbeteren door op de industrie ger
 
 >[!BEGINTABS]
 
->[!TAB Dynamic Chat]
+>[!TAB  Dynamic Chat ]
 
 1. Kloont het standaarddialoogvenster en geeft het een andere naam.
 2. In &quot;Stream Designer&quot; past u Dialoogberichten aan de doelindustrie aan (slechts één stream + de eerste vraag).
@@ -98,9 +98,9 @@ U kunt de standaard catch-all Dialoog verder verbeteren door op de industrie ger
 4. Maak een testkoppeling en deel deze.
 5. Voeg in &quot;Publiek&quot; een URL van een webpagina toe waar het doel in het dialoogvenster wordt weergegeven en bijgewerkt naar de gewenste branche.
 6. Voeg bij &quot;Instellingen&quot; de naam, de prioriteit voor de beschrijving en de taal van de campagne toe.
-7. Klik op &quot;Publiceren&quot;.
+7. Klik op Publish.
 
->[!TAB Marketo Engage]
+>[!TAB  Marketo Engage ]
 
 1. Maak een slimme traceringscampagne en test het doel.
 2. Test de slimme traceringscampagne opnieuw nadat u het dialoogvenster hebt gepubliceerd.
@@ -115,7 +115,7 @@ Gebeurtenissen en webinars zijn populaire marketingtactieken voor B2B-bedrijven 
 
 >[!BEGINTABS]
 
->[!TAB Dynamic Chat]
+>[!TAB  Dynamic Chat ]
 
 #### Fase 1
 
@@ -126,11 +126,11 @@ Gebeurtenissen en webinars zijn populaire marketingtactieken voor B2B-bedrijven 
 1. De sjabloon klonen.
 2. Tekst kopiëren en plakken naar het Dialoogbericht voor een nieuwe gebeurtenis
 3. U kunt UTM-parameters bijwerken die in uw gebeurteniskoppeling worden gebruikt (bijvoorbeeld utm_medium=website&amp;utm_source=adobe).
-4. Maak een testkoppeling, klik op Publiceren en deel deze met de aanvrager.
+4. Maak een testkoppeling, klik op &quot;Publish&quot; en deel deze met de aanvrager.
 5. Collegiale revisie en feedback toepassen.
 
 
->[!TAB Marketo Engage]
+>[!TAB  Marketo Engage ]
 
 #### Fase 1
 
@@ -154,16 +154,16 @@ U kunt websitebezoekers een nog betere ervaring bieden door ze te registreren vo
 
 >[!BEGINTABS]
 
->[!TAB Dynamic Chat]
+>[!TAB  Dynamic Chat ]
 
 1. Het dialoogvenster voor het promoten van gebeurtenissen/webinars klonen.
-2. Voeg in Stream Designer na het antwoord van de gebruiker op Ja een vraagkaart toe &quot;U hebt eerder uw e-mailadres met ons gedeeld. Wilt u dit voor de gebeurtenisdetails bewaren?&quot;
+2. Voeg in Stream Designer, nadat de gebruiker &quot;Ja&quot; heeft beantwoord, een vraagkaart toe &quot;U hebt eerder uw e-mailadres met ons gedeeld. Wilt u dit voor de gebeurtenisdetails bewaren?&quot;
 3. Als zij &quot;Ja&quot; beantwoorden, voegt u een berichtkaart toe &quot;U ontvangt een bevestigingsbericht in uw e-mail met de gebeurtenis/webinar details&quot;.
 4. Als zij &quot;Nee&quot; beantwoorden, voegt u een berichtkaart toe &quot;Vul het formulier in op de registratiepagina&quot;.
-5. Maak een testkoppeling, klik op Publiceren en deel deze met de aanvrager.
-6. Voeg op het tabblad Publiek het volgende toe: [e-mail is niet leeg].
+5. Maak een testkoppeling, klik op &quot;Publish&quot; en deel deze met de aanvrager.
+6. In het lusje van het Publiek, voeg [ e-mail toe is niet leeg ].
 
->[!TAB Marketo Engage]
+>[!TAB  Marketo Engage ]
 
 1. Voeg dit nieuwe Dialoogvenster aan het volgen Slimme Campagne binnen Marketo Engage toe en test het.
 
@@ -181,7 +181,7 @@ Uitbreiding van betrokkenheid bij inhoud campagne - Configuratie:
 
 >[!BEGINTABS]
 
->[!TAB Dynamic Chat]
+>[!TAB  Dynamic Chat ]
 
 1. Nieuwe leads voor uw campagnes genereren via de aanraakpunten via e-mail en sociale campagnes. In dit voorbeeld wordt de Talent health index Survey gehost op de website van het merk.
 2. Klonen een bestaand malplaatje van de Dialoog (b.v. standaard catch-all Dialoog) om drie Dialogen voor de volgende scenario&#39;s tot stand te brengen en de &quot;Doel URL&quot;in het &quot;Publiek&quot;lusje dienovereenkomstig bij te werken:
@@ -193,7 +193,7 @@ Uitbreiding van betrokkenheid bij inhoud campagne - Configuratie:
 
 ## Wat is de volgende?
 
-* Wijs uw gespreksstroom in [Stream Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} of een stroomschema offline.
+* Wijs uit uw gespreksstroom in [ Stroom Designer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer) {target="_blank"} of een stroomgrafiek offline toe.
 * Een standaard catch-all-dialoogvenster in Dynamic Chat maken.
 * Activeer de conversaties na de campagne met behulp van automatische triggers in Marketo Engage.
 

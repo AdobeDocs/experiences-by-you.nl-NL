@@ -1,6 +1,6 @@
 ---
 title: Tips en trucs voor het vereenvoudigen en minder tijd doorbrengen van trainingsgebruikers
-description: Ervoor zorgen dat zakelijke gebruikers binnen uw organisatie goed zijn opgeleid voor [!DNL Adobe Analytics] is van cruciaal belang om een cultuur van gegevensgestuurde besluitvorming te helpen opbouwen. Gebruikers die gemakkelijk informatie kunnen vinden binnen [!DNL Adobe Analytics] kan eenvoudige bedrijfsvragen op zich beantwoorden, die meer tijd voor analisten toestaan om uitdagende bedrijfsvragen te beantwoorden. Door uw kennis te delen, kunt u de democratie van gegevens bevorderen en kunnen zakelijke gebruikers onafhankelijker zijn bij het nemen van prestatiegebaseerde beslissingen.
+description: Het verzekeren van bedrijfsgebruikers binnen uw organisatie is goed-opgeleid op  [!DNL Adobe Analytics]  essentieel om een cultuur van gegeven-gedreven besluitvorming te helpen bouwen. De gebruikers die informatie binnen  [!DNL Adobe Analytics]  gemakkelijk kunnen vinden kunnen eenvoudige bedrijfsvragen op hun antwoorden, die meer tijd voor analisten toestaan om uitdagende bedrijfsvragen te beantwoorden. Door uw kennis te delen, kunt u de democratie van gegevens bevorderen en kunnen zakelijke gebruikers onafhankelijker zijn bij het nemen van prestatiegebaseerde beslissingen.
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -13,7 +13,7 @@ kt: 9779
 exl-id: 9ceef641-3509-4e5e-8c44-bc76502e389b
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '885'
 ht-degree: 0%
 
 ---
@@ -22,14 +22,14 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
 
-Ervoor zorgen dat zakelijke gebruikers binnen uw organisatie goed zijn opgeleid voor [!DNL Adobe Analytics] is van cruciaal belang om een cultuur van gegevensgestuurde besluitvorming te helpen opbouwen. Gebruikers die gemakkelijk informatie kunnen vinden binnen [!DNL Adobe Analytics] kan eenvoudige bedrijfsvragen op zich beantwoorden, die meer tijd voor analisten toestaan om uitdagende bedrijfsvragen te beantwoorden. Door uw kennis te delen, kunt u de democratie van gegevens bevorderen en kunnen zakelijke gebruikers onafhankelijker zijn bij het nemen van prestatiegebaseerde beslissingen.
+Ervoor zorgen dat zakelijke gebruikers binnen uw organisatie goed zijn opgeleid op [!DNL Adobe Analytics] is van cruciaal belang om een cultuur van gegevensgestuurde besluitvorming te helpen opbouwen. Gebruikers die gemakkelijk binnen [!DNL Adobe Analytics] informatie kunnen vinden, kunnen op zichzelf eenvoudige bedrijfsvragen beantwoorden, waardoor analisten meer tijd krijgen om uitdagende bedrijfsvragen te beantwoorden. Door uw kennis te delen, kunt u de democratie van gegevens bevorderen en kunnen zakelijke gebruikers onafhankelijker zijn bij het nemen van prestatiegebaseerde beslissingen.
 
-Daarom is het van cruciaal belang dat er tijd wordt besteed aan het opzetten van een structuur om gebruikers voortdurend op te leiden, en met name om nieuwe gebruikers op aanvraag aan boord te laten gaan. Als u een klein portfolio met trainingsinhoud maakt die u desgewenst opnieuw kunt gebruiken, bespaart u tijd. Het beste onderdeel is dat hiervoor geen extra inspanning nodig is. Vergeet niet, [!DNL Adobe] biedt ook lesruimten en training op afstand, maar alleen u kent de nuances van een aangepaste implementatie.
+Daarom is het van cruciaal belang dat er tijd wordt besteed aan het opzetten van een structuur om gebruikers voortdurend op te leiden, en met name om nieuwe gebruikers op aanvraag aan boord te laten gaan. Als u een klein portfolio met trainingsinhoud maakt die u desgewenst opnieuw kunt gebruiken, bespaart u tijd. Het beste onderdeel is dat hiervoor geen extra inspanning nodig is. Vergeet niet dat [!DNL Adobe] ook cursussen voor lesruimten en externe training biedt, maar alleen u kent de nuances van een aangepaste implementatie.
 
 
 ## Basistraining voor iedereen
 
-Eerst en vooral, creeer een gestandaardiseerde basisopleidingszitting voor het gebruiken [!DNL Adobe Analytics] dat past in de kalenders van de meeste mensen. Dit duurt waarschijnlijk ongeveer een uur en bevat alles waarmee gebruikers aan de slag kunnen [!DNL Adobe Analytics] in uw organisatie.
+Eerst en vooral maakt u een gestandaardiseerde basistrainingssessie voor het gebruik van [!DNL Adobe Analytics] die in de kalenders van de meeste mensen past. Dit duurt waarschijnlijk ongeveer een uur en bevat alles wat gebruikers nodig hebben om met [!DNL Adobe Analytics] aan de slag te gaan in uw organisatie.
 
 * Schrijf een agenda om uw trainingssessie in beweging te houden, zodat u een aantal basisprincipes niet vergeet, die u misschien niet meer in het oog houden.
 * Vergeet niet hoe u toegang krijgt, zich aanmeldt en wachtwoorden of e-mailadressen wijzigt.
@@ -53,13 +53,13 @@ Natuurlijk, zal één standaardbasisopleidingszitting niet elke vraag en elke ge
 * Zorg ervoor dat u deze sessies opneemt en maak deze een voor een beschikbaar wanneer u de nieuwe inhoud maakt.
 * Af en toe, aangezien uw implementatie groeit en evolueert, kunt u uw opleidingszittingen moeten bijwerken om de inhoud huidig te houden.
 * Afhankelijk van hoe uw implementatie en uw organisatie gestructureerd zijn, kan het relevant zijn om trainingssessies te maken die gericht zijn op een specifieke afdeling of groep, d.w.z. het aanbieden van training aan een IT-afdeling rond browser- en besturingssysteemgebruik, het demonstreren van waarschuwingen over de beschikbaarheid van de site versus het bieden van training aan een marketingafdeling rond referenties, marketingkanalen en de meeste bezochte inhoudspagina&#39;s.
-* U hoeft niet zelf alle inhoud te maken. [!DNL Adobe] beschikt over uitstekende gratis leerpaden en aanvullende trainingsinhoud die u binnen [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics.html?lang=nl).
+* U hoeft niet zelf alle inhoud te maken. [!DNL Adobe] heeft sommige uitstekende vrije het leren wegen en extra opleidingsinhoud, die u aan uw gebruikers binnen [[!DNL Adobe]  Experience League ](https://experienceleague.adobe.com/docs/analytics.html?lang=nl) kunt aanbieden.
 
 
 
 ## Uw gebruikers trainen om anderen op te leiden
 
-In elke afdeling is er over het algemeen één gebruiker die geavanceerder en deskundig is in [!DNL Adobe Analytics]. Gebruik hun expertise en werk met hen om een &quot;[!DNL Adobe Analytics] afdelingshoofd.&quot; Door dit supportniveau te creëren, helpt u gebruikers hun vaardigheidsreeks vooruit, die uw organisatie meer in wordt geïnvesteerd [!DNL Adobe Analytics] en behoud uw tijd voor geavanceerdere en uitdagende vragen.
+In elke afdeling is er doorgaans één gebruiker die geavanceerder en deskundiger is in [!DNL Adobe Analytics] . Gebruik hun deskundigheid en werk met hen om een &quot;[!DNL Adobe Analytics] Leader van de Afdeling te worden.&quot; Door dit supportniveau te maken, helpt u gebruikers hun vaardigheden te verbeteren, uw organisatie meer te laten investeren in [!DNL Adobe Analytics] en uw tijd te behouden voor geavanceerdere en uitdagende vragen.
 
 * Investeer tijd bij het trainen van uw afdelingshoofden om gevorderde gebruikers te worden, zodat zij gemakkelijk om het even welke vragen kunnen beantwoorden en nieuwe gebruikers in de afdeling helpen. Deze tijd die wordt geïnvesteerd, zal later dividend uitkeren.
 * Zorg ervoor u verwachtingen plaatst dat alle vragen van de afdeling door de afdelingsleider zouden moeten worden gefinancierd. Als zij een vraag niet kunnen beantwoorden, dan moet u dat doen om u te helpen.

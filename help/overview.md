@@ -15,7 +15,7 @@ ht-degree: 4%
 
 # Ervaringen door U: Middelen door gebruikers, voor gebruikers.
 
-Het krachtigste ding over [!DNL Adobe] DX-oplossingen (Digital Experience)? Jij. De gebruikers die de producten meenemen, erin graven en ze toepassen op verbazingwekkende, innovatieve manieren om zinvolle ervaringen en resultaten te creëren. _Ervaringen van u_ bevat inhoud die is gemaakt door dagelijkse gebruikers die een niveau van deskundigheid en invloed met hun [!DNL Adobe] DX-oplossingen. Deze peer-to-peer kennis bevordert samenwerking en ontdekking - en stelt u in staat - en elke andere gebruiker de inspiratie te vinden die nodig is om uw productexpertise op een hoger niveau te brengen.
+Het krachtigste aan [!DNL Adobe] Digital Experience (DX)-oplossingen? Jij. De gebruikers die de producten meenemen, erin graven en ze toepassen op verbazingwekkende, innovatieve manieren om zinvolle ervaringen en resultaten te creëren. _Ervaringen door u_ kenmerkt inhoud die door alledaagse gebruikers wordt gecreeerd die een niveau van deskundigheid en invloed met hun [!DNL Adobe] oplossingen DX hebben bereikt. Deze peer-to-peer kennis bevordert samenwerking en ontdekking - en stelt u in staat - en elke andere gebruiker de inspiratie te vinden die nodig is om uw productexpertise op een hoger niveau te brengen.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -40,7 +40,7 @@ Het krachtigste ding over [!DNL Adobe] DX-oplossingen (Digital Experience)? Jij.
     </a>
     </div>
     <p>
-    <em>Tips die u kunt gebruiken in [!DNL Analysis Workspace] om uw workflows efficiënter te maken.</em>
+    <em> Uiteinden u in [!DNL Analysis Workspace] kunt gebruiken om uw werkschema's efficiënter te maken.</em>
     <p>
   </td>
   <td>
@@ -53,12 +53,12 @@ Het krachtigste ding over [!DNL Adobe] DX-oplossingen (Digital Experience)? Jij.
     </a>
     </div>
     <p>
-    <em>Stapsgewijze zelfstudie voor het maken van een e-mailprogramma met een A/B-test.</em>
+    <em> geleidelijke leerprogramma leren hoe te om een e-mailprogramma met een test te creëren A/B.</em>
     <p>
   </td>
   <td>
     <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
-      <img alt="AEM as a Cloud Service on-boarding playbook" src="https://video.tv.adobe.com/v/3419299?format=jpeg" />
+      <img alt="AEM as a Cloud Service On-boarding playbook" src="https://video.tv.adobe.com/v/3419299?format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
@@ -66,7 +66,7 @@ Het krachtigste ding over [!DNL Adobe] DX-oplossingen (Digital Experience)? Jij.
     </a>
     </div>
     <p>
-    <em>De onboarding playbook helpt u als nieuwe beheerder en ontwikkelaar voor [!DNL AEM as a Cloud Service].</em>
+    <em> de onboarding playbook hulp u als nieuwe beheerder en ontwikkelaar voor [!DNL AEM as a Cloud Service] neemt.</em>
     <p>
   </td>
 </tr>
@@ -75,8 +75,8 @@ Het krachtigste ding over [!DNL Adobe] DX-oplossingen (Digital Experience)? Jij.
 
 ## Aanvullende bronnen
 
-* [Experience League Gemeenschappen](https://experienceleaguecommunities.adobe.com/)
-* [Documentatie Experience Cloud](https://experienceleague.adobe.com/docs/)
-* [Tutorials Experience Cloud](https://experienceleague.adobe.com/docs/home-tutorials.html)
-* [business.adobe.com](https://business.adobe.com)
+* [ Gemeenschappen van de Experience League ](https://experienceleaguecommunities.adobe.com/)
+* [ Documentatie van het Experience Cloud ](https://experienceleague.adobe.com/docs/)
+* [ Tutorials van het Experience Cloud ](https://experienceleague.adobe.com/docs/home-tutorials.html)
+* [ business.adobe.com ](https://business.adobe.com)
 

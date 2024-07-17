@@ -9,20 +9,21 @@ duration: 0
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '1166'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Een nieuw exemplaar organiseren en naamconventies instellen
 
-Als beheerder die een nieuwe instantie van het Marketo Engage uitvoert, plaatst u het grondwerk dat toekomstige marketers binnen de organisatie toestaat om door de instantie gemakkelijk te navigeren. Wanneer u vertrouwd raakt met de structuur van de structuurmap en de naamgevingsconventies, blijft uw instantie traag en kunt u deze op lange termijn succesvol instellen. Deze zelfstudie bevat voorbeelden die worden aanbevolen door Adobe en Marketo Engage Champion (2019-2020), Natalie Kremer, om u te helpen [de mappen consistent ordenen en elementen een naam geven](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}.
+Als beheerder die een nieuwe instantie van het Marketo Engage uitvoert, plaatst u het grondwerk dat toekomstige marketers binnen de organisatie toestaat om door de instantie gemakkelijk te navigeren. Wanneer u vertrouwd raakt met de structuur van de structuurmap en de naamgevingsconventies, blijft uw instantie traag en kunt u deze op lange termijn succesvol instellen. Dit leerprogramma omvat voorbeelden die door Adobe en Marketo Engage Champion (2019-2020) worden geadviseerd, Natalie Kremer, om u te helpen [ de omslagen organiseren en activa constant noemen ](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630) {target="_blank"}.
 
 ## Waarom is het structureren van mappen en het toepassen van naamgevingsconventies nodig?
 
-Door in uw exemplaar georganiseerd te blijven, is het voor u en uw collega&#39;s gemakkelijk om campagnes, programma&#39;s, en activa bij te houden en programmaprestaties te melden. Als u de boomstructuur in uw instantie wilt ordenen en op schaal wilt bouwen, kunt u het beste de boomstructuur [mappen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, [standaardnaamconventies](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}en functies zoals [klonen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
+Door in uw exemplaar georganiseerd te blijven, is het voor u en uw collega&#39;s gemakkelijk om campagnes, programma&#39;s, en activa bij te houden en programmaprestaties te melden. Om de navigatieboom in uw instantie te organiseren en bij schaal te bouwen, wordt het geadviseerd om [ omslagen ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders) {target="_blank"} te gebruiken, [ standaard noemende overeenkomsten ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes) {target="_blank"}, en eigenschappen zoals [ het klonen ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning) {target="_blank"}.
 
 ## Hoe te om een instantie van het Marketo Engage te organiseren
 
@@ -30,7 +31,7 @@ Door in uw exemplaar georganiseerd te blijven, is het voor u en uw collega&#39;s
 
 ### Stap 1 - Een mapstructuur instellen om uw programma&#39;s in orde te brengen
 
-De eerste stap bij het organiseren van uw instantie is: [een mappenstructuur instellen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html) huisvest uw programma en activa op een gemakkelijk te vinden en ordelijke manier.
+De eerste stap aan het organiseren van uw instantie moet [ opstelling een omslagstructuur ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html) huishouden uw programma en activa in een gemakkelijke en ordelijke manier vinden.
 
 Hier volgen enkele tips voor het structureren van de mappen in boomstructuur:
 
@@ -41,21 +42,21 @@ Hier volgen enkele tips voor het structureren van de mappen in boomstructuur:
 
 Hieronder vindt u voorbeelden van mappen waarin deze tips in de praktijk worden gebracht.
 
-**Mapnaam in structuur**
+**Naam van de Omslag in Boom**
 
 >[!BEGINTABS]
 
 >[!TAB Marketingactiviteiten]
 
-![Mappen marketing](/help/marketo-tutorial-implementing-new-instance/assets/folders-marketing-activities.png)
+![ Omslagen Marketing Activiteiten ](/help/marketo-tutorial-implementing-new-instance/assets/folders-marketing-activities.png)
 
->[!TAB Design Studio]
+>[!TAB  Studio van het Ontwerp ]
 
-![Mapontwerp Studio](/help/marketo-tutorial-implementing-new-instance/assets/folders-design-studio.png)
+![ Studio van het Ontwerp van de Omslag ](/help/marketo-tutorial-implementing-new-instance/assets/folders-design-studio.png)
 
 >[!TAB Database]
 
-![Mapdatabase](/help/marketo-tutorial-implementing-new-instance/assets/folders-database.png)
+![ Gegevensbestand van de Omslag ](/help/marketo-tutorial-implementing-new-instance/assets/folders-database.png)
 
 >[!ENDTABS]
 
@@ -63,15 +64,15 @@ Hieronder vindt u voorbeelden van mappen waarin deze tips in de praktijk worden 
 
 Nu, passen wij de omslagstructuur op programmaniveau toe. U kunt het beste de lokale middelen in submappen onderbrengen om de programma&#39;s vlot te houden en interne gebruikers in staat te stellen de programma&#39;s op efficiënte wijze te wijzigen of te rapporteren. Veelvoorkomende submappen zijn e-mails, bestemmingspagina&#39;s, slimme campagnes, lijsten, rapporten, enzovoort.
 
-**Mapnaam in programma&#39;s**
-* Campagnes - *Map voor alle campagnes die interacties en statustracking beheren.*
-* Lokale middelen - *Map voor alle elementen die specifiek zijn voor dit programma.*
+**de Naam van de Omslag binnen Programma&#39;s**
+* Campagnes - *Omslag voor alle campagnes die interacties en status het volgen beheren.*
+* Lokale Assets - *Omslag voor alle activa die voor dit Programma specifiek zijn.*
    * E-mails
-   * Openingspagina&#39;s
+   * Landingspagina&#39;s
    * Slimme campagnes
-   * Lijsten - *Alleen nodig wanneer er programmaspecifieke lijsten zijn.*
-   * FORMS - *Alleen nodig als er programmaspecifieke Forms is; de meeste Forms zijn Global Assets.*
-   * Rapporten - *Alleen nodig wanneer er programmaspecifieke rapporten zijn.*
+   * Lijsten - *slechts nodig wanneer er Programma specifieke Lijsten zijn.*
+   * Forms - *slechts nodig wanneer er Programma specifieke Forms zijn; de meeste Forms zijn Globale Assets.*
+   * Rapporten - *slechts nodig wanneer er Programma specifieke Rapporten zijn.*
 
 ### Stap 3 - Naamgevingsconventies maken voor uw programma&#39;s en middelen
 
@@ -86,7 +87,7 @@ Nu, zetten de waarden in de formule en produceren de programmanamen voor diverse
 
 #### Formule voor naamgeving van programma
 
-| **Afkorting van programmatype** | **JJJJ** | **\-** | **MM** | **\-** | **DD (optioneel)** | **Categorie** | **\-** | **Korte beschrijving van het programma** |
+| **Afkorting van het Type van Programma** | **YYYY** | **\-** | **MM** | **\-** | **DD (Facultatief)** | **Categorie** | **\-** | **Korte Beschrijving van Programma** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EM - E-mail verzenden (e-mailprogramma) | JJJJ | \- | MM | \- | DD (optioneel) | Categorie | \- | Korte beschrijving van het programma |
 | NL - Nieuwsbrief | JJJJ | \- | MM | \- | DD (optioneel) | Categorie | \- | Korte beschrijving van het programma |
@@ -99,7 +100,7 @@ Nu, zetten de waarden in de formule en produceren de programmanamen voor diverse
 | WC - Inhoud website | JJJJ | \- | MM | \- | DD (optioneel) | Categorie | \- | Korte beschrijving van het programma |
 | CS - Inhoudssyntaxis | JJJJ | \- | MM | \- | DD (optioneel) | Categorie | \- | Korte beschrijving van het programma |
 | LI - List Import | JJJJ | \- | MM | \- | DD (optioneel) | Categorie | \- | Korte beschrijving van het programma |
-| OA - Online advertentie | JJJJ | \- | MM | \- | DD (optioneel) | Categorie | \- | Korte beschrijving van het programma |
+| OA - Online Advertising | JJJJ | \- | MM | \- | DD (optioneel) | Categorie | \- | Korte beschrijving van het programma |
 | PPC - Betalen per klik | JJJJ | \- | MM | \- | DD (optioneel) | Categorie | \- | Korte beschrijving van het programma |
 
 | **Voorbeelden** |
@@ -120,13 +121,13 @@ Met het oog hierop zullen we deze tips toepassen op de volgende elementen en for
 
 ##### Geef de elementen een naam op basis van de volgorde in het programmaproces
 
-| **Reeks in programmaproces** | **\-** | **Beschrijving** |
+| **Opeenvolging in het Proces van het Programma** | **\-** | **Beschrijving** |
 | --- | --- | --- |
 | 01 | \- | Beschrijving |
 | 02 | \- | Beschrijving |
 | 03 | \- | Beschrijving |
 
-| **Voorbeelden: slimme lijst** |
+| **Voorbeelden: Slimme Lijst** |
 | --- |
 | 01-E-mail verzenden |
 | 02-Openen |
@@ -137,7 +138,7 @@ Met het oog hierop zullen we deze tips toepassen op de volgende elementen en for
 
 ##### De elementen een naam geven met een afkorting van het type element
 
-| **Afkorting van activatype** | **Elementtype** | **\-** | **Beschrijving van doel** |
+| **Afkorting van het Type van Activa** | **Type van Activa** | **\-** | **Beschrijving van Doel** |
 | --- | --- | --- | --- |
 | LP - Openingspagina | LP | \- | Beschrijving van doel |
 | E-MAIL - E-mail (uitgaand) | EMAIL | \- | Beschrijving van doel |
@@ -159,13 +160,13 @@ Met het oog hierop zullen we deze tips toepassen op de volgende elementen en for
 
 ##### Geef de downloadbare bestanden (.pdf) een naam met een afkorting van het type element
 
-| **Elementtype** | **Beschrijving van inhoud** | **\-** | **Afkorting van activatype** | **.** | **PDF** |
+| **Type van Activa** | **Beschrijving van de Inhoud** | **\-** | **Afkorting van het Type van Activa** | **.** | **PDF** |
 | --- | --- | --- | --- | --- | --- |
 | WP - Witboek | Beschrijving van inhoud | \- | WP | . | pdf |
 | CS - Casestudy | Beschrijving van inhoud | \- | CS | . | pdf |
 | DS - Gegevensblad | Beschrijving van inhoud | \- | DS | . | pdf |
 
-| **Voorbeelden: downloadbare PDF-bestanden** |
+| **Voorbeelden: Downloadbare dossiers van PDF** |
 | --- |
 | XYZ-Gadget-DS.pdf |
 | Acme-Company-CS.pdf |
@@ -177,9 +178,9 @@ Met het oog hierop zullen we deze tips toepassen op de volgende elementen en for
 
 ## Wat is de volgende?
 
-* Download het werkblad: [Organisatie van Marketo&#39;s Engage en naamgevingsconventies](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} om het maken van de mapstructuur en naamgevingsconventies te ondersteunen.
+* Download het Werkblad: [ Organisatie van de Marketo Engage en het Noemen van Conventies ](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} om de verwezenlijking van de omslagstructuur en noemende overeenkomsten te steunen.
 * Zodra u de noodzakelijke componenten in uw standaard noemende overeenkomst bepaalt, overweeg bouwend formules in een Blad van Google of Microsoft Excel. Voor toekomstig gebruik voert u eenvoudig uw waarden in het spreadsheet in om de programmanamen te genereren.
-* Zodra u zich op een algemene omslagstructuur richt, is het tijd om door de malplaatjes te denken u op de meest frequente gebruiksgevallen baseert en de gemeenschappelijkste verzoeken uw team ontvangt. Vervolgens begint u met het maken van uw eerste programmasjabloon. Lees verder om te beginnen met [Adobe Marketo Engage-programmasjablonen](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}.
+* Zodra u zich op een algemene omslagstructuur richt, is het tijd om door de malplaatjes te denken u op de meest frequente gebruiksgevallen baseert en de gemeenschappelijkste verzoeken uw team ontvangt. Vervolgens begint u met het maken van uw eerste programmasjabloon. Lees op begonnen te worden met [ Adobe Marketo Engage programmamalplaatjes ](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates) {target="_blank"}.
 
 ### Auteurs
 

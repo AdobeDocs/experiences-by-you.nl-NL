@@ -13,16 +13,16 @@ kt: 10536
 exl-id: f133d049-9a24-4153-88c5-40ec480d1e4e
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '760'
 ht-degree: 0%
 
 ---
 
 # Een algemene rapportsuite gebruiken
 
-**WAT:** Het is verleidelijk om rapportsuites voor elk van uw plaatsen tot stand te brengen, maar dit kan snel uw ergste nachtmerrie worden - zowel in termen van het bemoeilijken van uw rapportering als van uw implementatie. Een enkele algemene rapportsuite kan op vele manieren helpen en uw implementatie echt vereenvoudigen.
+**WAT:** het is verleidelijk om rapportsuites voor elk van uw plaatsen tot stand te brengen, maar dit kan snel uw ergste nachtmerrie worden - zowel in termen van het compliceren van uw rapportering als uw implementatie. Een enkele algemene rapportsuite kan op vele manieren helpen en uw implementatie echt vereenvoudigen.
 
-**WAAROM:** Het creëren van een globale rapportreeks is uw enige optie voor het hebben van een verenigde mening van uw digitale eigenschappen en gebruikersreizen over elk bezit. Als u een mobiele app en website hebt, moet u de toepassingsgegevens en webgegevens altijd in één rapportsuite combineren om gebruik te maken van alle ritten op verschillende apparaten en om gebruikers bij te houden die beide eigenschappen als één enkele bezoeker in plaats van als afzonderlijke rapportsuites bezoeken, waar u een onsamenhangende gegevensset zou hebben met 2 bezoekers - 1 op elke eigenschap - zonder dat de crossover bekend is.
+**WAAROM:** Creërend een globale rapportreeks is uw enige optie voor het hebben van een verenigde mening van uw digitale eigenschappen en gebruikersreizen over elk bezit. Als u een mobiele app en website hebt, moet u de toepassingsgegevens en webgegevens altijd in één rapportsuite combineren om gebruik te maken van alle ritten op verschillende apparaten en om gebruikers bij te houden die beide eigenschappen als één enkele bezoeker in plaats van als afzonderlijke rapportsuites bezoeken, waar u een onsamenhangende gegevensset zou hebben met 2 bezoekers - 1 op elke eigenschap - zonder dat de crossover bekend is.
 
 Hier volgen de voor- en nadelen van één rapportenpakket waarmee u uw opties kunt afwegen:
 
@@ -36,9 +36,9 @@ Hier volgen de voor- en nadelen van één rapportenpakket waarmee u uw opties ku
 * CONS:
    * Als u zeer afzonderlijke eigenschappen hebt waar de gebruikers niet van één aan andere snijden en nooit dit wordt verwacht, kunt u afzonderlijke rapportreeksen willen handhaven.
    * Als uw eigenschappen sterk verschillende etiketteren en rapporteringsbehoeften hebben, kan het zinvol zijn om afzonderlijke rapportreeksen in het belang van veranderlijke efficiency op te zetten. Het hebben van afzonderlijke rapportreeksen zal u meer flexibiliteit in het gebruiken van douanevariabelen (meer eVars) geven.
-   * Uniques overschreden: The [!DNL Adobe Analytics] de interface staat u toe slechts om 500.000 unieke waarden binnen één enkele afmeting voor een bepaalde tijdspanne te zien. Zodra u dit overschrijdt, zullen de waarden als &quot;uniques overschreden&quot;of &quot;laag verkeer&quot;in de interface worden gegroepeerd. Deze waarden blijven wel beschikbaar op de achtergrond (Data Warehouse, Gegevensfeeds), maar kunnen niet worden weergegeven in de interface. Als u zeer korrelige gegevens hebt (zoals gebruikersnaam, PSN, enz.), is het gemakkelijk om dit niveau te bereiken. Het hebben van afzonderlijke rapportsuites kan met deze kwestie helpen.
+   * Uniques overschreden: met de interface [!DNL Adobe Analytics] kunt u gedurende een bepaalde periode slechts 500.000 unieke waarden binnen één dimensie zien. Zodra u dit overschrijdt, zullen de waarden als &quot;uniques overschreden&quot;of &quot;laag verkeer&quot;in de interface worden gegroepeerd. Deze waarden blijven wel beschikbaar op de achtergrond (Data Warehouse, Gegevensfeeds), maar kunnen niet worden weergegeven in de interface. Als u zeer korrelige gegevens hebt (zoals gebruikersnaam, PSN, enz.), is het gemakkelijk om dit niveau te bereiken. Het hebben van afzonderlijke rapportsuites kan met deze kwestie helpen.
 
-**HOE:** Beginnend met een nieuwe implementatie van aa en het gebruiken van één globale rapportreeks is eenvoudig en ongecompliceerd. U zou enkel de globale rapportreeks (voor Dev en voor Prod) in aa moeten creëren admin UI en de waarden van de zelfde rapportreeks van identiteitskaart (RSID) op al uw eigenschappen toepassen.
+**HOW:** Beginnend met een nieuwe implementatie van aa en het gebruiken van één globale rapportreeks is eenvoudig en ongecompliceerd. U zou enkel de globale rapportreeks (voor Dev en voor Prod) in aa moeten creëren admin UI en de waarden van de zelfde rapportreeks van identiteitskaart (RSID) op al uw eigenschappen toepassen.
 
 Voor het migreren van een multitagging-strategie met een unieke rapportsuite per eigenschap is meer strategie en planning nodig. Enkele overwegingen die u in gedachten zult moeten houden:
 
@@ -51,11 +51,11 @@ Voor het migreren van een multitagging-strategie met een unieke rapportsuite per
 
 Dit document is medegeschreven door:
 
-![Christel Guidon](assets/Christel-Headshot-150.png)
+![ Christel Guidon ](assets/Christel-Headshot-150.png)
 
-Christel Guidon, digitaal [!DNL Analytics] Platform Manager bij NortonLifeLock
+Christel Guidon, Digital [!DNL Analytics] Platform Manager bij NortonLifeLock
 [!DNL Adobe Analytics] Champion
 
-![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
+![ Rachel Fenwick ](assets/Rachel-Fenwick-150.png)
 
 Rachel Fenwick, senior consultant bij [!DNL Adobe]

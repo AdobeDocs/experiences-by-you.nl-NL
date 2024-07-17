@@ -9,13 +9,13 @@ duration: 0
 last: substantial-update- 2024-05-01
 jira: KT-14808
 thumbnail: KT-14808.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '1098'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Planning voor een nieuwe implementatie van Marketo&#39;s Engage
 
@@ -38,8 +38,8 @@ In deze zelfstudie duiken we naar de specifieke mijlpalen, teamafspraken en bron
 
 ### Fase 3 - Maken van programmabibliotheek en instellen van campagne
 
-- E-mailsjablonen ontwikkelen en pagina&#39;s landen. Beginnen met [startprogramma&#39;s importeren](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) van de [Importbibliotheek programma](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
-- Regels voor segmentering en personalisatie instellen
+- E-mailsjablonen ontwikkelen en pagina&#39;s landen. Beginnend met [ invoerend starterprogramma&#39;s ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) van de [ Bibliotheek van de Invoer van het Programma ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
+- Segmentering en Personalization-regels instellen
 - Aanvankelijke campagnes opzetten voor het opwekken en voeden van lood
 
 ### Fase 4 - Opleiding en gebruikerstoepassing
@@ -134,7 +134,7 @@ Heer Marketo Engage Champion (2019), Kyle McCormick, over zijn ervaringen bij he
 
 Maak een nieuw implementatieprojectplan en een tijdlijn. Hieronder ziet u een tijdlijn voor een voorbeeldproject met secties voor voorbeeldmijlpalen, taken, verantwoordelijke teams, deadlines en afhankelijkheden. Gebruik dit programma om de implementatie van uw Marketo Engage te stroomlijnen en ervoor te zorgen dat de implementatie in de hele organisatie succesvol verloopt.
 
-U kunt het voorbeeld ook downloaden voor het bewerken en bijhouden van specifieke mijlpaaltaken [HIER](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx).
+U kunt het voorbeeld voor het uitgeven van en het volgen van specifieke milestone taken [ HERE ](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx) ook downloaden.
 
 <table>
  <thead>
@@ -158,14 +158,14 @@ U kunt het voorbeeld ook downloaden voor het bewerken en bijhouden van specifiek
     </tr>
     <tr>
         <td rowspan="2">Technische instellingen</td>
-        <td><em>VOORBEELD -</em> MunchkinID installeren op de bedrijfswebsite</td>
+        <td><em> VOORBEELD - </em> installeer MunchkinID op de bedrijfwebsite</td>
         <td bgcolor="c6f0cf">Voltooid</td>
         <td>05-09-24</td>
         <td>12-09-24</td>
         <td>Webontwikkelingsteam</td>
     </tr>
     <tr>
-        <td><em>VOORBEELD -</em> De Sleutels van het Domein van de opstelling Identified Mail (DKIM) en 2 afzonderlijke CNAMEs voor leverability en e-mailvolgverbindingen.</td>
+        <td><em> VOORBEELD - </em> De Sleutels van het Domein van de opstelling identificeerden Post (DKIM) en 2 afzonderlijke CNAMEs voor leverability en e-mail het volgen verbindingen.</td>
         <td bgcolor="c6f0cf">Voltooid</td>
         <td>15-09-24</td>
         <td>18-09-24</td>
@@ -173,28 +173,28 @@ U kunt het voorbeeld ook downloaden voor het bewerken en bijhouden van specifiek
     </tr>
     <tr>
         <td rowspan="4">Adobe Admin Console &amp; Admin Setup</td>
-        <td><em>VOORBEELD -</em> Gebruikers en rollen van Marketo's Engage maken</td>
+        <td><em> VOORBEELD - </em> creeer de gebruikers en de rollen van het Marketo Engage</td>
         <td bgcolor="c6f0cf">Voltooid</td>
         <td>27-08-24</td>
         <td>15-09-24</td>
         <td>Informatie van marketingteams over wie toegang tot Marketo Engage nodig heeft.</td>
     </tr>
     <tr>
-        <td><em>VOORBEELD -</em> Extra Marketo Engage productbeheerder maken in Adobe Admin Console</td>
+        <td><em> VOORBEELD - </em> creeer extra Admin van het Product van het Marketo Engage in Adobe Admin Console</td>
         <td bgcolor="c6f0cf">Voltooid</td>
         <td>27-08-24</td>
         <td>15-09-24</td>
         <td>Informatie van het team van de marketing verrichting over wie admin toegang tot Marketo Engage nodig heeft.</td>
     </tr>
     <tr>
-        <td><em>VOORBEELD -</em> Ondersteuningsbeheerders instellen</td>
+        <td><em> VOORBEELD - </em> de Beheerders van de Steun van de opstelling</td>
         <td bgcolor="c6f0cf">Voltooid</td>
         <td>27-08-24</td>
         <td>15-09-24</td>
         <td>Informatie van het team van de marketing verrichting om de belangrijkste contacten voor steun te bevestigen. Ondersteuning van System Admin om gebruikers van Support Admin toe te wijzen.</td>
     </tr>
     <tr>
-        <td><em>VOORBEELD -</em> De mapstructuur en naamgevingsconventies definiëren</td>
+        <td><em> VOORBEELD - </em> bepaalt omslagstructuur en noemende overeenkomsten</td>
         <td bgcolor="c6f0cf">Voltooid</td>
         <td>07-09-24</td>
         <td>12-09-24</td>
@@ -202,58 +202,58 @@ U kunt het voorbeeld ook downloaden voor het bewerken en bijhouden van specifiek
     </tr>
     <tr>
         <td rowspan="2">CRM-integratie (indien van toepassing)</td>
-        <td><em>VOORBEELD -</em> Veldtoewijzing bepalen vóór synchronisatie</td>
+        <td><em> VOORBEELD - </em> bepaalt gebiedstoewijzing voorafgaand aan synchronisatie</td>
         <td bgcolor="ffeb9c">In uitvoering</td>
         <td>22-10-24</td>
-        <td>NVT</td>
+        <td>N.v.t.</td>
         <td>Ondersteuning van CRM-beheerder voor een beter begrip van de beschikbare velden.</td>
     </tr>
     <tr>
-        <td><em>VOORBEELD -</em> Een gegevenscontrole uitvoeren</td>
+        <td><em> VOORBEELD - </em> voer een gegevenscontrole uit</td>
         <td bgcolor="ffeb9c">In uitvoering</td>
         <td>26-10-24</td>
-        <td>NVT</td>
+        <td>N.v.t.</td>
         <td>Ondersteuning door CRM-beheerder of -budget.</td>
     </tr>
     <tr>
         <td rowspan="2">Operationeel programma samenstellen</td>
-        <td><em>VOORBEELD -</em> Programma maken om binnenkomende gegevens te standaardiseren</td>
+        <td><em> VOORBEELD - </em> creeer programma om inkomende gegevens te standaardiseren</td>
         <td bgcolor="ffc7cf">Niet gestart</td>
         <td>09-11-24</td>
-        <td>NVT</td>
+        <td>N.v.t.</td>
         <td>De steun van de teams van de Verkoop Ops en van CRM om een strategie van het gegevensbeheer te bepalen.</td>
     </tr>
     <tr>
-        <td><em>VOORBEELD -</em> Een e-mailabonnementscentrum maken</td>
+        <td><em> VOORBEELD - </em> creeer een centrum van het e-mailabonnement</td>
         <td bgcolor="ffc7cf">Niet gestart</td>
         <td>19-11-24</td>
-        <td>NVT</td>
+        <td>N.v.t.</td>
         <td>Invoer van de marketingteams over inhoudstypen en segmentering voor mailinglijsten.</td>
     <tr>
         <td rowspan="2">First Marketing Program Build</td>
-        <td><em>VOORBEELD -</em> Eenvoudig e-mailprogramma instellen</td>
+        <td><em> VOORBEELD - </em> van de opstelling basis e-mailprogramma</td>
         <td bgcolor="ffeb9c">In uitvoering</td>
         <td>12-11-24</td>
-        <td>NVT</td>
+        <td>N.v.t.</td>
         <td>Creatieve middelen van het digitale team voor e-mails en landingspagina's.</td>
     </tr>
     <tr>    
-        <td><em>VOORBEELD -</em> Programma voor driemaandelijkse nieuwsbrief maken</td>
+        <td><em> VOORBEELD - </em> creeer programma voor driemaandelijkse nieuwsbrief</td>
         <td bgcolor="ffc7cf">Niet gestart</td>
         <td>30-11-24</td>
-        <td>NVT</td>
+        <td>N.v.t.</td>
         <td>Inhoud van het marketingteam voor e-mail met nieuwsbrief en creatieve middelen/inhoud van het ontwerpteam.</td>
     </tr>
     <tr>
         <td rowspan="2">Instelling voor integratie van opstartpunt</td>
-        <td><em>VOORBEELD -</em> Alleen API maken voor gebruiker en rol</td>
+        <td><em> VOORBEELD - </em> creeer slechts API gebruiker en rol</td>
         <td bgcolor="ffc7cf">Niet gestart</td>
         <td>23-11-24</td>
         <td>   </td>
         <td>Bereik de diensten nodig voor de nieuwe instantie met de marketing teams uit.</td>
     </tr>
     <tr>
-        <td><em>VOORBEELD -</em> Een aangepaste service voor Google Ads maken</td>
+        <td><em> VOORBEELD - </em> creeer een douanedienst voor de Advertentie van Google</td>
         <td bgcolor="ffc7cf">Niet gestart</td>
         <td>07-12-24</td>
         <td>   </td>
@@ -262,30 +262,30 @@ U kunt het voorbeeld ook downloaden voor het bewerken en bijhouden van specifiek
     </tr>
     <tr>
         <td rowspan="2">Gebruikerstraining en documentatie</td>
-        <td><em>VOORBEELD -</em> Een handleiding voor beheer voor interne gebruikers maken</td>
+        <td><em> VOORBEELD - </em> creeer een governancegids voor interne gebruikers</td>
         <td bgcolor="ffc7cf">Niet gestart</td>
         <td>02-12-24</td>
-        <td>NVT</td>
+        <td>N.v.t.</td>
         <td>Creëer een Marketo Engage-governanceteam om ondersteunende governancedocumentatie of -budget te bouwen om het governanceproject uit te besteden.</td>
     <tr>
-        <td><em>VOORBEELD -</em> Trainen 4 gebruikers en hen voorzien van de StandaardToegang van de Gebruiker van Marketo</td>
+        <td><em> VOORBEELD - </em> Lijn 4 gebruikers en verstrek hen van de StandaardToegang van de Gebruiker van Marketo</td>
         <td bgcolor="ffc7cf">Niet gestart</td>
         <td>13-12-24</td>
-        <td>NVT</td>
+        <td>N.v.t.</td>
         <td>Steun van VP van Marketing om opleidingen verplicht te stellen voor toegang tot Marketo Engage.</td>
     <tr>
         <td rowspan="2">Go-Live</td>
-        <td><em>VOORBEELD -</em> Eerste nieuwsbrief verzenden</td>
+        <td><em> VOORBEELD - </em> verzendt eerste nieuwsbrief</td>
         <td bgcolor="ffc7cf">Niet gestart</td>
         <td>09-12-24</td>
-        <td>NVT</td>
+        <td>N.v.t.</td>
         <td>Het team van Verrichtingen van de marketing aan QA, programma, en verzendt.</td>
     </tr>
     <tr>
-        <td><em>VOORBEELD -</em> Trek het eerste E-mailprestatierapport uit.</td>
+        <td><em> VOORBEELD - </em> trekt het eerste Rapport van Prestaties E-mail.</td>
         <td bgcolor="ffc7cf">Niet gestart</td>
         <td>16-12-24</td>
-        <td>NVT</td>
+        <td>N.v.t.</td>
         <td>Het team van Verrichtingen van de marketing aan QA, programma, en verzendt.</td>
     </tr>
  </tbody>    
@@ -294,7 +294,7 @@ U kunt het voorbeeld ook downloaden voor het bewerken en bijhouden van specifiek
 >[!NOTE]
 >Voorbeelden die worden gegeven, zijn niet gebaseerd op een tijdslijn van werkelijke implementatie. Vertrouw niet op deze schema&#39;s als een standaardtijdlijn voor het instappen met Marketo Engage, aangezien elke implementatie uniek is met verschillende mijlpalen en vereisten afhankelijk van de behoeften van uw organisatie.
 
-Neem contact op met het accountteam van de Adobe of neem contact op met [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Voor hand-in-hand hulp in het uitvoeren van en het aanpassen van uw Marketo Engage voor uw instantie, gelieve het Team van de Rekening van de Adobe te contacteren of uit te reiken aan [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html) {target="_blank"}.
 
 ### Auteur
 

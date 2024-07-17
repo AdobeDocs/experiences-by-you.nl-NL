@@ -15,7 +15,7 @@ ht-degree: 19%
 
 # Experience Manager door U: Middelen door gebruikers, voor gebruikers.
 
-Het krachtigste ding over [!DNL Adobe] Oplossingen voor Experience Cloud? Jij. De gebruikers die de producten meenemen, erin graven en ze toepassen op verbazingwekkende, innovatieve manieren om zinvolle ervaringen en resultaten te creëren. De ervaring van U kenmerkt inhoud die door dagelijkse gebruikers wordt gecreeerd die een niveau van deskundigheid en invloed met hun hebben bereikt [!DNL Adobe] Experience Cloud oplossingen. Deze peer-to-peer kennis bevordert samenwerking en ontdekking - en stelt u in staat - en elke andere gebruiker de inspiratie te vinden die nodig is om uw productexpertise op een hoger niveau te brengen.
+Het krachtigste aan [!DNL Adobe] Experience Cloud oplossingen? Jij. De gebruikers die de producten meenemen, erin graven en ze toepassen op verbazingwekkende, innovatieve manieren om zinvolle ervaringen en resultaten te creëren. De ervaringen van U hebben betrekking op inhoud die is gemaakt door dagelijkse gebruikers die een expertiseniveau hebben bereikt en invloed hebben uitgeoefend met hun [!DNL Adobe] Experience Cloud-oplossingen. Deze peer-to-peer kennis bevordert samenwerking en ontdekking - en stelt u in staat - en elke andere gebruiker de inspiratie te vinden die nodig is om uw productexpertise op een hoger niveau te brengen.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -36,11 +36,11 @@ Het krachtigste ding over [!DNL Adobe] Oplossingen voor Experience Cloud? Jij. D
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
-    <strong>Tips en trucs</strong>
+    <strong> Uiteinden en Tricks </strong>
     </a>
     </div>
     <p>
-    <em>Bewerkbare sjablonen</em>
+    <em> Bewerkbare Malplaatjes </em>
     <p>
   </td>
   <td>
@@ -49,11 +49,11 @@ Het krachtigste ding over [!DNL Adobe] Oplossingen voor Experience Cloud? Jij. D
     </a>
     <div>
       <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
-    <strong>Cloud Manager on boarding Playbook</strong>
+    <strong> Cloud Manager on-boarding Playbook </strong>
     </a>
     </div>
     <p>
-    <em>Het onboarding playbook zal u helpen als nieuwe beheerder en ontwikkelaar voor AEM as a Cloud Service laden.</em>
+    <em> on boarding playbook zal u helpen als nieuwe beheerder en ontwikkelaar voor AEM as a Cloud Service laden.</em>
     <p>
   </td>
   <td>
@@ -62,11 +62,11 @@ Het krachtigste ding over [!DNL Adobe] Oplossingen voor Experience Cloud? Jij. D
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-    <strong>Tips en trucs</strong>
+    <strong> Uiteinden en Tricks </strong>
     </a>
     </div>
     <p>
-    <em>Bewerkbare sjablonen - sessie 2</em>
+    <em> Bewerkbare Malplaatjes - Zitting 2 </em>
     <p>
   </td>
 </tr>
@@ -76,7 +76,7 @@ Het krachtigste ding over [!DNL Adobe] Oplossingen voor Experience Cloud? Jij. D
 
 ## Aanvullende bronnen
 
-* [Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)
-* [Documentatie Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-* [Tutorials Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html)
-* [Productinformatie Experience Manager](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html)
+* [ de Gemeenschappen van de Experience Manager ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)
+* [ Documentatie van de Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+* [ Tutorials van de Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html)
+* [ het productinformatie van de Experience Manager ](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html)

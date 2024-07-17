@@ -11,7 +11,7 @@ kt: KT-13087
 exl-id: 2bd7a828-5bb0-43bf-8802-310edd444d62
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '908'
+source-wordcount: '922'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Hier volgen 7 knopinfo waarmee u in Analysis Workspace uw workflows efficiënter
 
 ## Tip 1: Annotaties toevoegen aan de vlucht
 
-Als u een vreemde piek of een significante daling in Werkruimte ziet, en u weet wat het veroorzaakte: klik op het met de rechtermuisknop en creeer een aantekening.
+Als je een vreemde spike of een significante daling ziet in Workspace, en je weet wat die heeft veroorzaakt: klik er met de rechtermuisknop op en maak een annotatie.
 
 Binnen die aantekening, kunt u het voor slechts het specifieke project beperken, of u kunt het ter beschikking stellen aan al uw projecten over de hele linie. U kunt er ook een titel, beschrijving, code en zelfs kleur aan geven. De annotatie wordt automatisch voor u gemaakt op basis van wat u hebt geselecteerd, maar u kunt dit verder verfijnen, bijvoorbeeld alleen naar een specifiek segment of een specifieke waarde voor de dimensie.
 
@@ -60,7 +60,7 @@ Dit kan in vele visualisaties worden gebruikt, met inbegrip van lijngrafieken, s
 
 ## Tip #6: Gegevens downloaden voor specifieke tabellen
 
-Gebruikers willen vaak gegevens exporteren naar csv. Deze tip helpt u de limiet van 400 rijen in Workspace te omzeilen. Klik met de rechtermuisknop boven aan een tabel voor vrije vorm en u ziet twee downloadopties
+Gebruikers willen vaak gegevens exporteren naar csv. Deze tip helpt je om af te komen van de beperking van 400 rijen in Workspace. Klik met de rechtermuisknop boven aan een tabel voor vrije vorm en u ziet twee downloadopties
 
 Met de optie Items downloaden als CSV (Segmenten) kunt u maximaal 50.000 rijen gegevens downloaden.  Dit zal geen onderverdelingen dragen u over hebt, maar het zal over al uw segmenten en toegepaste filters dragen. Dit is zeer nuttig wanneer er duizenden rijen van gegevens zijn.
 
@@ -72,14 +72,14 @@ Het kan zinvol zijn om bepaalde rijen in een tabel voor vrije vorm te verbergen.
 
 Dit zou niet moeten worden gebruikt om uw gegevens volledig te veranderen, en u moet zorgvuldig zijn om belangrijke rijen niet te verbergen. Maar het kan ook worden gebruikt als een gemakkelijke manier om uw gegevens direct op te schonen en de aandacht van de gebruikers terug te brengen naar het grote beeld. Dit is een goede manier om rommelige en onbeduidende details gemakkelijk te verwijderen.
 
-Ik hoop dat u deze tips goed zult gebruiken en dat u hiermee tijd bespaart en meer relevante rapporten kunt uitbrengen met behulp van [!DNL Adobe]&#39;s Analysis Workspace!
+Ik hoop dat u deze tips goed kunt gebruiken en dat u hiermee tijd bespaart en meer relevante rapporten kunt uitbrengen met de Analysis Workspace van [!DNL Adobe]!
 
 ## Auteur
 
 Dit document is geschreven door:
 
-![Christel Guidon](assets/christel-guidon.jpg)
+![ Christel Guidon ](assets/christel-guidon.jpg)
 
-**Christel Guidon**, Digitaal [!DNL Analytics] Platform Manager bij Gen Digital
+**Christel Guidon**, Digitale [!DNL Analytics] Manager van het Platform bij Gen Digital
 
 [!DNL Adobe Analytics] Champion

@@ -27,7 +27,7 @@ Meer informatie over hoe u deze oefening kunt uitvoeren met best practices die d
 
 Wanneer het integreren van uw CRM met Marketo Engage, zult u waarschijnlijk niet al uw gebieden van CRM aan Marketo Engage hoeven te synchroniseren. Als u strategisch bent over de velden die u nodig hebt, kunt u de gegevensstroom efficiënter verwerken in uw Marketo Engage-instantie.
 
-De eerste synchronisatie tussen uw Marketo Engage en CRM-systeem maakt automatisch koppelingen naar de meeste bestaande standaardvelden (e-mail, Voornaam/achternaam, Bedrijf, enz.). Bovendien synchroniseert de aansluiting ook [Aangepaste velden](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"} voor uw Leads, Contacten, Rekeningen, en Kansen door nieuwe gebieden in Marketo Engage te creëren die automatisch aan die gebieden van uw CRM worden in kaart gebracht.
+De eerste synchronisatie tussen uw Marketo Engage en CRM-systeem maakt automatisch koppelingen naar de meeste bestaande standaardvelden (e-mail, Voornaam/achternaam, Bedrijf, enz.). Bovendien, synchroniseert de schakelaar ook ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary) {target="_blank"} de Gebieden van de Douane [ voor uw Leads, Contacten, Rekeningen, en Kansen door nieuwe gebieden in Marketo Engage te creëren die automatisch aan die gebieden van uw CRM in kaart worden gebracht.
 
 Het identificeren van en het organiseren van de gebieden die u van uw CRM voorafgaand aan het uitvoeren van de aanvankelijke synchronisatie zou willen synchroniseren is een kritieke stap in het Instellingsproces van de Eigen Verbinding. Dit wordt een oefening gegevenswoordenboek genoemd, die u helpt het aantal dubbele velden dat wordt gemaakt tot een minimum te beperken en ervoor te zorgen dat alle volgende stappen voor opnieuw toewijzen zo vloeiend mogelijk verlopen. Deze oefening impliceert typisch input van de Marketing en de teams van de Verkoop en uw Admin van CRM om ervoor te zorgen dat slechts de relevante gebieden aan uw instantie van het Marketo Engage worden gesynchroniseerd.
 
@@ -36,46 +36,46 @@ Het identificeren van en het organiseren van de gebieden die u van uw CRM vooraf
 Over het algemeen, is de beste praktijk om de gebieden van CRM slechts te synchroniseren die voor marketing doeleinden zullen worden vereist. Begin met deze oefening om de gebieden van uw CRM te organiseren die aan Marketo Engage zullen moeten worden in kaart gebracht en de aanvankelijke synchronisatie van CRM correct de eerste keer in werking stellen.
 
 >[!NOTE]
->Als u douanegebieden in uw CRM hebt die reeds een gelijkwaardig douanegebied in Marketo Engage hebben alvorens met de aanvankelijke synchronisatie te beginnen, zal een nieuw &quot;dubbel&quot;gebied in Marketo Engage voor het gebied van CRM worden gecreeerd. U kunt het CRM-veld opnieuw toewijzen aan het oorspronkelijke veld van het Marketo Engage en het gedupliceerde veld verbergen zodra de initiële synchronisatie is voltooid, maar u moet contact opnemen met [Klantenondersteuning Adoben](https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console){target="_blank"} om dit te doen. Zie stap 7 voor meer informatie.
+>Als u douanegebieden in uw CRM hebt die reeds een gelijkwaardig douanegebied in Marketo Engage hebben alvorens met de aanvankelijke synchronisatie te beginnen, zal een nieuw &quot;dubbel&quot;gebied in Marketo Engage voor het gebied van CRM worden gecreeerd. U kunt het gebied van CRM aan het originele gebied van het Marketo Engage opnieuw in kaart brengen en het dubbele gebied verbergen zodra de aanvankelijke synchronisatie volledig is, maar u zult ](https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console) {target="_blank"} moeten contacteren van de Klantenondersteuning van de Adobe [ om dit te doen. Zie stap 7 voor meer informatie.
 
-**Stap 1:** Bouw een ruwe lijst van gebieden momenteel beschikbaar in uw CRM en merk of u hen in Marketo Engage wilt verschijnen.
+**Stap 1:** Bouw een ruwe lijst van gebieden momenteel beschikbaar in uw CRM en teken of u hen in Marketo Engage zou willen verschijnen.
 
 * Neem feedback van uw CRM-beheerder, -marketing en -verkoopteams op in het besluitvormingsproces.
 * Documenteer de API-namen en veldtypen voor elk veld
 * Bepaal welk niveau van toegang Marketo Engage voor deze gebieden (d.w.z. read-Only of Read-Write) zou moeten hebben
 
 
-**Stap 2:** Controleer de [Beheer > sectie Veldbeheer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce){target="_blank"} van uw Marketo Engage-instantie om eventuele aangepaste velden te identificeren die eerder rechtstreeks in het systeem zijn gemaakt en die u in de synchronisatie wilt opnemen.
+**Stap 2:** herzie [ Admin > sectie van het Beheer van het Gebied ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce) {target="_blank"} van uw instantie van het Marketo Engage om het even welke douanevelden te identificeren die eerder direct in het systeem worden gecreeerd dat u in de synchronisatie zou willen omvatten.
 
 * Documenteer de API-namen en veldtypen voor elk veld.
 * Geef velden aan die al een equivalent veld hebben in uw CRM.
 * Geef velden aan die nog geen equivalent veld hebben in uw CRM.
 
 
-**Stap 3:** Beginnen het Woordenboek van Gegevens met de standaardkaartgebieden te bouwen
+**Stap 3:** Begin bouwend het Woordenboek van Gegevens met de standaardkaartgebieden
 
 * Aangezien het Marketo Engage een vlakke gegevensbestand gebruikt, adviseert men dat u uw Woordenboek van Gegevens als volgt formatteert:
 
    * Eerste kolom: veldnamen Marketo&#39;s Engage
    * Tweede kolom: Marketo Engage API-namen
-   * Derde kolom: [Veldtype Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"} (d.w.z. Boolean, Valuta, Datum, enz.)
+   * Derde Kolom: [ Type van het Gebied van het Marketo Engage ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary) {target="_blank"} (d.w.z. Van Boole, Valuta, Datum, enz.)
    * In verdere kolommen, herhaal voor de objecten van CRM types (Lood, Contact, Rekening, Opportunity) met een extra kolom voor het niveau van toegang u Marketo Engage zou willen hebben (d.w.z. Lezen, schrijven, uitgeven)
   <br>
 
   Hier volgt een voorbeeld van hoe het eruit zou zien:
-  ![Tabel gegevenswoordenboek](/help/marketo-tutorial-implementing-new-instance/assets/data_dictionary.png){width="100%" zoomable="yes"}
+  ![ Lijst van het Woordenboek van Gegevens ](/help/marketo-tutorial-implementing-new-instance/assets/data_dictionary.png){width="100%" zoomable="yes"}
 
 
 * Begin door de standaardgebieden toe te voegen die automatisch voor uw CRM zullen worden in kaart gebracht:
 
-   * [Salesforce](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping){target="_blank"}
-   * [Microsoft Dynamics](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/default-dynamics-field-mapping){target="_blank"}
-   * [Veeva](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping){target="_blank"}
+   * [ Salesforce ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping) {target="_blank"}
+   * [ Dynamica van Microsoft ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/default-dynamics-field-mapping) {target="_blank"}
+   * [ Veeva ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping) {target="_blank"}
 
 * Bevestig elk standaardgebied in Marketo Engage het gebied in uw CRM aanpast dat u met zou willen synchroniseren. Het veld &quot;Unsubscribed&quot; in Marketo Engage kan bijvoorbeeld het veld &quot;E-mail weigeren&quot; in uw CRM zijn.
-* De naam, rechten en [gegevenstype](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"} indien nodig.
+* Pas de naam van CRM API, voorrechten, en [ gegevenstype ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary) aan {target="_blank"} waar nodig.
 
-**Stap 4:** Extra velden toevoegen aan het gegevenswoordenboek
+**Stap 4:** voeg extra gebieden aan het Woordenboek van Gegevens toe
 
 * Neem de weergavenaam, de gewenste CRM-rechten en het gegevenstype voor elk veld op.
 * Als een veld bestaat in CRM maar niet in een Marketo Engage, vult u de weergave van het Marketo Engage en de API-namen met dezelfde waarden in het CRM-veld.
@@ -83,25 +83,25 @@ Over het algemeen, is de beste praktijk om de gebieden van CRM slechts te synchr
 * Als beide systemen equivalente velden bevatten, neemt u deze op dezelfde regel op en geeft u aan dat ze opnieuw moeten worden toegewezen in de sectie &quot;Notities&quot; uiterst rechts van het gegevenswoordenboek.
 
 >[!NOTE]
->Als u een veld Filter synchroniseren wilt maken ([Salesforce](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"} | [Microsoft Dynamics](https://community.dynamics.com/blogs/post/?postid=8a91d93e-2181-45dd-a8fb-1092010bc8f1){target="_blank"}), moet u deze in deze stap opnemen, maar laat de API-namen leeg totdat het veld wordt gemaakt in uw CRM.
+>Als u op het creëren van een gebied van de Filter van de Synchronisatie ([ Salesforce ](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758) {target="_blank"} plant | [ de Dynamiek van Microsoft ](https://community.dynamics.com/blogs/post/?postid=8a91d93e-2181-45dd-a8fb-1092010bc8f1) {target="_blank"}), zorg ervoor om het in deze stap te omvatten maar verlaat de namen van API leeg tot het gebied in uw CRM wordt gecreeerd.
 
-**Stap 5:** Controleer het gegevenswoordenboek met uw CRM-beheerder
+**Stap 5:** herzie het Woordenboek van Gegevens met uw Admin van CRM
 
 * Creeer gebieden in CRM voor die reeds in Marketo Engage bestaan en werk het Woordenboek van Gegevens met de Vertoning en API namen voor het nieuwe gebied van CRM bij.
-* Veldtoewijzing uitvoeren tussen de objecten Lead en Contact in uw CRM ([Salesforce](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"} | [Microsoft Dynamics](https://community.dynamics.com/blogs/post/?postid=8a91d93e-2181-45dd-a8fb-1092010bc8f1){target="_blank"}). Wanneer een lead wordt geconverteerd naar een contactpersoon, zorgt dit ervoor dat de velden kunnen worden geconsolideerd in één veld in het Marketo Engage.
+* Voer gebiedstoewijzing tussen Lood en de voorwerpen van het Contact in uw CRM uit ([ Salesforce ](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758) {target="_blank"} | [ de Dynamiek van Microsoft ](https://community.dynamics.com/blogs/post/?postid=8a91d93e-2181-45dd-a8fb-1092010bc8f1) {target="_blank"}). Wanneer een lead wordt geconverteerd naar een contactpersoon, zorgt dit ervoor dat de velden kunnen worden geconsolideerd in één veld in het Marketo Engage.
 * Controleer of het Marketo Sync Profile (Synchronisatieprofiel) de juiste rechten heeft voor elk veld zoals vermeld in het gegevenswoordenboek:
-   * [Profielmachtigingen instellen in Salesforce](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited#set-profile-permissions){target="_blank"}
-   * [Profielmachtigingen instellen in Microsoft Dynamics](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up#create-application-user-in-microsoft){target="_blank"}
-   * [Profielmachtigingen instellen in Veeva](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up#create-application-user-in-microsoft){target="_blank"}
+   * [ vastgestelde profieltoestemmingen in Salesforce ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited#set-profile-permissions) {target="_blank"}
+   * [ vastgestelde profieltoestemmingen in de Dynamica van Microsoft ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up#create-application-user-in-microsoft) {target="_blank"}
+   * [ plaats profieltoestemmingen in Veva ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up#create-application-user-in-microsoft) {target="_blank"}
 
-**Stap 6:** De eerste synchronisatie uitvoeren
+**Stap 6:** voer de aanvankelijke synchronisatie uit
 
 * Zorg ervoor dat alle velden die u wilt synchroniseren met Marketo Engage, de juiste rechten hebben in uw CRM-toepassing, zoals gedefinieerd in het gegevenswoordenboek.
-* Zorg ervoor dat alle velden die u wilt instellen  ***niet*** houden van synchronisatie met Marketo Engage [verborgen in het Marketo Sync Profile](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync){target="_blank"}. Het is veel gemakkelijker om later nieuwe velden aan de synchronisatie toe te voegen dan het is om velden te verwijderen die per ongeluk zijn gesynchroniseerd.
+* Zorg ervoor dat alle gebieden u ***niet*** met Marketo Engage zou willen synchroniseren [ verborgen van het Profiel van de Synchronisatie van Marketo ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync) {target="_blank"} zijn. Het is veel gemakkelijker om later nieuwe velden aan de synchronisatie toe te voegen dan het is om velden te verwijderen die per ongeluk zijn gesynchroniseerd.
 * Verbindt u uw CRM met het gebied van de Filter van de Synchronisatie? Als u synchroniseert met Salesforce, neemt u contact op met de Klantenondersteuning van de Adobe om ervoor te zorgen dat de filterfunctionaliteit is ingeschakeld voordat u de eerste synchronisatie start.
 
 
-**Stap 7:** De sectie Veldbeheer in Marketo Engage controleren
+**Stap 7:** herzie de sectie van het Beheer van het Gebied in Marketo Engage
 
 * Bevestig of werk de Naam van de Vertoning &amp; API voor de nieuwe gesynchroniseerde gebieden bij.
 * Identificeer om het even welke gedupliceerde gebieden die opnieuw in kaart moeten brengen. In een paar scenario&#39;s komen gedupliceerde velden voor:
@@ -110,12 +110,12 @@ Over het algemeen, is de beste praktijk om de gebieden van CRM slechts te synchr
 
 
 
-**Stap 8:** Neem contact op met de Klantenondersteuning van de Adobe om een nieuwe toewijzing uit te voeren als gedupliceerde velden worden weergegeven
+**Stap 8:** De Steun van de Klant van de Adobe van het Contact om remapping uit te voeren als de dubbele gebieden verschijnen
 
 * Neem contact op met de Technische Ondersteuning voor de volgende informatie voor velden die opnieuw moeten worden toegewezen:
    * Geef de namen van de vertoning &amp; API voor nieuwe dubbele gebieden door CRM worden gecreeerd die.
    * De naam van de vertoning voor het gebied van het Marketo Engage dat u het gebied van CRM om zou willen in kaart brengen aan.
-   * Zie dit voorbeeld [HIER](https://nation.marketo.com/t5/knowledgebase/re-mapping-sfdc-marketo-fields/ta-p/299284){target="_blank"}.
+   * Gelieve te verwijzen naar dit voorbeeld [ HIER ](https://nation.marketo.com/t5/knowledgebase/re-mapping-sfdc-marketo-fields/ta-p/299284) {target="_blank"}.
 * Als het opnieuw toewijzen is voltooid, controleert u de API-namen voor de opnieuw toegewezen velden in het Marketo Engage en werkt u de waarden in de kolom &quot;API-naam&quot; van het gegevenswoordenboek bij om ervoor te zorgen dat dit de meest nauwkeurige gegevens bevat.
 
 ## Wat is de volgende?
@@ -125,61 +125,61 @@ Over het algemeen, is de beste praktijk om de gebieden van CRM slechts te synchr
 
 >[!BEGINTABS]
 
->[!TAB Salesforce]
+>[!TAB  Salesforce ]
 
 Leer hoe Marketo Engage en Salesforce samenwerken om uw verkoop- en marketinggegevens synchroon te houden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424719/?learn=on)
 
-+++**Koppelingen in de video:**
++++**Verbindingen die in de video worden gebruikt:**
 
-* [Werken met Salesforce Sync](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html){target="_blank"}
+* [ Begrijpend de Synchronisatie Salesforce ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html) {target="_blank"}
 
-* [Marketo-velden toevoegen aan Salesforce (Enterprise/Onbeperkt)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.html){target="_blank"}
+* [ voeg de Gebieden van Marketo aan Salesforce (Onderneming/Onbeperkt) toe ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.html) {target="_blank"}
 
-* [Een Marketo-gebruiker maken in Salesforce (Enterprise/Onbeperkt)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.html){target="_blank"}
+* [ creeer een Gebruiker van Marketo in Salesforce (Onderneming/Onbeperkt) ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.html) {target="_blank"}
 
-* [Connect Marketo en Salesforce (Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.html){target="_blank"}
+* [ verbind Marketo en Salesforce (Onderneming/Onbeperkt) ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.html) {target="_blank"}
 
-* [Gebruikers moeten de Connected App instellen aan de Salesforce-zijde voordat ze verdergaan met Marketo en Salesforce Sync.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html){target="_blank"}
+* [ De gebruikers zouden omhoog Verbonden App op de kant Salesforce moeten opstelling alvorens zij aan Marketo en de Synchronisatie Salesforce te werk gaan.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html) {target="_blank"}
 
-* [Status van Salesforce-synchronisatie](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status.html){target="_blank"}
+* [ de Status van de Synchronisatie van Salesforce ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status.html) {target="_blank"}
 
-* [Een veld verbergen en verbergen opheffen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field.html){target="_blank"}
+* [ Verberg en maak een Gebied ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field.html) {target="_blank"} ongedaan
 
-* [Zelfstudie: Meer informatie over het synchroniseren van Marketo naar uw CRM](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html){target="_blank"}
+* [ Leerprogramma: Leer over het synchroniseren van Marketo aan uw CRM ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html) {target="_blank"}
 
 +++
 
->[!TAB Microsoft Dynamics]
+>[!TAB  de Dynamica van Microsoft ]
 
 Leer hoe de synchronisatie van Microsoft Dynamics 365 werkt en vorm de opstelling behoorlijk om de twee systemen toe te staan om met elkaar te spreken.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424737/?learn=on)
 
-+++**Koppelingen in de video:**
++++**Verbindingen die in de video worden gebruikt:**
 
-* [Werken met Microsoft Dynamics Sync](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/understanding-the-microsoft-dynamics-sync.html){target="_blank"}
+* [ Begrijpend de Synchronisatie van de Dynamica van Microsoft ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/understanding-the-microsoft-dynamics-sync.html) {target="_blank"}
 
-* [Download de Marketo Lead Management Solution](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution.html){target="_blank"}
+* [ Download de Oplossing van het Beheer van de Lood van Marketo ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution.html) {target="_blank"}
 
-* [Marketo Solution for Microsoft Dynamics bijwerken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.html){target="_blank"}
+* [ werk de Oplossing van Marketo voor de Dynamica van Microsoft ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.html) bij {target="_blank"}
 
-* [Toestemming verlenen voor client-id en toepassingsregistratie](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/grant-consent-for-client-id-and-app-registration.html)
+* [ Toestemming van de toelage voor identiteitskaart van de Cliënt en de Registratie van de Toepassing ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/grant-consent-for-client-id-and-app-registration.html)
 
-* [Microsoft Dynamics Sync valideren](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/validate-microsoft-dynamics-sync.html){target="_blank"}
+* [ bevestigt de Synchronisatie van de Dynamica van Microsoft ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/validate-microsoft-dynamics-sync.html) {target="_blank"}
 
-* [Synchronisatiestatus](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/sync-status.html){target="_blank"}
+* [ de Status van de Synchronisatie ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/sync-status.html) {target="_blank"}
 
-* [Problemen met validatie synchroniseren van dynamiek verhelpen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/fix-dynamics-validation-sync-issues.html){target="_blank"}
+* [ de Kwesties van de Synchronisatie van de Dynamica van de Reparatie ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/fix-dynamics-validation-sync-issues.html) {target="_blank"}
 
-* [Een filter voor aangepaste dynamicasynchronisatie maken](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynmaics-sync-filter-details/create-a-custom-dynamics-sync-filter.html){target="_blank"}
+* [ creeer een Filter van de Synchronisatie van de Dynamiek van de Douane ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynmaics-sync-filter-details/create-a-custom-dynamics-sync-filter.html) {target="_blank"}
 
-* [De URL van de organisatieservice weergeven](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/view-the-organization-service-url.html){target="_blank"}
+* [ Mening URL van de Dienst van de Organisatie ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/view-the-organization-service-url.html) {target="_blank"}
 
-* [Te synchroniseren velden bewerken voordat deze worden verwijderd in Dynamiek](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/editing-fields-to-sync-before-deleting-them-in-dynamics.html){target="_blank"}
+* [ het uitgeven Gebieden om te synchroniseren alvorens hen in Dynamica te schrappen ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/editing-fields-to-sync-before-deleting-them-in-dynamics.html) {target="_blank"}
 
-* [Zelfstudie: Meer informatie over het synchroniseren van Marketo naar uw CRM](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html){target="_blank"}
+* [ Leerprogramma: Leer over het synchroniseren van Marketo aan uw CRM ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html) {target="_blank"}
 
 +++
 

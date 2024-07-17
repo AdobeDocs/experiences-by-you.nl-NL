@@ -1,6 +1,6 @@
 ---
-title: Tien aanbevolen procedures voor [!DNL Adobe] [!DNL Campaign] succes voor de markt
-description: Meer informatie over de tien beste praktijken [!DNL Adobe] [!DNL Campaign] artsen ontsluiten en versnellen de digitale transformatie van de consument en een betere ervaring voor hun klanten.
+title: Tien beste praktijken voor  [!DNL Adobe] [!DNL Campaign] succes voor marketers
+description: Leer de tien beste praktijken om  [!DNL Adobe] [!DNL Campaign] praktijkmensen te helpen de digitale consumptietransformatie en een betere ervaring voor hun klanten ontgrendelen en versnellen.
 doc-type: article
 solution: Campaign
 feature-set: Campaign
@@ -17,18 +17,18 @@ ht-degree: 77%
 
 ---
 
-# Tien aanbevolen procedures voor [!DNL [!DNL Adobe] [!DNL Campaign]] succes voor marketers
+# Tien aanbevolen procedures voor succes [!DNL [!DNL Adobe] [!DNL Campaign]] voor marketers
 
-Christian Klimczyk is een zelfbeschreven &quot;[!DNL Adobe] Nerd&quot; met zeven jaar van [!DNL [!DNL Adobe] Experience Cloud]-expertise, vooral gericht op [!DNL [!DNL Adobe] [!DNL Campaign]]. Als [!DNL Adobe] Platform Eigenaar voor een groot CPG bedrijf, Christian en zijn teamgebruik [!DNL [!DNL Campaign]] voor alle communicatie en interacties van consumenten. Ze coördineren en beheren naadloos strenge wettelijke vereisten en multi-channel marketingcampagnes voor consumenten via direct mail, e-mail en sms/mms.
+Christian Klimczyk is een zelfbeschreven &quot;[!DNL Adobe] Nerd&quot; met zeven jaar expertise op het gebied van [!DNL [!DNL Adobe] Experience Cloud], voornamelijk gericht op [!DNL [!DNL Adobe] [!DNL Campaign]]. Als [!DNL Adobe] Platform Eigenaar voor een groot CPG-bedrijf gebruiken Christian en zijn team [!DNL [!DNL Campaign]] voor alle communicatie en interacties van consumenten. Ze coördineren en beheren naadloos strenge wettelijke vereisten en multi-channel marketingcampagnes voor consumenten via direct mail, e-mail en sms/mms.
 
-In dit artikel deelt Christian zijn beste praktijken om te helpen [!DNL Adobe] [!DNL Campaign] artsen ontsluiten en versnellen de digitale transformatie van de consument en een betere ervaring voor hun klanten.
+In dit artikel deelt Christian zijn best practices om [!DNL Adobe] [!DNL Campaign] -professionals te helpen de digitale transformatie van de consument en een betere ervaring voor hun klanten te ontgrendelen en te versnellen.
 
 
 ## 1. Stel een overkoepelend, samenhangend marketing- en leveringsplan op.
 
-De eerste stap om uw succes met [!DNL [!DNL Adobe] [!DNL Campaign]] moet uw hulpmiddelen en klant verwachtingen-en dat is waar in om het even welk type van marketing begrijpen. Definieer en begrijp duidelijk de kanalen die u gebruikt om contact op te nemen met uw consumenten, weet wanneer u die kanalen moet gebruiken en waarom.
+De eerste stap die ervoor zorgt dat u succes hebt met [!DNL [!DNL Adobe] [!DNL Campaign] ], is het begrijpen van uw tools en verwachtingen van de klant. Dat geldt voor elk type marketing. Definieer en begrijp duidelijk de kanalen die u gebruikt om contact op te nemen met uw consumenten, weet wanneer u die kanalen moet gebruiken en waarom.
 
-[!DNL Adobe] [!DNL Campaign] is een flexibel hulpmiddel dat u toestaat om mededelingen op vele manieren uit te voeren en te ordenen. [De helft van de klanten gebruikt tijdens elk kooptraject drie tot vijf kanalen](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Om het volledige potentieel van uw platform te benutten en uw klanten aan te spreken is het dus essentieel om deze kanalen van tevoren te begrijpen en een plan te hebben voor het gebruik.
+[!DNL Adobe] [!DNL Campaign] is een flexibel hulpmiddel waarmee u op verschillende manieren communicatie kunt uitvoeren en ordenen. [De helft van de klanten gebruikt tijdens elk kooptraject drie tot vijf kanalen](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Om het volledige potentieel van uw platform te benutten en uw klanten aan te spreken is het dus essentieel om deze kanalen van tevoren te begrijpen en een plan te hebben voor het gebruik.
 
 ## 2. Documenteer en begrijp uw klantgegevens.
 
@@ -42,7 +42,7 @@ I added that second paragraph about 760% revenue and broke up the rest of the se
 
 Volgens een [Hubspot-onderzoek](https://www.linkedin.com/pulse/customer-segmentation-effective-b2b-business-industry-sabreen) hadden gesegmenteerde campagnes 14,31% hogere openingspercentages en 101% meer clicks dan niet-gesegmenteerde campagnes. E-mailmarketeers die hun doelgroep segmenteerden voordat ze campagne voerden, verklaarden dat de gegenereerde inkomsten tot 760% waren gestegen.
 
-In [!DNL Adobe] [!DNL Campaign], kunt u segmentatie snel en gemakkelijk ordenen. Om dit proces te stroomlijnen en te vergemakkelijken moeten campagneoperators en marketeers echter een gedocumenteerd begrip hebben van hun onderliggende gegevens bij het ontwerpen en aanvragen van een campagneopbouw en -uitvoering. Het is kritiek dat u uw huidige gegevens begrijpt en hoe te om de gegevens te voorzien u zou kunnen nodig hebben wanneer het verbinden met beheerders en ontwikkelaars die uw [!DNL steunen [!DNL Campaign]]-instantie.
+In [!DNL Adobe] [!DNL Campaign] kunt u segmentatie snel en eenvoudig ordenen. Om dit proces te stroomlijnen en te vergemakkelijken moeten campagneoperators en marketeers echter een gedocumenteerd begrip hebben van hun onderliggende gegevens bij het ontwerpen en aanvragen van een campagneopbouw en -uitvoering. Het is van essentieel belang dat u uw huidige gegevens begrijpt en hoe u kunt anticiperen op de gegevens die u nodig hebt wanneer u samenwerkt met beheerders en ontwikkelaars die uw [!DNL [!DNL Campaign]]-instantie ondersteunen.
 
 Uw campagnes zijn slechts zo goed als de onderliggende datastructuren die ze ondersteunen. Het kennen en documenteren van deze gegevensstructuur helpt ook als zich problemen voordoen bij het integreren van platforms of het overschakelen naar een consumentengegevensplatform
 
@@ -50,7 +50,7 @@ Uw campagnes zijn slechts zo goed als de onderliggende datastructuren die ze ond
 
 Net als uw klanten hebt u een dagelijkse routine. Het verzenden en orkestreren van uw campagnes moet in overeenstemming zijn met dit ritme. Anders bereikt u uw klanten mogelijk niet, aangezien [85% van de verzonden e-mails niet wordt geopend en in 98% van de verzonden e-mails niet wordt doorgeklikt](https://www.validity.com/resource-center/state-of-email-2021/).
 
-Als uw klanten bijvoorbeeld &#39;s ochtends op hun telefoon kijken voor de beste deals, overweeg dan om hun een promotie te sms&#39;en. Als ze &#39;s nachts op zoek zijn naar de volgende populaire trend, overweeg dan om een vervolgmail te sturen met een promotiecode voor gratis verzending. Het is ook belangrijk om het hulpmiddel van de warmtekaart in [!DNL te gebruiken [!DNL Campaign]] om te volgen wanneer uw werkschema&#39;s en verzendt worden uitgevoerd. Het coördineren en faciliteren van communicatie tussen meerdere merken kan een uitdaging zijn. [Houd uw e-mails in de gaten en ken het ritme, de waanzin en de timing ervan](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554) zijn van onschatbare waarde voor de algemene stabiliteit en kracht van uw boodschap en [!DNL Campaign] -instantie.
+Als uw klanten bijvoorbeeld &#39;s ochtends op hun telefoon kijken voor de beste deals, overweeg dan om hun een promotie te sms&#39;en. Als ze &#39;s nachts op zoek zijn naar de volgende populaire trend, overweeg dan om een vervolgmail te sturen met een promotiecode voor gratis verzending. Het is ook belangrijk om het hulpmiddel van de warmtekaart in [!DNL [!DNL Campaign]] te gebruiken om te volgen wanneer uw werkschema&#39;s en verzendt uitvoeren. Het coördineren en faciliteren van communicatie tussen meerdere merken kan een uitdaging zijn. [ het houden van een oog op en het kennen van het ritme, het gemak, en de timing van uw e-mails ](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554) zijn onschatbaar aan algemene stabiliteit en de sterkte van uw bericht en [!DNL Campaign] instantie.
 
 ## 4. Gebruik personalisatie waar dat van belang is
 
@@ -60,13 +60,13 @@ Tegenwoordig verwachten consumenten een zekere mate van personalisatie in de ber
 
 Creatieve assets zijn de brandstof die uw effectieve en goed geoliede campagnemotor van brandstof voorziet. Hoe succesvoller u bent in het bereiken van uw consumenten, en hoe meer u uw marketingprocessen opschaalt en ontwikkelt, hoe meer creatieve content u nodig hebt. Consumenten verwachten dit.
 
-U bent slechts zo snel als de volgende levering die uw team kan configureren. Dat vereist vaak nieuwe en spannende content. [!DNL [!DNL Adobe] [!DNL Campaign]] maakt het vormen malplaatjes en het ontvangen en het voorbereiden van deze leveringen gemakkelijk. Een gezonde stroom van creativiteit is echter van cruciaal belang, aangezien volgens een [Litmus-rapport](https://www.litmus.com/resources/state-of-email/) 58% van de marketeers opmerkte dat het twee weken of langer kost om één e-mailcampagne te maken.
+U bent slechts zo snel als de volgende levering die uw team kan configureren. Dat vereist vaak nieuwe en spannende content. [!DNL [!DNL Adobe] [!DNL Campaign]] maakt het configureren van sjablonen en het ontvangen en voorbereiden van deze leveringen eenvoudig. Een gezonde stroom van creativiteit is echter van cruciaal belang, aangezien volgens een [Litmus-rapport](https://www.litmus.com/resources/state-of-email/) 58% van de marketeers opmerkte dat het twee weken of langer kost om één e-mailcampagne te maken.
 
 ## 6. Lidmaatschappen en voorkeuren begrijpen en beheren
 
 Het beheren en onderhouden van lidmaatschapsvoorkeuren kan snel verwarrend worden, met verschillende risiconiveaus tot gevolg. Negen op de tien consumenten geven aan dat een negatieve ervaring ervoor zorgt dat ze in de toekomst minder geneigd zijn om bij een merk te winkelen, zoals het verzenden van een verkeerd bericht via een kanaal waarop ze niet reageren. Op grotere schaal kunt u worden blootgesteld aan regelgevings- en nalevingsrisico&#39;s en boetes.
 
-Een strategie op voorhand hebben voor het beheer van opt-ins en het kweken van dit zich voortdurend ontwikkelende ecosysteem door middel van het deskundige gebruik van [!DNL [!DNL Adobe] [!DNL Campaign]] en andere hulpmiddelen voor marketingtechnologie. Dit is vaak een van de grootste succescijfers van campagnes, dus een zorgvuldige planning is van onschatbare waarde naarmate uw campagnestrategie groeit en zich ontwikkelt.
+Zorg voor een strategie vooraf voor het beheer van opt-ins en het kweken van dit zich voortdurend ontwikkelende ecosysteem via het deskundige gebruik van [!DNL [!DNL Adobe] [!DNL Campaign]] en andere marketingtechnologie-instrumenten. Dit is vaak een van de grootste succescijfers van campagnes, dus een zorgvuldige planning is van onschatbare waarde naarmate uw campagnestrategie groeit en zich ontwikkelt.
 
 ## 7. Leverbaarheid begrijpen en plannen
 
@@ -88,4 +88,4 @@ Wanneer u nieuwe dingen probeert, gaat dat niet altijd de eerste keer goed. Het 
 
 De markt blijft veranderen en beweegt steeds sneller. Het is essentieel om uw campagneteams aan te moedigen zo licht en flexibel mogelijk te blijven. Zo kunt u concurreren en blijven voldoen aan groeiende klantverwachtingen.
 
-[35% van de leiders op het gebied van digitale marketing gelooft dat de grootste uitdagingen binnen hun organisatie ontstaan](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges). Om dit te bereiken, treinen op een paar platforms, vergroot uw inzicht in gegevensstromen en structuur of andere [!DNL Adobe] en noodplannen voor campagnes te maken. Deze mentaliteit kan op veel manieren worden bereikt, maar een algeheel streven naar flexibiliteit en planning is cruciaal voor het behalen van succes op korte en lange termijn.
+[35% van de leiders op het gebied van digitale marketing gelooft dat de grootste uitdagingen binnen hun organisatie ontstaan](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges). Hiertoe kunt u op een paar platforms cross-trainen, uw inzicht in gegevensstromen en structuur of andere [!DNL Adobe] -oplossingen vergroten en noodplannen voor campagnes maken. Deze mentaliteit kan op veel manieren worden bereikt, maar een algeheel streven naar flexibiliteit en planning is cruciaal voor het behalen van succes op korte en lange termijn.

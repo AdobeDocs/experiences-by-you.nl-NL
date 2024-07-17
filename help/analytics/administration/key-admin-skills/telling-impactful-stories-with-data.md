@@ -1,6 +1,6 @@
 ---
 title: Onbruikbare artikelen voorzien van gegevens
-description: Het vertellen van gegevens is waar de kunst en de wetenschap samenkomen gebruikend gegevens, visualisatie, en verhaal.  Door gebruik te maken van deze componenten, zijn er drie delen aan het maken van een impact gegevensverhaal. Door een verhaal met gegevens te vertellen, [!DNL Analytics] kan toegankelijker worden voor een groter publiek en u kunt de waarde die u aan uw organisatie brengt verhogen door middel van gegevensgestuurde besluitvorming.
+description: Het vertellen van gegevens is waar de kunst en de wetenschap samenkomen gebruikend gegevens, visualisatie, en verhaal.  Door gebruik te maken van deze componenten, zijn er drie delen aan het maken van een impact gegevensverhaal. Door een verhaal met gegevens effectief te vertellen,  [!DNL Analytics]  kan aan een breder publiek gemakkelijker worden en u kunt de waarde verhogen u aan uw organisatie door gegeven-gedreven besluitvorming brengt.
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -19,19 +19,19 @@ ht-degree: 0%
 
 # Onbruikbare artikelen voorzien van gegevens
 
-Het vertellen van gegevens is waar de kunst en de wetenschap samenkomen gebruikend gegevens, visualisatie, en verhaal.  Door gebruik te maken van deze componenten, zijn er drie delen aan het maken van een impact gegevensverhaal. Door een verhaal met gegevens te vertellen, [!DNL Analytics] kan toegankelijker worden voor een groter publiek, en u kunt de waarde verhogen u aan uw organisatie door gegeven-gedreven besluitvorming brengt.
+Het vertellen van gegevens is waar de kunst en de wetenschap samenkomen gebruikend gegevens, visualisatie, en verhaal.  Door gebruik te maken van deze componenten, zijn er drie delen aan het maken van een impact gegevensverhaal. Door een verhaal met gegevens effectief te vertellen, kan [!DNL Analytics] toegankelijker worden voor een groter publiek, en u kunt de waarde verhogen u aan uw organisatie door gegeven-gedreven besluitvorming brengt.
 
 ## Identificeer de kans of het probleem
 
-Om te beginnen moet de huidige situatie worden gedefinieerd en moet het probleem of de mogelijkheid worden vastgesteld. Hier plaatst u het werkgebied en verstrekt genoeg informatie om uw publiek te fascineren maar niet volledig het onthullen van de oplossing. Deze inleiding is kritiek (en kan uitdagend zijn) maar het is de volledige motivatie van uw analyse!  De waarde van het vertellen van gegevens is snelle actie die in resulteert **gedrag wijzigen**. De gegevens, het Inzicht &amp; de Analyse zijn anders machteloos.
+Om te beginnen moet de huidige situatie worden gedefinieerd en moet het probleem of de mogelijkheid worden vastgesteld. Hier plaatst u het werkgebied en verstrekt genoeg informatie om uw publiek te fascineren maar niet volledig het onthullen van de oplossing. Deze inleiding is kritiek (en kan uitdagend zijn) maar het is de volledige motivatie van uw analyse!  De waarde van gegevensverhaal moet actie veroorzaken die in **veranderd gedrag** resulteert. De gegevens, het Inzicht &amp; de Analyse zijn anders machteloos.
 
-**[!DNL Adobe]Tip voor werkruimte:** Benader uw visualisaties in de vorm van een vraag om precies te laten zien welk probleem of welke huidige situatie wordt gemarkeerd.
+**[!DNL Adobe]Workspace Tip:** beschrijf uw visualisaties in de vorm van een vraag om precies te laten zien welk probleem of welke huidige situatie wordt gemarkeerd.
 
 ## Verklaar door gegevens
 
 Nadat u de situatie hebt voorbereid, gebruikt u gegevens om de bron van het probleem/de mogelijkheid weer te geven. Nadruk op de resultaten en de variabelen die het best de huidige situatie verklaren in plaats van de volledige analyse en de verkenning om daar te komen.  Verstrek dwingende beelden die helpen om de verhouding van uw onafhankelijke en afhankelijke variabelen te tonen maar het eenvoudig te houden zodat het voor uw publiek gemakkelijk te verbruiken is.
 
-**[!DNL Adobe]Tip voor werkruimte:**
+**[!DNL Adobe]Workspace Tip:**
 Maak eenvoudige, gemakkelijk leesbare visuele kenmerken die zijn afgestemd op het type gegevens dat u deelt:
 
 * Streepjesgrafieken gebruiken voor categoriale en binaire gegevens
@@ -42,13 +42,13 @@ Maak eenvoudige, gemakkelijk leesbare visuele kenmerken die zijn afgestemd op he
 
 Communiceer de aanbevolen actie en wat het kan doen om daar te komen.  Zorg ervoor dat u voldoende details opgeeft, zodat belanghebbenden een geïnformeerde beslissing kunnen nemen, bijvoorbeeld over de kosten of de vereiste middelen die nodig zijn om een wijziging aan te brengen. De meest efficiënte manier om dit te doen is de mogelijke impact te kwantificeren door minstens één kritieke KPI.
 
-**[!DNL Adobe]Tip voor werkruimte:** Gebruiksinstrumenten zoals classificaties en/of berekende maatstaven om de mogelijke impact rechtstreeks binnen [!DNL Adobe Analytics] en gebruik samenvattingsnummers of wijzigingen binnen [!DNL Adobe] Werkruimte die moet eindigen op een hoge notitie!
+**[!DNL Adobe]Workspace Tip:** Gebruik gereedschappen zoals classificaties en/of berekende maatstaven om (denk bijvoorbeeld aan Net Winst of CLV) het mogelijke effect direct binnen [!DNL Adobe Analytics] te kwantificeren en gebruik samenvattingsnummers of wijzigingen binnen [!DNL Adobe] Workspace om te eindigen op een hoge noot!
 
 ## Auteur
 
 Dit document is geschreven door:
 
-![Amy Ard](assets/amy-ard-headshot-small.png)
+![ Amy Ard ](assets/amy-ard-headshot-small.png)
 
 Amy Ard, Director van [!DNL Analytics] bij Levelwing
 

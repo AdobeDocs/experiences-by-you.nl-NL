@@ -25,7 +25,7 @@ De segmenten kunnen één van de krachtigste hulpmiddelen in uw toolkit van de g
 
 De segmenten kunnen één van de krachtigste hulpmiddelen in uw toolkit van de gegevensanalyse zijn. Wanneer u naar specifieke groepen verkeer, plaatssecties, of klantenreizen wilt kijken, kan het gebruiken van segmenten een grote manier zijn om uw analyse op een bepaalde ondergroep van verkeer aan uw plaats te concentreren. Omdat ik uit een detailhandelmilieu kom, zijn sommige van de nuttigste segmenten ik voor verschillende types van klantengroepen, bijvoorbeeld nieuwe vs. bestaande klanten, klanten die in een rekening tegenover gasten worden ondertekend, etc. heb gemaakt. Maar u kunt hen voor verschillende plaatssecties ook maken, klanten die specifieke acties uitvoeren, of om het even wat anders u aan kunt denken!
 
-**Er zijn twee belangrijke manieren om segmenten te bouwen:**
+**er zijn twee belangrijkste manieren om segmenten te bouwen:**
 
 * Het gebruiken van de segmentbouwer in het componentenmenu
 * Snelle segmenten boven in een deelvenster gebruiken
@@ -38,15 +38,15 @@ Boven aan elk deelvenster kunt u op het snelsegmentpictogram (een trechter met h
 
 Wanneer het doen van een verkennende analyse, en u wilt verschillende soorten segmenten testen om te zien hoe de verschillende klantengroepen reageren of hoe de verschillende categorieën presteren - het gebruiken van snelle segmenten is veel sneller dan het gebruiken van de segmentbouwer. Bovendien, zijn deze segmenten slechts beschikbaar in het project zij binnen werden gecreeerd, zodat als het blijkt om niet de resultaten te verstrekken u wilt, te hoeven u zich niet ongerust te maken over het schrappen van het bewaarde segment van de hoofdlijst. Als na het testen van de segmenten u zich realiseert dat het in andere projecten nuttig zal zijn, kunt u altijd de &quot;open bouwer&quot;knoop klikken om het segment in de volledige segmentbouwer te openen om het als normaal segment te bewaren. Zodra u dat doet, echter, zult u niet meer het in de snelle segmentbouwer kunnen uitgeven.
 
-![Snel segment](assets/quick-segement.png)
+![ Snel Segment ](assets/quick-segement.png)
 
 ## Segment Builder
 
 De segmentbouwer kan worden betreden door + symbool boven de lijst van segmenten in het linkermenu van componenten te klikken, of van het klikken van de componentendropdown en het selecteren van &quot;Create Segment...&quot;in tegenstelling tot de snelle segmenten, heeft dit alle opties beschikbaar aan u. Als u meerdere voorwaarden wilt toevoegen, kunt u opeenvolgende segmenten maken met de operator &#39;then&#39;. Met opeenvolgende segmenten kunt u ook &#39;logische groep&#39; gebruiken als niveau (in plaats van een hit, visit of bezoeker). De segmentbouwer zal u ook toestaan om in een beschrijving aan de segmenten toe te voegen, die context kan toevoegen over wie het segment bouwde of welk type van gegevens het is gebouwd om te filtreren, of zelfs eenvoudig &quot;markeringen&quot;aan het segment voor organisatorische doeleinden toe te voegen die allebei niet binnen de snelle segmentbouwer mogelijk zijn.
 
-Het gebruiken van de segmentbouwer is essentieel wanneer uw segment meer dan 3 voorwaarden gaat hebben, als u containers moet gebruiken, of opeenvolgende segmenten wilt. De volledige segmentbouwer heeft veel meer opties om complexere segmenten te maken, die u kunnen helpen verschillende klantentypes, categorieën, klantenreizen, etc. onderbreken. Nadat deze segmenten zijn gemaakt en opgeslagen, worden ze toegevoegd aan de hoofdlijst met segmenten. Dit betekent dat ze gelabeld, goedgekeurd, gedeeld, gebruikt in meerdere rapporten en gepubliceerd naar het Experience Cloud kunnen worden. Als u in het Experience Cloud publiceert, kunt u het segment ook in andere toepassingen gebruiken [!DNL Adobe] producten, zoals in [!DNL Adobe] Doel voor het richten van verpersoonlijking. De segmenten die in de segmentbouwer worden gebouwd kunnen niet in het snelle segmentpaneel worden uitgegeven, zult u de segmentbouwer moeten openen om het even welke veranderingen in hen aan te brengen. Gelukkig, verstrekt de voorproefvisualisatie aan het recht een gedetailleerdere analyse van het verkeer het segment de laatste 90 dagen zou brengen, betekenend is het gemakkelijker om zeker te zijn het segment in brengt wat u het wilt alvorens te sparen.
+Het gebruiken van de segmentbouwer is essentieel wanneer uw segment meer dan 3 voorwaarden gaat hebben, als u containers moet gebruiken, of opeenvolgende segmenten wilt. De volledige segmentbouwer heeft veel meer opties om complexere segmenten te maken, die u kunnen helpen verschillende klantentypes, categorieën, klantenreizen, etc. onderbreken. Nadat deze segmenten zijn gemaakt en opgeslagen, worden ze toegevoegd aan de hoofdlijst met segmenten. Dit betekent dat ze gelabeld, goedgekeurd, gedeeld, gebruikt in meerdere rapporten en gepubliceerd naar het Experience Cloud kunnen worden. Door middel van publicatie in het Experience Cloud kunt u het segment gebruiken in andere [!DNL Adobe] -producten, zoals in [!DNL Adobe] Target voor het maken van een doelafbeelding. De segmenten die in de segmentbouwer worden gebouwd kunnen niet in het snelle segmentpaneel worden uitgegeven, zult u de segmentbouwer moeten openen om het even welke veranderingen in hen aan te brengen. Gelukkig, verstrekt de voorproefvisualisatie aan het recht een gedetailleerdere analyse van het verkeer het segment de laatste 90 dagen zou brengen, betekenend is het gemakkelijker om zeker te zijn het segment in brengt wat u het wilt alvorens te sparen.
 
-![Segment Builder](assets/segment-builder-quick.png)
+![ de Bouwer van het Segment ](assets/segment-builder-quick.png)
 
 ## Gebruiksscenario’s
 
@@ -60,12 +60,12 @@ Over het algemeen, zowel zijn de snelle segmenten als de segmentbouwer uitsteken
 
 Dit document is geschreven door:
 
-![Mandy George](assets/mandy-george-2.png)
+![ Mandy George ](assets/mandy-george-2.png)
 
-**Mandy George**, Digital Analyst III op Best Buy Canada
+**Mandy George**, Digitale Analyst III bij Best koop Canada
 
 Adobe Analytics Champion
 
 ## Downloaden
 
-[![Snelle segmenten downloaden](assets/quick-segments-download-small.jpg)](assets/[!DNL Adobe]_[!DNL Analytics]_Segments_Vs_Segment_Builder_Reference_Guide.pdf)
+[![ Snelle de Download van Segmenten ](assets/quick-segments-download-small.jpg)] (activa/[!DNL Adobe] [!DNL Analytics] _Segments_Vs_Segment_Builder_Reference_Guide.pdf)

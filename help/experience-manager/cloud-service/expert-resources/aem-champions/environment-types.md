@@ -1,6 +1,6 @@
 ---
-title: AEM Champion Tips en Tricks - [!DNL Cloud Manager] Omgevingstypen
-description: Zie deze tips voor [!DNL Cloud Manager]De omgevingstypen van AEM kampioen en expert, Rakesh Pasupuleti.
+title: AEM Champion Tips en Tricks -  [!DNL Cloud Manager]  Types van Milieu
+description: Ontdek deze uiteinden over de milieutypes van  [!DNL Cloud Manager] van AEM kampioen en deskundige, Rakesh Pasupuleti.
 version: Cloud Service
 feature-set: Marketo Engage, Experience Manager, Experience Manager Cloud Manager
 solution: Experience Manager Cloud Manager, Marketo Engage, Experience Manager Cloud Manager
@@ -14,18 +14,18 @@ jira: KT-13229
 exl-id: 682c97c0-d563-4cfa-be6b-0eb22c675d21
 source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '83'
 ht-degree: 2%
 
 ---
 
-# AEM Champion Tips en Tricks - [!DNL Cloud Manager] Omgevingstypen
+# AEM Champion Tips and Tricks - [!DNL Cloud Manager] Omgevingstypen
 
-Ontdek deze tips van uw technische collega, Rakesh Pasupuleti. Rakesh is een [!DNL Adobe] Experience Manager champion en hij legt uit hoe hij kan begrijpen [!DNL Cloud Manager]Omgevingstypen.
+Ontdek deze tips van uw technische collega, Rakesh Pasupuleti. Rakesh is een [!DNL Adobe] Experience Manager kampioen en legt uit hoe u de omgevingstypen van [!DNL Cloud Manager] kunt begrijpen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419297?quality=12&learn=on)
 
 ## Aanvullende bronnen {#additional-resources}
 
-* [Omgevingen beheren](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html) - Documentatie over milieubeheer in AEM as a Cloud Service
-* [Snelle ontwikkelomgevingen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/rapid-development-environments.html) - Documentatie over RDE&#39;s in AEM as a Cloud Service
+* [ het Leiden Milieu ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html) - Documentatie over milieubeheer in AEM as a Cloud Service
+* [ Snelle Milieu&#39;s van de Ontwikkeling ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/rapid-development-environments.html) - Documentatie op RDEs in AEM as a Cloud Service

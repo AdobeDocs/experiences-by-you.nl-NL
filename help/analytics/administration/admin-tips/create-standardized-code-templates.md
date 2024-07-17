@@ -1,6 +1,6 @@
 ---
 title: Standaardcodesjablonen maken
-description: Voor een basislijnimplementatie (d.w.z. wat uw bedrijf de moet-hebben KPIs voor allen beschouwt [!DNL Adobe Analytics] sites), moet uw org waar mogelijk één implementatiemethode hebben.
+description: Voor een basislijnimplementatie (d.w.z. wat uw bedrijf KPIs voor alle  [!DNL Adobe Analytics]  plaatsen moet hebben), zou uw org één enkele implementatiemethode moeten hebben waar mogelijk.
 solution: Analytics
 feature-set: Analytics
 feature: Implementation Basics
@@ -14,17 +14,17 @@ exl-id: edd3df73-6d1a-4a26-a984-810cc7dd382f
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
 source-wordcount: '355'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Standaardcodesjablonen maken
 
-**WAT:** Voor een &quot;basislijn&quot;implementatie (d.w.z. wat uw bedrijf de moet-hebben KPIs voor allen beschouwt [!DNL Adobe Analytics] sites), moet uw org waar mogelijk één implementatiemethode hebben. Gebruik bijvoorbeeld dezelfde gegevenslaagstructuur op verschillende sites en gebruik dezelfde regel/aangepaste code voor tagbeheer om bijvoorbeeld interne zoekopdrachten of informatie over het bezoekersprofiel vast te leggen.
+**WAT:** voor een &quot;basislijn&quot;implementatie (d.w.z. wat uw bedrijf KPIs voor alle [!DNL Adobe Analytics] plaatsen moet hebben), zou uw org één enkele implementatiemethode moeten hebben waar mogelijk. Gebruik bijvoorbeeld dezelfde gegevenslaagstructuur op verschillende sites en gebruik dezelfde regel/aangepaste code voor tagbeheer om bijvoorbeeld interne zoekopdrachten of informatie over het bezoekersprofiel vast te leggen.
 
-**WAAROM:** Dankzij een herhaalbare en schaalbare basislijnimplementatie wordt het toevoegen van nieuwe elementen of nieuwe sites/apps een gestroomlijnde, lage inspanningsinspanning terwijl uw implementatie ook schoon en gemakkelijk blijft om problemen op te lossen. Met een uniforme methode wordt het ook gemakkelijker voor nieuwe beheerders/ontwikkelaars om online te komen en te begrijpen waarmee zij werken.
+**WAAROM:** Het hebben van een herhaalbare en scalable basislijnimplementatie maakt het toevoegen van nieuwe elementen of nieuwe plaatsen/apps een gestroomlijnde, lage inspanningsinspanning terwijl ook het houden van uw implementatie schoon en gemakkelijk om problemen op te lossen. Met een uniforme methode wordt het ook gemakkelijker voor nieuwe beheerders/ontwikkelaars om online te komen en te begrijpen waarmee zij werken.
 
-**HOE:** Eén indelingssjabloon gebruiken om aan ontwikkelaars door te geven wanneer een nieuwe site of tagverbetering online komt. Een Word-document werkt meestal goed, waarin u de volgende items kunt omtrekken:
+**HOW:** keur één enkel formaatmalplaatje aan hand aan ontwikkelaars af wanneer een nieuwe plaats of het etiketteren verbetering online komt. Een Word-document werkt meestal goed, waarin u de volgende items kunt omtrekken:
 
 * Variabelen die worden geïmplementeerd, hun doel en wanneer. Bijvoorbeeld:
 
@@ -42,11 +42,11 @@ In het ideale geval hoeft dit document alleen te worden getweend voor de volgend
 
 Dit document is medegeschreven door:
 
-![Christel Guidon](assets/Christel-Headshot-150.png)
+![ Christel Guidon ](assets/Christel-Headshot-150.png)
 
-Christel Guidon, digitaal [!DNL Analytics] Platform Manager bij NortonLifeLock
+Christel Guidon, Digital [!DNL Analytics] Platform Manager bij NortonLifeLock
 [!DNL Adobe Analytics] Champion
 
-![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
+![ Rachel Fenwick ](assets/Rachel-Fenwick-150.png)
 
 Rachel Fenwick, senior consultant bij [!DNL Adobe]

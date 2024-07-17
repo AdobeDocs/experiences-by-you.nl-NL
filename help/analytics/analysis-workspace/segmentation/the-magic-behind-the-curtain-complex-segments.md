@@ -19,11 +19,11 @@ ht-degree: 1%
 
 # De magie achter het gordijn: complexe segmenten: uitsluiten, containers en attributie
 
-_Ontdek de complexiteit van complexe gegevenssegmentatie, waarbij wordt gezocht naar uitsluitingen, containers en attributiemodellen. Net als een handje van een goochelaar, stelt het beheersen van deze technieken analisten in staat om gegevensmagie uit te voeren en inzichten met precisie en vinding te transformeren._
+_ontdek de ingewikkeldheid van complexe gegevenssegmentatie, het onderzoeken sluit, containers, en attributiemodellen uit. Net als een handje van een goochelaar, stelt het beheersen van deze technieken analisten in staat om gegevensmagie uit te voeren, inzichten met precisie en vinding om te zetten._
 
 De gordijnen zijn open, het podium is ingesteld... dit is misschien geen magische handeling van Las Vegas, maar we kunnen een aantal verbazingwekkende trucs uitvoeren bij het bouwen van onze segmenten.
 
-![Magicisch_handen](assets/magician-hands.jpeg)
+![ Magicia_hands ](assets/magician-hands.jpeg)
 
 Binnen deze module zullen wij behandelen:
 
@@ -33,60 +33,60 @@ Binnen deze module zullen wij behandelen:
 
 ## Inclusief of uitsluiten
 
-Standaard beginnen alle containers als **include** type, wat betekent dat ze de gegevens retourneren die aan de criteria voldoen. U kunt echter ook het segment of de containers in de te maken segmenten wijzigen **uitsluiten** type, zodat u bepaalde criteria kunt afwijzen.
+Door gebrek, omvatten alle containers beginnen als **** type, fundamenteel betekenend dat zij de gegevens terugkeren die de criteria aanpassen. Nochtans, kunt u het segment, of de containers binnen de segmenten ook veranderen om **** type uit te sluiten, toestaand u om bepaalde criteria te verwerpen.
 
 Hoewel een goochelaar je kaart in het dek kan vinden, is het verbazingwekkend wanneer die goochelaar de rest van het dek niet kan laten bestaan. Op dezelfde manier in sluit segmenten uit, willen wij de ongewenste gegevens eenvoudig van onze gegevensreeks verdwijnen.
 
-![dekens](assets/blankcards.png)
+![ blankcards ](assets/blankcards.png)
 
-Misschien zit je daar te denken: &quot;Oké, maar ik heb al opties &quot;Is niet gelijk&quot; en &quot;Bevat niet&quot;, dus moet dat me niet bedekken?&quot; Jammer genoeg, is het antwoord daarop neen... en het gaat niet alleen over het kunnen groepen van logica uitsluiten, over één enkel element. Zelfs wanneer u met één component werkt, zult u vaak moeten gebruiken *uitsluiten* om uw doel te bereiken.
+Misschien zit je daar te denken: &quot;Oké, maar ik heb al opties &quot;Is niet gelijk&quot; en &quot;Bevat niet&quot;, dus moet dat me niet bedekken?&quot; Jammer genoeg, is het antwoord daarop neen... en het gaat niet alleen over het kunnen groepen van logica uitsluiten, over één enkel element. Zelfs wanneer het behandelen van één enkele component, zult u vaak *moeten gebruiken sluit* uit om uw doel te bereiken.
 
-- **Bevat niet / Is niet gelijk** - Is precies wat het klinkt, aanpassing op punten die geen specifiek koord bevatten
-- **Exclusief: waarde bevat / is gelijk** - Dit zal *uitsluiten* items die overeenkomen met de tekenreeks
+- **bevat niet/is niet gelijk** - is enkel wat het als klinkt, aanpassend op punten die geen specifiek koord bevatten
+- **uitsluiten: De waarde bevat/evenaart** - dit ** punten zal uitsluiten die het koord aanpassen
 
-Op het eerste gezicht klinkt dit allebei hetzelfde... en op **hit** niveausegmenten/containers, zou u correct zijn, aangezien zij de zelfde actie zullen uitvoeren. Bij gebruik van **bezoek** of **bezoeker** het bereik dat u krijgt zal sterk verschillen .
+Op eerste gezicht, klonen deze allebei het zelfde.. en op **raakten** niveausegmenten/containers, zou u correct zijn, aangezien zij de zelfde actie zullen uitvoeren. Nochtans, wanneer het gebruiken van **bezoek** of **bezoeker** werkingsgebied u zult zeer verschillende resultaten krijgen.
 
-**Afbeelding 1: Bevat niet/is niet gelijk aan - Actief bereik**
+**Figuur 1: Bevat niet/is niet gelijk - het werkingsgebied van de Bedekking**
 
-![Figuur1-DnceVsExclude-Hit](assets/figure1-dnce-vs-exclude-hit.png)
+![ Figuur1-DnceVsExclude-Hit ](assets/figure1-dnce-vs-exclude-hit.png)
 
-*Merk op dat elke treffer een waar of vals waarde terugkeert, en dat die waarden tussen worden omgekeerd doet niet en sluit uit.*
+*Bericht dat elke slag een waar of valse waarde terugkeert, en dat die waarden tussen niet worden omgekeerd doet en sluit uit.*
 
 - Bevat &quot;Waarde&quot; niet &quot;Voorbeeld&quot; (Ja), retourneert daarom true en neemt die hit op. Bevat &quot;Voorbeeld&quot; evenmin &quot;Voorbeeld&quot; (geen voorbeeld), retourneert daarom false en neemt die hit niet op. Retourneer in principe alle gegevens die een waar resultaat opleveren.
-- Bevat &quot;Waarde&quot; &quot;Voorbeeld&quot; (nee), retourneert daarom false en sluit die hit niet uit. Bevat &quot;Voorbeeld&quot; ook &quot;Voorbeeld&quot; (yes), retourneert daarom true en sluit die hit uit. Retourgegevens die wel **niet** hebben een echt resultaat, of retourgegevens die volgens uw criteria onwaar zijn.
-- U kunt dat zien op het **Actief** niveau, beide reeksen logica zullen de zelfde reeks gegevens terugkeren.
+- Bevat &quot;Waarde&quot; &quot;Voorbeeld&quot; (nee), retourneert daarom false en sluit die hit niet uit. Bevat &quot;Voorbeeld&quot; ook &quot;Voorbeeld&quot; (yes), retourneert daarom true en sluit die hit uit. Basistatief, terugkeergegevens die **** geen waar resultaat hebben, of terugkeergegevens die vals aan uw criteria zijn.
+- U kunt zien dat op het **1} niveau van het Actief, beide reeksen logica de zelfde reeks gegevens zal terugkeren.**
 
-**Afbeelding 2: Bevat niet/is niet gelijk aan - Bezoek het bereik**
+**Figuur 2: Bevat niet/is niet gelijk - het werkingsgebied van het Bezoek**
 
-![Figure2-DnceVsExclude-Visit](assets/figure2-dnce-vs-exclude-visit.png)
+![ Figuur2-DnceVsExclude-Visit ](assets/figure2-dnce-vs-exclude-visit.png)
 
-*Zoals hierboven, elke hit in de **bezoek**worden met dezelfde waarde voor waar en onwaar geëvalueerd. De gegevensset die wordt geretourneerd, is echter die van het hele bezoek.*
+*als hierboven, zal elke klap binnen het **bezoek**met zelfde waar/vals worden geëvalueerd. Nochtans, is de gegevensreeks die is teruggekeerd die van het volledige bezoek.*
 
 - Op elke hit bevat &quot;Value&quot; geen &quot;Example&quot; (yes), dus retourneert &quot;Example&quot; geen &quot;Example&quot; (no, it contains it it), zodat false wordt geretourneerd.
-   - Indien **alle** hit in the visit returns **true** en vervolgens de **volledig bezoek** wordt geretourneerd.*
-   - Als het bezoek volledig uit klappen bestond die &quot;Voorbeeld&quot;bevatten, dan zouden geen klappen waar terugkeren en daarom zou dat bezoek **niet worden geretourneerd** in uw gegevensset.
+   - Als **om het even welke** slag in het bezoek **waar** terugkeert, dan is het **volledige bezoek** teruggekeerd.*
+   - Als het bezoek volledig uit klappen werd samengesteld die &quot;Voorbeeld&quot;toen bevatten zouden geen klappen waar terugkeren, en daarom zou dat bezoek **niet** in uw gegevensreeks zijn teruggekeerd.
 - Op elke hit bevat &quot;Example&quot; (yes) dus &quot;true&quot;
-   - Indien **elke treffer** retourneert **true**, zal het hele bezoek **uitgesloten**
-   - Indien **alle treffers** in de terugkeer van het bezoek **false**, dan wordt dat bezoek geretourneerd in uw gegevensset
+   - Als **om het even welke slag** **waar** terugkeert, zal het volledige bezoek **uitgesloten** zijn
+   - Als **alle hits** in de bezoekterugkeer **vals**, dan zal dat bezoek in uw gegevensreeks zijn teruggekeerd
 - Nu kun je zien waar deze logica begint af te wijken. In het bovenstaande voorbeeld zijn er drie verschillende bezoeken:
-   - Bij gebruik van &quot;Bevat niet/Gelijk&quot; **twee van de drie** de bezoeken zullen worden teruggezonden .
-   - Bij gebruik van &quot;Bevat/Gelijk niet opnemen&quot; **slechts één** van deze bezoeken zullen worden teruggezonden
+   - Wanneer het gebruiken van &quot;bevat niet/Gelijk&quot;**twee van de drie** bezoeken zullen zijn teruggekeerd.
+   - Wanneer het gebruiken van &quot;Uitsluiten bevat/evenaart&quot;**slechts één** van die bezoeken zal zijn teruggekeerd
 
-**Afbeelding 3: Bevat niet/is niet gelijk aan - Bezoek het bereik**
+**Figuur 3: Bevat niet/is niet gelijk - het werkingsgebied van het Bezoek**
 
-![Figure3-DnceVsExclude-Visitor](assets/figure3-dnce-vs-exclude-visitor.png)
+![ Figure3-DnceVsExclude-Visitor ](assets/figure3-dnce-vs-exclude-visitor.png)
 
-*Zoals hierboven, elke treffer gemaakt door de **bezoeker**worden geëvalueerd met dezelfde logica voor waar en onwaar. Maar nu kijken we naar alle treffers die deze bezoeker heeft gemaakt voor alle bezoeken (binnen het geselecteerde datumbereik).*
+*als hierboven, zal elk geraakt die door de **bezoeker**wordt gemaakt met de zelfde waar/valse logica worden geëvalueerd. Maar nu bekijken wij alle klappen die deze bezoeker, over alle bezoeken (binnen de geselecteerde datumwaaier) heeft gemaakt.*
 
 - Op elke hit bevat &quot;Value&quot; geen &quot;Example&quot; (yes), dus retourneert &quot;Example&quot; geen &quot;Example&quot; (no, it contains it it), zodat false wordt geretourneerd.
-   - Indien **alle** getroffen door bezoekersaantallen **true** en vervolgens de **volledig bezoek** wordt geretourneerd.
-   - Als de bezoeker nooit een hit met &quot;Voorbeeld&quot; heeft gemaakt, zouden er geen treffers worden geretourneerd, zodat die bezoeker **niet worden geretourneerd** in uw gegevensset.
+   - Als **om het even welk** geraakt door de bezoeker wordt gemaakt waar **** terugkeert, dan is het **volledige bezoek** teruggekeerd.
+   - Als de bezoeker nooit om het even welke aanzet maakte die &quot;Voorbeeld&quot;toen bevatte zouden geen aanslagen waar terugkeren, en daarom zou die bezoeker **niet** in uw gegevensreeks zijn teruggekeerd.
 - Op elke hit bevat &quot;Example&quot; (yes) dus &quot;true&quot;.
-   - Indien **elke treffer** retourneert **true** de gehele bezoeker (en vervolgens al zijn bezoeken) **uitgesloten.**
-   - Indien **alle treffers** in de terugkeer van het bezoek **false**, wordt die bezoeker geretourneerd in uw gegevensset, waardoor bezoekers die &quot;X&quot; niet hebben gedaan, worden geretourneerd.
+   - Als **om het even welke aanraking** **waar** terugkeert, zal de volledige bezoeker (en nadien al hun bezoeken) **worden uitgesloten.**
+   - Als **alle hits** in de bezoekterugkeer **vals**, dan zal die bezoeker in uw gegevensreeks zijn teruggekeerd, daardoor met succes terugkerende bezoekers die &quot;X&quot;niet deden.
 - Dit is een uitbreiding van de logica van het bezoek, waar nog meer overwegingen zijn. In het bovenstaande voorbeeld zijn er twee verschillende bezoekers, met elk drie bezoeken:
-   - Bij gebruik van &quot;Bevat niet/Gelijk&quot; **beide** bezoekers worden teruggestuurd , net als alle **drie** van hun bezoeken (2 bezoekers en 6 bezoekers in uw rapporten)
-   - Bij gebruik van &quot;Bevat/Gelijk niet opnemen&quot; **slechts één** van deze bezoekers worden teruggestuurd en alleen de drie bezoeken die met die bezoeker verband houden worden opgenomen (1 bezoeker en 3 totale bezoeken in uw rapporten)
+   - Wanneer het gebruiken van &quot;bevat niet/Gelijk&quot;**zowel** bezoekers zullen zijn teruggekeerd, zoals alle **drie** van hun bezoeken (rekenend voor 2 bezoekers en 6 totale bezoeken in uw rapporten)
+   - Wanneer het gebruiken van &quot;Uitsluiten bevat/evenaart&quot;**slechts één** van die bezoekers zal zijn teruggekeerd, en slechts zullen de drie bezoeken verbonden aan die bezoeker worden omvat (rekenend voor 1 bezoeker en 3 totale bezoeken in uw rapporten)
 
 >[!TIP]
 >
@@ -94,21 +94,21 @@ Op het eerste gezicht klinkt dit allebei hetzelfde... en op **hit** niveausegmen
 
 ### Segmentvoorbeeld 1: bezoeken uitsluiten die een aankoop doen
 
-In dit voorbeeld wil ik gebruikers aanwijzen die naar een site zijn gekomen en *niet* een aankoop doen tijdens hun bezoek (in feite wil ik de bezoeken uitsluiten die een transactie hebben uitgevoerd; daarom zal ik worden verlaten met de bezoeken die een transactie niet hebben voltooid)
+In dit voorbeeld, wil ik gebruikers richten die aan een plaats kwamen, en *geen* een aankoop tijdens hun bezoek maakten (fundamenteel, wil ik de bezoeken uitsluiten die een transactie uitvoerden; daarom zal ik met de bezoeken worden verlaten die geen transactie voltooiden)
 
-![Segment1A-VisitLevelExclude](assets/segment-example-1/segment1a-visit-level-exclude.png)
+![ Segment1A-VisitLevelExclude ](assets/segment-example-1/segment1a-visit-level-exclude.png)
 
 Ter vergelijking, kijk naar een segment dat wordt gebouwd gebruikend &quot;niet bestaat&quot;:
 
-![Segment1B-VisitDoesNotExist](assets/segment-example-1/sement1b-visit-does-not-exist.png)
+![ Segment1B-VisitDoesNotExist ](assets/segment-example-1/sement1b-visit-does-not-exist.png)
 
 In de voorvertoning ziet u een heel ander resultaat... In feite retourneert dit segment 100% van mijn bezoeken, omdat elk bezoek ten minste één hit heeft die de &quot;Order&quot;-meting niet bevat.
 
 Om dit verder te illustreren, laten wij de twee segmenten naast elkaar vergelijken:
 
-![Segment1C-ComparisonTable](assets/segment-example-1/sement1c-comparison-table.png)
+![ Segment1C-ComparisonTable ](assets/segment-example-1/sement1c-comparison-table.png)
 
-In de eerste plaats kun je zien dat ondanks de *bezoek* niveauwerkingsgebied van het segment, kunnen wij het segment met andere metriek (zoals paginameningen of unieke bezoekers) koppelen. De eerste reeks kolommen is ongesegmenteerd, om in één oogopslag te laten zien dat het ene segment (niet bestaat) bijna 100% van de gegevens retourneert, doet alleen het exclude-segment wat we nodig hebben.
+Eerst, kunt u zien dat ondanks het *bezoek* niveauwerkingsgebied van het segment, wij het segment met andere metriek (zoals paginameningen of unieke bezoekers) kunnen paren. De eerste reeks kolommen is ongesegmenteerd, om in één oogopslag te laten zien dat het ene segment (niet bestaat) bijna 100% van de gegevens retourneert, doet alleen het exclude-segment wat we nodig hebben.
 
 De meest opvallende kolom is de orden, die onmiddellijk duidelijk zouden moeten zijn dat de container &quot;niet bestaat&quot;verkeerd is, aangezien de meeste orden nog worden teruggegeven.
 
@@ -118,23 +118,23 @@ In dit voorbeeld, wil ik de ideeën van de vorige steekproef gebruiken (die spec
 
 Dit segment zal er ongeveer hetzelfde uitzien als het bovenstaande voorbeeld, bijna identiek, maar de reikwijdte van het segment zal een groot verschil maken.
 
-![Segment2A-VisitorLevelExclude](assets/segment-example-2/segment2a-visitor-level-exclude.png)
+![ Segment2A-VisitorLevelExclude ](assets/segment-example-2/segment2a-visitor-level-exclude.png)
 
-Als we het bereik van de bezoeker vergelijken met het hierboven beschreven segment van het bezoek, zien we dat veel meer gegevens en veel meer bezoeken zijn uitgesloten, omdat *bezoekers die aankopen hebben gedaan* er werden ook bezoeken afgelegd waar geen aankopen werden gedaan , zodat deze bezoeken ook buiten beschouwing worden gelaten omdat zij deel uitmaken van de levenscyclus van de bezoeker .
+Nu, als wij het bezoekersscoped segment met het bezoek hierboven scoped segment vergelijken, zult u zien dat veel meer gegevens, en veel meer bezoeken worden uitgesloten, aangezien *bezoekers die aankopen* maakten ook bezoeken hadden waar geen aankopen werden gemaakt, en zo, worden die bezoeken ook uitgesloten aangezien zij deel van de levenscyclus van de bezoeker uitmaken.
 
 >[!IMPORTANT]
 >
 >Wanneer u een bezoeker scoped gegevens kijkt, langer uw rapporttijdkader, groter de uitsluiting zal zijn, aangezien vele bezoekers loyaal bezoekers aan uw plaats terugkeren (natuurlijk zullen sommige bedrijfsmodellen een hogere impact zien dan anderen)
 
-![Segment2B-ComparisonTable](assets/segment-example-2/sement2b-comparison-table.png)
+![ Segment2B-ComparisonTable ](assets/segment-example-2/sement2b-comparison-table.png)
 
 
 >[!IMPORTANT]
 >
->De verschillen tussen bezoek en bezoeker kunnen *subtiel* (met name in deze voorbeeldgegevens) zijn deze unieke logica die in overweging moet worden genomen. Afhankelijk van uw site en gebruikersgedrag kunnen uw gegevens opvallend verschillend zijn.
+>Terwijl de verschillen tussen bezoek en bezoeker *subtiel* (in het bijzonder in deze steekproefgegevens) kunnen zijn, zijn zij unieke logica die zou moeten worden overwogen. Afhankelijk van uw site en gebruikersgedrag kunnen uw gegevens opvallend verschillend zijn.
 
 
-Het is belangrijk om precies te weten welke gegevens, of wat *verhaal*, probeert u het met uw rapport te zeggen. Zorg ervoor dat uw tabellen en visualisaties het publiek duidelijk vertellen ***wat*** wordt getoond, en het gebruiken van het aangewezen segmentmodel is essentieel om aangewezen analyse te maken. Een geïnformeerde beslissing kan alleen goed worden genomen als iedereen begrijpt waar hij naar kijkt.
+Het is belangrijk om precies te weten welke gegevens, of welk *verhaal*, u met uw rapport probeert te vertellen. Ervoor zorgen dat uw lijsten en visualisaties duidelijk het publiek ***vertellen wat*** wordt getoond, en het gebruiken van het aangewezen segmentmodel is kritiek aan het maken van aangewezen analyse. Een geïnformeerde beslissing kan alleen goed worden genomen als iedereen begrijpt waar hij naar kijkt.
 
 ## Containers gebruiken
 
@@ -142,37 +142,37 @@ Containers bieden ons de mogelijkheid om &quot;sub-logic&quot; te maken binnen d
 
 De beste manier om over containers na te denken is elke container een doos te zijn, en dat we dozen (van logica) binnen een andere doos, binnen een andere doos kunnen stapelen... maar in tegenstelling tot fysieke dozen waar elke doos kleiner moet zijn dan de buitendoos, kunnen we iets groter binnen zetten als dat ons ertoe aanzet om de juiste gegevens terug te krijgen. Beschouw het als een goochelhoed, waar het onmogelijke erin past en we de goochelaars van data zijn...
 
-![Konijn_in_hoed](assets/rabbit-in-hat.jpeg)
+![ Konijn_in_hat ](assets/rabbit-in-hat.jpeg)
 
 ### Reikwijdte van de containers
 
-Laten we eerst een snelle uitsplitsing maken van *container* bereik. leuk *segment s* het gaat om je basisvermogen **hit**, **bezoek** en **bezoeker** bereikopties, maar soms zult u ook iets zien genoemd **logische groep** in plaats van bezoeker (dit zal slechts binnen opeenvolgende segmenten voorkomen, en wij zullen die in het volgende artikel behandelen).
+Laten wij eerst een snelle onderbreking van *container* werkingsgebied doen. Als *het werkingsgebied van 0} segment {, hebt u uw basis **geraakt**,**bezoek**en **bezoeker**werkingsgebiedopties, maar soms zult u ook iets genoemd **logische groep**in plaats van bezoeker zien (dit zal slechts binnen opeenvolgende segmenten voorkomen, en wij zullen die in het volgende artikel behandelen).*
 
-Het toevoegen van containers binnen uw segment (of binnen andere containers) kan worden bereikt door tot **opties*** menu (wanneer het nesten van veelvoudige punten, ben zorgvuldig om aan het correcte blok toe te voegen - hoewel u gelukkig containers binnen de interface kunt slepen en laten vallen als u het aan de verkeerde plaats toevoegt)
+Het toevoegen van containers binnen uw segment (of binnen andere containers) kan worden bereikt door tot het toegang hebben van **opties** * menu (wanneer het nesten van veelvoudige punten, zorgvuldig zijn om aan het correcte blok toe te voegen - hoewel u gelukkig containers binnen de interface kunt slepen en laten vallen als u het aan de verkeerde plaats toevoegt)
 
-**Afbeelding 1: Een container toevoegen**
+**Figuur 1: Het toevoegen van een container**
 
-![Figure1-AddingContainer](assets/figure1-adding-container.png)
+![ Figuur1-AddingContainer ](assets/figure1-adding-container.png)
 
-Het bereik van een container is onafhankelijk van de moedermaatschappij, zoals ik al zei, deze *niet* moet overeenkomen. Afhankelijk van wat u wilt retourneren, moet u mogelijk het plan uittekenen om volledig te visualiseren wat u nodig hebt, tenminste totdat u het in uw hoofd comfortabel kunt visualiseren.
+Het werkingsgebied van een container is onafhankelijk van de ouder, zoals ik hierboven vermeld, moeten deze *niet* aanpassen, en afhankelijk van wat u wilt terugkeren, kunt u het plan moeten trekken om volledig visualiseren wat u nodig hebt, minstens tot u comfortabel het visualiseren in uw hoofd krijgt.
 
-**Afbeelding 2: Segmentbereik versus containerbereik**
+**Figuur 2: Het werkingsgebied van het segment vs containerwerkingsgebied**
 
-![Figuur2-SegmentScopeVsContainerScope](assets/figure2-segment-scope-vs-container-scope.png)
+![ Figuur2-SegmentScopeVsContainerScope ](assets/figure2-segment-scope-vs-container-scope.png)
 
 >[!NOTE]
 >
->Adobe heeft logica om geldige en ongeldige segmenten te begrijpen. Ze bieden u geen opties die *nooit* werk... dus als u de optie ziet om een bezoeker scoped container binnen een hit scoped segment te gebruiken, betekent dit dat het een geldige optie is.
+>De Adobe heeft logica om geldige en ongeldige segmenten te begrijpen, zouden zij u geen opties verstrekken die *nooit* werk... zodat als u de optie ziet om een bezoeker te gebruiken scoped container binnen een hit scoped segment, betekent dit het een geldige optie is.
 
-Net als voor basissegmenten, wanneer u een complex segment met geneste containers gaat bouwen, moet u een duidelijk idee hebben over ***wat*** soort gegevens die u wilt retourneren. ***Hoe*** bent u van plan om die gegevens te gebruiken ? ***Welke*** metriek bent u van plan op het samenbrengen met het segment?
+Enkel als voor basissegmenten, wanneer u begint om een complex segment met genestelde containers te bouwen, moet u een duidelijk idee over ***hebben wat*** soort gegevens u wilt zijn teruggekeerd. ***hoe*** u van plan bent om die gegevens te gebruiken? ***Welke*** metriek bent u op het telegraferen met het segment van plan?
 
 Deze vragen zullen helpen bepalen wat het werkingsgebied van het segment als geheel zal zijn, is dit het uitgangspunt aan om het even welk segment.
 
-Enkel omdat u van plan bent om een segment met uw unieke bezoekers te koppelen, betekent niet dat het segment zelf bezoekersniveau... ver van het zou moeten zijn. Een bezoekersniveausegment retourneert alle gegevens voor een bezoeker... dit betekent al hun bezoeken, al hun paginaweergaven enz.. Zodra een bezoeker aan uw segmentcriteria voldoet, kan uw segment gegevens uit het segment retourneren *verleden* voor deze bezoeker (zolang deze zich binnen het datumbereik van uw werkruimte bevindt).
+Enkel omdat u van plan bent om een segment met uw unieke bezoekers te koppelen, betekent niet dat het segment zelf bezoekersniveau... ver van het zou moeten zijn. Een segment van het bezoekersniveau zal alle gegevens voor een bezoeker terugkeren.. dit betekent al hun bezoeken, al hun paginameningen etc.. zodra een bezoeker uw segmentcriteria aanpast, kon uw segment beginnen om gegevens van *voorbij* voor deze bezoeker (zolang het binnen de datumwaaier van uw werkruimte is) terug te keren.
 
 >[!IMPORTANT]
 >
->Zelfs wanneer het van plan zijn om een segment met unieke bezoekers metrisch te koppelen, dit *betekent niet* dat het segment automatisch bezoekersbereik moet zijn... Deze misvatting *misschien* opgeblazen en onjuiste resultaten opleveren.
+>Zelfs wanneer het van plan zijn om een segment met unieke metrische bezoekers te paren, betekent dit *niet* dat het segment bezoekersbereik automatisch zou moeten zijn... Deze misvatting *zou* tot opgeblazen en onjuiste resultaten kunnen leiden.
 
 Ik heb veel gesproken over de concepten van hoe je het juiste bereik kunt selecteren, maar geen voorbeelden of details die je echt helpen... dus laten we daar nu in duiken met een paar voorbeelden van echte bruikbare gevallen. Ze zeggen dat een goochelaar nooit hun geheimen onthult, maar dat is niet helemaal waar. Binnen de magische wereld worden de technieken en &quot;achter het gordijn&quot;-werkingen vaak met gelijken gedeeld, zodat ze kunnen voortbouwen op de illusie en deze kunnen verbeteren... en dat is wat ik wil doen... om de deur open te zetten voor de mogelijkheden die je wachten.
 
@@ -184,19 +184,19 @@ Dit soort scenario is goed om te bekijken als ik kopers heb die specifieke pagin
 
 Mijn voorbeeld gaat de pagina&#39;s van &quot;Aanbevolen Overeenkomsten&quot;en &quot;Aanbevolen Producten bekijken&quot;. Momenteel, zullen wij de logica eenvoudig houden en niet in opeenvolgende segmentatie (minstens nog niet, maar wij zullen complexere logica als dat in een toekomstig artikel behandelen).
 
-Een andere vraag is: **waarom** trekken we terug door klappen ? Technisch gezien zou ik hier bezoekers of bezoekers kunnen volgen, maar ik wil misschien ook naar deze specifieke pagina&#39;s kijken door **paginaweergaven (voor de specifieke paginaset) per bezoek** of **paginaweergaven (voor de specifieke set) per bezoeker** Dit bereik geeft me de flexibiliteit om deze specifieke wiskunde uit te voeren. Aangezien deze treffers gemakkelijk met bezoeken of unieke bezoekers kunnen worden gecombineerd om het aantal bezoeken of bezoekers te bepalen die deze pagina&#39;s zien, zal ik voor het meest flexibele segment kiezen dat ik voor alle scenario&#39;s kan gebruiken.
+Een andere vraag is **waarom** wij terugtrekken door treffers? Technisch zou ik door Bezoekingen of Bezoekers hier kunnen trekken, maar ik kan deze specifieke pagina&#39;s door **paginameningen (voor de specifieke paginaset) per bezoek** of **paginameningen (voor de specifieke reeks) per bezoeker** ook willen bekijken, geeft dit werkingsgebied me de flexibiliteit om deze specifieke berekening uit te voeren. Aangezien deze treffers gemakkelijk met bezoeken of unieke bezoekers kunnen worden gecombineerd om het aantal bezoeken of bezoekers te bepalen die deze pagina&#39;s zien, zal ik voor het meest flexibele segment kiezen dat ik voor alle scenario&#39;s kan gebruiken.
 
 Ten eerste, ter vergelijking, hier is een eenvoudig op HIT-Gebaseerd segment voor de specifieke pagina&#39;s.
 
-![Segment3A-HitLevelPages](assets/segment-example-3/segment3a-hit-level-pages.png)
+![ Segment3A-HitLevelPages ](assets/segment-example-3/segment3a-hit-level-pages.png)
 
 Nu, bouwen in de ingewikkeldheid:
 
-![Segment3B-MultipleContainersHitAndVisitor](assets/segment-example-3/segment3b-multiple-containers-hit-and-visitor.png)
+![ Segment3B-MultipleContainersHitAndVisitor ](assets/segment-example-3/segment3b-multiple-containers-hit-and-visitor.png)
 
 U zult merken dat ik niet alleen meerdere containers gebruik, maar dat ik het bereik van deze containers vermeng. Het segment als geheel bevindt zich op HIT-niveau, maar ik ben ook op zoek naar bezoekers die een bestelling hebben gedaan.
 
-![Segment3C-ComparisonTable](assets/segment-example-3/segment3c-comparison-table.png)
+![ Segment3C-ComparisonTable ](assets/segment-example-3/segment3c-comparison-table.png)
 
 Laten we wat tijd besteden om dit uit te pakken, want er is veel gaande.
 
@@ -212,7 +212,7 @@ In de eerste plaats laat ik in plaats van een dagelijkse ineenstorting een pagin
 
 <table style="border: 0;">
     <tr>
-        <td width="352" style="border: 0;">Vervolgens laat ik het resultaat van het eenvoudige segment zien, waarbij ik alleen naar <strong>treffers</strong> op de twee opgegeven pagina's. U zult merken dat de andere pagina's in de uitsplitsing allemaal 0 opleveren, zoals u verwacht.</td>
+        <td width="352" style="border: 0;">Daarna, toon ik het resultaat van het eenvoudige segment, kijkend slechts <strong> klappen </strong> op de twee gespecificeerde pagina's. U zult merken dat de andere pagina's in de uitsplitsing allemaal 0 opleveren, zoals u verwacht.</td>
         <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail2.png" width="352"
         </td>
     </tr>
@@ -239,13 +239,13 @@ In het bovenstaande voorbeeld ziet u hoe u een container met een groter bereik (
 
 Op sommige van dezelfde pagina&#39;s waar we eerder naar keken, willen we nu gewoon de bezoekers terugkrijgen die de aanbevolen deals of de aanbevolen productpagina raakten EN die tijdens hetzelfde bezoek een bestelling maakten.
 
-![Segment4A-VisitorWithVisit](assets/segment-example-4/segment4a-visitor-with-visit.png)
+![ Segment4A-VisitorWithVisit ](assets/segment-example-4/segment4a-visitor-with-visit.png)
 
 Dit segment mengt alle drie het werkingsgebied. Het hoogste niveau van het segment is bezoeker, zodat zal dit ervoor zorgen dat ALLE klappen van alle bezoeken voor de passende bezoeker worden teruggekeerd. Daarbinnen hebben wij een container toegevoegd van het bezoekbereik, dat zal ervoor zorgen dat de bezoeker minstens één bezoek moet hebben gehad dat aan de specifieke criteria van het maken van een orde voldoet EN specifieke pagina&#39;s heeft bezocht. We hebben een container van het bereik van hit toegevoegd voor de pagina&#39;s zelf, zodat we OR-logica kunnen gebruiken om te zoeken naar de pagina met aanbevolen deals OF de pagina met aanbevolen producten.
 
-Het voordeel voor dit bereiksegment van de bezoeker is dat dit zal terugkeren **ALLES** bezoeken van de bezoekers die aan deze criteria voldoen, zodat dit segment goed zal zijn als ik het gedrag wil zien van eerdere bezoeken die tot deze combinatie leiden, en de acties van deze bezoekers na een dergelijk scenario.
+Het voordeel aan dit bezoeker scoped segment is dat dit **ALLE** bezoeken van de bezoekers zal terugkeren die deze criteria aanpassen, zodat zal dit segment goed zijn als ik het gedrag in vorige bezoeken wilt zien die tot deze combinatie leiden, en de acties van deze bezoekers na zulk een scenario.
 
-![Segment4B-ComparisonTable](assets/segment-example-4/segment4b-comparison-table.png)
+![ Segment4B-ComparisonTable ](assets/segment-example-4/segment4b-comparison-table.png)
 
 Hier vergelijkt ik hits op aanbevolen deals/aanbevolen inhoud met bestellingen die al bestaan, met het complexe segment waarin zowel de bestelling als een van de opgegeven pagina&#39;s zich tijdens hetzelfde bezoek bevinden. Het complexe segment is waar de twee eerste segmenten elkaar kruisen; maar aangezien het bezoekerswerkingsgebied is, zullen alle andere bezoeken voor die bezoekers eveneens worden teruggekeerd.
 
@@ -260,30 +260,30 @@ Laten we zeggen dat we twee eVars hebben, waarvan er één op het punt staat te 
 **Bezoek 1**
 
 - Pagina A
-   - **eVar1** is niet ingesteld
-   - **eVar2** is niet ingesteld
+   - **eVar1** wordt niet geplaatst
+   - **eVar2** wordt niet geplaatst
 - Klik op Promo Banner met ?icid=promo-banner in de URL
 - Pagina B
-   - **eVar1** en **eVar2** zijn ingesteld op &quot;promo-banner&quot;
-   - **Instance van eVar1** wordt geactiveerd
-   - **Instance van eVar2** wordt geactiveerd
+   - **eVar1** en **eVar2** worden geplaatst aan &quot;promo-banner&quot;
+   - **Instantie van eVar1** wordt teweeggebracht
+   - **Instantie van eVar2** wordt teweeggebracht
 - Pagina C
-   - Beide **eVar1** en **eVar2** de waarde &quot;promo-banner&quot; behouden
+   - Zowel **eVar1** als **eVar2** handhaven de waarde &quot;promo-banner&quot;
    - Geen van de maatgegevens van de instantie voor de eVars wordt geactiveerd, omdat beide Vars persistente waarden gebruiken
 
 **Bezoek 2**
 
 - Pagina D
-   - **eVar1** is niet ingesteld op een waarde en is niet ingesteld op **Instance van eVar1** wordt geactiveerd
-   - **eVar2** handhaaft de &quot;promo-banner&quot;waarde wegens 30 dagvervaldag
-   - **Instance van eVar2** wordt niet geactiveerd, omdat de waarde blijvend is en niet daadwerkelijk is ingesteld
+   - **eVar1** wordt niet geplaatst aan om het even welke waarde, en geen **Instantie van eVar1** wordt teweeggebracht
+   - **eVar2** handhaaft de waarde &quot;promo-banner&quot;toe te schrijven aan de vervaldatum van 30 dagen
+   - **Instantie van eVar2** wordt niet teweeggebracht, omdat de waarde blijvend en niet eigenlijk plaats is
 - Klik op Aanbieding zijspoor met ?icid=promo-side-rail in de URL
 - Pagina E
-   - **eVar1** en **eVar2** zijn ingesteld op &quot;promo-side-rail&quot;
-   - **Instance van eVar1** wordt geactiveerd
-   - **Instance van eVar2** wordt geactiveerd
+   - **eVar1** en **eVar2** worden geplaatst aan &quot;promo-side-rail&quot;
+   - **Instantie van eVar1** wordt teweeggebracht
+   - **Instantie van eVar2** wordt teweeggebracht
 - Pagina F
-   - Beide **eVar1** en **eVar2** de waarde &quot;promo-side-rail&quot; behouden
+   - Zowel **eVar1** als **eVar2** handhaven de waarde &quot;promo-side-rail&quot;
    - Geen van de maatgegevens van de instantie voor de eVars wordt geactiveerd, omdat beide Vars persistente waarden gebruiken
 
 Momenteel is het verwachte resultaat van deze twee bezoeken:
@@ -315,11 +315,11 @@ Momenteel is het verwachte resultaat van deze twee bezoeken:
 
 Nu, kijk waar u attributie in uw segment kunt plaatsen.
 
-**Afbeelding 4: Attributiemodel**
+**Figuur 4: Het model van de Attributie**
 
-![Figure4-AttributionModel](assets/figure4-attribution-model.png)
+![ Figure4-AttributionModel ](assets/figure4-attribution-model.png)
 
-*Met het tandwielpictogram op uw dimensie kunt u de kenmerken instellen. Elke optie heeft informatie beschikbaar wanneer het hangen over &quot;?&quot; pictogram. In feite:*
+*het tandwielpictogram op uw afmeting is waar u attributie kunt plaatsen. Elke optie heeft informatie beschikbaar wanneer het hangen over &quot;?&quot; pictogram. Basilicum:*
 
 - Het standaardgedrag retourneert alle instanties van de eVar waar de waarde is ingesteld (specifiek of via de ingestelde toewijzing)
 - Instance retourneert alleen de dimensie waar de waarde expliciet is ingesteld (d.w.z. bij de treffers waar de &quot;Instance of eVar&quot; wordt geactiveerd)
@@ -327,11 +327,11 @@ Nu, kijk waar u attributie in uw segment kunt plaatsen.
 
 ### Segmentvoorbeeld 5: Marketingkanaal &quot;Betaalde zoekopdracht&quot; versus de directe zoekacties
 
-Zoals we allemaal moeten weten, hebben marketingkanalen een lange attributiemodel (standaard 30 dagen, maar deze kunnen worden aangepast aan uw eigen behoeften). Als deze optie eenmaal is ingesteld, wordt het marketingkanaal niet overschreven door volgende &quot;directe&quot; bezoeken aan de site, zodat de specifieke stuurprogramma&#39;s de conversie-toewijzing krijgen. Soms moet u echter de ***items*** op uw site via een specifiek marketingkanaal en via berichten moet u zien wanneer het marketingkanaal specifiek is ingesteld op basis van uw regels voor marketingverwerking.
+Zoals we allemaal moeten weten, hebben marketingkanalen een lange attributiemodel (standaard 30 dagen, maar deze kunnen worden aangepast aan uw eigen behoeften). Als deze optie eenmaal is ingesteld, wordt het marketingkanaal niet overschreven door volgende &quot;directe&quot; bezoeken aan de site, zodat de specifieke stuurprogramma&#39;s de conversie-toewijzing krijgen. Nochtans, soms moet u specifiek de ***ingangen*** in uw plaats door een specifiek marketing kanaal zien; en door ingangen, bedoel ik u moet zien wanneer het marketing kanaal specifiek wordt geplaatst gebaseerd op uw marketing verwerkingsregels.
 
 Laten we dingen veranderen en beginnen door naar de vergelijkingen te kijken, dan graven we in de segmenten.
 
-![Segment5A-TableComparison](assets/segment-example-5/segment5a-table-comparison.png)
+![ Segment5A-TableComparison ](assets/segment-example-5/segment5a-table-comparison.png)
 
 <table style="border: 0;">
     <tr>
@@ -348,41 +348,41 @@ Laten we dingen veranderen en beginnen door naar de vergelijkingen te kijken, da
 </table>
 
 
-![Segment5A-PaidSearchHit](assets/segment-example-5/segment5a-paid-search-hit.png)
+![ Segment5A-PaidSearchHit ](assets/segment-example-5/segment5a-paid-search-hit.png)
 
 <table style="border: 0;">
     <tr>
-        <td width="352" style="border: 0;">De volgende twee gegevenssets zien er nu precies hetzelfde uit. In feite retourneert dit dezelfde gegevens op twee verschillende manieren. Maar nu kijk ik specifiek naar de <i>instances</i> waar het marketingkanaal <strong>set</strong> naar Betaalde zoekopdracht.</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail3.png" width="352">
+        <td width="352" style="border: 0;">De volgende twee gegevenssets zien er nu precies hetzelfde uit. In feite retourneert dit dezelfde gegevens op twee verschillende manieren. Maar nu bekijk ik specifiek de <i> instanties </i> waar het marketing kanaal <strong> </strong> aan "Betaald Onderzoek"werd geplaatst.</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail3.png" width="352">
         </td>
     </tr>
 </table>
 
 Dit kan op twee manieren gebeuren:
 
-Eerst, gebruikt dit de &quot;standaard&quot;afmetingsattributie, en het telegraferen van dit met de specifieke metrische &quot;Instantie van het Kanaal van de Marketing&quot; (als *exists* logica):
+Eerst, gebruikt dit de &quot;standaard&quot;afmetingsattributie, en het verpakken van dit met de specifieke metrische &quot;Instantie van het Kanaal van de Marketing&quot; (aangezien a ** logica) bestaat:
 
-![Segment5A-PaidSearchHitANDInstanceExists](assets/segment-example-5/segment5a-paid-search-hit-and-instance-exists.png)
+![ Segment5A-PaidSearchHitANDInstanceExists ](assets/segment-example-5/segment5a-paid-search-hit-and-instance-exists.png)
 
 Ten tweede kunt u voor een eenvoudiger segment de toewijzing wijzigen in Instantie. De naam van de dimensie verandert van &quot;Marketing Channel&quot; in &quot;Marketing Channel (Instance)&quot;.
 
-![Segment5A-PaidSearchHitInstance](assets/segment-example-5/segment5a-paid-search-hit-instance.png)
+![ Segment5A-PaidSearchHitInstance ](assets/segment-example-5/segment5a-paid-search-hit-instance.png)
 
 ## Alles samenvoegen
 
 Zoals elke goede goochelaar, kunnen we beginnen met elke individuele truc, het publiek opbouwen terwijl we gaan, en ze leiden naar het definitieve &quot;prestige&quot;. Dit is waar we echt schijnen, door alle kleine trucs te nemen, en ze in een groots finale te rollen. De schijnbaar losgekoppelde delen van de truc nemen en laten zien dat ze in feite allemaal samenwerken om een samenhangend geheel te vormen.
 
-![Fire_Bunny](assets/fire-bunny.jpeg)
+![ Fire_Bunny ](assets/fire-bunny.jpeg)
 
 
 ### Segment voorbeeld 6: Bezoekers die tijdens een bezoek met een betaald sociaal exemplaar een bestelling hebben gedaan, met uitzondering van bezoekers die zich hebben ingeschreven voor nieuwsbrieven
 
-![Segment6A-VisitorsPurchasingFromPaidSocialWithNoNewsletter](assets/segment-example-6/segment6a-visitors-purchasing-from-paid-social-with-no-newsletter.png)
+![ Segment6A-VisitorsPurchasingFromPaidSocialWithNoNewsletter ](assets/segment-example-6/segment6a-visitors-purchasing-from-paid-social-with-no-newsletter.png)
 
 Op die manier kan ik bezoekers identificeren die actief een aankoop hebben gedaan tijdens een bezoek van een sociale mediacampagne, maar zich niet hebben aangemeld voor onze nieuwsbrieven. Hierdoor kan ons marketingteam de potentiële groep gebruikers zien die voor nieuwsbrieven en marketing e-mails probeert om te zetten.
 
 ## Finale
 
-![Theater_werkgebied](assets/theater-stage.jpeg)
+![ Theater_Stage ](assets/theater-stage.jpeg)
 
 Er zijn zo veel manieren om de logica te combineren om in zeer gedetailleerde scenario&#39;s te geraken, dat ik alleen maar het oppervlak van de mogelijkheden kan krabben.
 
@@ -392,7 +392,7 @@ Net als iedere andere grote goochelaar is de echte kracht in het inspireren van 
 
 Dit document is geschreven door:
 
-![Jen Headshot](assets/jen-headshot.png)
+![ Jen Hoofd ](assets/jen-headshot.png)
 
 Jennifer Dungan, Optimization Manager Analytics at Torstar
 

@@ -1,6 +1,6 @@
 ---
 title: Ontwikkeling van interne on-boarding- en trainingstrajecten
-description: Leer hoe u een robuuste procedure kunt instellen voor het maken en onderhouden van documentatie en wijzigingen voor uw [!DNL Marketo Engage] -instantie. Hierdoor bespaart u niet alleen tijd voor het delen van uw teamkennis, maar verbetert u ook de gezondheid en efficiëntie van uw exemplaar.
+description: Leer hoe te om een robuuste procedure tot stand te brengen en te handhaven documentatie en het wijzigen voor uw  [!DNL Marketo Engage]  instantie. Hierdoor bespaart u niet alleen tijd voor het delen van uw teamkennis, maar verbetert u ook de gezondheid en efficiëntie van uw exemplaar.
 role: Admin
 level: Beginner
 doc-type: Article
@@ -9,46 +9,46 @@ duration: 0
 last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-14809
 thumbnail: KT-14809.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: bd5d102b-0810-43e1-baac-fbef43817d50
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '816'
 ht-degree: 0%
 
 ---
 
-
 # Ontwikkeling van interne on-boarding- en trainingstrajecten
 
-Als u een nieuwe [!DNL Marketo Engage] instantie live, het is tijd om de relevante teams snel aan hefboomwerking te brengen [!DNL Marketo Engage] voor hun werk.
+Wanneer u een nieuwe [!DNL Marketo Engage] -instantie live brengt, is het tijd om de relevante teams snel te laten werken om [!DNL Marketo Engage] te gebruiken voor hun taken.
 
-Naomi Liu, een Adobe Marketo Engage-klant, deelt deze best practices op het gebied van inboarding en training [intern instapsysteem](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target="_blank} en [best practices op het gebied van training](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target="_blank} is afgeleid van haar ervaring met het implementeren van een nieuwe instantie voor Electronics voor Imaging&#39;s global teams. Volg haar inzichten om een efficiënt opleidingsplan voor uw interne teams te ontwerpen.
+Deze interne onboarding en opleiding beste praktijken werden verstrekt door Naomi Liu, een klant van Adobe Marketo Engage, deelt [ intern onboarding ](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931) {target="_blank} en [ opleidings beste praktijken ](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237) {target="_blank} afgeleid uit haar ervaring die een nieuw geval voor Elektronica voor de globale teams van de Beeldvorming uitvoert. Volg haar inzichten om een efficiënt opleidingsplan voor uw interne teams te ontwerpen.
 
 ## Waarom een intern instapplan ontwikkelen terwijl u het nieuwe exemplaar uitvoert?
 
-Als beheerders van Marketo Engage, moet u niet alleen met de nieuwe mogelijkheden van de technologiestapel, maar ook de nieuwe technologiegoedkeuring en het onderwijs uitrusten. De interne teams in staat stellen op grotere schaal te werken, is afhankelijk van onderwijs. Hiervoor moet u leren hoe u training kunt geven op [!DNL Marketo Engage] functies die het meest relevant zijn voor teamleden.
+Als beheerders van Marketo Engage, moet u niet alleen met de nieuwe mogelijkheden van de technologiestapel, maar ook de nieuwe technologiegoedkeuring en het onderwijs uitrusten. De interne teams in staat stellen op grotere schaal te werken, is afhankelijk van onderwijs. Hiervoor moet u leren hoe u training kunt geven over [!DNL Marketo Engage] -functies die het meest relevant zijn voor teamleden.
 
 ## Een intern instapplan ontwikkelen
 
-### Stap 1: Een [!DNL Marketo Engage] Expert uzelf
+### Stap 1: Zelf een [!DNL Marketo Engage] expert worden
 
-Als beheerder, zou u moeten beginnen door zich binnen te dompelen [!DNL Marketo Engage] hulpmiddelen, zoals de Marketing Nation Community en documentatie. Tijdens de evaluatie- en implementatiefasen kunt u regelmatig deze materialen lezen en verkennen om uw expertise op te bouwen.
+Als beheerder moet u zich eerst in [!DNL Marketo Engage] -bronnen bevinden, zoals de Marketing Nation Community en documentatie. Tijdens de evaluatie- en implementatiefasen kunt u regelmatig deze materialen lezen en verkennen om uw expertise op te bouwen.
 
 ### Stap 2: Opleidingsstrategieën voor teams ontwikkelen
 
 * Wanneer u uw team voor marketingactiviteiten opleidt, kunt u overwegen om hun aanwezigheid op de cursussen Core Concepts 1 en 2 te spreiden. Zorg ervoor dat de teamleden verschillende klassen met verschillende instructeurs bijwonen om gevarieerde perspectieven en inzichten te bereiken om met de groep te delen.
-* Profiteer van Adobe Experience League-zelfstudies, die uw team korte, eenvoudig te verwerken lessen bieden om met hun [!DNL Marketo Engage] onderwijs in hun eigen tempo.
+* Profiteer van Adobe Experience League-zelfstudies, die uw team korte, eenvoudig te verwerken lessen bieden om in hun eigen tempo met het [!DNL Marketo Engage] -onderwijs te beginnen.
 * Teamleden aanmoedigen om nieuw verworven kennis tijdens wekelijkse teamvraag te delen. Dit zorgt ervoor dat waardevolle inzichten over uw team worden verspreid die het geval effectief beheren.
 
 ### Stap 3: Ontwikkeling van interne trainingstrajecten
 
-* *Trainingsmodules ontwikkelen:* Zodra u ervaring hebt opgedaan, concentreer zich op het creëren van aangepaste opleidingsmodules voor uw marketingpartners. Creëer specifieke modules die op verschillende aspecten van Marketo Engage worden aangepast, gebruikend het hieronder steekproef beginnen uw opleidingsleerplan te organiseren.
-* *Interne trainingscursussen:* Overweeg een roadshow-stijl tour te organiseren om opleiding aan marketing bedrijfspartners direct te leveren.
+* *het Ontwikkelen van de Modules van de Opleiding:* Zodra u vaardigheid hebt verworven, nadruk op het creëren van aangepaste opleidingsmodules voor uw marketing partners. Creëer specifieke modules die op verschillende aspecten van Marketo Engage worden aangepast, gebruikend het hieronder steekproef beginnen uw opleidingsleerplan te organiseren.
+* *Interne Roodshows van de Opleiding:* Overweeg het organiseren van een roadshow-stijl tour om opleiding rechtstreeks aan marketing partners te leveren.
 * Begin door al uw marketing partners en hun verantwoordelijkheden te vermelden en groef de teams in de &quot;Interne Roodshows&quot;lijst hieronder voor hun respectieve het leren module.
 * In samenwerking met wereldwijde teams koos Naomi ervoor persoonlijke trainingssessies uit te voeren, op maat gesneden modules te maken voor de behoeften van verschillende bedrijfseenheden en decks voor elke module op te stellen om alle leersessies te vergemakkelijken.
 
 ## Voorbeeld van studieprogramma: interne trainingspresentaties
 
-Hier volgt een voorbeeld van een trainingsstudieprogramma dat door Naomi Liu wordt voorgesteld om u aan te passen aan uw marketingpartners. Download de [studieprogramma voor voorbeeldtraining](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;} voor uw offline aanpassing.
+Hier volgt een voorbeeld van een trainingsstudieprogramma dat door Naomi Liu wordt voorgesteld om u aan te passen aan uw marketingpartners. Download het [ leerplan van de steekproefopleiding ](assets/adobe-marketo-engage-internal-training-roadshows.xlsx) {_target= &quot;leeg&quot;} voor uw off-line aanpassing.
 
 | Sessietitel | Doelstellingen | Trainingsmethoden | Tijdtoewijzing |
 |--- |--- |--- |--- |
@@ -64,7 +64,7 @@ Hier volgt een voorbeeld van een trainingsstudieprogramma dat door Naomi Liu wor
 
 ## Wat is de volgende?
 
-* Download de [studieprogramma voor voorbeeldtraining](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;} spreadsheet om uw interne trainingsmodules te ontwikkelen.
+* Download het [ leerplan van de steekproefopleiding ](assets/adobe-marketo-engage-internal-training-roadshows.xlsx) {_target= &quot;lege&quot;} spreadsheet om uw interne opleidingsmodules te ontwikkelen.
 * Vul de teams in die voor het zittingsonderwerp juist zijn.
 * Selecteer de methode(n) die u wilt gebruiken om trainingsmateriaal te maken.
 

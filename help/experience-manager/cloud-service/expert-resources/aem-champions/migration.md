@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# AEM beste praktijken en tips - Planning en voorbereiding van een migratie naar AEM as a Cloud Service
+# AEM beste praktijken en tips - Een migratie naar AEM as a Cloud Service plannen en voorbereiden
 
-Ontdek deskundig advies en beste praktijken van uw mede AEM kampioen Wilson Faure. In deze video navigeert hij naar de ingewikkeldheid van planning en voorbereiding voor migreren naar AEM as a Cloud Service. Ontdek waardevolle beste praktijken voor cruciale mijlpalen in de migratiereis, met inbegrip van het bepalen van prestatiesbenchmarks en het overwinnen van hindernissen zoals de verenigbaarheid van de klantencode en het beheren van externe/interne APIs.
+Ontdek deskundig advies en beste praktijken van uw mede AEM kampioen Wilson Faure. In deze video navigeert hij naar de ingewikkeldheid van planning en voorbereiding voor migratie naar AEM as a Cloud Service. Ontdek waardevolle beste praktijken voor cruciale mijlpalen in de migratiereis, met inbegrip van het bepalen van prestatiesbenchmarks en het overwinnen van hindernissen zoals de verenigbaarheid van de klantencode en het beheren van externe/interne APIs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427587/?learn=on)

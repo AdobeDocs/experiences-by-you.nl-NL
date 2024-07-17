@@ -1,6 +1,6 @@
 ---
 title: Rapportage en analyse
-description: Leer hoe u door de [!DNL Analytics] en de sectie van het Gegevensbestand om verschillende uit-van-de-doosrapporten in te trekken [!DNL Marketo Engage].
+description: Leer hoe te om de  [!DNL Analytics]  en sectie van het Gegevensbestand te navigeren om verschillende uit-van-de-doos rapporten in  [!DNL Marketo Engage] te trekken.
 role: User
 level: Beginner
 solution: Marketo Engage
@@ -13,21 +13,21 @@ feature: Reporting
 exl-id: d45b2757-bc7f-4085-b374-ea8c1caf1774
 source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 4%
+source-wordcount: '69'
+ht-degree: 5%
 
 ---
 
 # Rapportage en analyse
 
-Leer hoe u door de [!DNL Analytics] en de sectie van het Gegevensbestand om verschillende uit-van-de-doosrapporten in te trekken [!DNL Marketo Engage].
+Leer hoe u in de sectie [!DNL Analytics] en Database kunt navigeren om verschillende out-of-the-box-rapporten te genereren in [!DNL Marketo Engage] .
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
 
 ## Aanvullende bronnen
 
-* **Productdocumentatie**
-Meer informatie over de verschillende rapporten die je kunt opvragen - [Overzicht van rapporten](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
+* **Documentatie van het Product**
+Leer over de verschillende rapporten u kunt trekken - [ Meldend Overzicht ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
 
-* **Deskundige klantblogbericht**
-Leer van Champion Chelsea Kiko over het maken van verschillende rapporten - [Rapportage in diverse [!DNL Marketo Engage] Spaties](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
+* **de Deskundige Blog Post van de Klant**
+Leer van Chelsea Kiko van Champion bij het creëren van diverse rapporten - [ die in Diverse  [!DNL Marketo Engage]  Plaatsen ](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627) melden
