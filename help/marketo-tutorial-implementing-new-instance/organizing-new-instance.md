@@ -1,5 +1,5 @@
 ---
-title: Een nieuw exemplaar organiseren en naamconventies instellen
+title: Een nieuw exemplaar organiseren en naamgevingsconventies instellen
 description: Leer hoe u een goede organisatie instelt binnen uw exemplaar van het Marketo Engage, zodat toekomstige marketers binnen uw organisatie gemakkelijk door de programma's kunnen navigeren, de activa kunnen wijzigen, en rapporten trekken.
 role: Admin
 level: Beginner
@@ -10,14 +10,14 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '1166'
 ht-degree: 1%
 
 ---
 
-# Een nieuw exemplaar organiseren en naamconventies instellen
+# Een nieuw exemplaar organiseren en naamgevingsconventies instellen
 
 Als beheerder die een nieuwe instantie van het Marketo Engage uitvoert, plaatst u het grondwerk dat toekomstige marketers binnen de organisatie toestaat om door de instantie gemakkelijk te navigeren. Wanneer u vertrouwd raakt met de structuur van de structuurmap en de naamgevingsconventies, blijft uw instantie traag en kunt u deze op lange termijn succesvol instellen. Dit leerprogramma omvat voorbeelden die door Adobe en Marketo Engage Champion (2019-2020) worden geadviseerd, Natalie Kremer, om u te helpen [ de omslagen organiseren en activa constant noemen ](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630) {target="_blank"}.
 
@@ -176,7 +176,7 @@ Met het oog hierop zullen we deze tips toepassen op de volgende elementen en for
 >
 >Gebruik bij de naamgeving van bestanden in de bovenstaande voorbeelden geen spaties en vermijd het gebruik van onderstrepingstekens &quot;\_&quot;
 
-## Wat is de volgende?
+## Wat nu?
 
 * Download het Werkblad: [ Organisatie van de Marketo Engage en het Noemen van Conventies ](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} om de verwezenlijking van de omslagstructuur en noemende overeenkomsten te steunen.
 * Zodra u de noodzakelijke componenten in uw standaard noemende overeenkomst bepaalt, overweeg bouwend formules in een Blad van Google of Microsoft Excel. Voor toekomstig gebruik voert u eenvoudig uw waarden in het spreadsheet in om de programmanamen te genereren.

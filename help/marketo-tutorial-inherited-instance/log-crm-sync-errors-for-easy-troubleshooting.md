@@ -11,14 +11,14 @@ jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
 exl-id: 6a38f5dd-5d25-43d8-a1d3-e75ab396e555
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
 
-# Logboek CRM-synchronisatiefouten voor eenvoudige probleemoplossing
+# Logboek CRM-synchronisatiefouten voor probleemoplossing
 
 Als a [!DNL Marketo Engage] beheerder, die als uw instantie synchroon met uw CRM is zou een zeer belangrijk deel van uw [ dagelijkse routine ](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508) moeten zijn {target="_blank"}. Terwijl de [ sectie van Meldingen ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html) {target="_blank"} (vind het op de hoogste juiste hoek van uw [!DNL Marketo Engage] interface) waar u zult beginnen om frequente synchronisatiekwesties te vinden en te onderzoeken, is er een pro tip die u zou kunnen helpen de instantiekwaliteit op een georganiseerde manier beheren. [!DNL Adobe] Marketo Champion (2019-2022), Amy Goldfine raadt beheerders aan een logboek van de fouten van de Synchronisatie van CRM bij te houden om het oplossen van problemen gemakkelijker te maken.
 
@@ -28,7 +28,7 @@ Als a [!DNL Marketo Engage] beheerder, die als uw instantie synchroon met uw CRM
 
 Door de fouten van de Synchronisatie van CRM te registreren, kunnen [!DNL Marketo Engage] beheerders de kwesties en de tendensen met de beheerders van CRM herzien om de worteloorzaak te bevestigen. Volg de onderstaande stappen om uw problemen met CRM Sync voor uw instantie te documenteren.
 
-## Hoe te om een logboek van de Fouten van de Synchronisatie van CRM te houden
+## Hoe te om een logboek van de synchronisatiefouten van CRM te houden
 
 Alvorens u begonnen wordt, download het [ malplaatje van het Logboek van de Fouten van de Synchronisatie van CRM ](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe-Marketo-Engage_CRM-Sync-Error-Log-Template.xlsx).
 
@@ -46,9 +46,9 @@ Alvorens u begonnen wordt, download het [ malplaatje van het Logboek van de Fout
 
 **Stap 7:** in de laatste kolom, kleef de daadwerkelijke tekst van de fout.
 
-## Wat is de volgende?
+## Wat nu?
 
-**identificeer de Codes van de Fout:** om de foutencodes te begrijpen, bekijk omhoog de beschrijvingen in de van de ontwikkelaarsdocumentatie [ antwoord-Niveau Codes lijst van de Fout ](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes) {target="_blank"} en vind typische volgende stappen om de fouten op te lossen.
+**identificeer foutencodes:** om de foutencodes te begrijpen, kijk omhoog de beschrijvingen in de ontwikkelaarsdocumentatie [ antwoord-Vlakke lijst van de Codes van de Fout ](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes) {target="_blank"} en vind typische volgende stappen om de fouten op te lossen.
 
 ## Auteurs
 

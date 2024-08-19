@@ -1,5 +1,5 @@
 ---
-title: Betrokkenen beheren om Marketo Engage uit te voeren
+title: Belanghebbenden beheren om Marketo Engage te implementeren
 description: Leer strategieën om belanghebbenden effectief te beheren tijdens de implementatie van uw exemplaar van het Marketo Engage. Deze zelfstudie biedt hanteerbare tips voor het ontdekken van de behoeften van uw belanghebbenden, het verwerven van leiderschap en het communiceren over verschillende functies om implementatieondersteuning te zoeken.
 role: Admin
 level: Beginner
@@ -10,7 +10,7 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-13284
 thumbnail: KT-13284.jpeg
 exl-id: b5b8a5b6-83d4-48ae-ae83-32c9fbf64df8
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '1712'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Maak uw implementatie af door u aan te passen aan de prioriteiten van uw leiders
 
 Neem de informatie die u in de vorige oefening hebt uiteengezet en communiceer specifiek over hoe Marketo Engage Rendement op Investeringen (ROI) zal drijven en strategische doelstellingen voor uw belanghebbenden zal steunen. Gebruik het volgende aanvankelijke outreach malplaatje aan ambachtelijke dwingende berichten die de waardevoorstel van het Marketo Engage voor uw organisatie benadrukken.
 
-#### Sjabloon - Oorspronkelijk bereik
+#### Sjabloon - Oorspronkelijke outreach
 
 <table>
 <tr>
@@ -69,11 +69,11 @@ Best
 </table>
 
 
-### Actie 3 - Vroege wijn demonstreren
+### Actie 3 - Toon vroege wins aan
 
 Toon snelle wint of proefprojecten om de impact van Marketo Engage aan te tonen. Dit zou een gerichte e-mailcampagne kunnen zijn die significante betrokkenheid of een geautomatiseerde werkschema drijft die leiden tot het koesteren stroomlijnt. Deel deze successen met belanghebbenden om hun steun en enthousiasme te versterken.
 
-#### Sjabloon - Vroege Wins
+#### Sjabloon - Vroege wint
 
 <table>
 <tr>
@@ -133,11 +133,11 @@ Best
 </tr>
 </table>
 
-### Actie 4 - Bevordering van lopende communicatie
+### Actie 4 - Doorlopende communicatie bevorderen
 
 Regelmatige communicatiekanalen onderhouden met belanghebbenden gedurende het gehele implementatieproces. Plan check-in vergaderingen of verzend voortgangsupdates met behulp van de meegeleverde e-mailsjablonen om ze op de hoogte te houden en erbij te betrekken. Op deze manier kunt u ook snel eventuele problemen of vragen verhelpen om ervoor te zorgen dat deze teams doorlopend inkopen.
 
-#### Sjabloon - lopende updates
+#### Sjabloon - Doorlopende updates
 
 <table>
 <tr>
@@ -180,7 +180,7 @@ Best
 
 Door deze actieftips te volgen en naar de sjablonen te verwijzen, bent u beter toegerust om Marketo Engage met succes te implementeren en de krachtige ondersteuning van uw belanghebbenden tijdens het instapproces te garanderen.
 
-## Wat is de volgende?
+## Wat nu?
 
 De download en gebruikt [ Aan boord*gaan de Interne Communicatie Gids en het Malplaatje ](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target="_blank} om regelmatige updates en rapportvooruitgang voor belanghebbenden te amberen. Belangrijke metriek, resultaten en volgende mijlpalen opnemen om hen op de hoogte te houden en te betrekken.
 

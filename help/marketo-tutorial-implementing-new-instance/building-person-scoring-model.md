@@ -1,6 +1,6 @@
 ---
-title: Modellen voor het scoren van personen voor programma's voor Marketo's Engage samenstellen
-description: Met Adobe Marketo Engage kunt u uw scoremodel(en) helemaal vanaf de grond samenstellen. Voordat u direct in Marketo Engage gaat om uw scoreprogramma's te maken, moet u de belangrijkste score instellen, zoals Demografische score, Gedragsscore en Totaal aantal personen. Meer informatie over de strategieën die worden gebruikt door Marketo Engage Champions voor het ontwikkelen van Scoremodellen die uw bedrijf nodig heeft.
+title: Bouw Persoonlijke het Scoren Modellen voor de Programma's van het Marketo Engage
+description: Meer informatie over het maken van uw scoremodellen vanaf de basis.
 role: Admin
 level: Beginner
 doc-type: Article
@@ -10,9 +10,9 @@ last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14810
 thumbnail: KT-14810.jpeg
 exl-id: 73976144-f02b-4423-9b4b-410330117ba9
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '2111'
+source-wordcount: '2055'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 Met persoonlijke scoring kunt u de mensen identificeren die het meest betrokken zijn bij uw bedrijf en uw ideale klantprofiel zijn, zodat u deze leads kunt delen met uw verkoopteam en de beste deals kunt sluiten. Samen met de verkoop, bepaalt u wat u aan hen door een lood/persoon te gebruiken scoring programma in Adobe Marketo Engage leidt af te geven. Dit kan worden bepaald door een minimum aan gedragscoring, demografische scoring of beide.
 
-In deze zelfstudie zullen we u drie oefeningen doorlopen die door Marketo Engage Champions Christina Zuniga en Katja Keesom worden voorgesteld. Volg verder om te bepalen welke activiteiten en kenmerken belangrijke indicatoren zijn die een vooruitzicht in aankoop (gedragscoring) geinteresseerd is en het juiste pasje voor u (demografische scoring), en rekenschap geven van de nuances over de markten.
+In deze zelfstudie doorlopen we drie oefeningen die door Marketo Engage Champions Christina Zuniga en Katja Keesom worden voorgesteld. Volg verder om te bepalen welke activiteiten en kenmerken belangrijke indicatoren zijn die een vooruitzicht in aankoop (gedragscoring) geinteresseerd is en het juiste pasje voor u (demografische scoring), en rekenschap geven van de nuances over de markten.
 
 ## Waarom ontwikkelen en gebruiken van een persoon die model scoring?
 
@@ -29,7 +29,7 @@ U hebt misschien veel leads in uw database, maar hoe weet u welke klaar zijn om 
 
 Door mensen in uw gegevensbestand van het Marketo Engage te scoren, kunt u meten hoe gekwalificeerd uw geproduceerde lood is en criteria plaatsen voor wanneer zij verkoopklaar zijn. Hierdoor kan uw verkoopteam zich richten op de leads die het meest waarschijnlijk zullen sluiten terwijl het marketingteam de andere mensen in de database blijft voeden via hun marketingprogramma&#39;s.
 
-## Oefening 1 - Bepalen van de interesse van de koper met gedragscores
+## Oefening 1 - Bepalen van de belangen van de koper met gedragscores
 
 Gedragscoring geeft een numerieke waarde aan traceerbare acties die in het vooruitzicht worden gesteld en die wijzen op interesse in uw producten en services en de intentie om te kopen. Als u bijvoorbeeld de website bezoekt, wordt interesse getoond en kunt u de prijspagina bezoeken met de bedoeling. Als u daarentegen de pagina met carrières bezoekt, geeft dit mogelijk aan dat de persoon niet gaat kopen.
 
@@ -79,7 +79,7 @@ Gedragscoring geeft een numerieke waarde aan traceerbare acties die in het vooru
 
 **Stap 5** - Herinner me, is het scoren een iteratief proces! U kunt scores en drempels voortdurend controleren en aanpassen terwijl u meer gegevens voor analyse verzamelt.
 
-## Oefening 2 - Het identificeren van het juiste pasvorm met Demografische Scores
+## Oefening 2 - Identificeer het juiste pasje met demografische scores
 
 Nu u de activiteiten hebt gedefinieerd die de koopintentie aangeven, moet u het scoremodel voltooien met uw ideale perspectiefprofielen. Om te bepalen of een vooruitzicht voor verder verkoopgesprek geschikt is, is het belangrijk om demografische scores naast gedragsscores toe te wijzen zodat de modelhulp de beste lood in termen van passend en intent bepaalt.
 
@@ -231,7 +231,7 @@ Heb je de voorkeur aan een videodemo voor deze oefening? Aanpassen als Marketo E
   </tr>
 </table>
 
-## Wat is de volgende?
+## Wat nu?
 
 * Download de [ persoon die uitoefeningsblad ](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank} scoren om uw het scoren model offline te ontwikkelen.
 * Maak uw persoonlijke scores in het Marketo Engage. Controle dit [ leerprogramma ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch) {target="_blank} en [ demo ](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring) {target="_blank} om begonnen te worden. U kunt een lood/persoon invoeren die programma [ malplaatje ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) {target="_blank} van de Bibliotheek van de Verwijzing van het Marketo Engage schrapt om het programma te versnellen bouwt.

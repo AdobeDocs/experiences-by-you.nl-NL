@@ -1,5 +1,5 @@
 ---
-title: Ontwikkeling van interne on-boarding- en trainingstrajecten
+title: Interne on-boarding- en trainingsroutebeschrijving ontwikkelen
 description: Leer hoe te om een robuuste procedure tot stand te brengen en te handhaven documentatie en het wijzigen voor uw  [!DNL Marketo Engage]  instantie. Hierdoor bespaart u niet alleen tijd voor het delen van uw teamkennis, maar verbetert u ook de gezondheid en efficiëntie van uw exemplaar.
 role: Admin
 level: Beginner
@@ -10,7 +10,7 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-14809
 thumbnail: KT-14809.jpeg
 exl-id: bd5d102b-0810-43e1-baac-fbef43817d50
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '816'
 ht-degree: 0%
@@ -62,7 +62,7 @@ Hier volgt een voorbeeld van een trainingsstudieprogramma dat door Naomi Liu wor
 | Rapportage en analyse | <ul><li>Analyseringsanalyse</li><li>Prestaties van e-mail, landingspagina en programma</li><li>Uw eigen rapporten samenstellen</li><li>E-mail en prestatiesInzichten</li></ul> | Doorlopende training, opgenomen video&#39;s voor belangrijke sessies, regelmatige revisies | 2 |
 | InhoudsAI | <ul><li>AI-functionaliteit voor inhoud controleren</li><li>Elementen controleren die in aanmerking komen voor Inhoud AI (d.w.z. bestemmingspagina, e-mail en dialoogvenster)</li><li>Proces toewijzen (wanneer/waar) aan gebruik</li></ul> | Live sessie, doorloopt alle stappen om te beoordelen en te bekijken hoe deze werkt | 1h |
 
-## Wat is de volgende?
+## Wat nu?
 
 * Download het [ leerplan van de steekproefopleiding ](assets/adobe-marketo-engage-internal-training-roadshows.xlsx) {_target= &quot;lege&quot;} spreadsheet om uw interne opleidingsmodules te ontwikkelen.
 * Vul de teams in die voor het zittingsonderwerp juist zijn.

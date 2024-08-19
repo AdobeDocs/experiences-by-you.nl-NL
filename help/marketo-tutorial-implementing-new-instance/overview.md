@@ -1,6 +1,6 @@
 ---
-title: Tips en trucs om een nieuwe  [!DNL Marketo Engage]  instantie uit te voeren - het Overzicht van het Leerprogramma
-description: Leer hoe te om een nieuwe  [!DNL Marketo Engage]  instantie uit te voeren om de meesten uit zijn macht te maken. Dit "Uitvoerend een nieuw Marketo Engage"Tips en de reeksen van Tricks verstrekt beste praktijken die door Adobe  [!DNL Marketo Engage]  worden bewezen Champions. De behandelde onderwerpen omvatten het beheer van belanghebbenden, het beheer van implementatieprojecten, interne training, het model voor het bijhouden van leads/personen in gebouwen, het opzetten van een initiële CRM-synchronisatie en meer.
+title: Tips en trucs voor het implementeren van een nieuwe instantie
+description: Leer hoe te om een nieuwe  [!DNL Marketo Engage]  instantie uit te voeren om de meesten uit zijn macht te maken.
 solution: Marketo Engage
 role: Admin
 level: Beginner
@@ -10,20 +10,20 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
 
-# Tips en trucs voor het implementeren van een nieuwe [!DNL Marketo Engage] -instantie - Overzicht van zelfstudie
+# Tips en trucs voor het implementeren van een nieuwe [!DNL Marketo Engage] -instantie
 
 Welkom bij Adobe [!DNL Marketo Engage] . Het opzetten van een nieuwe instantie is de eerste stap om uw digitale marketingstrategie te verbeteren met marketingautomatisering. Documentatie is de sleutel tot een geslaagde implementatie van [!DNL Marketo Engage] .
 
-Deze serie &#39;Implementeren van nieuwe tips en trucs voor instanties&#39; is een serie voor de Adobe [!DNL Marketo Engage] Champions die al eerder implementatie hebben veroverd. De zelfstudie biedt stapsgewijze begeleiding voor nieuwe beheerders om het implementatieproject interfunctioneel te beheren en technische instellingen onafhankelijk te configureren. De selectieve onderwerpen vergezellen downloadbare checklists en malplaatjes voor u om voor uw eigen behoeften aan te passen zonder van kras te beginnen. Laten we in de wijsheid van jullie gelijken duiken!
+Dit _Uitvoerend een Nieuwe Uiteinden van de Instantie en de reeksen van Tricks_ is gesourced Adobe [!DNL Marketo Engage] Champions die implementatie eerder hebben veroverd. De zelfstudie biedt stapsgewijze begeleiding voor nieuwe beheerders om het implementatieproject interfunctioneel te beheren en technische instellingen onafhankelijk te configureren. De selectieve onderwerpen vergezellen downloadbare checklists en malplaatjes voor u om voor uw eigen behoeften aan te passen zonder van kras te beginnen. Laten we in de wijsheid van jullie gelijken duiken!
 
-## Onderwerpen en wat u zult leren
+## Onderwerpen en wat u leert
 
 * [ beheer stakeholders om Marketo Engage ](/help/marketo-tutorial-implementing-new-instance/managing-stakeholder-communications.md) uit te voeren
   *Leer strategieën om belanghebbenden tijdens de implementatie van uw instantie van het Marketo Engage effectief te beheren. Deze zelfstudie biedt hanteerbare tips om aan te geven wat uw belanghebbenden nodig hebben, leiderschap te winnen bij inkopen en over meerdere functies te communiceren om implementatieondersteuning te zoeken.*

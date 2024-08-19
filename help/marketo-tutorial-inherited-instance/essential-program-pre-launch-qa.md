@@ -11,7 +11,7 @@ jira: KT-13888
 thumbnail: KT-13888.jpeg
 hide: false
 exl-id: c377fe5f-2d77-4fd0-9ac4-5ad65506f582
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '4903'
 ht-degree: 2%
@@ -66,7 +66,7 @@ Hier volgt een voorbeeld:
 
 Er zijn wellicht items die ontbreken of niet van toepassing zijn omdat uw team deze oefening een paar keer uitvoert. Reviseer deze controlelijst (bijvoorbeeld driemaandelijks) om de overzichtsitems en acceptatiecriteria bij te werken om het QA-proces van uw programma te verfijnen.
 
-## Voorbeeldsjabloon: checklist vóór starten van programma {#pre-launch-checklist}
+## Voorbeeld sjabloon: checklist voorafgaand aan de lancering van programma {#pre-launch-checklist}
 
 >[!NOTE]
 >Als u zich op een kleiner scherm bevindt, moet u er rekening mee houden dat u door het onderstaande tabblad kunt bladeren voor meer informatie.
@@ -174,11 +174,11 @@ Er zijn wellicht items die ontbreken of niet van toepassing zijn omdat uw team d
 | 7 | **Unsubscribe** | Beschikt de e-mail over een functionele koppeling om uw abonnement op te zeggen, die u hebt getest? | **ja of niet toepasselijk:**<br> niet van toepassing zou slechts geldig moeten zijn als e-mail [ operationeel ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.html) {target="_blank"} is. Verzeker u ervan dat afmelden niet vereist is, als in twijfel wordt genomen, opneming veiliger is. | [ Begrijpend Unsubscribe ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html) {target="_blank"} |  |
 | 8 | **Versie van de Tekst** | <li>Hebt u een tekstversie van de e-mail gemaakt? <li>Hebt u uzelf een test van de tekstversie gestuurd? | **ja:**<br> als u niet met ja kunt antwoorden, zou u moeten testen alvorens te werk te gaan. |
 | 9 | **Optimalisering van de Versie van de Tekst** | <li>Is de lay-out van de tekstversie geoptimaliseerd?<li>Zijn er HTML-opmerkingen zichtbaar?<li>Is alle relevante inhoud inbegrepen? | **ja:**<br> Auto-geproduceerde tekstversies kunnen afschuwelijk zijn te lezen - het is het waard hen te optimaliseren. | [ geef de Versie van de Tekst van e-mail ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.html) {target="_blank"} uit |
-| 10 | **Hyperlinks en UTMS van de Versie van de Tekst** | Werken hyperlinks en nemen ze UTM&#39;s op in deze gebieden? :<ul><li>Sectie Koptekst</li><li>Afbeeldingsgebieden (indien opgenomen)</li><li>Lichaam</li><li>TB(&#39;s)</li>Voettekst</li></ul> | **ja:**<br> als u niet met ja kunt antwoorden, zou u deze moeten bevestigen en controleren alvorens te werk te gaan. Automatische tekstversies halen variabelen niet betrouwbaar door! |  |
+| 10 | **Hyperlinks en UTMS van de Versie van de Tekst** | Werken hyperlinks en nemen ze UTM&#39;s op in deze gebieden? :<ul><li>Sectie Koptekst</li><li>Afbeeldingsgebieden (indien opgenomen)</li><li>Lichaam</li><li>CTA(s)</li>Voettekst</li></ul> | **ja:**<br> als u niet met ja kunt antwoorden, zou u deze moeten bevestigen en controleren alvorens te werk te gaan. Automatische tekstversies halen variabelen niet betrouwbaar door! |  |
 | 11 | **HTML/Belangrijkste Versie** | <li>Hebt u een HTML/hoofdversie van het e-mailbericht gemaakt?<li>Heb je er zelf een test van gestuurd? | **ja (tenzij gewone teksten slechts):**<br> als u niet met ja kunt antwoorden, zou u een test moeten verzenden alvorens te werk te gaan. | [ geef HTML van een E-mail ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.html) uit {target="_blank"} |
 | 12 | **Beelden** | <li>Hebben alle afbeeldingen alternatieve tekst? <li>Zijn er afbeeldingen gebroken? | **ja of niet toepasselijk:**<br>. Als u niet met ja kunt antwoorden, zou u deze moeten bevestigen en controleren alvorens verder te gaan (tenzij er geen beelden zijn). |  |
 | 13 | **Compressie van het Beeld** | <li>Zijn alle afbeeldingen die u via uw beeldbewerkingssoftware voor het web hebt opgeslagen? <li>Zijn ze gecomprimeerd voordat ze werden geüpload? <li>Is de e-maillaadtijd acceptabel? | **ja of niet toepasselijk:**<br> Alle beelden (als om het even welk worden gebruikt) zouden moeten worden samengeperst om ladingssnelheid te verbeteren. | Uw hero images moeten kleiner zijn dan 120 kB en alle kleinere afbeeldingen moeten kleiner zijn. Hoge laadtijden zijn van invloed op de prestaties. |
-| 14 | {de Hyperlinks en UTMs van de Versie van 0} HTML **** | Werken alle hyperlinks en nemen UTM&#39;s op in deze gebieden? :<ul><li>Sectie Koptekst</li><li>Afbeeldingsgebieden (indien opgenomen)</li><li>Lichaam</li><li>TB(&#39;s)</li>Voettekst</li></ul> | **ja:**<br> verzendt geen gebroken verbindingen. Als u niet ja kunt antwoorden, bevestig alvorens verder te gaan. |  |
+| 14 | {de Hyperlinks en UTMs van de Versie van 0} HTML **** | Werken alle hyperlinks en nemen UTM&#39;s op in deze gebieden? :<ul><li>Sectie Koptekst</li><li>Afbeeldingsgebieden (indien opgenomen)</li><li>Lichaam</li><li>CTA(s)</li>Voettekst</li></ul> | **ja:**<br> verzendt geen gebroken verbindingen. Als u niet ja kunt antwoorden, bevestig alvorens verder te gaan. |  |
 | 15 | **Dynamische Inhoud** | <li>Heeft uw e-mail er dynamische inhoud in?<li>Hebt u het over veelvoudige scenario&#39;s getest? | **ja:**<br> als u niet met ja kunt antwoorden, zou u dit moeten testen alvorens te werk te gaan. | [ Gebruikend Dynamische Inhoud in een E-mail ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.html) {target="_blank"}<br><br>[ Voorproef e-mail met Dynamische Inhoud ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.html) {target="_blank"} |
 | 16 | **Juridische Vereisten** | <ul><li>Heb je een voorstel verkeerd voorgesteld?</li><li>Zijn er vereiste disclaimers opgenomen in overeenstemming met uw compatibiliteitsomgeving?</li></ul> | **ja:**<br> als u niet met ja kunt antwoorden, zou u deze moeten bevestigen en controleren alvorens te werk te gaan. |  |
 | 17 | **Peer herzien** | Hebt u nog een [!DNL Marketo Engage] peer-revisie voor gebruikers van uw teste-mail gehad? | **ja:**<br> als u niet met ja kunt antwoorden, zou dit moeten worden gedaan alvorens u verzendt. |  |
@@ -199,7 +199,7 @@ Er zijn wellicht items die ontbreken of niet van toepassing zijn omdat uw team d
 
 >[!ENDTABS]
 
-## Wat is de volgende?
+## Wat nu?
 
 Klik [ hier ] (/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx) om de editable checklist van de programmapre-lancering voor u te downloaden om aan te passen. Houd er rekening mee dat dit moet worden aangepast aan de workflow van uw organisatie. Het ontwikkelen van een efficiënt proces QA houdt u verantwoordelijk en beperkt klant-onder ogen ziende fouten.
 

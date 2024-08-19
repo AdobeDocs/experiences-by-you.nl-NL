@@ -1,6 +1,6 @@
 ---
-title: Ontwikkelen van een handleiding voor instantiebeheer met documentatie
-description: Leer hoe te om een robuuste procedure tot stand te brengen en te handhaven documentatie en het wijzigen voor uw  [!DNL Marketo Engage]  instantie. Hierdoor bespaart u niet alleen tijd voor het delen van uw teamkennis, maar verbetert u ook de gezondheid en efficiëntie van uw exemplaar.
+title: Een Instance Governance Guide ontwikkelen met documentatie
+description: Leer hoe te om een robuuste procedure tot stand te brengen en te handhaven documentatie en het wijzigen voor uw  [!DNL Marketo Engage]  instantie.
 feature-set: Marketo Engage
 feature: Administration
 role: Admin
@@ -11,9 +11,9 @@ jira: KT-14103
 thumbnail: KT-14103.jpeg
 hide: false
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '871'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ Wanneer u een verouderde [!DNL Marketo Engage] -instantie opent, komt deze vaak 
 
 Deze stapsgewijze zelfstudie, die is afkomstig van [!DNL [!DNL Adobe] Marketo Champion] (2018), Nick Hajdin, begeleidt u door dit proces om de installatie van uw exemplaar te schetsen, uw primaire operationele programma&#39;s te documenteren en een [!DNL changelog] te onderhouden om een strikt governancebeleid af te dwingen.
 
-## Waarom ontwikkelt u een handleiding en documentatie voor instantiebeheer voor uw overgeërfde instantie?
+## Ontwikkelen van een handleiding voor instantie-beheer voor uw overgeërfde instantie
 
-Gedetailleerde documentatie en een [!DNL changelog] zijn van essentieel belang voor efficiënt beheer en een efficiënte kennisoverdracht binnen uw [!DNL Marketo Engage] -instantie. Het houden van spoor van veranderingen en besluiten u tijdens uw instantieopstelling hebt gemaakt kan u helpen:
+Gedetailleerde documentatie en een [!UICONTROL Changelog] zijn van essentieel belang voor efficiënt beheer en een efficiënte kennisoverdracht binnen uw [!DNL Marketo Engage] -instantie. Het houden van spoor van veranderingen en besluiten u tijdens uw instantieopstelling hebt gemaakt kan u helpen:
 
 1. Interne gebruikers gemakkelijker op schaalbare wijze trainen.
 2. Op de lange termijn efficiënter bouwen in [!DNL Marketo Engage].
@@ -78,21 +78,21 @@ Begin met het identificeren van de belangrijkste operationele programma&#39;s me
 
 Documenteer voor elk geïdentificeerd operationeel programma de huidige toestand. Dit omvat details over het doel van het programma, opstelling, bijbehorende slimme campagnes, en integratie met andere hulpmiddelen (indien van toepassing).
 
-### Stap 4: [!DNL Changelog] Onderhoud afdwingen
+### Stap 4: onderhoud van [!UICONTROL Changelog] afdwingen
 
-De volgende stap bestaat uit het vaststellen van een strikt governancebeleid voor uw [!DNL Marketo Engage] -instantie die &quot;[!DNL Changelog] onderhoud&quot; opdraagt. Dit beleid zorgt ervoor dat om het even welke die updates aan operationele programma&#39;s over het geval worden aangebracht grondig worden gedocumenteerd.
+De volgende stap bestaat uit het vaststellen van een strikt governancebeleid voor uw [!DNL Marketo Engage] -instantie die &quot;[!UICONTROL Changelog] onderhoud&quot; opdraagt. Dit beleid zorgt ervoor dat om het even welke die updates aan operationele programma&#39;s over het geval worden aangebracht grondig worden gedocumenteerd.
 
-Houd uw team op de hoogte van het belang van deze documenten en hoe u deze op de juiste wijze kunt openen en bijwerken. Het zou nuttig kunnen zijn om verantwoordelijkheden voor het handhaven van de verandering toe te wijzen, zodat nemen een paar aangewezen het teamleden of beheerders van de Verrichting van de Marketing constant veranderingen op en verstrekken handtekeningen.
+Houd uw team op de hoogte van het belang van deze documenten en hoe u deze op de juiste wijze kunt openen en bijwerken. Het zou nuttig kunnen zijn om verantwoordelijkheden voor het handhaven van de verandering toe te wijzen, zodat nemen een paar aangewezen het teamleden van de Verrichting van de Marketing of beheerders constant veranderingen op en verstrekken sign-offs.
 
-### Stap 5: Documentatie centraliseren
+### Stap 5: documentatie centraliseren
 
 Een centrale locatie of opslagplaats maken voor het opslaan van alle documentatie met betrekking tot uw [!DNL Marketo Engage] -instantie. Dit kan een gedeelde schijf, een speciale map of een op cloud gebaseerd systeem zijn.
 
-### Stap 6: Regelmatig evalueren en bijwerken
+### Stap 6: Controleren en bijwerken
 
 Plan regelmatige revisies van uw documentatie om ervoor te zorgen dat deze accuraat en up-to-date blijft. Het kan gemakkelijk over het hoofd worden gezien tijdens drukke tijden. Stel proactief herinneringen in op uw agenda om ervoor te zorgen dat uw team regelmatig updates uitvoert om wijzigingen of optimalisaties in uw operationele programma&#39;s weer te geven.
 
-## Wat is de volgende?
+## Wat nu?
 
 Krijg Begonnen door dit [ eenvoudige malplaatje ](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) te downloaden.
 

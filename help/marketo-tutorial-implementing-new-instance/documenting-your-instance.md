@@ -1,5 +1,5 @@
 ---
-title: Aan de slag met Instance Governance en documentatie
+title: Aan de slag met Instance Governance en Documentation
 description: Leer essentiële strategieën en beste praktijken om aan de slag te gaan op uw Marketo Engage bestuur en documentatie. Ontdek hoe u schaalbare documentatie kunt maken, gebruikerstraining kunt stroomlijnen en kunt bouwen met een structuur in uw Marketo Engage-instantie.
 role: Admin
 level: Beginner
@@ -10,7 +10,7 @@ last-substantial-update: 2024-05-08T00:00:00Z
 jira: KT-14815
 thumbnail: KT-14815.jpeg
 exl-id: b3dd05e1-c522-4631-a6b4-c0c6309f25d3
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -101,7 +101,7 @@ Een andere kritieke manier van instantie bestuur is een Changelog te creëren en
 1. Reden voor de wijziging
 1. Wie heeft de wijziging doorgevoerd
 
-## Wat is de volgende?
+## Wat nu?
 
 * Download de [ steekproefdocumentatie en Changelog ](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx) en pas hen aan die op de behoeften van uw organisatie worden gebaseerd.
 * Sla de documentatie op in een toegankelijk platform waar uw organisatie de voorkeur geeft aan referentie en werk deze regelmatig bij. Sommige Marketo Engage Champions gebruiken bijvoorbeeld het effect van het Afdichtingseffect (door het Atlassiaans) of het Werkblad van Excel.

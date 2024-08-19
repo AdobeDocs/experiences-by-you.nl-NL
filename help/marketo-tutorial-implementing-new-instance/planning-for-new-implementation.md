@@ -1,5 +1,5 @@
 ---
-title: Planning voor een nieuwe implementatie van Marketo's Engage
+title: Plan voor een nieuwe implementatie van Marketo's Engage
 description: Leer meer over de essentiële planning en de dwars-functionele teamsamenwerking voor het met succes uitvoeren van een nieuwe instantie van het Marketo Engage. Deze zelfstudie biedt voorbeeldmijlpalen, teamservices en brontoewijzingen voor een naadloze implementatie van Marketo's Engage.
 role: Admin
 level: Beginner
@@ -10,14 +10,14 @@ last: substantial-update- 2024-05-01
 jira: KT-14808
 thumbnail: KT-14808.jpeg
 exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '1098'
 ht-degree: 2%
 
 ---
 
-# Planning voor een nieuwe implementatie van Marketo&#39;s Engage
+# Plan voor een nieuwe uitvoering van het Marketo Engage
 
 Het uitvoeren van een nieuwe instantie van het Marketo Engage impliceert zorgvuldige planning, samenwerking over teams, en ononderbroken optimalisering. Hoewel er geen perfect recept is voor de implementatie van een nieuwe instantie, kunnen de meeste beheerders van Marketo&#39;s Engage die het hebben doorlopen ermee akkoord gaan dat planning vooruit het proces veel vlotter zal maken.
 
@@ -130,7 +130,7 @@ Heer Marketo Engage Champion (2019), Kyle McCormick, over zijn ervaringen bij he
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428771/?quality=12&learn=on)
 
-## Wat is de volgende?
+## Wat nu?
 
 Maak een nieuw implementatieprojectplan en een tijdlijn. Hieronder ziet u een tijdlijn voor een voorbeeldproject met secties voor voorbeeldmijlpalen, taken, verantwoordelijke teams, deadlines en afhankelijkheden. Gebruik dit programma om de implementatie van uw Marketo Engage te stroomlijnen en ervoor te zorgen dat de implementatie in de hele organisatie succesvol verloopt.
 

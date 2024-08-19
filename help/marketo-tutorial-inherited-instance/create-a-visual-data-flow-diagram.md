@@ -1,5 +1,5 @@
 ---
-title: Creeer een visueel gegevensstroomdiagram om uw marketing technologiestapel te begrijpen
+title: Creeer een Diagram van de Stroom van Gegevens om uw Stapel van de Technologie van de Marketing te begrijpen
 description: Leer hoe u een diagram met 'Lood en gegevensbronnen' maakt om het gegevensuniversum te begrijpen, om de instantie efficiënt te controleren en op te lossen.
 feature-set: Marketo Engage
 feature: Administration
@@ -11,14 +11,14 @@ jira: KT-13877
 thumbnail: KT-13877.jpeg
 hide: false
 exl-id: 088bdcf1-4e49-44a7-ac78-a03742ff680b
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
 
-# Creeer een visueel gegevensstroomdiagram om uw marketing technologiestapel te begrijpen
+# Creeer een diagram van de gegevensstroom om uw marketing technologiestapel te begrijpen
 
 Als beheerder die een [!DNL Marketo Engage] -instantie overneemt die al jaren actief is, is het een missie die onmogelijk is om de instantie efficiënt te controleren en op te lossen. Wanneer [!DNL Adobe] [!DNL Marketo Champion] (2019), Kelly Jo Horton, in een reeds lang gevestigde instantie stapte, behandelde zij deze uitdaging door [ een diagram van &quot;Lood en gegevensbronnen&quot;te creëren ](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774) {target="_blank"} om zich met het gegevensuniversum vertrouwd te maken. In deze zelfstudie leert u hoe u uw eigen gegevensstroomdiagram kunt maken door voort te bouwen op de voorbeelden die Kelly Jo Horton deelt. Laten we je MarTech-ecosysteem leren kennen!
 
@@ -51,7 +51,7 @@ Maak een technische versie die details weergeeft, zoals de API-gebruikersnaam vo
 ![ Technische versie ](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
 
 
-## Wat is de volgende?
+## Wat nu?
 
 **krijgt Begonnen met Voorbeelden:**
 Download één van de diagrammen van de steekproefgegevensstroom om de huidige staat van uw marketing technologiestapel, persoon en gegevensstroom in kaart te brengen, of een diagram voor uw gegevensuniversum van kras te creëren aangezien u de instantie controleert:

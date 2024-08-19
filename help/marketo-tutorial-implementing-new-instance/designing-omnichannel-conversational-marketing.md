@@ -1,5 +1,5 @@
 ---
-title: Omnichannel conversationele marketing met Dynamic Chat ontwerpen
+title: Omnichannel marketing met Dynamic Chat
 description: Ontvang snel een begin met het ontwerpen van conversationele marketing met Adobe Dynamic Chat, het native gespreksbetrokkenheidskanaal in Adobe Marketo Engage. Deze zelfstudie biedt hanteerbare recepten voor het implementeren van gebruiksgevallen, zoals boekingen voor verkoopvergaderingen, betrokkenheid bij website-inhoud en evenementen/webinar-promotie.
 role: Admin
 level: Beginner
@@ -9,7 +9,7 @@ duration: 0
 last-substantial-update: 2024-05-23T00:00:00Z
 jira: KT-14814
 exl-id: 160dfb25-9f54-4dce-a08a-4a8d3c4c5368
-source-git-commit: 80553c5127afda315e97183e0d3b160871352183
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '1409'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Toen Sara Barriuso Dynamic Chat uitvoerde, werd zij getrokken door zijn naadloze
 3. Vooruitzichten/klanten: bieden gepersonaliseerde ervaringen door de inspanningen van marketingcampagnes uit te breiden.
 
 
-## Belangrijke gebruiksgevallen om uw dialoogvensters op te bouwen
+## Belangrijke gebruiksgevallen om uw dialoogvensters te gaan samenstellen
 
 Om deze strategieën uit te voeren, bouwde Sara haar Dialogen van de Dynamic Chat rond de volgende gebruiksgevallen:
 
@@ -191,7 +191,7 @@ Uitbreiding van betrokkenheid bij inhoud campagne - Configuratie:
 
 >[!ENDTABS]
 
-## Wat is de volgende?
+## Wat nu?
 
 * Wijs uit uw gespreksstroom in [ Stroom Designer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer) {target="_blank"} of een stroomgrafiek offline toe.
 * Een standaard catch-all-dialoogvenster in Dynamic Chat maken.

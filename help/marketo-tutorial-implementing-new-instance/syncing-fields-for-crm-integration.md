@@ -10,9 +10,9 @@ last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14811
 thumbnail: KT-14811.jpeg
 exl-id: 42b7ca3d-e445-4c11-ad3d-d4e70c101c8e
-source-git-commit: 195a1211b8b191032f4d37662b5beee9a0a54de4
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '1569'
+source-wordcount: '1567'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ De eerste synchronisatie tussen uw Marketo Engage en CRM-systeem maakt automatis
 
 Het identificeren van en het organiseren van de gebieden die u van uw CRM voorafgaand aan het uitvoeren van de aanvankelijke synchronisatie zou willen synchroniseren is een kritieke stap in het Instellingsproces van de Eigen Verbinding. Dit wordt een oefening gegevenswoordenboek genoemd, die u helpt het aantal dubbele velden dat wordt gemaakt tot een minimum te beperken en ervoor te zorgen dat alle volgende stappen voor opnieuw toewijzen zo vloeiend mogelijk verlopen. Deze oefening impliceert typisch input van de Marketing en de teams van de Verkoop en uw Admin van CRM om ervoor te zorgen dat slechts de relevante gebieden aan uw instantie van het Marketo Engage worden gesynchroniseerd.
 
-## Uw gegevenswoordenboek maken
+## Uw gegevenswoordenboek samenstellen
 
 Over het algemeen, is de beste praktijk om de gebieden van CRM slechts te synchroniseren die voor marketing doeleinden zullen worden vereist. Begin met deze oefening om de gebieden van uw CRM te organiseren die aan Marketo Engage zullen moeten worden in kaart gebracht en de aanvankelijke synchronisatie van CRM correct de eerste keer in werking stellen.
 
@@ -118,7 +118,7 @@ Over het algemeen, is de beste praktijk om de gebieden van CRM slechts te synchr
    * Gelieve te verwijzen naar dit voorbeeld [ HIER ](https://nation.marketo.com/t5/knowledgebase/re-mapping-sfdc-marketo-fields/ta-p/299284) {target="_blank"}.
 * Als het opnieuw toewijzen is voltooid, controleert u de API-namen voor de opnieuw toegewezen velden in het Marketo Engage en werkt u de waarden in de kolom &quot;API-naam&quot; van het gegevenswoordenboek bij om ervoor te zorgen dat dit de meest nauwkeurige gegevens bevat.
 
-## Wat is de volgende?
+## Wat nu?
 
 * Bouw uw Woordenboek van Gegevens om uw gebieden voor de integratie van CRM te organiseren.
 * Begrijp me met het aanvankelijke synchronisatieproces voor uw CRM
