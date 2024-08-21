@@ -11,9 +11,9 @@ jira: KT-13888
 thumbnail: KT-13888.jpeg
 hide: false
 exl-id: c377fe5f-2d77-4fd0-9ac4-5ad65506f582
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: 286b85beb92a2563d9ec57696834a4ba2a205c73
 workflow-type: tm+mt
-source-wordcount: '4903'
+source-wordcount: '4898'
 ht-degree: 2%
 
 ---
@@ -201,7 +201,7 @@ Er zijn wellicht items die ontbreken of niet van toepassing zijn omdat uw team d
 
 ## Wat nu?
 
-Klik [ hier ] (/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx) om de editable checklist van de programmapre-lancering voor u te downloaden om aan te passen. Houd er rekening mee dat dit moet worden aangepast aan de workflow van uw organisatie. Het ontwikkelen van een efficiënt proces QA houdt u verantwoordelijk en beperkt klant-onder ogen ziende fouten.
+Klik [ hier ](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx) om de editable checklist van de programmapre-lancering voor u te downloaden om aan te passen. Houd er rekening mee dat dit moet worden aangepast aan de workflow van uw organisatie. Het ontwikkelen van een efficiënt proces QA houdt u verantwoordelijk en beperkt klant-onder ogen ziende fouten.
 
 ### Auteurs
 
