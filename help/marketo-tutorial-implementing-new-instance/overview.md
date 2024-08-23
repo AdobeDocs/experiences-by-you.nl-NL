@@ -10,7 +10,7 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: 28036f785b1901088a9b5a04e88f43f031257161
+source-git-commit: b7e6c53ba2f2345e72f5028472d46596e6c41f58
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Welkom bij Adobe [!DNL Marketo Engage] . Het opzetten van een nieuw exemplaar is de eerste stap om uw digitale marketing strategie met marketing automatisering te verbeteren. Documentatie is de sleutel tot een geslaagde implementatie van [!DNL Marketo Engage] .
 
-Deze serie &quot;Implementation A New Instance Tips and Tricks&quot; is afkomstig van Adobe [!DNL Marketo Engage] Champions die eerder implementatie hebben veroverd. De zelfstudie biedt stapsgewijze begeleiding voor nieuwe beheerders om het implementatieproject interfunctioneel te beheren en technische instellingen onafhankelijk te configureren. De selectieve onderwerpen vergezellen downloadbare checklists en malplaatjes voor u om voor uw eigen behoeften aan te passen zonder van kras te beginnen. Laten we in de wijsheid van jullie gelijken duiken!
+Deze serie &#39;Implementeren van nieuwe tips en trucs&#39; is afkomstig van Adobe [!DNL Marketo Engage] Champions die eerder implementatie hebben veroverd. De zelfstudie biedt stapsgewijze begeleiding voor nieuwe beheerders om het implementatieproject interfunctioneel te beheren en technische instellingen onafhankelijk te configureren. De selectieve onderwerpen vergezellen downloadbare checklists en malplaatjes voor u om voor uw eigen behoeften aan te passen zonder van kras te beginnen. Laten we in de wijsheid van jullie gelijken duiken!
 
 ## Onderwerpen en wat u leert
 
