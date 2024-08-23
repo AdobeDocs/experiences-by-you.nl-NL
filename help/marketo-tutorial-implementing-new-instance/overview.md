@@ -10,18 +10,18 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: dd6b3d2ea080de27e6955d1538a9b29d4fbb281a
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
 
 # Tips en trucs voor het implementeren van een nieuwe [!DNL Marketo Engage] -instantie
 
-Welkom bij Adobe [!DNL Marketo Engage] . Het opzetten van een nieuwe instantie is de eerste stap om uw digitale marketingstrategie te verbeteren met marketingautomatisering. Documentatie is de sleutel tot een geslaagde implementatie van [!DNL Marketo Engage] .
+Welkom bij Adobe [!DNL Marketo Engage] . Het opzetten van een nieuw exemplaar is de eerste stap om uw digitale marketing strategie met marketing automatisering te verbeteren. Documentatie is de sleutel tot een geslaagde implementatie van [!DNL Marketo Engage] .
 
-Dit _Uitvoerend een Nieuwe Uiteinden van de Instantie en de reeksen van Tricks_ is gesourced Adobe [!DNL Marketo Engage] Champions die implementatie eerder hebben veroverd. De zelfstudie biedt stapsgewijze begeleiding voor nieuwe beheerders om het implementatieproject interfunctioneel te beheren en technische instellingen onafhankelijk te configureren. De selectieve onderwerpen vergezellen downloadbare checklists en malplaatjes voor u om voor uw eigen behoeften aan te passen zonder van kras te beginnen. Laten we in de wijsheid van jullie gelijken duiken!
+Deze serie &quot;Implementation A New Instance Tips and Tricks&quot; is afkomstig van Adobe [!DNL Marketo Engage] Champions die eerder implementatie hebben veroverd. De zelfstudie biedt stapsgewijze begeleiding voor nieuwe beheerders om het implementatieproject interfunctioneel te beheren en technische instellingen onafhankelijk te configureren. De selectieve onderwerpen vergezellen downloadbare checklists en malplaatjes voor u om voor uw eigen behoeften aan te passen zonder van kras te beginnen. Laten we in de wijsheid van jullie gelijken duiken!
 
 ## Onderwerpen en wat u leert
 
