@@ -24,4 +24,4 @@ ht-degree: 81%
 
 Workflows, een krachtige [!DNL Adobe] [!DNL Campaign] -functie, helpen u campagnes te beheren en klanten moeiteloos te bereiken. Leer en pas vijf essentiële best practices voor workflows toe voor marketeers van Adam Wilson, Associate Director of Marketing, bij LoyaltyOne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448137?quality=12&learn=on&captions=dut){transcript=true}

@@ -22,7 +22,7 @@ ht-degree: 2%
 
 Bekijk deze stapsgewijze zelfstudie om te leren hoe u een e-mailprogramma maakt met een A/B-test.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419440/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453373/?learn=on&captions=dut){transcript=true}
 
 
 ## Aanvullende bronnen:

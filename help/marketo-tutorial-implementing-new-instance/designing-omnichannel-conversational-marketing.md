@@ -49,7 +49,7 @@ Laten we deze gebruiksgevallen in actie zien, aangezien Sara haar proces laat zi
 
 Dit dialoogvenster biedt vijf initiële opties waaruit sitebezoekers kunnen kiezen, waardoor ze een zelfbegeleide ervaring maken waarmee ze op basis van hun persoonlijke gegevens de informatie kunnen vinden die ze nodig hebben. Om te beginnen, zou u uw e-mailpostvakje van het &quot;Contact van ons&quot;kunnen willen onderzoeken om gemeenschappelijke thema&#39;s te identificeren en hen in de opties van de Dialoog te categoriseren die op uw plaatsbezoekers van toepassing zijn. Bekijk de demo en volg de onderstaande stappen om uw standaard catch-all-dialoogvenster te maken:
 
->[!VIDEO](https://video.tv.adobe.com/v/3429194/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453736/?learn=on&captions=dut)
 
 >[!BEGINTABS]
 

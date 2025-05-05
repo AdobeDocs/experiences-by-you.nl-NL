@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Ontdek waardevolle inzichten van AEM expert Wilson Faure. In deze video haalt hij essentiële strategieën en tips na de migratie uit om de overgang te optimaliseren. Verbeter duidelijkheid over waar u zich in de dagen en weken na uw migratie op moet concentreren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428309/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446605/?learn=on&captions=dut)

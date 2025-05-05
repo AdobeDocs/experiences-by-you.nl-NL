@@ -130,7 +130,7 @@ Over het algemeen, is de beste praktijk om de gebieden van CRM slechts te synchr
 
 Leer hoe Marketo Engage en Salesforce samenwerken om uw verkoop- en marketinggegevens synchroon te houden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424719/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426909/?learn=on&captions=dut)
 
 +++**Verbindingen die in de video worden gebruikt:**
 
@@ -156,7 +156,7 @@ Leer hoe Marketo Engage en Salesforce samenwerken om uw verkoop- en marketinggeg
 
 Leer hoe de synchronisatie van Microsoft Dynamics 365 werkt en vorm de opstelling behoorlijk om de twee systemen toe te staan om met elkaar te spreken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424737/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430207/?learn=on&captions=dut)
 
 +++**Verbindingen die in de video worden gebruikt:**
 

@@ -121,7 +121,7 @@ Met de basismodellen voor gedrag en demografisch scoren die u hebt voltooid, kun
 
 Heb je de voorkeur aan een videodemo voor deze oefening? Aanpassen als Marketo Engage Champion Katja Keesom laat zien hoe u lokale flexibiliteit inbouwt in het scoremodel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457445/?learn=on&captions=dut)
 
 **Stap 1** - neem de activiteiten en de kenmerken van oefeningen 1 en 2 en bepaal voor elk punt of zij door plaats of productlijn variëren.
 

@@ -22,7 +22,7 @@ ht-degree: 2%
 
 Leer hoe u in de sectie [!DNL Analytics] en Database kunt navigeren om verschillende out-of-the-box-rapporten te genereren in [!DNL Marketo Engage] .
 
->[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446426/?learn=on&captions=dut){transcript=true}
 
 ## Aanvullende bronnen
 

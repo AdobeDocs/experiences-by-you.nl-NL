@@ -24,4 +24,4 @@ Het overnemen van een [!DNL Marketo Engage] -instantie kan een stressvolle tijd 
 
 In deze zelfstudie doorlopen we de belangrijkste secties in [!DNL Marketo Engage] , waaronder Admin, Marketing Activities, Design Studio en Database, en bieden we u onderweg tips voor controle en optimalisatie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453028/?learn=on&captions=dut)
