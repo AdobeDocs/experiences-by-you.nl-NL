@@ -26,7 +26,7 @@ In dit artikel deelt Christian zijn best practices om [!DNL Adobe] [!DNL Campaig
 
 ## 1. Stel een overkoepelend, samenhangend marketing- en leveringsplan op.
 
-De eerste stap die ervoor zorgt dat u succes hebt met [!DNL [!DNL Adobe] [!DNL Campaign] ], is het begrijpen van uw tools en verwachtingen van de klant. Dat geldt voor elk type marketing. Definieer en begrijp duidelijk de kanalen die u gebruikt om contact op te nemen met uw consumenten, weet wanneer u die kanalen moet gebruiken en waarom.
+De eerste stap die ervoor zorgt dat u succes hebt met [!DNL [!DNL Adobe] [!DNL Campaign] &#x200B;], is het begrijpen van uw tools en verwachtingen van de klant. Dat geldt voor elk type marketing. Definieer en begrijp duidelijk de kanalen die u gebruikt om contact op te nemen met uw consumenten, weet wanneer u die kanalen moet gebruiken en waarom.
 
 [!DNL Adobe] [!DNL Campaign] is een flexibel hulpmiddel waarmee u op verschillende manieren communicatie kunt uitvoeren en ordenen. [De helft van de klanten gebruikt tijdens elk kooptraject drie tot vijf kanalen](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Om het volledige potentieel van uw platform te benutten en uw klanten aan te spreken is het dus essentieel om deze kanalen van tevoren te begrijpen en een plan te hebben voor het gebruik.
 

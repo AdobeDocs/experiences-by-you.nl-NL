@@ -33,7 +33,7 @@ Binnen deze module zullen wij behandelen:
 
 ## Inclusief of uitsluiten
 
-Door gebrek, omvatten alle containers beginnen als **** type, fundamenteel betekenend dat zij de gegevens terugkeren die de criteria aanpassen. Nochtans, kunt u het segment, of de containers binnen de segmenten ook veranderen om **** type uit te sluiten, toestaand u om bepaalde criteria te verwerpen.
+Door gebrek, omvatten alle containers beginnen als **&#x200B;**&#x200B;type, fundamenteel betekenend dat zij de gegevens terugkeren die de criteria aanpassen. Nochtans, kunt u het segment, of de containers binnen de segmenten ook veranderen om **&#x200B;**&#x200B;type uit te sluiten, toestaand u om bepaalde criteria te verwerpen.
 
 Hoewel een goochelaar je kaart in het dek kan vinden, is het verbazingwekkend wanneer die goochelaar de rest van het dek niet kan laten bestaan. Op dezelfde manier in sluit segmenten uit, willen wij de ongewenste gegevens eenvoudig van onze gegevensreeks verdwijnen.
 
@@ -53,14 +53,14 @@ Op eerste gezicht, klonen deze allebei het zelfde.. en op **raakten** niveausegm
 *Bericht dat elke slag een waar of valse waarde terugkeert, en dat die waarden tussen niet worden omgekeerd doet en sluit uit.*
 
 - Bevat &quot;Waarde&quot; niet &quot;Voorbeeld&quot; (Ja), retourneert daarom true en neemt die hit op. Bevat &quot;Voorbeeld&quot; evenmin &quot;Voorbeeld&quot; (geen voorbeeld), retourneert daarom false en neemt die hit niet op. Retourneer in principe alle gegevens die een waar resultaat opleveren.
-- Bevat &quot;Waarde&quot; &quot;Voorbeeld&quot; (nee), retourneert daarom false en sluit die hit niet uit. Bevat &quot;Voorbeeld&quot; ook &quot;Voorbeeld&quot; (yes), retourneert daarom true en sluit die hit uit. Basistatief, terugkeergegevens die **** geen waar resultaat hebben, of terugkeergegevens die vals aan uw criteria zijn.
-- U kunt zien dat op het **1} niveau van het Actief, beide reeksen logica de zelfde reeks gegevens zal terugkeren.**
+- Bevat &quot;Waarde&quot; &quot;Voorbeeld&quot; (nee), retourneert daarom false en sluit die hit niet uit. Bevat &quot;Voorbeeld&quot; ook &quot;Voorbeeld&quot; (yes), retourneert daarom true en sluit die hit uit. Basistatief, terugkeergegevens die **&#x200B;**&#x200B;geen waar resultaat hebben, of terugkeergegevens die vals aan uw criteria zijn.
+- U kunt zien dat op het **1&rbrace; niveau van het Actief, beide reeksen logica de zelfde reeks gegevens zal terugkeren.**
 
 **Figuur 2: Bevat niet/is niet gelijk - het werkingsgebied van het Bezoek**
 
 ![ Figuur2-DnceVsExclude-Visit ](assets/figure2-dnce-vs-exclude-visit.png)
 
-*als hierboven, zal elke klap binnen het **bezoek**met zelfde waar/vals worden geëvalueerd. Nochtans, is de gegevensreeks die is teruggekeerd die van het volledige bezoek.*
+*als hierboven, zal elke klap binnen het **bezoek**&#x200B;met zelfde waar/vals worden geëvalueerd. Nochtans, is de gegevensreeks die is teruggekeerd die van het volledige bezoek.*
 
 - Op elke hit bevat &quot;Value&quot; geen &quot;Example&quot; (yes), dus retourneert &quot;Example&quot; geen &quot;Example&quot; (no, it contains it it), zodat false wordt geretourneerd.
    - Als **om het even welke** slag in het bezoek **waar** terugkeert, dan is het **volledige bezoek** teruggekeerd.*
@@ -76,10 +76,10 @@ Op eerste gezicht, klonen deze allebei het zelfde.. en op **raakten** niveausegm
 
 ![ Figure3-DnceVsExclude-Visitor ](assets/figure3-dnce-vs-exclude-visitor.png)
 
-*als hierboven, zal elk geraakt die door de **bezoeker**wordt gemaakt met de zelfde waar/valse logica worden geëvalueerd. Maar nu bekijken wij alle klappen die deze bezoeker, over alle bezoeken (binnen de geselecteerde datumwaaier) heeft gemaakt.*
+*als hierboven, zal elk geraakt die door de **bezoeker**&#x200B;wordt gemaakt met de zelfde waar/valse logica worden geëvalueerd. Maar nu bekijken wij alle klappen die deze bezoeker, over alle bezoeken (binnen de geselecteerde datumwaaier) heeft gemaakt.*
 
 - Op elke hit bevat &quot;Value&quot; geen &quot;Example&quot; (yes), dus retourneert &quot;Example&quot; geen &quot;Example&quot; (no, it contains it it), zodat false wordt geretourneerd.
-   - Als **om het even welk** geraakt door de bezoeker wordt gemaakt waar **** terugkeert, dan is het **volledige bezoek** teruggekeerd.
+   - Als **om het even welk** geraakt door de bezoeker wordt gemaakt waar **&#x200B;**&#x200B;terugkeert, dan is het **volledige bezoek** teruggekeerd.
    - Als de bezoeker nooit om het even welke aanzet maakte die &quot;Voorbeeld&quot;toen bevatte zouden geen aanslagen waar terugkeren, en daarom zou die bezoeker **niet** in uw gegevensreeks zijn teruggekeerd.
 - Op elke hit bevat &quot;Example&quot; (yes) dus &quot;true&quot;.
    - Als **om het even welke aanraking** **waar** terugkeert, zal de volledige bezoeker (en nadien al hun bezoeken) **worden uitgesloten.**
@@ -146,7 +146,7 @@ De beste manier om over containers na te denken is elke container een doos te zi
 
 ### Reikwijdte van de containers
 
-Laten wij eerst een snelle onderbreking van *container* werkingsgebied doen. Als *het werkingsgebied van 0} segment {, hebt u uw basis **geraakt**,**bezoek**en **bezoeker**werkingsgebiedopties, maar soms zult u ook iets genoemd **logische groep**in plaats van bezoeker zien (dit zal slechts binnen opeenvolgende segmenten voorkomen, en wij zullen die in het volgende artikel behandelen).*
+Laten wij eerst een snelle onderbreking van *container* werkingsgebied doen. Als *het werkingsgebied van 0&rbrace; segment &lbrace;, hebt u uw basis **geraakt**,**bezoek**&#x200B;en **bezoeker**&#x200B;werkingsgebiedopties, maar soms zult u ook iets genoemd **logische groep**&#x200B;in plaats van bezoeker zien (dit zal slechts binnen opeenvolgende segmenten voorkomen, en wij zullen die in het volgende artikel behandelen).*
 
 Het toevoegen van containers binnen uw segment (of binnen andere containers) kan worden bereikt door tot het toegang hebben van **opties** * menu (wanneer het nesten van veelvoudige punten, zorgvuldig zijn om aan het correcte blok toe te voegen - hoewel u gelukkig containers binnen de interface kunt slepen en laten vallen als u het aan de verkeerde plaats toevoegt)
 

@@ -33,9 +33,9 @@ ht-degree: 0%
 * Vijf top-tips in [!DNL Adobe Analytics] (bijvoorbeeld: drop-down maken)
 * Hoe wordt Attribution IQ gebruikt
 
-U kunt gebruikers dan gemakkelijk naar deze berichten verwijzen in plaats van lange e-mails te schrijven of nog een vergadering te houden. Voor meer uiteinden en trucs op trainingsgebruikers, controleer {het artikel van 0} Champion Thomas Edward Buckley ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=en) {target="_blank"} allen over het vereenvoudigen van en het doorbrengen van minder tijd opleidingsgebruikers.[[!DNL Adobe] 
+U kunt gebruikers dan gemakkelijk naar deze berichten verwijzen in plaats van lange e-mails te schrijven of nog een vergadering te houden. Voor meer uiteinden en trucs op trainingsgebruikers, controleer {het artikel van 0} Champion Thomas Edward Buckley [&#128279;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=en){target="_blank"}  allen over het vereenvoudigen van en het doorbrengen van minder tijd opleidingsgebruikers.[!DNL Adobe] 
 
-Bovendien is er een overvloed (ja, een overvloed) van [ videoleerprogramma&#39;s ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html) {target="_blank"} op [!DNL Adobe] Experience League, evenals [ vrije cursussen ](https://experienceleague.adobe.com/?lang=en#dashboard/learning) {target="_blank"}. Als u een video nodig hebt die specifiek is voor de gegevens en zaken van uw bedrijf KPIs, dan door alle middelen, registreer uw eigen video&#39;s. Maar als een algemene instructievideo volstaat, is er geen reden om het wiel opnieuw uit te vinden.
+Bovendien is er een overvloed (ja, een overvloed) van [ videoleerprogramma&#39;s ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}  op [!DNL Adobe] Experience League, evenals [ vrije cursussen ](https://experienceleague.adobe.com/?lang=en#dashboard/learning){target="_blank"} . Als u een video nodig hebt die specifiek is voor de gegevens en zaken van uw bedrijf KPIs, dan door alle middelen, registreer uw eigen video&#39;s. Maar als een algemene instructievideo volstaat, is er geen reden om het wiel opnieuw uit te vinden.
 
 ## Auteurs
 

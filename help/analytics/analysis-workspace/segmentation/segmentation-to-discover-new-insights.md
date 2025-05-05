@@ -79,7 +79,7 @@ U kunt zelfs beginnen te onderzoeken hoe uw Zeer belangrijke Indicatoren van Pre
 
 ![ Seg 12 ](assets/s12.png)
 
-De mogelijkheden om segmenten te gebruiken om nieuwe inzichten te vinden zijn eindeloos! Dit is gewoon een uitgangspunt. Probeer enkelen op uw en laat de gemeenschap weten wat u ontdekt: [[!DNL Adobe Analytics]  Gemeenschap ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community) op Experience League of de [ ](https://www.measure.chat/) gemeenschap #Measurement Slack.
+De mogelijkheden om segmenten te gebruiken om nieuwe inzichten te vinden zijn eindeloos! Dit is gewoon een uitgangspunt. Probeer enkelen op uw en laat de gemeenschap weten wat u ontdekt: [[!DNL Adobe Analytics]  Gemeenschap ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community) op Experience League of de [&#128279;](https://www.measure.chat/) gemeenschap #Measurement Slack.
 
 Gelukkig segmenteren!
 

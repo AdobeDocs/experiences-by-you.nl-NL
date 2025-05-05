@@ -42,7 +42,7 @@ Hoeveel van jullie hebben dit gedaan?  U bent begonnen te zoeken naar a **afmeti
 
 *Figuur 1 - Onderzoek naar &quot;jaar&quot;*
 
-Beter nog, bent u gegaan en sommige *nieuwe **datareeksen**en **segmenten**gecreeerd, en omdat zij &quot;zo nieuw zijn,&quot;zou u minstens deze punten snel en gemakkelijk moeten zijn om de volgende tijd te vinden u in*** Adobe Workspace ***kwam.* Heb ik gelijk?
+Beter nog, bent u gegaan en sommige *nieuwe **datareeksen**&#x200B;en **segmenten**&#x200B;gecreeerd, en omdat zij &quot;zo nieuw zijn,&quot;zou u minstens deze punten snel en gemakkelijk moeten zijn om de volgende tijd te vinden u in&#x200B;*** Adobe Workspace &#x200B;***kwam.* Heb ik gelijk?
 
 Nou, haat ik om uw bel te barsten, maar probeer enkel ***Adobe Analytics*** te verlaten nadat u enkel al uw nieuwste &quot;kleine vrienden,&quot;creeerde en wanneer u terugkeert, heeft de meerderheid van hen eenvoudig weggelopen.  Als u geluk hebt, *misschien* bleef één van hen achter om op u te wachten, maar de rest is reeds lang weg en speel verborgen en zoek.
 

@@ -70,7 +70,7 @@ Uit de bovenstaande AOV-voorbeelden weten we al dat de aankoop van gesubsidieerd
 
 Welke winkelcategorieën - en gebruikerspaden door deze categorieën - resulteren dus in het hoogste AOV?  We kunnen dit ontdekken door segmenten te combineren met berekende meetwaarden.
 
-Om dit te doen, moeten wij eerst bezoek-niveau *tot stand brengen omvatten* en ** segmenten voor elke productcategorie uitsluiten. Omvat of sluit wordt bepaald door het **vistuig van Opties** in de juiste hoek van de container te klikken uit. Standaard is Inclusief.
+Om dit te doen, moeten wij eerst bezoek-niveau *tot stand brengen omvatten* en **&#x200B; segmenten voor elke productcategorie uitsluiten. Omvat of sluit wordt bepaald door het &#x200B;** vistuig van Opties** in de juiste hoek van de container te klikken uit. Standaard is Inclusief.
 
 ![ Calc 06 ](assets/calc06.png) ![ Calc 07 ](assets/calc07.png)
 

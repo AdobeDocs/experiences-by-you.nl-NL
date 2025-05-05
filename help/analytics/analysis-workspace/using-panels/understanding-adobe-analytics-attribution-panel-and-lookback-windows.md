@@ -36,7 +36,7 @@ Nee!  We hebben nog iets beters, dus laten we er maar aan vasthouden!
 Nou... je krijgt het idee.
 
 
-Nu wij allen over tijdreis enthousiast zijn, nemen een diepe adem, stap terug een beetje, bepaal wat het **werkelijk 2} attributiepaneel 0} *is, en breken dingen neer een klein beetje:***
+Nu wij allen over tijdreis enthousiast zijn, nemen een diepe adem, stap terug een beetje, bepaal wat het **werkelijk 2&rbrace; attributiepaneel 0&rbrace; *is, en breken dingen neer een klein beetje:***
 
 ![ Attributie ](assets/attribution.png)
 
@@ -117,7 +117,7 @@ Herinner me, nadat u uw **attributiemodellen** en **geselecteerde raadplegingsve
 
 ## **definitief het zetten van het in praktijk**
 
-Nu u de concepten neer hebt, veronderstel u een marketing campagne in werking stelt en probeert om te bepalen welk kanaal *het meest effectief* voor het drijven van omzettingen is. Met hulp van het **attributiepaneel**, niet alleen kunt u het **laatste aanraken** zien, maar ook **eerste aanraking**, **zelfde aanraking**, en een ander **model** u verkiest om te bepalen welke **kanalen** *het meest efficiënte* zijn in het drijven van uw *conversie sions*. Dan, kan deze informatie worden gebruikt om *uw campagnes te optimaliseren en algemene prestaties eenvoudig te verbeteren door de klok met het **raadplegingsvenster**van uw keus terug te draaien!*
+Nu u de concepten neer hebt, veronderstel u een marketing campagne in werking stelt en probeert om te bepalen welk kanaal *het meest effectief* voor het drijven van omzettingen is. Met hulp van het **attributiepaneel**, niet alleen kunt u het **laatste aanraken** zien, maar ook **eerste aanraking**, **zelfde aanraking**, en een ander **model** u verkiest om te bepalen welke **kanalen** *het meest efficiënte* zijn in het drijven van uw *conversie sions*. Dan, kan deze informatie worden gebruikt om *uw campagnes te optimaliseren en algemene prestaties eenvoudig te verbeteren door de klok met het **raadplegingsvenster**&#x200B;van uw keus terug te draaien!*
 
 Nu je hebt gezien wat het kan doen, mag je niet misleid of geïntimideerd worden door de schijnbaar complexe kenmerken van het attributiepaneel.  **Gezicht het**.  *Embrace* het.  **Begrijp** het.
 MAAR DE MEESTE VAN ALLES - *gebruik het aan uw voordeel.* het **attributiepaneel** en **raadplegingsvenster** zijn de sleutels om een diepgaander inzicht in uw klanten en hun reis met uw merk te ontsluiten.

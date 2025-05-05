@@ -28,7 +28,7 @@ Net als veel beheerders voer ik een interne informatiehub (Confluence of een ver
 
 Ik merkte dat de gebruikers vaak mijn verwijzingen naar de plaats van de Samenhang negeerden, met redenen zoals &quot;Mijn VPN is weg,&quot;of &quot;ik kan het nu niet lezen,&quot;etc. In feite betekent &quot;Ik lees die doc later&quot; dat het nooit zal worden gelezen, en dezelfde vraag zal volgende week opnieuw worden gesteld.
 
-***de realisatie bereikte:**de veelzijdigheid van Workspace kon een spel-wisselaar zijn. De gebruikers verkiezen snelle, directe antwoorden binnen Workspace, zodat houden wij hen daar-vermijd extra stappen.*
+***de realisatie bereikte:**&#x200B;de veelzijdigheid van Workspace kon een spel-wisselaar zijn. De gebruikers verkiezen snelle, directe antwoorden binnen Workspace, zodat houden wij hen daar-vermijd extra stappen.*
 
 Ik ging verder en creeerde operationele dashboards om bedrijf breed te delen. Tot nu toe hebben ze gebruikers op de hoogte gehouden, gecentraliseerde informatie gegeven en gefrustreerd. Dit is een eenvoudig, evoluerend proces geweest dat de efficiëntie in de loop der tijd verhoogt.
 
