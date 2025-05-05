@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # [!DNL Adobe Analytics] Deelvenster Kenmerken en terugzoekvensters
 
-Toen ik eerst aan het [ attributiepaneel ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) en **raadplegingsvenster** dacht, werd ik onmiddellijk herinnerd aan het concept &quot;*tijdreis&quot;*; dan, natuurlijk, werd ik ook herinnerd aan onze typische reactie op vele nieuwe hulpmiddelen zoals dit eenvoudig het proberen uit te stellen om het te gebruiken, omdat zij zo gecompliceerd kijken.
+Toen ik eerst aan het [ attributiepaneel ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=nl-NL) en **raadplegingsvenster** dacht, werd ik onmiddellijk herinnerd aan het concept &quot;*tijdreis&quot;*; dan, natuurlijk, werd ik ook herinnerd aan onze typische reactie op vele nieuwe hulpmiddelen zoals dit eenvoudig het proberen uit te stellen om het te gebruiken, omdat zij zo gecompliceerd kijken.
 
 Ik bedoel eerlijk gezegd, kijk gewoon naar al die opties, switches, deelvensters, lezingen en knoppen.  En serieus, laten we het hebben over die gecompliceerde knipperende lichten, slangen, kooien... WACHT!  Dit is niet het moment om afleiding te krijgen in het praten over tijdmachines, we hebben gewoon geen tijd... of doen we dat?
 
@@ -44,7 +44,7 @@ Nu wij allen over tijdreis enthousiast zijn, nemen een diepe adem, stap terug ee
 
 In **attributie**, overweeg eenvoudig hoe de gebeurtenissen/de acties door een individu, verscheidene individuen, of één van om het even welk aantal verschillende gebeurtenissen in tijd zouden kunnen worden veroorzaakt.
 
-Volgens [[!DNL Adobe] ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), *attributie* geeft analisten de capaciteit aan om aan te passen hoe *Dimension* punten krediet voor *succesgebeurtenissen* ontvangen.
+Volgens [[!DNL Adobe] ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=nl-NL), *attributie* geeft analisten de capaciteit aan om aan te passen hoe *Dimension* punten krediet voor *succesgebeurtenissen* ontvangen.
 
 
 >[!WARNING]
@@ -86,7 +86,7 @@ Het houden van dit in mening, zijn hier een paar voorbeelden van hoe de ❸ **at
 
 - **Douane**: U kiest en kiest wie krediet gaat krijgen.  Het is jouw campagne!
 
-Voor extra informatie over deze en andere attribuutmodellen, [ klik hier ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
+Voor extra informatie over deze en andere attribuutmodellen, [ klik hier ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=nl-NL)
 
 Om dit nog interessanter te maken, praten we over het terugdraaien van de klok!
 

@@ -58,7 +58,7 @@ Het krachtigste aan [!DNL Adobe Experience Cloud] oplossingen? Jij. De gebruiker
   </td>
   <td>
     <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
-      <img alt="Standaardnaamconventies maken" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg" />
+      <img alt="Standaardnaamconventies maken" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg?lang=nl-NL" />
     </a>
     <div>
       <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
@@ -77,6 +77,6 @@ Het krachtigste aan [!DNL Adobe Experience Cloud] oplossingen? Jij. De gebruiker
 ## Aanvullende bronnen
 
 * [ Gemeenschap van Adobe Analytics van de Experience League ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
-* [ Documentatie van Adobe Analytics ](https://experienceleague.adobe.com/docs/analytics.html)
-* [Adobe Analytics-tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html)
+* [ Documentatie van Adobe Analytics ](https://experienceleague.adobe.com/docs/analytics.html?lang=nl-NL)
+* [Adobe Analytics-tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=nl-NL)
 * [ het productinformatie van Adobe Analytics ](https://business.adobe.com/products/analytics/adobe-analytics.html)

@@ -38,7 +38,7 @@ In deze zelfstudie duiken we naar de specifieke mijlpalen, teamafspraken en bron
 
 ### Fase 3 - Maken van programmabibliotheek en instellen van campagne
 
-- E-mailsjablonen ontwikkelen en pagina&#39;s landen. Beginnend met [ invoerend starterprogramma&#39;s ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) van de [ Bibliotheek van de Invoer van het Programma ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
+- E-mailsjablonen ontwikkelen en pagina&#39;s landen. Beginnend met [ invoerend starterprogramma&#39;s ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) van de [ Bibliotheek van de Invoer van het Programma ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
 - Segmentering en Personalization-regels instellen
 - Aanvankelijke campagnes opzetten voor het opwekken en voeden van lood
 

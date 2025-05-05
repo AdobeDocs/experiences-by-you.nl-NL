@@ -21,7 +21,7 @@ ht-degree: 0%
 
 _ontdekt het effect van histogrammen in analyses voor inzichten voorbij gemiddelden. Histogrammen tonen gegevenspatronen in het gedrag van de klant, de betrokkenheid van de bezoeker, technische prestaties en vormfouten, die diepere inzichten en geïnformeerde beslissingen in [!DNL Adobe] Workspace toelaten._
 
-Laten we naar binnen springen. U zou [ histogrammen ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html) moeten gebruiken. Ik ga uitleggen waarom, maar ik wil jullie eerste vraag beantwoorden: Wat is een histogram in de wereld? Ik begrijp het. Meestal, als je een hoop staven ziet opstijgen, denk je dat het een staafgrafiek is. Ja, histogrammen zien er ongeveer hetzelfde uit, maar ik verzeker u dat ze anders zijn. In een staafdiagram worden de items vergeleken en in een histogram ziet u hoe vaak een variabele is opgetreden. Kijk eens. Hier is een staafdiagram:
+Laten we naar binnen springen. U zou [ histogrammen ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=nl-NL) moeten gebruiken. Ik ga uitleggen waarom, maar ik wil jullie eerste vraag beantwoorden: Wat is een histogram in de wereld? Ik begrijp het. Meestal, als je een hoop staven ziet opstijgen, denk je dat het een staafgrafiek is. Ja, histogrammen zien er ongeveer hetzelfde uit, maar ik verzeker u dat ze anders zijn. In een staafdiagram worden de items vergeleken en in een histogram ziet u hoe vaak een variabele is opgetreden. Kijk eens. Hier is een staafdiagram:
 
 ![ Grafiek 1 van de Bar ](assets/bar-chart-1.png)
 

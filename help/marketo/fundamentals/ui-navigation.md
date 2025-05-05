@@ -26,7 +26,7 @@ Leer hoe u door de gebruikersinterface kunt navigeren en vertrouwd raakt met uw 
 
 ## Aanvullende bronnen
 
-* [[!DNL Marketo Engage]  verklarende woordenlijst ](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
+* [[!DNL Marketo Engage]  verklarende woordenlijst ](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=nl-NL)
 Definities voor veel van de termen die u kunt tegenkomen bij het gebruik van Marketo.
-* [ Verklarende woordenlijst van het Pictogram ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
+* [ Verklarende woordenlijst van het Pictogram ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=nl-NL)
 Verklarende woordenlijst van de pictogrammen voor de interface [!DNL Marketo Engage] .

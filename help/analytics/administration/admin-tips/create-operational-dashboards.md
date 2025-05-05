@@ -49,7 +49,7 @@ Laat me jullie door de drie operationele dashboards laten lopen die ik voor mijn
 
 Geloofd van de eindeloze herhaling van antwoorden? Stop! Bespaar tijd door een FAQ-dashboard te maken. Gebruikers kunnen deze vragen of er snel een koppeling naar maken in hun reacties.
 
-Creëer enkel [ tekstvisualisaties ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html) met vragen die als titels en antwoorden/verklaringen als inhoud worden geformatteerd, allen doen ineenstorten om enkel de vraag te tonen. Groepeer ze op relevantie (bijvoorbeeld pagina&#39;s of producten) of gebruik deelvensters. Houd het eenvoudig, die gemeenschappelijke vragen bij de bovenkant voorrang geven.
+Creëer enkel [ tekstvisualisaties ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=nl-NL) met vragen die als titels en antwoorden/verklaringen als inhoud worden geformatteerd, allen doen ineenstorten om enkel de vraag te tonen. Groepeer ze op relevantie (bijvoorbeeld pagina&#39;s of producten) of gebruik deelvensters. Houd het eenvoudig, die gemeenschappelijke vragen bij de bovenkant voorrang geven.
 
 Werk uw Veelgestelde dashboard bij in plaats van lange e-mails te schrijven of oude uitleg opnieuw te ontdekken. Start nu en vouw de tijd uit. Gebruik hyperlinks om te verwijzen naar andere dashboards of verwante veelgestelde vragen in rapporten. Complexe context bieden wanneer dat nodig is door een koppeling te maken van andere dashboards naar veelgestelde vragen.
 

@@ -42,8 +42,8 @@ Deze serie &#39;Implementeren van nieuwe tips en trucs&#39; is afkomstig van Ado
 
 * [ die Gebieden voor de Inheemse Verbindingen van CRM synchroniseren ](/help/marketo-tutorial-implementing-new-instance/syncing-fields-for-crm-integration.md)
   *Leer hoe te om uw aanvankelijke integratie van CRM te stroomlijnen door de essentiële gebieden van CRM voor te gebruiken Marketo Engage strategisch te selecteren. Voer de oefening van het Woordenboek van Gegevens uit om de gebieden te identificeren u voor een vlotte synchronisatie nodig hebt van CRM die verkoop en marketing teams helpt gericht blijven.*
-   * [ Begonnen het worden met synchronisatie Salesforce ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup) {target="_blank}
-   * [ Begonnen het worden met de synchronisatie van de Dynamica van Microsoft ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup) {target="_blank}
+   * [ Begonnen het worden met synchronisatie Salesforce ](https://experienceleague.adobe.com/nl/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup) {target="_blank}
+   * [ Begonnen het worden met de synchronisatie van de Dynamica van Microsoft ](https://experienceleague.adobe.com/nl/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup) {target="_blank}
 <br>
 
 * [ Organiserend een nieuwe instantie en het vestigen van noemende overeenkomsten ](/help/marketo-tutorial-implementing-new-instance/organizing-new-instance.md)
@@ -59,6 +59,6 @@ Deze serie &#39;Implementeren van nieuwe tips en trucs&#39; is afkomstig van Ado
 
 ## Aanvullende bronnen
 
-* [ Uitvoerend een nieuwe Instantie van het Marketo Engage met beste praktijken checklists ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start) {target="_blank}
+* [ Uitvoerend een nieuwe Instantie van het Marketo Engage met beste praktijken checklists ](https://experienceleague.adobe.com/nl/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start) {target="_blank}
   *Elke controlelijst verstrekt waardevolle stappen voor u om spoor van uw configuratievooruitgang te houden. Gebruik downloadbare controlelijsten om uw werk langs de manier voor toekomstige instantiecontroles en gebruiker te documenteren onboarding.*
 

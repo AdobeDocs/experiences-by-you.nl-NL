@@ -268,7 +268,7 @@ Ik wil echter benadrukken dat ik het gebruik van zowel [!DNL Adobe Analytics] al
 
 Naast deze handleiding beschikt u over veel bronnen die u kunnen helpen uw strategie te verbeteren:
 
-* [[!DNL Adobe]  Experience League ](https://experienceleague.adobe.com/#home) - bevat leerprogramma&#39;s, video&#39;s, documentatie, en communautaire forums
+* [[!DNL Adobe]  Experience League ](https://experienceleague.adobe.com/nl#home) - bevat leerprogramma&#39;s, video&#39;s, documentatie, en communautaire forums
 * [[!DNL Adobe]  Groepen van de Gebruiker ](https://analytics-augs.adobe.com/) - een hub van gemeenschap-in werking gestelde gebeurtenissen om gebruikers te helpen met elkaar verbinden en hun implementaties verbeteren.
 * [[!DNL Adobe Analytics]  Kanaal van de Groepen van de Gebruiker YouTube ](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - kon geen [!DNL Adobe Analytics] zitting van de gebruikersgroep maken? Bekijk vorige gebruikersgroepssessies over de hele wereld opnieuw voor meer informatie over hoe uw collega&#39;s het gereedschap gebruiken.
 * [ het kanaal van de Slack van het Praatje van de Meting ](https://www.measure.chat/) - verbind met [!DNL Adobe Analytics] gebruikers over de wereld en deel industrieleerlingen, stel vragen van uw edelen, en sluit zich bij meting geconcentreerde belangengroepen aan.

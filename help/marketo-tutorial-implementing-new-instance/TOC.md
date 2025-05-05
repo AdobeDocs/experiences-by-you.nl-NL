@@ -26,5 +26,5 @@ ht-degree: 2%
 + [Een nieuw exemplaar organiseren en naamconventies instellen](./organizing-new-instance.md)
 + [Omnichannel marketing ontwerpen met Dynamic Chat](./designing-omnichannel-conversational-marketing.md)
 + [Aan de slag met Instance Governance en documentatie](./documenting-your-instance.md)
-+ [[!DNL Marketo Engage]  leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)
-+ [ Terug naar perspectieven ](https://experienceleague.adobe.com/en/perspectives#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
++ [[!DNL Marketo Engage]  leerprogramma&#39;s ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=nl-NL)
++ [ Terug naar perspectieven ](https://experienceleague.adobe.com/nl/perspectives#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))

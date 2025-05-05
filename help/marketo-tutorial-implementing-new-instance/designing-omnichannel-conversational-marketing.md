@@ -26,7 +26,7 @@ Deze zelfstudie beschrijft het denkproces en de gevallen van primair gebruik die
 
 Bezoekers kunnen om een bepaalde reden door uw website bladeren. Ze zoeken mogelijk naar inhoud op uw product(en) of service(s) of zoeken contactgegevens om contact op te nemen met uw vertegenwoordigers. Ze kunnen ook uw klanten zijn die op zoek zijn naar aanvullende productinformatie. Met Chat kunnen bezoekers van uw website zichzelf bedienen en zichzelf kwalificeren als ze klaar zijn om met uw verkoopteam te spreken.
 
-Toen Sara Barriuso Dynamic Chat uitvoerde, werd zij getrokken door zijn naadloze integratie met Marketo Engage en de [ prebuilt activiteitentrekkers ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"}  die de programma&#39;s van het Marketo Engage en vice versa activeren. Ze ontwikkelde haar strategieën voor conversatie-betrokkenheid met drie doelgroepen in gedachten:
+Toen Sara Barriuso Dynamic Chat uitvoerde, werd zij getrokken door zijn naadloze integratie met Marketo Engage en de [ prebuilt activiteitentrekkers ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"}  die de programma&#39;s van het Marketo Engage en vice versa activeren. Ze ontwikkelde haar strategieën voor conversatie-betrokkenheid met drie doelgroepen in gedachten:
 
 1. Onbekende vooruitzichten: proactief demonstratieoproepen aanbieden om nieuwe leads te genereren.
 2. Bekende leads/klanten: vergroot de tijd die bezoekers besteden aan het bladeren door inhoud en bied demo-oproepen aan om upsell- en cross-sell-mogelijkheden te genereren.
@@ -193,7 +193,7 @@ Uitbreiding van betrokkenheid bij inhoud campagne - Configuratie:
 
 ## Wat nu?
 
-* Wijs uit uw gespreksstroom in [ Stroom Designer ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"}  of een stroomgrafiek offline toe.
+* Wijs uit uw gespreksstroom in [ Stroom Designer ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"}  of een stroomgrafiek offline toe.
 * Een standaard catch-all-dialoogvenster in Dynamic Chat maken.
 * Activeer de conversaties na de campagne met behulp van automatische triggers in Marketo Engage.
 

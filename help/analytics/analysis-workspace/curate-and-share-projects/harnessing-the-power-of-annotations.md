@@ -44,7 +44,7 @@ Het maken en bewerken van annotaties is intuïtief en vrijwel vanzelfsprekend. K
 ![ 2ndimage ](assets/2ndimage.png){width="70%"}![3rdimage](assets/3rdimage.png){width="30%"}
 
 
-Voor alle details van hoe het werk van Annotaties, ben zeker om het [ videoleerprogramma op Experience League ](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace) te zien.
+Voor alle details van hoe het werk van Annotaties, ben zeker om het [ videoleerprogramma op Experience League ](https://experienceleague.adobe.com/nl/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace) te zien.
 
 ## Tips en trucs om aan de slag te gaan
 
@@ -75,7 +75,7 @@ Tot slot zijn er enkele handige tips om u meteen met annotaties te laten beginne
 
 ![ 9thimage ](assets/9thimage.png)
 
-Voor gedetailleerde documentatie, gelieve te bezoeken [ overzicht van Annotaties ](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/annotations/overview) en omringende artikelen.
+Voor gedetailleerde documentatie, gelieve te bezoeken [ overzicht van Annotaties ](https://experienceleague.adobe.com/nl/docs/analytics/analyze/analysis-workspace/components/annotations/overview) en omringende artikelen.
 
 ## Auteur
 
