@@ -47,7 +47,7 @@ Mijn eerste set Bezoek intent-segmenten was:
 
 Om mijn segmenten van de Intentie van het Bezoek gemakkelijk te maken te gebruiken, stelde ik mijn segmentnamen met &quot;Intent:&quot;vooraf in, gaf hen een aantal om het sorteren toe te laten, en etiketteerde hen &quot;intent&quot;. Mijn segmenten zagen eruit als de onderstaande afbeelding.
 
-![ intent segmenten ](assets/intent-segments.png)
+![&#x200B; intent segmenten &#x200B;](assets/intent-segments.png)
 
 **ga vooruit en creeer uw Segmenten van de Intentie van het Bezoek gebruikend de container van Bezoekers met een placeholder definitie van de Meningen van de Pagina >= 1.**
 
@@ -55,7 +55,7 @@ Zoals we zullen zien, is het bouwen van deze segmenten een herhalend en onderlin
 
 ## Bezoek Intent Segment Data Quality Workspace
 
-![ de werkruimte van de de intentie van het bezoek ](assets/visit-intent-workspace.png)
+![&#x200B; de werkruimte van de de intentie van het bezoek &#x200B;](assets/visit-intent-workspace.png)
 
 Ik gebruikte een eenvoudige werkruimte om ervoor te zorgen dat ik mijn segmenten van de Intentie van het Bezoek goed definieerde. Herinner me, moet elk bezoek tot één, en slechts één, segment van de Intentie van het Bezoek behoren. De werkruimte die ik heb ingesteld, zorgt ervoor dat alle bezoeken worden verantwoord en dat er geen overlapping tussen de segmenten is.
 
@@ -65,13 +65,13 @@ De belangrijkste visualisatie in deze werkruimte is de segmentoverlap in de vrij
 
 De volgende belangrijkste visualisaties zijn de summiere metriek bij de hoogste linkerzijde. De samenvatting van Gesegmenteerde Bezoeken neemt zijn waarde uit de Al kolom van Bezoeken in de Overlap van het Segment onmiddellijk hieronder visualisatie. De samenvatting van alle bezoeken heeft zijn eigen verborgen lijst.
 
-![ alle bezoeken ](assets/all-visits.png)
+![&#x200B; alle bezoeken &#x200B;](assets/all-visits.png)
 
 Rechtsboven heb ik aanvullende metriek toegevoegd aan elk van de segmenten om wat &quot;smaak&quot; te geven aan hoe de segmenten zich vormgeven. In het bijzonder, omdat deze segmenten elkaar wederzijds uitsluiten, verwacht ik slechts boekingen voor het segment van de Intentie van de Boek (vrees niet, zullen wij aan omzettingspercentages krijgen wanneer wij deze op bezoeker-gebaseerde segmenten van de Intentie van Bezoek maken.
 
 Onthoud dat we zojuist plaatsaanduidingssegmenten hebben gemaakt. In eerste instantie zal je werkruimte er gek uitzien. Alle segmenten met bezoekintentie overlappen 100% omdat ze dezelfde definitie hebben. Dit is correct, en precies wat u op dit punt in het proces wilt zien. Terwijl we de segmentdefinities maken, zult u beginnen te zien dat deze segmenten vorm krijgen.
 
-![ de definities van het de intentsegment van het Bezoek ](assets/visit-intent-segment-defs.png)
+![&#x200B; de definities van het de intentsegment van het Bezoek &#x200B;](assets/visit-intent-segment-defs.png)
 
 ## Uw eerste segment met bezoekintentie maken
 
@@ -91,11 +91,11 @@ Vandaag, zullen wij onze eerste, en gemakkelijkste, segment bepalen, One Hit Won
 
 Mijn eerste segment, &quot;One Hit Wonders&quot;, was eenvoudig te definiëren. Het is gewoon een bezoek met slechts één paginaweergave. We weten echt niet waarom die gebruiker op de website stond, omdat ze op de boog stuitten. Ik veronderstel wij een intent konden veronderstellen die op hun ingangspagina wordt gebaseerd, maar met slechts één paginamening, is er enkel niet genoeg informatie om een geïnformeerde raad over intentie te maken.
 
-![ de definitie van het Segment ](assets/segment-def.png)
+![&#x200B; de definitie van het Segment &#x200B;](assets/segment-def.png)
 
 Nadat u dit segment hebt gedefinieerd, ziet u hoe uw Visit Intent-Workspace vorm krijgt.
 
-![ Meer segmentdefinities ](assets/more-segment-defs.png)
+![&#x200B; Meer segmentdefinities &#x200B;](assets/more-segment-defs.png)
 
 Het samenstellen van klantenswitches met [!DNL Adobe Analytics] is een uitdagend maar belonend proces. Door op gedrag-gebaseerde segmenten tot stand te brengen, publieksgrootte te schatten, en gebruikersbewegingen te volgen, kunnen de ondernemingen media personaliseren en klantenervaring verbeteren. Elk bedrijf is uniek, en er zijn geen specifieke formules voor het creëren van segmenten, maar richtlijnen en een te volgen proces. De segmenten zouden moeten worden bijgewerkt aangezien de ondernemingen meer over hun klanten leren, die rapporteringsuitdagingen voorstelt. Door het proces te volgen om de segmenten van de Intentie van het Bezoek te bouwen, kunnen de ondernemingen algemene klantenervaring verbeteren.
 
@@ -103,7 +103,7 @@ Het samenstellen van klantenswitches met [!DNL Adobe Analytics] is een uitdagend
 
 Dit document is geschreven door:
 
-![ Aaron Fossum ](assets/aaron-headshot.png)
+![&#x200B; Aaron Fossum &#x200B;](assets/aaron-headshot.png)
 
 **Aaron Fossum**, Director, Digitaal [!DNL Analytics]
 

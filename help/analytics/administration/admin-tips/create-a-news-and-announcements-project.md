@@ -22,7 +22,7 @@ ht-degree: 0%
 
 **WAT:** creeer een project van het &quot;Nieuws &amp; van Mededelingen&quot;binnen Workspace, dat hoofdzakelijk tekst zal zijn, en het met het volledige bedrijf zal delen. U hoeft dit niet te forceren als een openingspagina voor uw gebruikers (hoewel u dit kunt), omdat dit elke keer dat het wordt bijgewerkt, boven aan de lijst zweeft.
 
-**WAAROM:** Uw gebruikers willen waarschijnlijk niet opnieuw e-mail telkens als iets binnen [!DNL Adobe Analytics] wordt veranderd. En verwacht uw gebruikers om uw interne [!DNL Adobe Analytics] plaats regelmatig te controleren (Samenhang of andere - zie [ een interne  [!DNL Adobe Analytics]  plaats ](create-an-internal-adobe-analytics-site.md) uiteinde creëren) is een uitrekking. In plaats daarvan kunt u Workspace gebruiken zodat ze niet uit de interface hoeven te stappen. Telkens wanneer ze zich aanmelden, zien ze het dashboard Nieuws en aankondigingen.
+**WAAROM:** Uw gebruikers willen waarschijnlijk niet opnieuw e-mail telkens als iets binnen [!DNL Adobe Analytics] wordt veranderd. En verwacht uw gebruikers om uw interne [!DNL Adobe Analytics] plaats regelmatig te controleren (Samenhang of andere - zie [&#x200B; een interne  [!DNL Adobe Analytics]  plaats &#x200B;](create-an-internal-adobe-analytics-site.md) uiteinde creëren) is een uitrekking. In plaats daarvan kunt u Workspace gebruiken zodat ze niet uit de interface hoeven te stappen. Telkens wanneer ze zich aanmelden, zien ze het dashboard Nieuws en aankondigingen.
 
 **HOE:** Login aan Workspace en creeer een nieuw project. Zorg ervoor dat dit project wordt gedeeld met iedereen op de org in de projectinstellingen. De bovenkant (beschrijving) van dit project kan naar uw interne [!DNL Adobe Analytics] -site verwijzen en de beste contactpersoon of DL oproepen. Ik stel dan vier paragrafen voor die allemaal gebaseerd zijn op tekst:
 
@@ -51,11 +51,11 @@ ht-degree: 0%
 
 Dit document is medegeschreven door:
 
-![ Christel Guidon ](assets/Christel-Headshot-150.png)
+![&#x200B; Christel Guidon &#x200B;](assets/Christel-Headshot-150.png)
 
 Christel Guidon, Digital [!DNL Analytics] Platform Manager bij NortonLifeLock
 [!DNL Adobe Analytics] Champion
 
-![ Rachel Fenwick ](assets/Rachel-Fenwick-150.png)
+![&#x200B; Rachel Fenwick &#x200B;](assets/Rachel-Fenwick-150.png)
 
 Rachel Fenwick, senior consultant bij [!DNL Adobe]

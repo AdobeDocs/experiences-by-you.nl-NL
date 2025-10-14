@@ -38,7 +38,7 @@ In deze zelfstudie duiken we naar de specifieke mijlpalen, teamafspraken en bron
 
 ### Fase 3 - Maken van programmabibliotheek en instellen van campagne
 
-- E-mailsjablonen ontwikkelen en pagina&#39;s landen. Beginnend met [ invoerend starterprogramma&#39;s ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) van de [ Bibliotheek van de Invoer van het Programma ](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
+- E-mailsjablonen ontwikkelen en pagina&#39;s landen. Beginnend met [&#x200B; invoerend starterprogramma&#39;s &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) van de [&#x200B; Bibliotheek van de Invoer van het Programma &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
 - Segmentering en Personalization-regels instellen
 - Aanvankelijke campagnes opzetten voor het opwekken en voeden van lood
 
@@ -134,7 +134,7 @@ Heer Marketo Engage Champion (2019), Kyle McCormick, over zijn ervaringen bij he
 
 Maak een nieuw implementatieprojectplan en een tijdlijn. Hieronder ziet u een tijdlijn voor een voorbeeldproject met secties voor voorbeeldmijlpalen, taken, verantwoordelijke teams, deadlines en afhankelijkheden. Gebruik dit programma om de implementatie van uw Marketo Engage te stroomlijnen en ervoor te zorgen dat de implementatie in de hele organisatie succesvol verloopt.
 
-U kunt het voorbeeld voor het uitgeven van en het volgen van specifieke milestone taken [ HERE ](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx) ook downloaden.
+U kunt het voorbeeld voor het uitgeven van en het volgen van specifieke milestone taken [&#x200B; HERE &#x200B;](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx) ook downloaden.
 
 <table>
  <thead>
@@ -294,7 +294,7 @@ U kunt het voorbeeld voor het uitgeven van en het volgen van specifieke mileston
 >[!NOTE]
 >Voorbeelden die worden gegeven, zijn niet gebaseerd op een tijdslijn van werkelijke implementatie. Vertrouw niet op deze schema&#39;s als een standaardtijdlijn voor het instappen met Marketo Engage, aangezien elke implementatie uniek is met verschillende mijlpalen en vereisten afhankelijk van de behoeften van uw organisatie.
 
-Voor hand-in-hand hulp in het uitvoeren van en het aanpassen van uw Marketo Engage voor uw instantie, gelieve het Team van de Rekening van de Adobe te contacteren of uit te reiken aan [ Adobe Professional Services ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Voor hand-in-hand hulp in het uitvoeren van en het aanpassen van uw Marketo Engage voor uw instantie, gelieve het Team van de Rekening van de Adobe te contacteren of uit te reiken aan [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
 
 ### Auteur
 

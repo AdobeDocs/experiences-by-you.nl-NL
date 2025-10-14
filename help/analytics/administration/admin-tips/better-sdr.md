@@ -65,13 +65,13 @@ _leer over de metingsconferentie. Gebruik een trechter kaart om elke stap van uw
 1. Met de ontwerpers en productmanagers, ga door elke stap en bespreek wat iedereen als succes in die trechter beschouwt. Is het de omrekeningskoers? Kies zij een bepaald pad? Gebruikt het bepaalde functies?
 1. Stel vragen over welke metriek en afmetingen nodig zijn om de prestaties van de trechter in elke stap van de trechter en in het algemeen te begrijpen.
 1. Voeg boven elke stap van de trechter de metriek en de afmetingen toe die bij die stap, met inbegrip van de berekende metriek worden gemeten.
-1. Aan het begin van elke trechter, schrijf de rapporten uit die in het dashboard gaan die de productmanager kan gebruiken om prestaties te volgen. Deze rapporten omvatten a [ reserverapport ](https://experienceleague.adobe.com/nl/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow), [ huidige maand ](https://experienceleague.adobe.com/nl/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges), [ trended omzettingspercentages ](https://experienceleague.adobe.com/nl/docs/analytics/analyze/analysis-workspace/visualizations/line), en om het even wat specifieker op dat trechter.
+1. Aan het begin van elke trechter, schrijf de rapporten uit die in het dashboard gaan die de productmanager kan gebruiken om prestaties te volgen. Deze rapporten omvatten a [&#x200B; reserverapport &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow), [&#x200B; huidige maand &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges), [&#x200B; trended omzettingspercentages &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics/analyze/analysis-workspace/visualizations/line), en om het even wat specifieker op dat trechter.
 1. Voeg de nieuwe metriek en de afmetingen toe u aan SDR hebt ontdekt en verzend het naar de belanghebbenden voor een tweede overzicht.
 
 ### De voorvertoningsdashboards
 
 1. Gebruik de trechter-kaart als richtlijn om mockup-dashboards te maken.
-1. Er zou een algemene mening, zoals een [ Uitvoerend Samenvattend Dashboard ](driving-success-with-executive-summary-dashboards.md), en dashboards voor elk van de trechters moeten zijn.
+1. Er zou een algemene mening, zoals een [&#x200B; Uitvoerend Samenvattend Dashboard &#x200B;](driving-success-with-executive-summary-dashboards.md), en dashboards voor elk van de trechters moeten zijn.
 1. Er zijn ook enkele specifiekere opties voor uw site of toepassing, zoals de prestaties van producten of inhoud.
 1. Geef deze informatie door aan de relevante belanghebbenden en krijg feedback over het ontwerp.
 1. Breng de gewenste updates aan en voeg deze toe aan uw SDR als er nieuwe maatstaven of dimensies nodig zijn.
@@ -115,7 +115,7 @@ Eigendom is het product van iemands diepste gedachte en zijn werk met u en colle
 
 ### De gegevens vereenvoudigen
 
-U hebt hen ook getoond hoe zij het proces zullen gebruiken en wat het als door de [ voorproefdashboards ](#the-preview-dashboards) zal kijken. Om het even welke nieuwe oplossing is hard __. Er is zoveel te leren, en gezien de enorme aanpasbaarheid van [!DNL Adobe Analytics], kan de leercurve steil zijn. Daar heb je 80% van verwijderd. Zelfs voordat de eerste coderegel is geschreven, weten uw belanghebbenden hoe hun dashboards eruit zullen zien. Ze zullen weten hoe ze ze kunnen lezen en betekenis ervan krijgen. Ze zullen weten hoe succes er letterlijk uitziet, omdat ze je hebben verteld welke maatstaven en dimensies succes definiëren. Je hebt ze verteld hoe dat succes voor hen zichtbaar zal zijn. De levering van de daadwerkelijke dashboards is een verfrisser, niet een eng nieuwe leertaak.
+U hebt hen ook getoond hoe zij het proces zullen gebruiken en wat het als door de [&#x200B; voorproefdashboards &#x200B;](#the-preview-dashboards) zal kijken. Om het even welke nieuwe oplossing is hard __. Er is zoveel te leren, en gezien de enorme aanpasbaarheid van [!DNL Adobe Analytics], kan de leercurve steil zijn. Daar heb je 80% van verwijderd. Zelfs voordat de eerste coderegel is geschreven, weten uw belanghebbenden hoe hun dashboards eruit zullen zien. Ze zullen weten hoe ze ze kunnen lezen en betekenis ervan krijgen. Ze zullen weten hoe succes er letterlijk uitziet, omdat ze je hebben verteld welke maatstaven en dimensies succes definiëren. Je hebt ze verteld hoe dat succes voor hen zichtbaar zal zijn. De levering van de daadwerkelijke dashboards is een verfrisser, niet een eng nieuwe leertaak.
 
 Dit is niet noodzakelijk de snelste manier om een SDR samen te krijgen. Het is een hoop werk en vereist veel coördinatie van schema&#39;s, vooral omdat het essentieel is dat je een aantal leidinggevenden in de mix hebt. Uiteindelijk is een oplossing voor bedrijfsanalyses echter een enorme investering in tijd en geld, en u wilt ervoor zorgen dat adoptie en tevredenheid hoog zijn. Deze methode is een hele stap in de goede richting.
 
@@ -123,7 +123,7 @@ Dit is niet noodzakelijk de snelste manier om een SDR samen te krijgen. Het is e
 
 Dit document is geschreven door:
 
-![ gitai-hoofd ](assets/gitai-headshot-150.jpg)
+![&#x200B; gitai-hoofd &#x200B;](assets/gitai-headshot-150.jpg)
 
 Gitai Ben-Ammi, Business Architecture Associate Manager bij Accenture
 

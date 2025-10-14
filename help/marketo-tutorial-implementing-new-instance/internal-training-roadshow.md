@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Wanneer u een nieuwe [!DNL Marketo Engage] -instantie live brengt, is het tijd om de relevante teams snel te laten werken om [!DNL Marketo Engage] te gebruiken voor hun taken.
 
-Deze interne onboarding en opleiding beste praktijken werden verstrekt door Naomi Liu, een klant van Adobe Marketo Engage, deelt [ intern onboarding ](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931) {target="_blank} en [ opleidings beste praktijken ](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237) {target="_blank} afgeleid uit haar ervaring die een nieuw geval voor Elektronica voor de globale teams van de Beeldvorming uitvoert. Volg haar inzichten om een efficiënt opleidingsplan voor uw interne teams te ontwerpen.
+Deze interne onboarding en opleiding beste praktijken werden verstrekt door Naomi Liu, een klant van Adobe Marketo Engage, deelt [&#x200B; intern onboarding &#x200B;](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931) {target="_blank} en [&#x200B; opleidings beste praktijken &#x200B;](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237) {target="_blank} afgeleid uit haar ervaring die een nieuw geval voor Elektronica voor de globale teams van de Beeldvorming uitvoert. Volg haar inzichten om een efficiënt opleidingsplan voor uw interne teams te ontwerpen.
 
 ## Waarom een intern instapplan ontwikkelen terwijl u het nieuwe exemplaar uitvoert?
 
@@ -48,7 +48,7 @@ Als beheerder moet u zich eerst in [!DNL Marketo Engage] -bronnen bevinden, zoal
 
 ## Voorbeeld van studieprogramma: interne trainingspresentaties
 
-Hier volgt een voorbeeld van een trainingsstudieprogramma dat door Naomi Liu wordt voorgesteld om u aan te passen aan uw marketingpartners. Download het [ leerplan van de steekproefopleiding ](assets/adobe-marketo-engage-internal-training-roadshows.xlsx) {_target= &quot;leeg&quot;} voor uw off-line aanpassing.
+Hier volgt een voorbeeld van een trainingsstudieprogramma dat door Naomi Liu wordt voorgesteld om u aan te passen aan uw marketingpartners. Download het [&#x200B; leerplan van de steekproefopleiding &#x200B;](assets/adobe-marketo-engage-internal-training-roadshows.xlsx) {_target= &quot;leeg&quot;} voor uw off-line aanpassing.
 
 | Sessietitel | Doelstellingen | Trainingsmethoden | Tijdtoewijzing |
 |--- |--- |--- |--- |
@@ -64,7 +64,7 @@ Hier volgt een voorbeeld van een trainingsstudieprogramma dat door Naomi Liu wor
 
 ## Wat nu?
 
-* Download het [ leerplan van de steekproefopleiding ](assets/adobe-marketo-engage-internal-training-roadshows.xlsx) {_target= &quot;lege&quot;} spreadsheet om uw interne opleidingsmodules te ontwikkelen.
+* Download het [&#x200B; leerplan van de steekproefopleiding &#x200B;](assets/adobe-marketo-engage-internal-training-roadshows.xlsx) {_target= &quot;lege&quot;} spreadsheet om uw interne opleidingsmodules te ontwikkelen.
 * Vul de teams in die voor het zittingsonderwerp juist zijn.
 * Selecteer de methode(n) die u wilt gebruiken om trainingsmateriaal te maken.
 

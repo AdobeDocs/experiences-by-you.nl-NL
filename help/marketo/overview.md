@@ -76,7 +76,7 @@ Het krachtigste aan [!DNL Adobe] Experience Cloud oplossingen? Jij. De gebruiker
 
 ## Aanvullende bronnen
 
-* [ Natie van Marketo (gemeenschappen) ](https://nation.marketo.com/)
-* [ Documentatie van Adobe Marketo Engage ](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=nl-NL)
-* [ Tutorials van Adobe Marketo Engage ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=nl-NL)
-* [ het productinformatie van Adobe Marketo Engage ](https://business.adobe.com/products/marketo/adobe-marketo.html)
+* [&#x200B; Natie van Marketo (gemeenschappen) &#x200B;](https://nation.marketo.com/)
+* [&#x200B; Documentatie van Adobe Marketo Engage &#x200B;](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=nl-NL)
+* [&#x200B; Tutorials van Adobe Marketo Engage &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=nl-NL)
+* [&#x200B; het productinformatie van Adobe Marketo Engage &#x200B;](https://business.adobe.com/products/marketo/adobe-marketo.html)

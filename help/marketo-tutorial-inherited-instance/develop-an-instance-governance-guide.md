@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Ontwikkelen van een handleiding voor instantiebeheer met documentatie
 
-Wanneer u een verouderde [!DNL Marketo Engage] -instantie opent, komt deze vaak met het ontbreken van actuele functionele en technische documentatie. Als beheerder is het opstellen van richtlijnen voor een goed beheer van instanties een kernverantwoordelijkheid die u niet over het hoofd kunt zien. Het is één van de kritieke strategieën aan [ aandrijvingsefficiency aangezien u in een gevestigde  [!DNL Marketo Engage]  instantie ](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582) werkt.
+Wanneer u een verouderde [!DNL Marketo Engage] -instantie opent, komt deze vaak met het ontbreken van actuele functionele en technische documentatie. Als beheerder is het opstellen van richtlijnen voor een goed beheer van instanties een kernverantwoordelijkheid die u niet over het hoofd kunt zien. Het is één van de kritieke strategieën aan [&#x200B; aandrijvingsefficiency aangezien u in een gevestigde  [!DNL Marketo Engage]  instantie &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582) werkt.
 
 Deze stapsgewijze zelfstudie, die is afkomstig van [!DNL [!DNL Adobe] Marketo Champion] (2018), Nick Hajdin, begeleidt u door dit proces om de installatie van uw exemplaar te schetsen, uw primaire operationele programma&#39;s te documenteren en een [!DNL changelog] te onderhouden om een strikt governancebeleid af te dwingen.
 
@@ -30,7 +30,7 @@ Gedetailleerde documentatie en een [!UICONTROL Changelog] zijn van essentieel be
 
 1. Interne gebruikers gemakkelijker op schaalbare wijze trainen.
 2. Op de lange termijn efficiënter bouwen in [!DNL Marketo Engage].
-3. Handhaaf de gezondheid en de hygiëne van uw instantie die zich voorwaarts beweegt om u te besparen van het uitgeven van uren die in e-mail graven, [ controletraject ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=nl-NL), en [ activiteitenlogboek ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=nl-NL) om context te krijgen.
+3. Handhaaf de gezondheid en de hygiëne van uw instantie die zich voorwaarts beweegt om u te besparen van het uitgeven van uren die in e-mail graven, [&#x200B; controletraject &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=nl-NL), en [&#x200B; activiteitenlogboek &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=nl-NL) om context te krijgen.
 4. Bespaar tijd bij het overdragen van [!DNL Marketo Engage] kennis naar een nieuwe [!DNL Marketo Engage] -beheerder als uw team omzet ervaart.
 
 ## [!DNL Marketo Engage] handleiding voor governance 101
@@ -52,7 +52,7 @@ Een governancegids fungeert als de bron van de waarheid over de installatie van 
 
 ### Stap 2: Identificeer de elementen die u wilt opnemen in uw [!DNL Marketo Engage] documentatie en [!DNL Changelogs]
 
-De indeling varieert van een cloudplatform tot een gedeeld document. U kunt de indeling ontwerpen die aan de behoeften van uw organisatie voldoet. [ hier is een eenvoudige documentatie &amp; van het kanaalexcel malplaatje ](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) die de belangrijke elementen behandelen die u kunt beginnen met. Deze omvatten:
+De indeling varieert van een cloudplatform tot een gedeeld document. U kunt de indeling ontwerpen die aan de behoeften van uw organisatie voldoet. [&#x200B; hier is een eenvoudige documentatie &amp; van het kanaalexcel malplaatje &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) die de belangrijke elementen behandelen die u kunt beginnen met. Deze omvatten:
 
 * Documentatie
    * Naam programmasjabloon
@@ -94,7 +94,7 @@ Plan regelmatige revisies van uw documentatie om ervoor te zorgen dat deze accur
 
 ## Wat nu?
 
-Krijg Begonnen door dit [ eenvoudige malplaatje ](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) te downloaden.
+Krijg Begonnen door dit [&#x200B; eenvoudige malplaatje &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) te downloaden.
 
 Volg de bovenstaande stappen om uw governancehandleiding en documentatie te ontwikkelen. Houd rekening met de volgende duimregels wanneer u het proces doorloopt:
 
@@ -114,9 +114,9 @@ Door uitgebreide en actuele documentatie voor uw [!DNL Marketo Engage] -instanti
 [!DNL [!DNL Adobe] Marketo Champion] (2018)
 *[!DNL Digital Technology Senior Manager at Accenture]*
 
-![ Nick Hajdin ](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}
+![&#x200B; Nick Hajdin &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}
 
 **Amy Chiu**
 *Beheer van toepassings- en retentiemarkering,[!DNL Adobe]*
 
-![ Amy Chiu ](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png) {width=30%}
+![&#x200B; Amy Chiu &#x200B;](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png) {width=30%}

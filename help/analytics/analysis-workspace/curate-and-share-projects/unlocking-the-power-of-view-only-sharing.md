@@ -46,7 +46,7 @@ Als u [!DNL Adobe Analytics] aanneemt binnen een organisatie, kunnen alle gebrui
 
 Dit document is geschreven door:
 
-![ Leo Lau ](assets/leo_headshot.png)
+![&#x200B; Leo Lau &#x200B;](assets/leo_headshot.png)
 
 **Leo Lau**, Director, MarTech Lead Asia
 

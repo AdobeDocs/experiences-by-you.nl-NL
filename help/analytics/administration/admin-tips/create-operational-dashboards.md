@@ -49,7 +49,7 @@ Laat me jullie door de drie operationele dashboards laten lopen die ik voor mijn
 
 Geloofd van de eindeloze herhaling van antwoorden? Stop! Bespaar tijd door een FAQ-dashboard te maken. Gebruikers kunnen deze vragen of er snel een koppeling naar maken in hun reacties.
 
-Creëer enkel [ tekstvisualisaties ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=nl-NL) met vragen die als titels en antwoorden/verklaringen als inhoud worden geformatteerd, allen doen ineenstorten om enkel de vraag te tonen. Groepeer ze op relevantie (bijvoorbeeld pagina&#39;s of producten) of gebruik deelvensters. Houd het eenvoudig, die gemeenschappelijke vragen bij de bovenkant voorrang geven.
+Creëer enkel [&#x200B; tekstvisualisaties &#x200B;](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=nl-NL) met vragen die als titels en antwoorden/verklaringen als inhoud worden geformatteerd, allen doen ineenstorten om enkel de vraag te tonen. Groepeer ze op relevantie (bijvoorbeeld pagina&#39;s of producten) of gebruik deelvensters. Houd het eenvoudig, die gemeenschappelijke vragen bij de bovenkant voorrang geven.
 
 Werk uw Veelgestelde dashboard bij in plaats van lange e-mails te schrijven of oude uitleg opnieuw te ontdekken. Start nu en vouw de tijd uit. Gebruik hyperlinks om te verwijzen naar andere dashboards of verwante veelgestelde vragen in rapporten. Complexe context bieden wanneer dat nodig is door een koppeling te maken van andere dashboards naar veelgestelde vragen.
 
@@ -59,13 +59,13 @@ Als uw veelgestelde vragen compleet zijn, kunt u ze delen met het bedrijf voor c
 
 Hier zijn enkele schermafbeeldingen van hoe een FAQ-dashboard eruit kan zien:
 
-![ Screenshot 1 ](assets/screenshot-1_v2.png)
+![&#x200B; Screenshot 1 &#x200B;](assets/screenshot-1_v2.png)
 
-![ Laag Verkeer FAQ1 ](assets/low-traffic-faq.png)
+![&#x200B; Laag Verkeer FAQ1 &#x200B;](assets/low-traffic-faq.png)
 
-![ Veelgestelde Veelgestelde vragen van het Spoor Video ](assets/track-video-faq.png)
+![&#x200B; Veelgestelde Veelgestelde vragen van het Spoor Video &#x200B;](assets/track-video-faq.png)
 
-![ Veelgestelde vragen van de Downloads van het Spoor ](assets/track-downloads-faq.png)
+![&#x200B; Veelgestelde vragen van de Downloads van het Spoor &#x200B;](assets/track-downloads-faq.png)
 
 ## 2 - Het dashboard Nieuws en Mededelingen
 
@@ -82,7 +82,7 @@ Het behandelt onze nieuwe functies, het volgen, en vitale dashboards. Met hyperl
 
 Zo ziet mijn dashboard Nieuws en Aankondiging eruit:
 
-![ Screenshot 2 ](assets/screenshot-2.png)
+![&#x200B; Screenshot 2 &#x200B;](assets/screenshot-2.png)
 
 ## 3 - Bugs, eigenschappen en belangrijk versielogboek
 
@@ -100,7 +100,7 @@ Ik verwijs hier ook naar het Overzicht dashboards &amp; de Rapporten van de Koel
 
 Hier is een voorbeeld van hoe uw logboek kan kijken:
 
-![ Screenshot 3 ](assets/screenshot-3.png)
+![&#x200B; Screenshot 3 &#x200B;](assets/screenshot-3.png)
 
 Het maken van operationele dashboards in [!DNL Adobe Analytics] Workspace is voor mij een spelbreker geweest. Net als veel beheerders heb ik een interne hub beheerd en geworsteld met dubbele antwoorden en effectieve gebruikerscommunicatie. De behoefte aan dynamische bewaarplaatsen leidde tot het besef dat de Workspace-veelzijdigheid de betrokkenheid zou kunnen veranderen. Ik hoop dat u de kracht van operationele dashboards in [!DNL Adobe Analytics] Workspace omarmt. Verbeter de gebruikerservaring, bespaar tijd en geniet van een beter georganiseerde omgeving. Je reis begint nu, en deze dashboards zijn je sleutels tot efficiëntie en gebruiksvriendelijkheid.
 
@@ -108,7 +108,7 @@ Het maken van operationele dashboards in [!DNL Adobe Analytics] Workspace is voo
 
 Dit document is geschreven door:
 
-![ Christel Guidon ](assets/Christel-Headshot-150.png)
+![&#x200B; Christel Guidon &#x200B;](assets/Christel-Headshot-150.png)
 
 **Christel Guidon**, Digitale [!DNL Analytics] Manager van het Platform bij Gen
 

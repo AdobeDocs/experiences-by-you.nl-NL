@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Een interne [!DNL Adobe Analytics] -site maken (invloed of andere)
 
-**WAT:** als u de aanbeveling in [ dit uiteinde ](create-basic-videos-and-training.md){target="_blank"} hebt gehoord om opleidingsdocumenten tot stand te brengen, kunt u hen duidelijk niet op uw harde aandrijving houden. Maak een centrale locatie waar deze kunnen worden gedeeld en geraadpleegd door al uw gebruikers - een interne [!DNL Adobe Analytics] -site (Connect of andere) waar u al deze documenten kunt plaatsen en verschillende versies kunt onderhouden.
+**WAT:** als u de aanbeveling in [&#x200B; dit uiteinde &#x200B;](create-basic-videos-and-training.md){target="_blank"} hebt gehoord om opleidingsdocumenten tot stand te brengen, kunt u hen duidelijk niet op uw harde aandrijving houden. Maak een centrale locatie waar deze kunnen worden gedeeld en geraadpleegd door al uw gebruikers - een interne [!DNL Adobe Analytics] -site (Connect of andere) waar u al deze documenten kunt plaatsen en verschillende versies kunt onderhouden.
 
 **WAAROM:** De vestiging één enkele gedeelde bewaarplaats zal u één plaats aan alle nieuwe gebruikers geven en één enkele bron van waarheid in termen van de recentste versies van al uw documenten aanbieden. Het maakt optimaal versiebeheer en optimale samenwerking mogelijk.
 
@@ -39,11 +39,11 @@ Ik raad u ook aan om de koppeling naar deze site (en de trainingssectie) te dele
 
 Dit document is medegeschreven door:
 
-![ Christel Guidon ](assets/Christel-Headshot-150.png)
+![&#x200B; Christel Guidon &#x200B;](assets/Christel-Headshot-150.png)
 
 Christel Guidon, Digital [!DNL Analytics] Platform Manager bij NortonLifeLock
 [!DNL Adobe Analytics] Champion
 
-![ Rachel Fenwick ](assets/Rachel-Fenwick-150.png)
+![&#x200B; Rachel Fenwick &#x200B;](assets/Rachel-Fenwick-150.png)
 
 Rachel Fenwick, senior consultant bij [!DNL Adobe]

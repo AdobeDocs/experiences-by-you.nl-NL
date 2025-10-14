@@ -27,7 +27,7 @@ Leer hoe u in de sectie [!DNL Analytics] en Database kunt navigeren om verschill
 ## Aanvullende bronnen
 
 * **documentatie van het Product**
-Leer over de verschillende rapporten u kunt trekken - [ Meldend Overzicht ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=nl-NL&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
+Leer over de verschillende rapporten u kunt trekken - [&#x200B; Meldend Overzicht &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=nl-NL&sdid=M7K4SLTS&mv=email&mv2=instreml)
 
 * **Professionele klantenblog post**
-Leer van Chelsea Kiko van Champion bij het creëren van diverse rapporten - [ die in Diverse  [!DNL Marketo Engage]  Plaatsen ](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627) melden
+Leer van Chelsea Kiko van Champion bij het creëren van diverse rapporten - [&#x200B; die in Diverse  [!DNL Marketo Engage]  Plaatsen &#x200B;](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627) melden

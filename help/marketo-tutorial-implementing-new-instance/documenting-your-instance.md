@@ -23,7 +23,7 @@ Goede documentatie kan bijna net zo belangrijk zijn als de daadwerkelijke instan
 
 Maar het stopt daar niet. Uw team heeft mogelijk aanvullende machtigingsdocumenten of trainingsmateriaal nodig om hun ervaring met Marketo Engage te verbeteren. Deze bronnen kunnen interactieve oefeningen, quizzen voor toegang of richtlijnen voor toegestane acties binnen Marketo Engage bevatten, ten behoeve van alle gebruikers van het Marketo Engage binnen uw organisatie. Of het nu gaat om het maken van een uitgebreide governancehandleiding of het documenteren van belangrijke instellingsaspecten, het opnemen van beslissingen die tijdens instapweigering zijn genomen, is essentieel voor het waarborgen van succes met Marketo Engage voor uw huidige team en toekomstige generaties nieuwe huren.
 
-Door het belang van documentatie en bestuur te begrijpen, komt dit leerprogramma in de beste praktijken voort die uit deskundige edelen [ worden gebracht Begonnen op Uw Documentatie van de Marketo Engage van de Governance en van de Opleiding ](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421) {target="_blank} en [ hoe u uw instantie documenteert?](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877) {target="_blank} om u te helpen een proces op zijn plaats zetten en de documentatie relevant voor uw interne gebruikers houden.
+Door het belang van documentatie en bestuur te begrijpen, komt dit leerprogramma in de beste praktijken voort die uit deskundige edelen [&#x200B; worden gebracht Begonnen op Uw Documentatie van de Marketo Engage van de Governance en van de Opleiding &#x200B;](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421) {target="_blank} en [&#x200B; hoe u uw instantie documenteert?](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877) {target="_blank} om u te helpen een proces op zijn plaats zetten en de documentatie relevant voor uw interne gebruikers houden.
 
 ## Waarom het documenteren van veranderingen en besluiten tijdens instantieimplementatie essentieel is
 
@@ -68,7 +68,7 @@ Geef een leidraad voor uw beheer- en documentatieplan door te beginnen met de vo
    * Levenscyclus persoon
    * Data management
 1. Samenstellen in Marketo Engage-instantie
-   * [ Centrum van Uitmuntendheid (COE) ](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself) {target="_blank}
+   * [&#x200B; Centrum van Uitmuntendheid (COE) &#x200B;](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself) {target="_blank}
    * Mapstructuur
    * Naamgevingsconventies
    * Programmaorganisatie
@@ -103,7 +103,7 @@ Een andere kritieke manier van instantie bestuur is een Changelog te creëren en
 
 ## Wat nu?
 
-* Download de [ steekproefdocumentatie en Changelog ](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx) en pas hen aan die op de behoeften van uw organisatie worden gebaseerd.
+* Download de [&#x200B; steekproefdocumentatie en Changelog &#x200B;](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx) en pas hen aan die op de behoeften van uw organisatie worden gebaseerd.
 * Sla de documentatie op in een toegankelijk platform waar uw organisatie de voorkeur geeft aan referentie en werk deze regelmatig bij. Sommige Marketo Engage Champions gebruiken bijvoorbeeld het effect van het Afdichtingseffect (door het Atlassiaans) of het Werkblad van Excel.
 * Zorg ervoor dat elke regel die u maakt voor governance, een eigenaar heeft om deze toe te passen en de documentatie aan te passen, zodat deze in de loop der tijd up-to-date blijft.
 

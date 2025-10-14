@@ -48,7 +48,7 @@ Communiceer de aanbevolen actie en wat het kan doen om daar te komen.  Zorg ervo
 
 Dit document is geschreven door:
 
-![ Amy Ard ](assets/amy-ard-headshot-small.png)
+![&#x200B; Amy Ard &#x200B;](assets/amy-ard-headshot-small.png)
 
 Amy Ard, Director van [!DNL Analytics] bij Levelwing
 

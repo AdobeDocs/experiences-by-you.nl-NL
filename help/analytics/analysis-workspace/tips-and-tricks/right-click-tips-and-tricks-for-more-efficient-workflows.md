@@ -78,7 +78,7 @@ Ik hoop dat u deze tips goed kunt gebruiken en dat u hiermee tijd bespaart en me
 
 Dit document is geschreven door:
 
-![ Christel Guidon ](assets/christel-guidon.jpg)
+![&#x200B; Christel Guidon &#x200B;](assets/christel-guidon.jpg)
 
 **Christel Guidon**, Digitale [!DNL Analytics] Manager van het Platform bij Gen Digital
 

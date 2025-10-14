@@ -23,7 +23,7 @@ _ontdekt hoe #TAGS uw digitale analyses kan stroomlijnen, die als uw persoonlijk
 
 Iedereen herinnert zich dat hij een goed spel speelde, of zelfs verbergen en zoeken, toen wij kinderen waren.
 
-![ Kinderen die ](assets/kids-playing2.jpeg) spelen
+![&#x200B; Kinderen die &#x200B;](assets/kids-playing2.jpeg) spelen
 
 Het beste deel was toen wij degenen waren die het terug maakten tot basis (tag) of de langste verborgen bleven (verbergen en zoeken) totdat we iemand hoorden roepen: &quot;Alleen Olly oxen free!&quot; (&quot;All ye outs in free&quot;, afgeleid uit het Duits: &quot;alle auch sind frei!&quot;).  Dat betekende uiteindelijk dat alle anderen het hadden gemaakt om te baseren, gevonden of iemand gelabeld &quot;het&quot;, en we waren nog vrij om nog een ronde te spelen!
 
@@ -34,11 +34,11 @@ Als we het over onze dagelijkse banen hebben, lijkt het zoeken naar dingen veel 
 Nu ik uw aandacht heb, wil ik beginnen met een vraag te stellen:
 
 
-![ hoeveel van u ](assets/how-many-of-you.jpg)
+![&#x200B; hoeveel van u &#x200B;](assets/how-many-of-you.jpg)
 
 Hoeveel van jullie hebben dit gedaan?  U bent begonnen te zoeken naar a **afmeting**, **datumwaaier**, **segment**, of **berekende metrisch**, en u wordt overstroomd met deze reusachtige lijst (zie **Figuur 1**) van alles u niet wilt.  ***Analysis Workspace*** denkt het om nuttig te zijn, maar in alle werkelijkheid, is het slechts in het niet behulpzaam zijn helemaal gelukt.
 
-![ figuur 1 onderzoek naar jaar ](assets/tags-example-year.jpg)
+![&#x200B; figuur 1 onderzoek naar jaar &#x200B;](assets/tags-example-year.jpg)
 
 *Figuur 1 - Onderzoek naar &quot;jaar&quot;*
 
@@ -73,7 +73,7 @@ Gezicht, mensen!  U noemt het, we hebben alle excuses gezien en gehoord voor het
 
 Alvorens u om het even welk van uw creeert, wat u eerst moet weten is hoe te naar bestaande **markeringen** zoeken:
 
-![ GIF van Markeringen ](assets/tags-gif.gif)
+![&#x200B; GIF van Markeringen &#x200B;](assets/tags-gif.gif)
 
 Of u nu in een nieuw of bestaand project werkt, u hoeft alleen maar naar de zoekbalk van de component te gaan, een #hashtag in te voeren, samen met een van deze hoofdtermen (bekijk alleen de video) en op ENTER te klikken. Of u kunt gewoon beginnen met schuiven totdat u een herkenbare term hebt gevonden.
 
@@ -83,7 +83,7 @@ EERSTE CAVEAT: Iets om in mening te houden is, als u waar aan juiste noemende ov
 
 Laten we nu terugkeren naar wat ik eerder zei over een &quot;persoonlijke assistent&quot;.  Wat als ik je vertelde dat je een paar van je favoriete, bestaande onderdelen kon selecteren en ze dan de ENIGE kon maken die je ziet?
 
-![ 3 de schermmarkeringen ](assets/3-screens-tags.jpg)
+![&#x200B; 3 de schermmarkeringen &#x200B;](assets/3-screens-tags.jpg)
 
 
 1. Als u meerdere componenten selecteert (CTRL+LEFT KLIK), worden enkele pictogrammen boven weergegeven.  Een van deze zal het TAG-pictogram zijn.
@@ -98,13 +98,13 @@ Pardon the pun, maar &quot;#tag, you are it!&quot;  Je hebt jezelf net veel mind
 
 Laten wij zeggen wij in de **industrie van het Reizen** werken en wij stellen een rapport voor hun **kernbedrijfsuren** samen.  Als we zouden beginnen met een zoekopdracht op alleen de term &quot;REIS&quot;, krijgen we misschien veel meer resultaten dan we nodig zouden hebben.  In feite, als wij enkel a **Workspace** optrokken die zelfs de helft van de resultaten bevatten wij in het nodig hadden, zouden de componenten nog niet gemakkelijk beschikbaar blijven.
 
-![ Gebogen markeringen ](assets/tags-example-travel.jpg)
+![&#x200B; Gebogen markeringen &#x200B;](assets/tags-example-travel.jpg)
 
 Nochtans, als door ons dagelijks werk wij regelmatig onze **segmenten**, **metriek**, en andere relevante **componenten** hebben geëtiketteerd aangezien wij gaan, en misschien slechts enkele nieuwe degenen op het tijdstip creëren wij onze nieuwe **werkruimte** creëren, hebben wij serieus aangetoond hoe wij het regelboek in ons voordeel kunnen herschrijven!
 
 In dit geval heb ik een eenvoudige #tag gemaakt voor al deze items met de naam #core.
 
-![ cha-ching ](assets/cha-ching.png)
+![&#x200B; cha-ching &#x200B;](assets/cha-ching.png)
 
 Terwijl je dit onderdeel van je werkgewoonten blijft maken en je vaardigheden om dit steeds weer te doen verbetert, realiseert je je dat het gebruik van #tags meer lijkt op het hebben van je eigen persoonlijke assistent.
 
@@ -112,14 +112,14 @@ Wilt u nog meer echte voorbeelden? Houd rekening met het volgende:
 
 1. Bijvoorbeeld, hoe over een gemakkelijke manier om uw **segmenten** en uw **datumwaaiers** voor **alle kwartalen** in **2023** te vinden?
 
-   ![ Echte wereld 1 ](assets/real-world-1.png)
+   ![&#x200B; Echte wereld 1 &#x200B;](assets/real-world-1.png)
 
    *een extra uiteinde*: Dat kleine vierkant van aan het recht zal u zelfs uw gesorteerde orde in *alfabetische* laten veranderen!
 
 
 1. Natuurlijk, gebruikt iedereen **campagne het volgen codes** in zekere mate.  Als u een duidelijke mening van enkel *uw* speelgoed zou willen houden, denk na toevoegend **#tag** aan enkel de kernpunten u echt alle andere lawaai moet zien en filtreren:
 
-![ Echte wereld 2 ](assets/real-world-2.png)
+![&#x200B; Echte wereld 2 &#x200B;](assets/real-world-2.png)
 
 ## Ga nu naar buiten en speel!
 
@@ -132,7 +132,7 @@ Verbergen en zoeken was leuk als kind, maar nu zijn we volwassenen.  We hebben g
 
 Dit document is geschreven door:
 
-![ Jeff Bloomer ](assets/jeff-bloomer.png)
+![&#x200B; Jeff Bloomer &#x200B;](assets/jeff-bloomer.png)
 
 **Jeff Bloomer**, Manager, Digitale Analytics bij Kroger Persoonlijke Financiën
 

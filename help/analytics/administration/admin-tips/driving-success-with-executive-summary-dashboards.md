@@ -25,7 +25,7 @@ _de managers ontbreken vaak geschikte en relevante informatie voor hun plaatsen 
 Stel je voor dat je van Seattle naar San Francisco rijdt. Richtingsgewijs, het is vrij gemakkelijk. Ga 12 tot 16 uur op I-5 Zuid en je bent er. Eenvoudig, niet? Stel je voor dat ik een stuk karton over je dashboard heb gelegd, en dat zeg ik aan het eind
 van uw reis ontvangt u een dashboard dat u uw snelheid, brandstofniveaus, en afgelegde afstand vertelt:
 
-![ Bar Graph.png ](assets/bar-graph.png)
+![&#x200B; Bar Graph.png &#x200B;](assets/bar-graph.png)
 
 Als u de grafiek bekijkt, zou u een paar dingen kunnen opmerken:
 
@@ -47,21 +47,21 @@ Hier komt het beknopte dashboard van de directie als het gelukkige medium. We we
 
 De meeste directeuren hebben ongeveer drie KPIs die zij zeer betrokken zijn. In de detailhandel, zou het orders, opbrengst, en AOV kunnen zijn. Voor B2B: lead, lead quality en conversiesnelheid. De diensten zouden in bezoeken, benoemingen, en terugkeerbezoekers geinteresseerd kunnen zijn. Wat de drie ook zijn, zet ze in grote, gedurfde getallen met een jaar-over-jaar verandering en een grafiek. De belangrijkste Metrische Samenvatting visualisatie maakt dit zo gemakkelijk te doen:
 
-![ Gezoem binnen Comité ](assets/zoom-in-panel.png)
+![&#x200B; Gezoem binnen Comité &#x200B;](assets/zoom-in-panel.png)
 
 Voeg historische gegevens toe voor dezelfde drie metriek, zodat u trends op lange termijn gemakkelijk kunt zien:
 
-![ lijn Graph.png ](assets/line-graph.png)
+![&#x200B; lijn Graph.png &#x200B;](assets/line-graph.png)
 
 Voeg in een paar dropdowns voor wat belangrijk voor uw organisatie is toe. Ik vind dat het apparatentype en het marketing kanaal gewoonlijk goede wedden zijn:
 
-![ Sociale [!DNL Campaign] s.png ](assets/social-campaigns.png)
+![&#x200B; Sociale [!DNL Campaign] s.png &#x200B;](assets/social-campaigns.png)
 
 Deze zijn over het algemeen erg belangrijk, maar zoals altijd, zorg ervoor dat wat u kiest relevant voor uw plaats of app is.
 
 Voeg aan de onderkant nog wat details toe. Ik vind dat paginaprestaties vaak populair zijn bij managers, maar de sleutel is dat ze onder de vouw liggen. Ze kunnen het uitzoeken als ze dat willen, maar anders hebben ze de gegevens die ze nodig hebben om vragen meteen te stellen:
 
-![ Grote Dashboard.png ](assets/large-dashboard.png)
+![&#x200B; Grote Dashboard.png &#x200B;](assets/large-dashboard.png)
 
 Met dit eindproduct in de hand hoeft u alleen:
 
@@ -80,7 +80,7 @@ leidinggevenden over het gebruik van het dashboard kunnen geïnformeerde besliss
 
 Dit document is geschreven door:
 
-![ Gitai Ben-Ammi ](assets/gitai-headshot-150.jpg)
+![&#x200B; Gitai Ben-Ammi &#x200B;](assets/gitai-headshot-150.jpg)
 
 **Gitai Ben-Ammi**, Belangrijkste Consultant bij de Katalysator van Concentrix
 

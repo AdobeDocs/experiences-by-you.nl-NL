@@ -45,7 +45,7 @@ Zowel [!DNL Adobe Analytics] als Google [!DNL Analytics] bieden een manier om de
 
 [!DNL Adobe Analytics] veronderstelt niet om een vooraf gebouwd rapport tot stand te brengen voor alle gebruikers om bij login te zien. De standaardstartpagina neemt de gebruiker naar het Workspace-landingsscherm, waarin elke gebruiker alle werkruimterapporten ziet die hij heeft gemaakt of met hem heeft gedeeld. Ook, kan elke gebruiker om het even welk van deze rapporten als hun homescherm plaatsen als zij zo kiezen.
 
-![ werkruimte-creeer-project ](assets/ga-to-aa_1.png)
+![&#x200B; werkruimte-creeer-project &#x200B;](assets/ga-to-aa_1.png)
 
 Hieronder vindt u meer informatie over de werkruimte verderop in deze handleiding. Zie punt 2.1.2.1
 
@@ -69,7 +69,7 @@ Hieronder vindt u meer informatie over de werkruimte verderop in deze handleidin
 
 GA4-gebruikers hebben meer mogelijkheden om hun eigen rapporten aan te passen en toe te voegen aan het Homescherm.
 
-![ google-analytics-interfaces ](assets/ga-to-aa_2.png)
+![&#x200B; google-analytics-interfaces &#x200B;](assets/ga-to-aa_2.png)
 
 Dit is waarschijnlijk één ding dat u het meest mist in [!DNL Adobe Analytics]. Er is geen beginscherm voor u vooraf gebouwd. U kunt echter eenvoudig een aangepaste Workspace instellen om te repliceren wat u in de bovenstaande lijst nodig hebt en deze in te stellen als landingsscherm. Meer informatie over dit onderwerp vindt u later (of zie Sectie 2.1.2.1 [!DNL Adobe] Workspace).
 
@@ -112,13 +112,13 @@ Gebruikers beschikken over een groot aantal visualisaties:
 Elk deelvenster en elke visualisatie kunnen een naam krijgen en er kan een beschrijving op worden toegepast om context te geven aan wat de informatie weergeeft.
 In [!DNL Adobe] zijn segmenten (in feite gegevensfilters) retroactief van toepassing. Deze kunnen in kolommen van vrije-vormtabellen worden getrokken om gegevens naast elkaar te vergelijken. Bijvoorbeeld, als een gebruiker twee verschillende categorieën op hun plaats voor verkeer wilde vergelijken; zij konden een segment voor &quot;Categorie A&quot;en een verschillend segment voor &quot;Categorie B&quot;tot stand brengen.
 
-![ analytics-page-views-rapport ](assets/ga-to-aa_3.png)
+![&#x200B; analytics-page-views-rapport &#x200B;](assets/ga-to-aa_3.png)
 
 In vrije-vormtabellen zijn meerdere kolommen en segmentatie mogelijk, indien nodig, om de gegevens op de gewenste manier te visualiseren.
 
 Als u geen onderbreking door datum wilt zien, eenvoudig sleep en laat vallen een andere afmeting of segment daar om de gegevens op een verschillende manier te zien. Gebruik bijvoorbeeld segmenten voor Apparaattype en voeg vervolgens een uitsplitsing toe naar besturingssysteem voor uw mobiele gebruikers/gebruikers van tablets:
 
-![ analytics-compare-page-views-rapport ](assets/ga-to-aa_4.png)
+![&#x200B; analytics-compare-page-views-rapport &#x200B;](assets/ga-to-aa_4.png)
 
 Workspace laat je creativiteit vliegen, je bent niet beperkt tot &#39;standaard&#39; indelingen. U kunt de visualisaties opbouwen die u nodig hebt om diepgaand in de vergelijkingen te duiken u moet in werking stellen.
 
@@ -130,7 +130,7 @@ U kunt de berekende metriek of de segmenten tot stand brengen die slechts binnen
 
 Deze discussie is slechts een inleiding op dit instrument, er zijn andere uitgebreide gidsen om u op gang te brengen. Nadat u deze handleidingen hebt bekeken, kunt u uitgebreide rapporten zoals deze weergeven:
 
-![ werkruimte-dashboard ](assets/ga-to-aa_5.png)
+![&#x200B; werkruimte-dashboard &#x200B;](assets/ga-to-aa_5.png)
 
 De werkruimten niet auto-sparen, zodat is het gemakkelijker om een eenmalig, ad-hoc rapport te doen zonder uw rapportbewaarplaats te registreren.
 
@@ -160,7 +160,7 @@ Zowel Google als [!DNL Adobe] hebben enkele rapporten waarin u kunt navigeren. D
 
 [!DNL Adobe Analytics] heeft ook een sectie Rapporten, hoewel dit ten gunste van Analysis Workspace wordt afgebouwd. In feite is het einde van de levensduur aangekondigd voor deze interface, aangezien Workspace een krachtiger instrument is. De meeste van deze tabellen kunnen eenvoudiger worden gemaakt en gewijzigd. De secties van [!DNL Adobe] zijn veel breder en dit kan ontmoedigend zijn:
 
-![ analytics-plaats-metriek ](assets/ga-to-aa_6.png)
+![&#x200B; analytics-plaats-metriek &#x200B;](assets/ga-to-aa_6.png)
 
 Omdat het meeste van het bovenstaande toegankelijk is via Workspaces, geef ik een kort overzicht van deze secties en hoe ze zich verhouden tot Google [!DNL Analytics] en benadruk hier de nog steeds relevante rapporten.
 
@@ -196,7 +196,7 @@ Alle rapporten hier stonden voor veelvoudige metrische kolommen en afmetingsonde
 
 Google [!DNL Analytics] splitst deze rapporten in de volgende secties: Realtime, Audience, Acquisition, Behavior en Conversations (in GA3) en in Levenscyclus (met de subsecties: Acquisitie, Betrokkenheid, Monetisering, Behoud) en Gebruiker (met de subsecties: Demografie en Tech).
 
-![ google-analytics-interface-compare ](assets/ga-to-aa_7.png)
+![&#x200B; google-analytics-interface-compare &#x200B;](assets/ga-to-aa_7.png)
 
 U kunt kleine aanpassingen maken aan deze visualisaties, een secundaire afbraak toevoegen, de visualisatie wijzigen, een filter voor de gegevens maken en nog veel meer. U kunt uw aanpassingen opslaan als Opgeslagen Rapport.
 
@@ -268,17 +268,17 @@ Ik wil echter benadrukken dat ik het gebruik van zowel [!DNL Adobe Analytics] al
 
 Naast deze handleiding beschikt u over veel bronnen die u kunnen helpen uw strategie te verbeteren:
 
-* [[!DNL Adobe]  Experience League ](https://experienceleague.adobe.com/nl#home) - bevat leerprogramma&#39;s, video&#39;s, documentatie, en communautaire forums
-* [[!DNL Adobe]  Groepen van de Gebruiker ](https://analytics-augs.adobe.com/) - een hub van gemeenschap-in werking gestelde gebeurtenissen om gebruikers te helpen met elkaar verbinden en hun implementaties verbeteren.
-* [[!DNL Adobe Analytics]  Kanaal van de Groepen van de Gebruiker YouTube ](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - kon geen [!DNL Adobe Analytics] zitting van de gebruikersgroep maken? Bekijk vorige gebruikersgroepssessies over de hele wereld opnieuw voor meer informatie over hoe uw collega&#39;s het gereedschap gebruiken.
-* [ het kanaal van de Slack van het Praatje van de Meting ](https://www.measure.chat/) - verbind met [!DNL Adobe Analytics] gebruikers over de wereld en deel industrieleerlingen, stel vragen van uw edelen, en sluit zich bij meting geconcentreerde belangengroepen aan.
+* [[!DNL Adobe]  Experience League &#x200B;](https://experienceleague.adobe.com/nl#home) - bevat leerprogramma&#39;s, video&#39;s, documentatie, en communautaire forums
+* [[!DNL Adobe]  Groepen van de Gebruiker &#x200B;](https://analytics-augs.adobe.com/) - een hub van gemeenschap-in werking gestelde gebeurtenissen om gebruikers te helpen met elkaar verbinden en hun implementaties verbeteren.
+* [[!DNL Adobe Analytics]  Kanaal van de Groepen van de Gebruiker YouTube &#x200B;](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - kon geen [!DNL Adobe Analytics] zitting van de gebruikersgroep maken? Bekijk vorige gebruikersgroepssessies over de hele wereld opnieuw voor meer informatie over hoe uw collega&#39;s het gereedschap gebruiken.
+* [&#x200B; het kanaal van de Slack van het Praatje van de Meting &#x200B;](https://www.measure.chat/) - verbind met [!DNL Adobe Analytics] gebruikers over de wereld en deel industrieleerlingen, stel vragen van uw edelen, en sluit zich bij meting geconcentreerde belangengroepen aan.
 * en meer!
 
 ## Auteur
 
 Dit document is geschreven door:
 
-![ Jennifer Dungan ](assets/Jennifer_Dungan_Headshot150.png)
+![&#x200B; Jennifer Dungan &#x200B;](assets/Jennifer_Dungan_Headshot150.png)
 
 Jennifer Dungan, Optimization Manager [!DNL Analytics] bij Torstar
 

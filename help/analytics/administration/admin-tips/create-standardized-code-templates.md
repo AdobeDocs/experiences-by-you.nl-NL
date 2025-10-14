@@ -42,11 +42,11 @@ In het ideale geval hoeft dit document alleen te worden getweend voor de volgend
 
 Dit document is medegeschreven door:
 
-![ Christel Guidon ](assets/Christel-Headshot-150.png)
+![&#x200B; Christel Guidon &#x200B;](assets/Christel-Headshot-150.png)
 
 Christel Guidon, Digital [!DNL Analytics] Platform Manager bij NortonLifeLock
 [!DNL Adobe Analytics] Champion
 
-![ Rachel Fenwick ](assets/Rachel-Fenwick-150.png)
+![&#x200B; Rachel Fenwick &#x200B;](assets/Rachel-Fenwick-150.png)
 
 Rachel Fenwick, senior consultant bij [!DNL Adobe]

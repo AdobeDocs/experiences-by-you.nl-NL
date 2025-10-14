@@ -26,14 +26,14 @@ In het huidige digitale landschap is het optimaliseren van webprestaties en het 
 
 Ondanks deze voordelen, kan het idee om Web SDK uit te voeren ontmoedigend, zo niet volledig overweldigend zijn. Daarom heb ik deze strategische gids gecreeerd om u te helpen aan deze reis beginnen om Web SDK uit te voeren.
 
-Download de [ strategische gids aan het uitvoeren van Web SDK ](https://www.adobe.com/content/dam/www/us/en/digital-experience/in-product/images/Final%20WebSDK%20Playbook.pdf){target="_blank"} .
+Download de [&#x200B; strategische gids aan het uitvoeren van Web SDK &#x200B;](https://www.adobe.com/content/dam/www/us/en/digital-experience/in-product/images/Final%20WebSDK%20Playbook.pdf){target="_blank"} .
 
 
 ## Auteur
 
 Dit document is geschreven door:
 
-![ meghan-hoofd-schot ](assets/meghan-head-shot.png)
+![&#x200B; meghan-hoofd-schot &#x200B;](assets/meghan-head-shot.png)
 
 **Meghan Powers**
 

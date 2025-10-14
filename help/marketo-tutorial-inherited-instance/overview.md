@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Als u een live [!DNL Marketo Engage] -instantie erft die door meerdere personen is beheerd, kan het zijn dat u mentale notities maakt van alles wat op zijn plaats lijkt. Het is belangrijk om het schoonmaak en optimaliseringswerk te organiseren door de taken te categoriseren en dan die taken voorrang te geven die ver gaan.
 
-Deze zelfstudie &#39;Aanbevolen tips en trucs voor Instance Audit&#39;, die is gebaseerd op [!DNL Adobe] Marketo Champions, biedt stapsgewijze instructies voor nieuwe beheerders. Het leerprogramma begeleidt downloadbare [ controlecontrolelijsten ](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=nl-NL) en malplaatjes om u te helpen springen-begin een geërfte instantie onmiddellijk. Volg de lesbestanden en laat u inspireren door van anderen te leren!
+Deze zelfstudie &#39;Aanbevolen tips en trucs voor Instance Audit&#39;, die is gebaseerd op [!DNL Adobe] Marketo Champions, biedt stapsgewijze instructies voor nieuwe beheerders. Het leerprogramma begeleidt downloadbare [&#x200B; controlecontrolelijsten &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=nl-NL) en malplaatjes om u te helpen springen-begin een geërfte instantie onmiddellijk. Volg de lesbestanden en laat u inspireren door van anderen te leren!
 
 ## Onderwerpen en wat u zult leren
 

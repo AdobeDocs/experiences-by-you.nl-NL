@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # [!DNL Adobe Analytics] Deelvenster Kenmerken en terugzoekvensters
 
-Toen ik eerst aan het [ attributiepaneel ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=nl-NL) en **raadplegingsvenster** dacht, werd ik onmiddellijk herinnerd aan het concept &quot;*tijdreis&quot;*; dan, natuurlijk, werd ik ook herinnerd aan onze typische reactie op vele nieuwe hulpmiddelen zoals dit eenvoudig het proberen uit te stellen om het te gebruiken, omdat zij zo gecompliceerd kijken.
+Toen ik eerst aan het [&#x200B; attributiepaneel &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=nl-NL) en **raadplegingsvenster** dacht, werd ik onmiddellijk herinnerd aan het concept &quot;*tijdreis&quot;*; dan, natuurlijk, werd ik ook herinnerd aan onze typische reactie op vele nieuwe hulpmiddelen zoals dit eenvoudig het proberen uit te stellen om het te gebruiken, omdat zij zo gecompliceerd kijken.
 
 Ik bedoel eerlijk gezegd, kijk gewoon naar al die opties, switches, deelvensters, lezingen en knoppen.  En serieus, laten we het hebben over die gecompliceerde knipperende lichten, slangen, kooien... WACHT!  Dit is niet het moment om afleiding te krijgen in het praten over tijdmachines, we hebben gewoon geen tijd... of doen we dat?
 
@@ -38,13 +38,13 @@ Nou... je krijgt het idee.
 
 Nu wij allen over tijdreis enthousiast zijn, nemen een diepe adem, stap terug een beetje, bepaal wat het **werkelijk 2&rbrace; attributiepaneel 0&rbrace; *is, en breken dingen neer een klein beetje:***
 
-![ Attributie ](assets/attribution.png)
+![&#x200B; Attributie &#x200B;](assets/attribution.png)
 
 *Figuur 1 - Getallen die inline met tekst verder onder* worden getoond
 
 In **attributie**, overweeg eenvoudig hoe de gebeurtenissen/de acties door een individu, verscheidene individuen, of één van om het even welk aantal verschillende gebeurtenissen in tijd zouden kunnen worden veroorzaakt.
 
-Volgens [[!DNL Adobe] ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=nl-NL), *attributie* geeft analisten de capaciteit aan om aan te passen hoe *Dimension* punten krediet voor *succesgebeurtenissen* ontvangen.
+Volgens [[!DNL Adobe] &#x200B;](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=nl-NL), *attributie* geeft analisten de capaciteit aan om aan te passen hoe *Dimension* punten krediet voor *succesgebeurtenissen* ontvangen.
 
 
 >[!WARNING]
@@ -62,7 +62,7 @@ Wanneer wij het **attributiepaneel** gebruiken, kunnen wij beginnen verscheidene
 
 Eenvoudig gezet, als **10 mensen** a **BIG RODE KNOP** aan stap door een deur, onze **attributiemodellen** ons zullen vertellen welke van die **10 mensen** wij &quot;krediet&quot;willen toewijzen - of beter gezegd, hoe *veel* &quot;krediet&quot;wij hen willen toewijzen - voor het drukken van genoemde knoop.
 
-![ Knoop ](assets/button.png)
+![&#x200B; Knoop &#x200B;](assets/button.png)
 
 Het houden van dit in mening, zijn hier een paar voorbeelden van hoe de ❸ **attributiemodellen** die **10 mensen** zouden kunnen beïnvloeden:
 
@@ -86,7 +86,7 @@ Het houden van dit in mening, zijn hier een paar voorbeelden van hoe de ❸ **at
 
 - **Douane**: U kiest en kiest wie krediet gaat krijgen.  Het is jouw campagne!
 
-Voor extra informatie over deze en andere attribuutmodellen, [ klik hier ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=nl-NL)
+Voor extra informatie over deze en andere attribuutmodellen, [&#x200B; klik hier &#x200B;](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=nl-NL)
 
 Om dit nog interessanter te maken, praten we over het terugdraaien van de klok!
 
@@ -122,13 +122,13 @@ Nu u de concepten neer hebt, veronderstel u een marketing campagne in werking st
 Nu je hebt gezien wat het kan doen, mag je niet misleid of geïntimideerd worden door de schijnbaar complexe kenmerken van het attributiepaneel.  **Gezicht het**.  *Embrace* het.  **Begrijp** het.
 MAAR DE MEESTE VAN ALLES - *gebruik het aan uw voordeel.* het **attributiepaneel** en **raadplegingsvenster** zijn de sleutels om een diepgaander inzicht in uw klanten en hun reis met uw merk te ontsluiten.
 
-Nu, kunnen wij &quot;[ terug in tijd ](https://youtu.be/gVryJmZNFdU)&quot;met vertrouwen reizen en de macht van onze trusty tijdmachine (a.k.a. *** [!DNL Adobe Analytics]***) gebruiken om gegeven-gedreven besluiten te nemen.
+Nu, kunnen wij &quot;[&#x200B; terug in tijd &#x200B;](https://youtu.be/gVryJmZNFdU)&quot;met vertrouwen reizen en de macht van onze trusty tijdmachine (a.k.a. *** [!DNL Adobe Analytics]***) gebruiken om gegeven-gedreven besluiten te nemen.
 
 ## Auteur
 
 Dit document is geschreven door:
 
-![ Jeff Bloomer ](assets/jeff-headshot.png)
+![&#x200B; Jeff Bloomer &#x200B;](assets/jeff-headshot.png)
 
 **Jeff Bloomer**, Manager, Digitaal [!DNL Analytics] bij Kroger Persoonlijke Financiën
 

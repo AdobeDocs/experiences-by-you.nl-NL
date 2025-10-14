@@ -77,7 +77,7 @@ Ik hoop dat dit u enkele mogelijkheden heeft getoond om fundamentele wiskundige 
 
 Dit document is geschreven door:
 
-![ Gittai hoofdschot ](assets/gittai.png)
+![&#x200B; Gittai hoofdschot &#x200B;](assets/gittai.png)
 
 **Gitai Ben-Ammi**, Belangrijkste Consultant bij de Katalysator van Concentrix
 

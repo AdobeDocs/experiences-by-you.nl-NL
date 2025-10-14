@@ -35,17 +35,17 @@ ht-degree: 0%
 
 U kunt gebruikers dan gemakkelijk naar deze berichten verwijzen in plaats van lange e-mails te schrijven of nog een vergadering te houden. Voor meer uiteinden en trucs op trainingsgebruikers, controleer {het artikel van 0} Champion Thomas Edward Buckley [&#128279;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=nl-NL){target="_blank"}  allen over het vereenvoudigen van en het doorbrengen van minder tijd opleidingsgebruikers.[!DNL Adobe] 
 
-Bovendien is er een overvloed (ja, een overvloed) van [ videoleerprogramma&#39;s ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=nl-NL){target="_blank"}  op [!DNL Adobe] Experience League, evenals [ vrije cursussen ](https://experienceleague.adobe.com/nl?lang=en#dashboard/learning){target="_blank"} . Als u een video nodig hebt die specifiek is voor de gegevens en zaken van uw bedrijf KPIs, dan door alle middelen, registreer uw eigen video&#39;s. Maar als een algemene instructievideo volstaat, is er geen reden om het wiel opnieuw uit te vinden.
+Bovendien is er een overvloed (ja, een overvloed) van [&#x200B; videoleerprogramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=nl-NL){target="_blank"}  op [!DNL Adobe] Experience League, evenals [&#x200B; vrije cursussen &#x200B;](https://experienceleague.adobe.com/nl?lang=en#dashboard/learning){target="_blank"} . Als u een video nodig hebt die specifiek is voor de gegevens en zaken van uw bedrijf KPIs, dan door alle middelen, registreer uw eigen video&#39;s. Maar als een algemene instructievideo volstaat, is er geen reden om het wiel opnieuw uit te vinden.
 
 ## Auteurs
 
 Dit document is medegeschreven door:
 
-![ Christel Guidon ](assets/Christel-Headshot-150.png)
+![&#x200B; Christel Guidon &#x200B;](assets/Christel-Headshot-150.png)
 
 Christel Guidon, Digital [!DNL Analytics] Platform Manager bij NortonLifeLock
 [!DNL Adobe Analytics] Champion
 
-![ Rachel Fenwick ](assets/Rachel-Fenwick-150.png)
+![&#x200B; Rachel Fenwick &#x200B;](assets/Rachel-Fenwick-150.png)
 
 Rachel Fenwick, senior consultant bij [!DNL Adobe]

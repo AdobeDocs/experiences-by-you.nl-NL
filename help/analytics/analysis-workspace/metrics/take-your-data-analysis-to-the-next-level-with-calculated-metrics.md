@@ -30,9 +30,9 @@ Om met berekende metriek te beginnen, kijken een eenvoudig voorbeeld. Stel dat u
 Om de Berekende Bouwer van Metriek te openen, gebruik de hoogste navigatie om → **Componenten** → **Berekende Metriek** → **+ te klikken toevoegt.** Of, kunt u **+ teken** hierboven **Metriek** in het paneel van Componenten klikken.
 
 
-![ Calc 01 ](assets/calc01.png) ![ Calc 02 ](assets/calc03.png) ![ Calc 03 ](assets/calc02.png)
+![&#x200B; Calc 01 &#x200B;](assets/calc01.png) ![&#x200B; Calc 02 &#x200B;](assets/calc03.png) ![&#x200B; Calc 03 &#x200B;](assets/calc02.png)
 
-![ Calc 04 ](assets/calc04.png)
+![&#x200B; Calc 04 &#x200B;](assets/calc04.png)
 
 *Beschrijvingen hieronder voor punten UI*
 
@@ -58,7 +58,7 @@ Nu wij AOV van het Centrum van de Vraag hebben gebouwd, hebben wij ook berekende
 
 Daarna, kunnen wij derde berekende metrisch bouwen, of gebruikend de Berekende Bouwer van Metriek of op de vlucht van binnen de vrije vormlijst, om het Centrum van de Vraag en Online AOV te vergelijken zodat komen wij omhoog met iets als dit:
 
-![ Calc 05 ](assets/calc05.png)
+![&#x200B; Calc 05 &#x200B;](assets/calc05.png)
 
 In ons voorbeeld zien we een aanzienlijke lift wanneer kopers het callcenter gebruiken om hen te helpen een aankoop te doen. Deze gegevens kunnen dan onze beslissingen over hoe te om klanten te helpen bij hun aankopen door, bijvoorbeeld, popup aanbiedingen of andere geleide ervaringen te krijgen.
 
@@ -72,13 +72,13 @@ Welke winkelcategorieën - en gebruikerspaden door deze categorieën - resultere
 
 Om dit te doen, moeten wij eerst bezoek-niveau *tot stand brengen omvatten* en **&#x200B; segmenten voor elke productcategorie uitsluiten. Omvat of sluit wordt bepaald door het &#x200B;** vistuig van Opties** in de juiste hoek van de container te klikken uit. Standaard is Inclusief.
 
-![ Calc 06 ](assets/calc06.png) ![ Calc 07 ](assets/calc07.png)
+![&#x200B; Calc 06 &#x200B;](assets/calc06.png) ![&#x200B; Calc 07 &#x200B;](assets/calc07.png)
 
 Zodra wij deze segmenten hebben gecreeerd, kunnen wij berekende metrisch tot stand brengen om u het antwoord op uw vraag te geven. Wij openen de Berekende Bouwer van Metriek en doen het volgende:
 
 1. Onderzoek naar de pas gecreëerde segmenten en sleep en laat vallen degenen die wij in het grijze gebied bij de bovenkant van de **doos van de Definitie** willen gebruiken. Bijvoorbeeld, als wij een AOV voor gebruikers willen creëren die zowel de categorieën van Vrouwen als van Mannen, maar niet Kid&#39;s bezochten, kunnen wij deze drie segmenten aan dat gebied slepen en laten vallen: *omvat Vrouwen*, *omvat Mannen*, en *sluit Kid&#39;s* uit. Wij roepen dit *stapelend segmenten*.
 
-   ![ Calc 09 ](assets/calc09.png) ![ Calc 08 ](assets/calc08.png)
+   ![&#x200B; Calc 09 &#x200B;](assets/calc09.png) ![&#x200B; Calc 08 &#x200B;](assets/calc08.png)
 
 1. Dan, slepen wij en laten vallen de **Online Inkomsten** metrisch in de zelfde container, toen **Online Orden**. Aangezien de containers als wiskundige uitdrukkingen werken om orde van verrichtingen te bepalen, worden de punten in containers verwerkt vóór verdere processen, hoewel wij geen veelvoudige containers of processen in deze berekening hebben.
 1. Wij veranderen de exploitant tussen de twee metriek in verdeling (.).
@@ -88,11 +88,11 @@ Zodra wij deze segmenten hebben gecreeerd, kunnen wij berekende metrisch tot sta
 
 Als we klaar zijn, ziet onze berekende metrische vormgeving er als volgt uit:
 
-![ Calc 10 ](assets/calc10.png)
+![&#x200B; Calc 10 &#x200B;](assets/calc10.png)
 
 Nadat wij berekende metriek gebruikend gestapelde segmenten voor elke combinatie van bezoekerscategoriereis creëren en een blik nemen bij de gegevens, kijk wat wij leren! Gebruikers die tijdens hun bezoek zowel de categorie Vrouwen als de categorie Mannen bezoeken, hebben het hoogste AOV en in vergelijking met bezoekers van één categorie is de lift significant:
 
-![ Calc 11 ](assets/calc11.png) ![ Calc 12 ](assets/calc12.png)
+![&#x200B; Calc 11 &#x200B;](assets/calc11.png) ![&#x200B; Calc 12 &#x200B;](assets/calc12.png)
 
 Als we dit weten, kunnen we de paginalay-out, de productplaatsing en het promotiemateriaal optimaliseren om meer mensen in deze categorieën te krijgen voordat we uitchecken.
 
@@ -143,8 +143,8 @@ Het combineren van segmenten en berekende metriek in [!DNL Adobe Analytics] kan 
 
 Dit document is geschreven door:
 
-![ Debbie Kern ](assets/calc13.jpeg)
+![&#x200B; Debbie Kern &#x200B;](assets/calc13.jpeg)
 
 **Debbie Kern**, Hogere [!DNL Adobe Analytics] Manager bij Adswerve
 
-![ Adswerve ](assets/calc14.png)
+![&#x200B; Adswerve &#x200B;](assets/calc14.png)

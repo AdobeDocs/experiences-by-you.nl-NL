@@ -75,8 +75,8 @@ Het krachtigste aan [!DNL Adobe] Digital Experience (DX)-oplossingen? Jij. De ge
 
 ## Aanvullende bronnen
 
-* [ Gemeenschappen van de Experience League ](https://experienceleaguecommunities.adobe.com/)
-* [ Documentatie van het Experience Cloud ](https://experienceleague.adobe.com/docs/?lang=nl-NL)
-* [ Tutorials van het Experience Cloud ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=nl-NL)
-* [ business.adobe.com ](https://business.adobe.com)
+* [&#x200B; Gemeenschappen van de Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/)
+* [&#x200B; Documentatie van het Experience Cloud &#x200B;](https://experienceleague.adobe.com/docs/?lang=nl-NL)
+* [&#x200B; Tutorials van het Experience Cloud &#x200B;](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=nl-NL)
+* [&#x200B; business.adobe.com &#x200B;](https://business.adobe.com)
 
