@@ -79,4 +79,4 @@ Het krachtigste aan [!DNL Adobe Experience Cloud] oplossingen? Jij. De gebruiker
 * [&#x200B; Gemeenschap van Adobe Analytics van de Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
 * [&#x200B; Documentatie van Adobe Analytics &#x200B;](https://experienceleague.adobe.com/docs/analytics.html?lang=nl-NL)
 * [Adobe Analytics-tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=nl-NL)
-* [&#x200B; het productinformatie van Adobe Analytics &#x200B;](https://business.adobe.com/products/analytics/adobe-analytics.html)
+* [&#x200B; het productinformatie van Adobe Analytics &#x200B;](https://business.adobe.com/nl/products/analytics/adobe-analytics.html)

@@ -81,4 +81,4 @@ Het krachtigste aan [!DNL Adobe] Experience Cloud oplossingen? Jij. De gebruiker
 * Adobe Campaign v8 - [&#x200B; Documentatie &#x200B;](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=nl) / [&#x200B; Tutorials &#x200B;](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=nl-NL)
 * Adobe Campaign Classic v7 - [&#x200B; Documentatie &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=nl-NL) / [&#x200B; Tutorials &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=nl)
 * Adobe Campaign Standard - [&#x200B; Documentatie &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=nl-NL) / [&#x200B; Tutorials &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=nl)
-* [&#x200B; het productinformatie van Adobe Campaign &#x200B;](https://business.adobe.com/products/campaign/adobe-campaign.html)
+* [&#x200B; het productinformatie van Adobe Campaign &#x200B;](https://business.adobe.com/nl/products/campaign/adobe-campaign.html)

@@ -294,7 +294,7 @@ U kunt het voorbeeld voor het uitgeven van en het volgen van specifieke mileston
 >[!NOTE]
 >Voorbeelden die worden gegeven, zijn niet gebaseerd op een tijdslijn van werkelijke implementatie. Vertrouw niet op deze schema&#39;s als een standaardtijdlijn voor het instappen met Marketo Engage, aangezien elke implementatie uniek is met verschillende mijlpalen en vereisten afhankelijk van de behoeften van uw organisatie.
 
-Voor hand-in-hand hulp in het uitvoeren van en het aanpassen van uw Marketo Engage voor uw instantie, gelieve het Team van de Rekening van de Adobe te contacteren of uit te reiken aan [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} .
+Voor hand-in-hand hulp in het uitvoeren van en het aanpassen van uw Marketo Engage voor uw instantie, gelieve het Team van de Rekening van de Adobe te contacteren of uit te reiken aan [&#x200B; Adobe Professional Services &#x200B;](https://business.adobe.com/nl/customers/consulting-services/main.html){target="_blank"} .
 
 ### Auteur
 
