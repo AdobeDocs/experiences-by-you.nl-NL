@@ -29,12 +29,12 @@ Bekijk deze stapsgewijze zelfstudie om te leren hoe u een e-mailprogramma maakt 
 
 Raadpleeg de desbetreffende producthandleidingen voor meer informatie:
 
-* [&#x200B; Begrijpend de documentatie van E-mailProgramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [&#x200B; Begrijpend de documentatie van E-mailProgramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=nl-NL)
 
 Bekijk aanvullende video&#39;s voor meer informatie over deze functie:
 
-* [&#x200B; Geplande e-mailwandeling door &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
-* [&#x200B; het testen van AB lopen door &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
+* [&#x200B; Geplande e-mailwandeling door &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=nl-NL)
+* [&#x200B; het testen van AB lopen door &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=nl-NL)
 
 Leer van uw collega&#39;s hoe u e-mailprogramma&#39;s kunt gebruiken:
 

@@ -28,7 +28,7 @@ Volg deze stapsgewijze zelfstudie om uw eerste betrokkenheidsprogramma samen te 
 
 Raadpleeg de desbetreffende producthandleidingen voor meer informatie:
 
-* [&#x200B; Begrijpend de documentatie van de Programma&#39;s van de Betrokkenheid &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=en)
+* [&#x200B; Begrijpend de documentatie van de Programma&#39;s van de Betrokkenheid &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=nl-NL)
 
 Leer van uw collega&#39;s hoe u de Betrokkenheidsprogramma&#39;s kunt gebruiken:
 

@@ -23,7 +23,7 @@ Als beheerder die een nieuwe instantie van Marketo Engage uitvoert, plaatst u he
 
 ## Waarom is het structureren van mappen en het toepassen van naamgevingsconventies nodig?
 
-Door in uw exemplaar georganiseerd te blijven, is het voor u en uw collega&#39;s gemakkelijk om campagnes, programma&#39;s, en activa bij te houden en programmaprestaties te melden. Om de navigatieboom in uw instantie te organiseren en bij schaal te bouwen, wordt het geadviseerd om [&#x200B; omslagen &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"} te gebruiken, [&#x200B; standaard noemende overeenkomsten &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}, en eigenschappen zoals [&#x200B; klonen &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
+Door in uw exemplaar georganiseerd te blijven, is het voor u en uw collega&#39;s gemakkelijk om campagnes, programma&#39;s, en activa bij te houden en programmaprestaties te melden. Om de navigatieboom in uw instantie te organiseren en bij schaal te bouwen, wordt het geadviseerd om [&#x200B; omslagen &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"} te gebruiken, [&#x200B; standaard noemende overeenkomsten &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}, en eigenschappen zoals [&#x200B; klonen &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
 
 ## Een Marketo Engage-instantie organiseren
 
@@ -31,7 +31,7 @@ Door in uw exemplaar georganiseerd te blijven, is het voor u en uw collega&#39;s
 
 ### Stap 1 - Een mapstructuur instellen om uw programma&#39;s in orde te brengen
 
-De eerste stap aan het organiseren van uw instantie moet [&#x200B; opstelling een omslagstructuur &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html) huishouden uw programma en activa in een gemakkelijke en ordelijke manier vinden.
+De eerste stap aan het organiseren van uw instantie moet [&#x200B; opstelling een omslagstructuur &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=nl-NL) huishouden uw programma en activa in een gemakkelijke en ordelijke manier vinden.
 
 Hier volgen enkele tips voor het structureren van de mappen in boomstructuur:
 

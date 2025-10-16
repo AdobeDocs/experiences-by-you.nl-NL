@@ -105,7 +105,7 @@ Het wordt aanbevolen dit document zo eenvoudig mogelijk te houden en het niet me
 >
 >Maak een naam-/eigenschapsdimensie van de site in [!DNL Adobe Analytics] . Als u een speciale dimensie (meestal een eVar) in [!DNL Adobe Analytics] hebt die de naam van de site/app aangeeft, kunt u segmenteren, problemen oplossen, virtuele rapportsuite maken, enzovoort. De voordelen zijn eindeloos, vooral wanneer het combineren van veelvoudige plaatsen in één (globale) rapportreeks. De sleutel zorgt ervoor dat uw ontwikkelingsteams altijd deze waarde in de eigenschappen afmeting plaatsen, met inbegrip van alle paginaladingen (s.t vraag/trackState) en alle douanegebeurtenissen (s.tl vraag/trackAction). Verwerkingsregels kunnen een waardevol hulpmiddel zijn om u te helpen deze waarden behoorlijk en consequent plaatsen.
 
-[&#x200B; bekijk deze video door Doug Moore &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target="_blank"} voor meer informatie bij het invullen van implementatieplaybook.
+[&#x200B; bekijk deze video door Doug Moore &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=nl-NL){target="_blank"} voor meer informatie bij het invullen van implementatieplaybook.
 
 ## Auteurs
 
