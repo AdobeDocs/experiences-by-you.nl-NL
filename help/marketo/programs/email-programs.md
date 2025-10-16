@@ -29,13 +29,13 @@ Bekijk deze stapsgewijze zelfstudie om te leren hoe u een e-mailprogramma maakt 
 
 Raadpleeg de desbetreffende producthandleidingen voor meer informatie:
 
-* [ Begrijpend de documentatie van E-mailProgramma&#39;s ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [&#x200B; Begrijpend de documentatie van E-mailProgramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
 
 Bekijk aanvullende video&#39;s voor meer informatie over deze functie:
 
-* [ Geplande e-mailwandeling door ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
-* [ het testen van AB lopen door ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
+* [&#x200B; Geplande e-mailwandeling door &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
+* [&#x200B; het testen van AB lopen door &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
 
 Leer van uw collega&#39;s hoe u e-mailprogramma&#39;s kunt gebruiken:
 
-* [ Professionele klantenblog post: E-mailProgramma&#39;s ](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)
+* [&#x200B; Professionele klantenblog post: E-mailProgramma&#39;s &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)

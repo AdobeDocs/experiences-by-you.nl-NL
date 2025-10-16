@@ -76,7 +76,7 @@ Het krachtigste aan [!DNL Adobe] Experience Cloud-oplossingen? Jij. De gebruiker
 
 ## Aanvullende bronnen
 
-* [ de Gemeenschappen van Experience Manager ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)
-* [ Documentatie van Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-* [ Zelfstudies van Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html)
-* [ het productinformatie van Experience Manager ](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html)
+* [&#x200B; de Gemeenschappen van Experience Manager &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)
+* [&#x200B; Documentatie van Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+* [&#x200B; Zelfstudies van Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html)
+* [&#x200B; het productinformatie van Experience Manager &#x200B;](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html)

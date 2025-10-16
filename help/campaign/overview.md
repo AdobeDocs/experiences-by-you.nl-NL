@@ -77,8 +77,8 @@ Het krachtigste aan [!DNL Adobe] Experience Cloud-oplossingen? Jij. De gebruiker
 
 ## Aanvullende bronnen
 
-* [ Experience League Adobe Campaign Community ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
-* Adobe Campaign v8 - [ Documentatie ](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=nl) / [ Zelfstudies ](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html)
-* Adobe Campaign Classic v7 - [ Documentatie ](https://experienceleague.adobe.com/docs/campaign-classic.html) / [ Zelfstudies ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=nl)
-* Adobe Campaign Standard - [ Documentatie ](https://experienceleague.adobe.com/docs/campaign-standard.html) / [ Zelfstudies ](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=nl)
-* [ het productinformatie van Adobe Campaign ](https://business.adobe.com/products/campaign/adobe-campaign.html)
+* [&#x200B; Experience League Adobe Campaign Community &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
+* Adobe Campaign v8 - [&#x200B; Documentatie &#x200B;](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=nl) / [&#x200B; Zelfstudies &#x200B;](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html)
+* Adobe Campaign Classic v7 - [&#x200B; Documentatie &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic.html) / [&#x200B; Zelfstudies &#x200B;](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=nl)
+* Adobe Campaign Standard - [&#x200B; Documentatie &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard.html) / [&#x200B; Zelfstudies &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=nl)
+* [&#x200B; het productinformatie van Adobe Campaign &#x200B;](https://business.adobe.com/products/campaign/adobe-campaign.html)
