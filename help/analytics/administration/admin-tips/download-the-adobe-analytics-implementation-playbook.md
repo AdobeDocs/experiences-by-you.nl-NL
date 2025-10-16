@@ -11,7 +11,7 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 exl-id: 42679c86-e08f-4dda-8e47-f9880409bad6
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '1779'
 ht-degree: 0%
@@ -20,13 +20,13 @@ ht-degree: 0%
 
 # De afspeelboek van de [!DNL Adobe Analytics] implementatie downloaden
 
-Alvorens begonnen te worden, [&#x200B; download playbook &#x200B;](assets/aa-implementation-playbook.xlsx).
+Alvorens begonnen te worden, [ download playbook ](assets/aa-implementation-playbook.xlsx).
 
 ## Tabblad Zakelijke vereisten
 
 **WAT:** A BedrijfsVereisten Doc (die algemeen als BRD wordt bedoeld) is een zeer belangrijk stuk van documentatie dat de belangrijkste belanghebbenden, bedrijfsgebruikers en technologiegebruikers aan zullen willen samenwerken. Het is een plaats voor het documenteren van al uw gewenste KPIs, rapporteringsvereisten, en om het even welk gegevenspunt u wenst om te zien wanneer uw [!DNL Adobe Analytics] (AA) implementatie volledig is.
 
-**WAAROM:** dit dient als springend van punt voor de documentatie die volgt (SDR, tech spec, enz.) en is een gemeenschappelijke bron van waarheid voor een overeengekomen eindstaat van AA. In dit document worden gedachten over de verschillende teams in de organisatie georganiseerd, zodat u uw implementatie verder kunt ontwikkelen of verbeteren.
+**WAAROM:** dit dient als springpunt voor de documentatie die volgt (SDR, tech spec, enz.) en een gemeenschappelijke bron van waarheid voor een overeengekomen eindstaat van AA is. In dit document worden gedachten over de verschillende teams in de organisatie georganiseerd, zodat u uw implementatie verder kunt ontwikkelen of verbeteren.
 
 **HOW:** het documenteren van de bedrijfsvereisten wordt algemeen gedaan door het eind - bedrijfsgebruikers van aa, maar het is belangrijk om terugkoppelen van technologiegebruikers te krijgen aangezien er technische uitdagingen kunnen zijn om nota te nemen en bepaalde gegevenspunten kunnen meer inspanning vereisen dan anderen, die factoren in prioriteitstelling.
 
@@ -34,11 +34,11 @@ Vraag jezelf af: &quot;Wat zijn de dingen die we op onze site willen volgen&quot
 
 Begin met het invullen van kolom C in de onderstaande screenshot (Bedrijfsvereiste). Dit zou moeten zijn als &quot;hoeveel interne onderzoeken op onze plaats&quot;worden voltooid of &quot;welke interne campagnevlek het meest effectief in termen van beelden is&quot;. Nadat u dit detailniveau hebt ingevuld, kunt u kolom B (Categorie) opnieuw invullen en de vereisten groeperen in categorieën zoals &quot;Zoeken&quot; of &quot;Interne promotie&quot;. Deze categorieën moeten exact overeenkomen met de technische specificaties.
 
-U geeft ook aan of u denkt dat het gebruik van een eVar, gebeurtenis, proxy of combinatie zal leiden tot wat u wilt bijhouden.
+U geeft ook aan of u denkt dat het gebruik van een eVar, een gebeurtenis, een proxy of een combinatie bereikt wat u wilt bijhouden.
 
 En tot slot zal de kolom van de Status van de Implementatie als statuscontrole dienen aangezien u begint om dingen aan uw plaats toe te voegen.
 
-![&#x200B; Document Bedrijfs van Vereisten &#x200B;](assets/brd-template.png)
+![ Document Bedrijfs van Vereisten ](assets/brd-template.png)
 
 ## Variabele toewijzen, tabblad (document/SDR coderen)
 
@@ -46,15 +46,16 @@ En tot slot zal de kolom van de Status van de Implementatie als statuscontrole d
 
 **WAAROM:** Dit document zal vele doeleinden dienen, maar het belangrijkste is het volgende:
 
-* Voor iedereen die nog niet vertrouwd is met uw implementatie (nieuwe huur, bedrijfseigenaar die de beschikbare rapporten beter wil begrijpen, enz.) In dit document wordt de beste weergave gegeven van alle variabelen die zijn geïmplementeerd en van hun doel, zodat individuen zichzelf kunnen dienen voor het leren van uw AA-instelling.
+* Voor iedereen die nog niet vertrouwd is met uw implementatie (nieuwe huur, eigenaar van het bedrijf die de beschikbare rapporten beter wil begrijpen, enz.) geeft dit document de beste weergave van alle geïmplementeerde variabelen en wat hun doel is, zodat individuen zichzelf kunnen dienen voor het leren van uw AA-instelling.
 * Voor de eigenaar/technische gebruiker van het product van AA, zal dit document als herinnering dienen hoe andere variabelen opstelling zijn en welke variabelen voor gebruik wanneer het toevoegen van een nieuwe dimensie beschikbaar zijn.
 
 **HOW:** begin door van alle [!DNL Adobe] uit-van-de-doos variabelen (pagina, product, geo, enz.), evenals eVars, steunen, gebeurtenissen, en lijstvariabelen in een doc van Excel een lijst te maken. Dit zou één lusje per plaats/rapportreeks moeten hebben.
 Voor elk van deze afmetingen voeg ik de volgende kolommen toe:
+
 * **Naam:** verstrek een eenvoudige en korte naam die door de meesten kan worden begrepen. Dit moet zo intuïtief zijn dat een nieuwe gebruiker de variabele kan ophalen en begrijpen wat de variabele moet vastleggen.
 * **Beschrijving:** Meer detail rond wat de variabele wordt gebruikt voor en welke gegevens het volgt. Ik houd dit kort en eenvoudig en heb het de beschrijving die in de interface wordt gebruikt aanpassen. In het ideale geval wil ik niet dat mijn gebruikers ooit het etiketterende document hoeven te raadplegen. Dus als er een nieuwe dimensie wordt ingesteld op de achterkant van de beheerder, voeg ik daar dezelfde beschrijving aan toe. Op deze manier kan de gebruiker rechtstreeks in Workspace op het informatiepictogram klikken om te begrijpen wat een dimensie is - geen Excel-document meer nodig!
 
-![&#x200B; Vereenvoudigde Pagina URL &#x200B;](assets/page-url-simplified.png)
+![ Vereenvoudigde Pagina URL ](assets/page-url-simplified.png)
 
 * **Code:** de code van de achterkant die de waarde plaatst. Dit kan het gebied van de gegevenslaag op de pagina zijn, of u kunt roepen dat dit met een regel van de Lancering, een verwerkingsregel, enz. wordt gedaan.
 * **de rapporten van de Classificatie:** vraag uit om het even welke classificatierapporten die of met de Indeler van de Indeling of de Bouwer van de Regel van de Indeling worden gedaan
@@ -62,7 +63,7 @@ Voor elk van deze afmetingen voeg ik de volgende kolommen toe:
 * **Configuratie:** montages Admin UI voor elke variabele (d.w.z. voor eVars - vervalsing, toewijzing, handel, enz.)
 
 Screenshot van voorbeeld SDR:
-![&#x200B; Steekproef SDR.](assets/sample-sdr.png)
+![ Steekproef SDR.](assets/sample-sdr.png)
 
 Het wordt ook aangeraden dit coderingsdocument te gebruiken om gratis variabelen en eventuele junkvariabelen bij te houden. Wanneer een afmeting niet meer nuttig is, zal dev gewoonlijk enige tijd nodig hebben om het te schrappen. Zelfs daarna kan caching voorkomen, of u kunt zich realiseren dat de dimensie ook elders werd geplaatst. Het opschonen van dimensies is niet eenvoudig en vereist vaak geduld. Hier volgen enkele tips om je junk verborgen te houden onder het bed, zodat je gebruikers niet in verwarring raken terwijl ze het bijhouden.
 
@@ -70,7 +71,7 @@ Het wordt ook aangeraden dit coderingsdocument te gebruiken om gratis variabelen
    * Als de dimensie in de afgelopen 90 dagen junkwaarden heeft, wordt ze &#39;verwijderd&#39;
    * Als de dimensie de afgelopen 90 dagen vrij en duidelijk is, is ze &quot;vrij&quot;
    * Markeer deze als dusdanig onder &#39;Naam&#39; in het gecodeerde document, zodat u er gemakkelijk voor kunt filteren. Ik houd deze ongecontroleerd in het etiketteren document (de gegevensfilter van Excel) zodat de gebruikers hen niet zien
-   * Markeer deze als de naam van de eVar in de interface, zodat gebruikers deze niet vinden in een zoekopdracht (dus &#39;(v6)&#39;) en verwijder de beschrijving in de interface
+   * Markeer deze als de eVar-naam in de interface, zodat gebruikers deze niet vinden in een zoekopdracht (dus &#39;(v6)&#39;) en verwijder de beschrijving in de interface
 * Op deze manier kunt u, wanneer u een nieuwe dimensie nodig hebt, eenvoudig filteren op &#39;gratis&#39; in de kolom &#39;Naam&#39; om een schone dimensie te zoeken die u kunt gebruiken
 * Voor de &#39;verwijderde&#39; afmetingen en gebeurtenissen raadt ik u aan deze bij te houden met Workspace:
    * Maak een project dat alleen zichtbaar is voor beheerders met 3 tabellen: eVars, props en gebeurtenissen. Ik gebruik &#39;instances&#39; voor de specifieke eVars en voor &#39;props&#39; maak ik bijvoorbeeld HIT-segmenten met &#39;prop5 bestaat&#39;.
@@ -80,7 +81,7 @@ Het wordt ook aangeraden dit coderingsdocument te gebruiken om gratis variabelen
 
 Op deze manier zijn je gegevens altijd schoon, en je hebt een duidelijk idee van je rommel.
 
-![&#x200B; Variabelen en gebeurtenissen overzicht &#x200B;](assets/variables-and-events-overview.png)
+![ Variabelen en gebeurtenissen overzicht ](assets/variables-and-events-overview.png)
 
 ## Tabblad Eigenschappen
 
@@ -90,6 +91,7 @@ Op deze manier zijn je gegevens altijd schoon, en je hebt een duidelijk idee van
 
 **HOW:** identificeer een eigenaar van doc om bestuur en één enkele bron van verantwoordelijkheid voor het beheren van updates te verstrekken.
 Hier geeft u het volgende weer op het tabblad Eigenschappen:
+
 * **naam van het Bezit:** dit kan een domein, sub-domein, toepassingsnaam, enz. zijn. Zelfs binnen het zelfde domein, als sommige delen van het afzonderlijk worden beheerd (zoals door een verschillend team, of een verschillende technologie), zouden deze uit moeten worden gescheiden.
 * **Verbinding (URL)** aan bezit waar beschikbaar
 * **Eigenaar &amp; Contacten:** maak een lijst van de belangrijkste eigenaar of de contacten voor het bezit
@@ -101,19 +103,19 @@ Het wordt aanbevolen dit document zo eenvoudig mogelijk te houden en het niet me
 
 >[!TIP]
 >
->Maak een naam-/eigenschapsdimensie van de site in [!DNL Adobe Analytics] . Als u een speciale dimensie (meestal een eVar) in [!DNL Adobe Analytics] hebt die de naam van de site/app aangeeft, kunt u segmenteren, problemen oplossen, virtuele rapportsuite maken, enz. De voordelen zijn eindeloos, vooral wanneer het combineren van veelvoudige plaatsen in één (globale) rapportreeks. De sleutel zorgt ervoor dat uw ontwikkelingsteams altijd deze waarde in de eigenschappen afmeting plaatsen, met inbegrip van alle paginaladingen (s.t vraag/trackState) en alle douanegebeurtenissen (s.tl vraag/trackAction). Verwerkingsregels kunnen een waardevol hulpmiddel zijn om u te helpen deze waarden behoorlijk en consequent plaatsen.
+>Maak een naam-/eigenschapsdimensie van de site in [!DNL Adobe Analytics] . Als u een speciale dimensie (meestal een eVar) in [!DNL Adobe Analytics] hebt die de naam van de site/app aangeeft, kunt u segmenteren, problemen oplossen, virtuele rapportsuite maken, enzovoort. De voordelen zijn eindeloos, vooral wanneer het combineren van veelvoudige plaatsen in één (globale) rapportreeks. De sleutel zorgt ervoor dat uw ontwikkelingsteams altijd deze waarde in de eigenschappen afmeting plaatsen, met inbegrip van alle paginaladingen (s.t vraag/trackState) en alle douanegebeurtenissen (s.tl vraag/trackAction). Verwerkingsregels kunnen een waardevol hulpmiddel zijn om u te helpen deze waarden behoorlijk en consequent plaatsen.
 
-[&#x200B; bekijk deze video door Doug Moore &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=nl-NL){target="_blank"}  voor meer informatie bij het invullen van implementatieplaybook.
+[ bekijk deze video door Doug Moore ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target="_blank"} voor meer informatie bij het invullen van implementatieplaybook.
 
 ## Auteurs
 
 Dit document is medegeschreven door:
 
-![&#x200B; Christel Guidon &#x200B;](assets/Christel-Headshot-150.png)
+![ Christel Guidon ](assets/Christel-Headshot-150.png)
 
 Christel Guidon, Digital [!DNL Analytics] Platform Manager bij NortonLifeLock
 [!DNL Adobe Analytics] Champion
 
-![&#x200B; Rachel Fenwick &#x200B;](assets/Rachel-Fenwick-150.png)
+![ Rachel Fenwick ](assets/Rachel-Fenwick-150.png)
 
 Rachel Fenwick, senior consultant bij [!DNL Adobe]

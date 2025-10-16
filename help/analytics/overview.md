@@ -1,12 +1,12 @@
 ---
 title: Analytics door u
 description: Analytics door u bevat door gebruikers gegenereerde inhoud. Die is gemaakt door dagelijkse gebruikers die in hun kennis van Adobe Analytics een niveau van deskundigheid en invloed hebben bereikt.
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
-source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 18%
@@ -58,7 +58,7 @@ Het krachtigste aan [!DNL Adobe Experience Cloud] oplossingen? Jij. De gebruiker
   </td>
   <td>
     <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
-      <img alt="Standaardnaamconventies maken" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg?lang=nl-NL" />
+      <img alt="Standaardnaamconventies maken" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg" />
     </a>
     <div>
       <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
@@ -76,7 +76,7 @@ Het krachtigste aan [!DNL Adobe Experience Cloud] oplossingen? Jij. De gebruiker
 
 ## Aanvullende bronnen
 
-* [&#x200B; Gemeenschap van Adobe Analytics van de Experience League &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
-* [&#x200B; Documentatie van Adobe Analytics &#x200B;](https://experienceleague.adobe.com/docs/analytics.html?lang=nl-NL)
-* [Adobe Analytics-tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=nl-NL)
-* [&#x200B; het productinformatie van Adobe Analytics &#x200B;](https://business.adobe.com/nl/products/analytics/adobe-analytics.html)
+* [ Experience League Adobe Analytics Community ](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)
+* [ Documentatie van Adobe Analytics ](https://experienceleague.adobe.com/docs/analytics.html)
+* [Adobe Analytics-tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html)
+* [ het productinformatie van Adobe Analytics ](https://business.adobe.com/products/analytics/adobe-analytics.html)

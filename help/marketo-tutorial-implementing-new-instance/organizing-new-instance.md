@@ -1,6 +1,6 @@
 ---
 title: Een nieuw exemplaar organiseren en naamgevingsconventies instellen
-description: Leer hoe u een goede organisatie instelt binnen uw exemplaar van het Marketo Engage, zodat toekomstige marketers binnen uw organisatie gemakkelijk door de programma's kunnen navigeren, de activa kunnen wijzigen, en rapporten trekken.
+description: Leer hoe u een goede organisatie instelt binnen uw Marketo Engage-exemplaar, zodat toekomstige marketers binnen uw organisatie eenvoudig door de programma's kunnen navigeren, de middelen kunnen wijzigen en rapporten kunnen ophalen.
 role: Admin
 level: Beginner
 doc-type: Article
@@ -10,7 +10,7 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '1166'
 ht-degree: 1%
@@ -19,19 +19,19 @@ ht-degree: 1%
 
 # Een nieuw exemplaar organiseren en naamgevingsconventies instellen
 
-Als beheerder die een nieuwe instantie van het Marketo Engage uitvoert, plaatst u het grondwerk dat toekomstige marketers binnen de organisatie toestaat om door de instantie gemakkelijk te navigeren. Wanneer u vertrouwd raakt met de structuur van de structuurmap en de naamgevingsconventies, blijft uw instantie traag en kunt u deze op lange termijn succesvol instellen. Dit leerprogramma omvat voorbeelden die door Adobe en Marketo Engage Champion (2019-2020) worden geadviseerd, Natalie Kremer, om u te helpen [&#x200B; de omslagen organiseren en activa constant noemen &#x200B;](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"} .
+Als beheerder die een nieuwe instantie van Marketo Engage uitvoert, plaatst u het grondwerk dat toekomstige marketers binnen de organisatie toestaat om door de instantie gemakkelijk te navigeren. Wanneer u vertrouwd raakt met de structuur van de structuurmap en de naamgevingsconventies, blijft uw instantie traag en kunt u deze op lange termijn succesvol instellen. Deze zelfstudie omvat voorbeelden die door Adobe en Marketo Engage Champion (2019-2020) worden aanbevolen, Natalie Kremer, om u te helpen [ de omslagen organiseren en activa constant noemen ](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}.
 
 ## Waarom is het structureren van mappen en het toepassen van naamgevingsconventies nodig?
 
-Door in uw exemplaar georganiseerd te blijven, is het voor u en uw collega&#39;s gemakkelijk om campagnes, programma&#39;s, en activa bij te houden en programmaprestaties te melden. Om de navigatieboom in uw instantie te organiseren en bij schaal te bouwen, wordt het geadviseerd om [&#x200B; omslagen &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}  te gebruiken, [&#x200B; standaard noemende overeenkomsten &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"} , en eigenschappen zoals [&#x200B; het klonen &#x200B;](https://experienceleague.adobe.com/nl/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"} .
+Door in uw exemplaar georganiseerd te blijven, is het voor u en uw collega&#39;s gemakkelijk om campagnes, programma&#39;s, en activa bij te houden en programmaprestaties te melden. Om de navigatieboom in uw instantie te organiseren en bij schaal te bouwen, wordt het geadviseerd om [ omslagen ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"} te gebruiken, [ standaard noemende overeenkomsten ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}, en eigenschappen zoals [ klonen ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
 
-## Hoe te om een instantie van het Marketo Engage te organiseren
+## Een Marketo Engage-instantie organiseren
 
->[!VIDEO](https://video.tv.adobe.com/v/3428939/?quality=12&learn=on&captions=dut)
+>[!VIDEO](https://video.tv.adobe.com/v/3421577/?quality=12&learn=on)
 
 ### Stap 1 - Een mapstructuur instellen om uw programma&#39;s in orde te brengen
 
-De eerste stap aan het organiseren van uw instantie moet [&#x200B; opstelling een omslagstructuur &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=nl-NL) huishouden uw programma en activa in een gemakkelijke en ordelijke manier vinden.
+De eerste stap aan het organiseren van uw instantie moet [ opstelling een omslagstructuur ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html) huishouden uw programma en activa in een gemakkelijke en ordelijke manier vinden.
 
 Hier volgen enkele tips voor het structureren van de mappen in boomstructuur:
 
@@ -48,15 +48,15 @@ Hieronder vindt u voorbeelden van mappen waarin deze tips in de praktijk worden 
 
 >[!TAB Marketingactiviteiten]
 
-![&#x200B; Omslagen Marketing Activiteiten &#x200B;](/help/marketo-tutorial-implementing-new-instance/assets/folders-marketing-activities.png)
+![ Omslagen Marketing Activiteiten ](/help/marketo-tutorial-implementing-new-instance/assets/folders-marketing-activities.png)
 
 >[!TAB  Studio van het Ontwerp ]
 
-![&#x200B; Studio van het Ontwerp van de Omslag &#x200B;](/help/marketo-tutorial-implementing-new-instance/assets/folders-design-studio.png)
+![ Studio van het Ontwerp van de Omslag ](/help/marketo-tutorial-implementing-new-instance/assets/folders-design-studio.png)
 
 >[!TAB Database]
 
-![&#x200B; Gegevensbestand van de Omslag &#x200B;](/help/marketo-tutorial-implementing-new-instance/assets/folders-database.png)
+![ Gegevensbestand van de Omslag ](/help/marketo-tutorial-implementing-new-instance/assets/folders-database.png)
 
 >[!ENDTABS]
 
@@ -65,8 +65,10 @@ Hieronder vindt u voorbeelden van mappen waarin deze tips in de praktijk worden 
 Nu, passen wij de omslagstructuur op programmaniveau toe. U kunt het beste de lokale middelen in submappen onderbrengen om de programma&#39;s vlot te houden en interne gebruikers in staat te stellen de programma&#39;s op efficiënte wijze te wijzigen of te rapporteren. Veelvoorkomende submappen zijn e-mails, bestemmingspagina&#39;s, slimme campagnes, lijsten, rapporten, enzovoort.
 
 **de Naam van de Omslag binnen Programma&#39;s**
+
 * Campagnes - *Omslag voor alle campagnes die interacties en status het volgen beheren.*
 * Lokale Assets - *Omslag voor alle activa die voor dit Programma specifiek zijn.*
+
    * E-mails
    * Landingspagina&#39;s
    * Slimme campagnes
@@ -114,7 +116,7 @@ Als u één niveau lager gaat dan elementen benoemen, is het beter dat u de naam
 
 * De elementen nummeren op basis van hun volgorde in het programmaproces.
 * Gebruik &quot;-&quot; (afbreekstreepje) om de naamgevingscomponenten te scheiden in plaats van &quot;.&quot;(punt) of &quot;\_&quot;(onderstrepingsteken).
-   * Waarom? Het Marketo Engage gebruikt een punt om de Naam van het Programma van de Naam van de Campagne te scheiden. Als u &quot;\_&quot; gebruikt, kunt u dit item niet zien wanneer het element is gekoppeld aan hyperlinks.
+   * Waarom? Marketo Engage gebruikt een punt om de Programmanaam van de Naam van de Campagne te scheiden. Als u &quot;\_&quot; gebruikt, kunt u dit item niet zien wanneer het element is gekoppeld aan hyperlinks.
 * Gebruik standaardacroniemen in de namen van de elementen om de referentie te verkorten en toch eenvoudige herkenning mogelijk te maken.
 
 Met het oog hierop zullen we deze tips toepassen op de volgende elementen en formules maken om namen te genereren:
@@ -178,9 +180,9 @@ Met het oog hierop zullen we deze tips toepassen op de volgende elementen en for
 
 ## Wat nu?
 
-* Download het Werkblad: [&#x200B; Organisatie van de Marketo Engage en het Noemen van Conventies &#x200B;](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} om de verwezenlijking van de omslagstructuur en noemende overeenkomsten te steunen.
+* Download het Werkblad: [ de Organisatie van Marketo Engage en het Noemen van Conventies ](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} om de verwezenlijking van de omslagstructuur en noemende overeenkomsten te steunen.
 * Zodra u de noodzakelijke componenten in uw standaard noemende overeenkomst bepaalt, overweeg bouwend formules in een Blad van Google of Microsoft Excel. Voor toekomstig gebruik voert u eenvoudig uw waarden in het spreadsheet in om de programmanamen te genereren.
-* Zodra u zich op een algemene omslagstructuur richt, is het tijd om door de malplaatjes te denken u op de meest frequente gebruiksgevallen baseert en de gemeenschappelijkste verzoeken uw team ontvangt. Vervolgens begint u met het maken van uw eerste programmasjabloon. Lees op begonnen te worden met [&#x200B; Adobe Marketo Engage programmamalplaatjes &#x200B;](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"} .
+* Zodra u zich op een algemene omslagstructuur richt, is het tijd om door de malplaatjes te denken u op de meest frequente gebruiksgevallen baseert en de gemeenschappelijkste verzoeken uw team ontvangt. Vervolgens begint u met het maken van uw eerste programmasjabloon. Lees op begonnen te worden met [ Adobe Marketo Engage programmamalplaatjes ](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}.
 
 ### Auteurs
 

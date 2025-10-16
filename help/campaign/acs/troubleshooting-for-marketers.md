@@ -11,7 +11,7 @@ last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 1f27e284-73e3-4f28-988e-51163775eec8
-source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 0%
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Oplossen van problemen voor marktspelers: 5 algemene workflowfouten en leveringsfouten
 
-Door: [&#x200B; Suraj Patra &#x200B;](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"} , Hoogste Consultant, Meijer
+Door: [ Suraj Patra ](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, Hogere Consultant, Meijer
 
-Als Senior Ingenieur en klantendeskundige op [!DNL Adobe] producten van het Experience Cloud voor de afgelopen vijf jaar, laat ik bedrijfsgebruikers bij [&#x200B; Meijer &#x200B;](https://www.meijer.com/){target="_blank"}  toe, een Amerikaanse supercentenketen die in 1934 wordt gevestigd, om complexe marketing en transactiecampagnes met ACS in werking te stellen. Enkele projecten waaraan ik heb gewerkt, zijn onder andere aangepaste campagnes voor het opslaan van aanbiedingen en orderdetails voor personalisatie, geïntegreerd met [!DNL Adobe] Audience Manager en inzicht van klanten voor segmentopname.
+Als Senior Ingenieur en klantendeskundige op [!DNL Adobe] producten van Experience Cloud voor de afgelopen vijf jaar, laat ik bedrijfsgebruikers bij [ Meijer ](https://www.meijer.com/){target="_blank"} toe, een Amerikaanse supercentenketen die in 1934 wordt gevestigd, om complexe marketing en transactiecampagnes met ACS in werking te stellen. Enkele projecten waaraan ik heb gewerkt, zijn onder andere aangepaste campagnes voor het opslaan van aanbiedingen en ordergegevens voor personalisatie, geïntegreerd met [!DNL Adobe] Audience Manager en insight voor het opnemen van segmenten.
 
 In mijn tijd die ACS gebruikt, heb ik fouten ervaren die tijdrovend en frustrerend kunnen zijn om op te lossen. Kennis van de meest voorkomende fouten kan u helpen sneller problemen op te lossen en uw productiviteit te verhogen. Hieronder vindt u de tips voor het oplossen van problemen waarmee u vergelijkbare fouten op effectieve wijze kunt oplossen.
 
@@ -34,13 +34,13 @@ In mijn tijd die ACS gebruikt, heb ik fouten ervaren die tijdrovend en frustrere
 **Oorzaak:**
 Deze fouttypen worden in een workflow weergegeven wanneer u probeert het gebruik van velden met verschillende gegevenstypen te combineren. Wanneer u bijvoorbeeld een bestand uploadt met een bestand dat een tekenreeksveld heeft, en u probeert het tekenreeksveld te koppelen aan een profielveld met een gegevenstype int.
 
-![&#x200B; gegeven-type-mismatch-error &#x200B;](/help/_assets/kt-13256/data-type-mismatch.png)
+![ gegeven-type-mismatch-error ](/help/_assets/kt-13256/data-type-mismatch.png)
 
 **Oplossing:**
 Wijzig het gegevenstype van het veld bij activiteit Bestand laden in het gegevenstype dat u wilt gebruiken. Open de activiteit Bestand laden. Ga naar het tabblad &#39;COLUMN DEFINITION&#39; en wijzig het gegevenstype van het gewenste veld.
 
 
-![&#x200B; gegeven-type-mismatch-oplossing &#x200B;](/help/_assets/kt-13256/data-type-mismatch-solution.png)
+![ gegeven-type-mismatch-oplossing ](/help/_assets/kt-13256/data-type-mismatch-solution.png)
 
 ## Personalization-leveringsfout
 
@@ -50,27 +50,28 @@ Wijzig het gegevenstype van het veld bij activiteit Bestand laden in het gegeven
 **Oorzaak:**
 Deze fout treedt op wanneer u een e-mail naar een adres verzendt, maar de e-mail of een andere id niet in overeenstemming is met een profiel. Als u een e-mailbericht wilt verzenden, moet de e-mail of de id altijd zijn gekoppeld aan een profiel.
 
-![&#x200B; werkschema met verzoeningsactiviteit &#x200B;](/help/_assets/kt-13256/del-persn-error-wf.png)
+![ werkschema met verzoeningsactiviteit ](/help/_assets/kt-13256/del-persn-error-wf.png)
 
 **Oplossing:**
 Een gemeenschappelijke identiteitskaart moet bestaan van het geladen dossier met de ontvankelijke lijst. Deze algemene sleutel voegt het ladingsdossier aan de ontvankelijke lijst binnen de verzoeningsactiviteit toe. E-mails worden mogelijk niet verzonden naar records die niet bestaan in de tabel met ontvangers waarvoor deze afstemmingsstap binnen de workflow is vereist. Hierbij stemt u de activiteit van het inkomende laadbestand af met een id zoals een e-mailadres uit het profiel. Het schema `nms:recipient` verwijst naar de profielentabel en het in overeenstemming brengen van de inkomende verslagen met profiel maakt het beschikbaar tijdens e-mailvoorbereiding.
 
 Raadpleeg de schermafbeelding voor afstemmingsactiviteiten, zoals hieronder wordt weergegeven.
 
-![&#x200B; werkschema met verzoeningsdetail &#x200B;](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
+![ werkschema met verzoeningsdetail ](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
 
-Leer meer over [&#x200B; verzoening &#x200B;](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=nl-NL).
+Leer meer over [ verzoening ](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en).
 
 ## Gegevensfout algemeen veld
 
 **Code van de Fout:**
-`The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
+
+`The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation.`
 
 **Oorzaak:**
+
 Deze kwestie komt terwijl het gebruiken van de **uitsluitingsactiviteit** in werkschema ACS voor, wanneer het uitvoeren van een uitsluiting die op identiteitskaart wordt gebaseerd, wanneer de Primaire reeks en de uitgesloten reeks niet de zelfde gebiedsnamen hebben.
 
-
-![&#x200B; Gemeenschappelijke Fout van de Dataset van het Gebied &#x200B;](/help/_assets/kt-13256/dataset-error.png)
+![ Gemeenschappelijke Fout van de Dataset van het Gebied ](/help/_assets/kt-13256/dataset-error.png)
 
 **Oplossing:**
 
@@ -82,7 +83,7 @@ Deze fout kan op twee manieren worden opgelost:
 
 2. Gebruik de methode voor JOINS-uitsluiting om het veld te selecteren waarop u de records wilt uitsluiten.
 
-![&#x200B; Gemeenschappelijke fout van de Dataset van het Gebied - Oplossing &#x200B;](/help/_assets/kt-13256/dataset-error-solution.png)
+![ Gemeenschappelijke fout van de Dataset van het Gebied - Oplossing ](/help/_assets/kt-13256/dataset-error-solution.png)
 
 ## Fout veldnaam gedropt
 
@@ -93,9 +94,9 @@ Deze fout kan op twee manieren worden opgelost:
 
 De punten van de mislukking kunnen in een **verrijkingsactiviteit** voorkomen. Een van de meest voorkomende wordt hieronder weergegeven.
 
-![&#x200B; Vervallen Fout van de Naam van het Gebied &#x200B;](/help/_assets/kt-13256/field-name-dropped-error.png)
+![ Vervallen Fout van de Naam van het Gebied ](/help/_assets/kt-13256/field-name-dropped-error.png)
 
-Dit gebeurt wanneer u handmatig een expressienaam bewerkt in de activiteit. In de afbeelding ziet u dat de expressie is gewijzigd van `name ` in `i__name` .
+Dit gebeurt wanneer u handmatig een expressienaam bewerkt in de activiteit. De afbeelding laat zien dat de expressie is gewijzigd van `name` in `i__name` .
 
 **Oplossing:**
 
@@ -115,7 +116,7 @@ U kunt deze fout op drie manieren oplossen:
 **Oorzaak:**
 Dit is een algemene fout in gecompliceerde workflows met verrijking of andere activiteiten. Dit betekent waarschijnlijk dat sommige werkstromen voor activiteit niet correct worden opgeslagen tijdens meerdere wijzigingen in de werkstroom.
 
-![&#x200B; Tijdelijke fout bij neergezette tabel &#x200B;](/help/_assets/kt-13256/temp-table-dropped-error.png)
+![ Tijdelijke fout bij neergezette tabel ](/help/_assets/kt-13256/temp-table-dropped-error.png)
 
 **Oplossing:**
 Deze fout kan op vele manieren optreden, dus er is geen eenvoudige oplossing. Als het een eenvoudige werkstroom is, dan zou het beter zijn om de activiteit opnieuw te vormen. In een gecompliceerde workflow is het beter om de workflowactiviteiten naar een nieuwe workflow te kopiëren, deze op te slaan en opnieuw uit te voeren.

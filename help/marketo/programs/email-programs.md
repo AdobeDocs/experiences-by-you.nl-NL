@@ -11,7 +11,7 @@ thumbnail: 3419440.jpeg
 feature-set: Marketo Engage
 feature: Programs
 exl-id: 27c41bdf-b808-4268-9299-9c9944c2ea8d
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 2%
@@ -22,17 +22,20 @@ ht-degree: 2%
 
 Bekijk deze stapsgewijze zelfstudie om te leren hoe u een e-mailprogramma maakt met een A/B-test.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453373/?learn=on&captions=dut){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3419440/?learn=on){transcript=true}
 
 
 ## Aanvullende bronnen:
 
 Raadpleeg de desbetreffende producthandleidingen voor meer informatie:
-* [&#x200B; Begrijpend de documentatie van E-mailProgramma&#39;s &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=nl-NL)
+
+* [ Begrijpend de documentatie van E-mailProgramma&#39;s ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
 
 Bekijk aanvullende video&#39;s voor meer informatie over deze functie:
-* [&#x200B; Geplande e-mailwandeling door &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=nl-NL)
-* [&#x200B; het testen van AB lopen door &#x200B;](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=nl-NL)
+
+* [ Geplande e-mailwandeling door ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
+* [ het testen van AB lopen door ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
 
 Leer van uw collega&#39;s hoe u e-mailprogramma&#39;s kunt gebruiken:
-* [&#x200B; Professionele klantenblog post: E-mailProgramma&#39;s &#x200B;](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)
+
+* [ Professionele klantenblog post: E-mailProgramma&#39;s ](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)

@@ -1,21 +1,21 @@
 ---
 title: Experience Manager door u
 description: Experience Manager door u bevat door gebruikers gegenereerde inhoud. Die is gemaakt door dagelijkse gebruikers die in hun kennis van Adobe Experience Manager een niveau van deskundigheid en invloed hebben bereikt.
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Experience Manager
 exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
-source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 19%
 
 ---
 
-# Experience Manager door U: Middelen door gebruikers, voor gebruikers.
+# Experience Manager door U: Bronnen voor gebruikers, voor gebruikers.
 
-Het krachtigste aan [!DNL Adobe] Experience Cloud oplossingen? Jij. De gebruikers die de producten meenemen, erin graven en ze toepassen op verbazingwekkende, innovatieve manieren om zinvolle ervaringen en resultaten te creëren. De ervaringen van U hebben betrekking op inhoud die is gemaakt door dagelijkse gebruikers die een expertiseniveau hebben bereikt en invloed hebben uitgeoefend met hun [!DNL Adobe] Experience Cloud-oplossingen. Deze peer-to-peer kennis bevordert samenwerking en ontdekking - en stelt u in staat - en elke andere gebruiker de inspiratie te vinden die nodig is om uw productexpertise op een hoger niveau te brengen.
+Het krachtigste aan [!DNL Adobe] Experience Cloud-oplossingen? Jij. De gebruikers die de producten meenemen, erin graven en ze toepassen op verbazingwekkende, innovatieve manieren om zinvolle ervaringen en resultaten te creëren. De ervaringen van U hebben betrekking op inhoud die is gemaakt door dagelijkse gebruikers die een niveau van deskundigheid en invloed hebben bereikt met hun [!DNL Adobe] Experience Cloud-oplossingen. Deze peer-to-peer kennis bevordert samenwerking en ontdekking - en stelt u in staat - en elke andere gebruiker de inspiratie te vinden die nodig is om uw productexpertise op een hoger niveau te brengen.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -58,7 +58,7 @@ Het krachtigste aan [!DNL Adobe] Experience Cloud oplossingen? Jij. De gebruiker
   </td>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-      <img alt="Tips en trucs" src="https://video.tv.adobe.com/v/3439843?format=jpeg&captions=dut" />
+      <img alt="Tips en trucs" src="https://video.tv.adobe.com/v/3409427?format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
@@ -76,7 +76,7 @@ Het krachtigste aan [!DNL Adobe] Experience Cloud oplossingen? Jij. De gebruiker
 
 ## Aanvullende bronnen
 
-* [&#x200B; de Gemeenschappen van de Experience Manager &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)
-* [&#x200B; Documentatie van de Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=nl-NL)
-* [&#x200B; Tutorials van de Experience Manager &#x200B;](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html?lang=nl-NL)
-* [&#x200B; het productinformatie van de Experience Manager &#x200B;](https://business.adobe.com/nl/products/experience-manager/adobe-experience-manager.html)
+* [ de Gemeenschappen van Experience Manager ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)
+* [ Documentatie van Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+* [ Zelfstudies van Experience Manager ](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html)
+* [ het productinformatie van Experience Manager ](https://business.adobe.com/products/experience-manager/adobe-experience-manager.html)
