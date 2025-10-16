@@ -32,7 +32,7 @@ Het krachtigste aan [!DNL Adobe] Experience Cloud-oplossingen? Jij. De gebruiker
 <tr>
   <td>
     <a href="/help/marketo/fundamentals/ui-navigation.md">
-      <img alt="Navigeren in de gebruikersinterface van [!DNL Marketo Engage]" src="https://video.tv.adobe.com/v/3419131?format=jpeg" />
+      <img alt="Navigeren in de gebruikersinterface van [!DNL Marketo Engage]" src="https://video.tv.adobe.com/v/3450432?captions=dut&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/fundamentals/ui-navigation.md">
@@ -45,7 +45,7 @@ Het krachtigste aan [!DNL Adobe] Experience Cloud-oplossingen? Jij. De gebruiker
   </td>
   <td>
     <a href="/help/marketo/reporting/reporting-and-analytics.md">
-      <img alt="Rapportage en analyse" src="https://video.tv.adobe.com/v/3419295?format=jpeg" />
+      <img alt="Rapportage en analyse" src="https://video.tv.adobe.com/v/3446426?captions=dut&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/reporting/reporting-and-analytics.md">
@@ -58,7 +58,7 @@ Het krachtigste aan [!DNL Adobe] Experience Cloud-oplossingen? Jij. De gebruiker
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="E-mailprogramma&apos;s" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
+      <img alt="E-mailprogramma&apos;s" src="https://video.tv.adobe.com/v/3453373?captions=dut&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">

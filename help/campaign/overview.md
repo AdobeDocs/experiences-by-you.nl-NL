@@ -33,7 +33,7 @@ Het krachtigste aan [!DNL Adobe] Experience Cloud-oplossingen? Jij. De gebruiker
 <tr>
   <td>
     <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
-      <img alt="Best practices voor de beste werkstroom van de eerste vijf" src="https://video.tv.adobe.com/v/3410837?format=jpeg" />
+      <img alt="Best practices voor de beste werkstroom van de eerste vijf" src="https://video.tv.adobe.com/v/3448137?captions=dut&format=jpeg" />
     </a>
     <div>
       <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">

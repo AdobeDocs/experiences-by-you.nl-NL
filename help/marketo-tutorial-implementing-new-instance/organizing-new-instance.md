@@ -27,7 +27,7 @@ Door in uw exemplaar georganiseerd te blijven, is het voor u en uw collega&#39;s
 
 ## Een Marketo Engage-instantie organiseren
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428939/?captions=dut&quality=12&learn=on)
 
 ### Stap 1 - Een mapstructuur instellen om uw programma&#39;s in orde te brengen
 
